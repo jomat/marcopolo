@@ -15,7 +15,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">s</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp;<A TITLE="Universität" HREF="Campus.html"><span class="hellblau">a</font></A> <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>M</font></A>&nbsp; &nbsp; &nbsp; &nbsp;t <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>a</span></A><br>
+&nbsp;<A TITLE="Universität" HREF="Campus.html"><span class="hellblau">a</span></A> <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><span class="hellblau">M</span></A>&nbsp; &nbsp; &nbsp; &nbsp;t <A TITLE="Universität" HREF="Campus.html"><span class="hellblau">a</span></A><br>
 &nbsp; \| &nbsp; &nbsp; &nbsp; |/<br>
 &nbsp; &nbsp;B &nbsp; &nbsp; &nbsp; B<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
@@ -33,18 +33,18 @@
 </span>
 
 <span class="legend">
-<span class="hellblau">a =</font> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</span></A><br>
+<span class="hellblau">a =</span> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><span class="hellblau">Universität</span></A><br>
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <font color=C0C0C0>B =</font> Bahnsteig Universität<br>
 <font color=C0C0C0>g =</font> S-Bahn Gleis<br>
 <span class="violett">E =</span> Eingangsbereich zu Unitopia (hier auch der Teleporter zum <A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><span class="hellblau">Anfängerpraktikum</span></A>)<br>
 <span class="gelb">F =</span> Haltestelle Feuersee<br>
-<span class="hellblau">H =</font> Hier gehts hoch zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Hauptbahnhof</span></A> Stuttgart<br>
-<span class="hellblau">M =</font> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>Tadmor</span></A> raus)<br>
+<span class="hellblau">H =</span> Hier gehts hoch zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><span class="hellblau">Hauptbahnhof</span></A> Stuttgart<br>
+<span class="hellblau">M =</span> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><span class="hellblau">Tadmor</span></A> raus)<br>
 <span class="gelb">O =</span> Haltestelle Oesterfeld<br>
 <span class="gelb">S =</span> Haltestelle Stadtmitte<br>
 <span class="gelb">s =</span> Haltestelle Schwabstrasse<br>
-<span class="hellblau">T =</font> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</span></A><br>
+<span class="hellblau">T =</span> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><span class="hellblau">Universität</span></A><br>
 <font color=C0C0C0>u =</font> Unterführung (runter gehts zu den Bahnsteigen<br>
-<span class="hellblau">V =</font> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>Vaihingen</span></A> (nach unten gehts weiter)<br>
+<span class="hellblau">V =</span> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><span class="hellblau">Vaihingen</span></A> (nach unten gehts weiter)<br>
 </span>
