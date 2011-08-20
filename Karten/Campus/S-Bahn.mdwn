@@ -15,36 +15,36 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">s</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp;<A TITLE="Universität" HREF="Campus.html"><span class="hellblau">a</span></A> <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><span class="hellblau">M</span></A>&nbsp; &nbsp; &nbsp; &nbsp;t <A TITLE="Universität" HREF="Campus.html"><span class="hellblau">a</span></A><br>
+&nbsp;[<span class="hellblau">a</span>](Campus "Universität") [<span class="hellblau">M</span>](../Vaniorh/Tadmor "Tadmor")&nbsp; &nbsp; &nbsp; &nbsp;t [<span class="hellblau">a</span>](Campus "Universität")<br>
 &nbsp; \| &nbsp; &nbsp; &nbsp; |/<br>
 &nbsp; &nbsp;B &nbsp; &nbsp; &nbsp; B<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
-&nbsp; &nbsp;B&lt;u-<A TITLE="Universität" HREF="Campus.html"><span class="hellblau">T</span></A>-u&gt;B<br>
+&nbsp; &nbsp;B&lt;u-[<span class="hellblau">T</span>](Campus "Universität")-u&gt;B<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
-&nbsp; &nbsp;<A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><span class="violett">E</span></A> &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp;[<span class="violett">E</span>](A-Praktikum "Anfängerpraktikum") &nbsp; &nbsp; &nbsp; t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">O</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><span class="hellblau">V</span></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<span class="hellblau">V</span>](Vaihingen "Runter nach Vaihingen")<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a
 </span>
 
 <span class="legend">
-<span class="hellblau">a =</span> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><span class="hellblau">Universität</span></A><br>
+<span class="hellblau">a =</span> Aufzug hoch zur [<span class="hellblau">Universität</span>](Campus "Universität")<br>
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <font color=C0C0C0>B =</font> Bahnsteig Universität<br>
 <font color=C0C0C0>g =</font> S-Bahn Gleis<br>
-<span class="violett">E =</span> Eingangsbereich zu Unitopia (hier auch der Teleporter zum <A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><span class="hellblau">Anfängerpraktikum</span></A>)<br>
+<span class="violett">E =</span> Eingangsbereich zu Unitopia (hier auch der Teleporter zum [<span class="hellblau">Anfängerpraktikum</span>](A-Praktikum "Anfängerpraktikum"))<br>
 <span class="gelb">F =</span> Haltestelle Feuersee<br>
-<span class="hellblau">H =</span> Hier gehts hoch zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><span class="hellblau">Hauptbahnhof</span></A> Stuttgart<br>
-<span class="hellblau">M =</span> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><span class="hellblau">Tadmor</span></A> raus)<br>
+<span class="hellblau">H =</span> Hier gehts hoch zum [<span class="hellblau">Hauptbahnhof</span>](Hauptbahnhof "Hauptbahnhof") Stuttgart<br>
+<span class="hellblau">M =</span> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von [<span class="hellblau">Tadmor</span>](../Vaniorh/Tadmor "Tadmor") raus)<br>
 <span class="gelb">O =</span> Haltestelle Oesterfeld<br>
 <span class="gelb">S =</span> Haltestelle Stadtmitte<br>
 <span class="gelb">s =</span> Haltestelle Schwabstrasse<br>
-<span class="hellblau">T =</span> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><span class="hellblau">Universität</span></A><br>
+<span class="hellblau">T =</span> S-Bahn Treppe hoch zur [<span class="hellblau">Universität</span>](Campus "Universität")<br>
 <font color=C0C0C0>u =</font> Unterführung (runter gehts zu den Bahnsteigen<br>
-<span class="hellblau">V =</span> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><span class="hellblau">Vaihingen</span></A> (nach unten gehts weiter)<br>
+<span class="hellblau">V =</span> Haltestelle [<span class="hellblau">Vaihingen</span>](Vaihingen "Runter Nach Vaihingen") (nach unten gehts weiter)<br>
 </span>
