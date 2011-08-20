@@ -7,7 +7,7 @@ Hier mal eine kleine Erklärung wie meine Karten aufgebaut sind und was die einz
 Die Karten sind über einige Jahre entstanden und deshalb farblich nicht so ganz einheitlich. Neben der farblichen Darstellung verschiedener Landschaftstypen gibt es aber ein paar Regeln an die ich mich im allgemeinen gehalten habe:
 
 1. <span class="hellblau">Hellblau</span> sind Felder in denen irgendetwas besonderes (NPCs,Gebäude,...) ist oder die zu einer anderen Karte führen und verklinkt sind.
-2. Im Inneren von Städten sind die besonderen Felder gelb und nur die Verknüpfungen zu anderen Karten, Gildensitze, der Laden, die Bank und die Post hellblau.
-3. Geschäfte und andere Orte an denen man Geld ausgeben kann sind orange.
-4. Dimensionstore und ähnliches sind violett.
-5. Rote Verbindungslinien sind mit Schranken versperrt.
+2. Im Inneren von Städten sind die besonderen Felder <span class="gelb">gelb</span> und nur die Verknüpfungen zu anderen Karten, Gildensitze, der Laden, die Bank und die Post <span class="hellblau">hellblau</span>.
+3. Geschäfte und andere Orte an denen man Geld ausgeben kann sind <span class="orange">orange</span>.
+4. Dimensionstore und ähnliches sind <span class="violett">violett</span>.
+5. <span class="rot">Rote</span> Verbindungslinien sind mit Schranken versperrt.
