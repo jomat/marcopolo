@@ -40,4 +40,5 @@ Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halte
 <area shape="rect" coords="337, 264, 428, 292" href="Karten/Campus/Vaihingen" alt="Vaihingen">
 <area shape="rect" coords="382, 173, 520, 200" href="Karten/Campus/Cannstatt" alt="Bad Cannstatt">
 </map>
+<img src="Ueberschrift2.gif" WIDTH="400" HEIGHT="100">
 <p><img src="RL-Weltkarte.gif" width="700" height="350" border="0" alt="RL-Weltkarte" usemap="#RL-Weltkarte"></p>
