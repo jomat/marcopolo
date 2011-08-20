@@ -5,7 +5,7 @@
 Die Spielwelt von Unitopia besteht aus zwei Teilen - einerseits einer virtuellen Darstellung der Universität Stuttgart und andererseits aus der gigantischen Fantayswelt Magyra. Neue Spieler werden ohne irgendwelche komplizierte Charaktererschaffung oder ähnliches in der [[Karten/Campus/S-Bahn]]-Haltestelle der Uni Stuttgart ausgesetzt und kommen von dort aus mit wenigen Schritten nach Magyra oder in verschiedene Realwelt-Nachbauten. 
 
 Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra gezeichnet habe für andere Spieler veröfftenlichen. Die Art wie die Karten aufgebaut sind habe ich in einer kurzen [[Legende]] erklärt.
-
+<center>
 <img src="Ueberschrift1.gif" WIDTH="400" HEIGHT="100">
 <map name="Weltkarte">
 <area shape="rect" coords="281, 18, 424, 108" href="Karten/Veldergautland" alt="Veldergautland">
@@ -26,9 +26,10 @@ Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra 
 <area shape="rect" coords="207, 725, 302, 785" href="Karten/Ooronoque" alt="OoronoqueNankea">
 </map>
 <p><img src="Weltkarte.gif" width="700" height="1100" border="0" alt="Weltkarte" usemap="#Weltkarte"></p>
-
+</center>
 Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halten kann es immer mal passieren dass ein Gott mal wieder Eingriffe in die Realität tätigt oder dass ich mich einfach mal irgendwo verschreibe - ich bitte also um Verständnis für eventuelle Ungenauigkeiten. 
 
+<center>
 <map name="RL-Weltkarte">
 <area shape="rect" coords="578, 66, 679, 103" href="Karten/Campus/Erlangen" alt="Erlangen">
 <area shape="rect" coords="149, 39, 257, 69" href="Karten/Campus/Mannheim" alt="Mannheim">
@@ -42,3 +43,4 @@ Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halte
 </map>
 <img src="Ueberschrift2.gif" WIDTH="400" HEIGHT="100">
 <p><img src="RL-Weltkarte.gif" width="700" height="350" border="0" alt="RL-Weltkarte" usemap="#RL-Weltkarte"></p>
+</center>
