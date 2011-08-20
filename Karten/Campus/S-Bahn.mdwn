@@ -1,3 +1,4 @@
+<span class="asciimap">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>H</font></A><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>H</font></A><br>
@@ -29,11 +30,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>V</font></A><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a</FONT>
+</span>
 
 <font color=00CCFF>a =</font> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <font color=C0C0C0>B =</font> Bahnsteig Universität<br>
-
 <font color=C0C0C0>g =</font> S-Bahn Gleis<br>
 <font color=9900CC>E =</font> Eingangsbereich zu Unitopia (hier auch der Teleporter zum <A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><font color=00CCFF>Anfängerpraktikum</font></A>)<br>
 <font color=FFCC00>F =</font> Haltestelle Feuersee<br>
