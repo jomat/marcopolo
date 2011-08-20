@@ -29,3 +29,22 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>V</font></A><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a</FONT>
+
+<font color=00CCFF>a =</font> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
+<font color=C0C0C0>a =</font> Abstellgleis<br>
+<font color=C0C0C0>B =</font> Bahnsteig Universität<br>
+
+<font color=C0C0C0>g =</font> S-Bahn Gleis<br>
+<font color=9900CC>E =</font> Eingangsbereich zu Unitopia (hier auch der Teleporter zum <A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><font color=00CCFF>Anfängerpraktikum</font></A>)<br>
+<font color=FFCC00>F =</font> Haltestelle Feuersee<br>
+<font color=00CCFF>H =</font> Hier gehts hoch zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Hauptbahnhof</font></A> Stuttgart<br>
+
+<font color=00CCFF>M =</font> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>Tadmor</font></A> raus)<br>
+<font color=FFCC00>O =</font> Haltestelle Oesterfeld<br>
+<font color=FFCC00>S =</font> Haltestelle Stadtmitte<br>
+<font color=FFCC00>s =</font> Haltestelle Schwabstrasse<br>
+
+<font color=00CCFF>T =</font> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
+<font color=C0C0C0>u =</font> Unterführung (runter gehts zu den Bahnsteigen<br>
+<font color=00CCFF>V =</font> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>Vaihingen</font></A> (nach unten gehts weiter)<br>
+
