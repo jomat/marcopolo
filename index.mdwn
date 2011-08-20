@@ -3,3 +3,5 @@
 [UNItopia](https://UNItopia.de) ist ein deutschsprachiger MUD (Multi-User-Dungeon) an der Universität Stuttgart. Das heisst, dass sich in diese virtuellen Welt Mitspieler von der ganzen Welt aus einwählen können, um dort miteinander Abenteuer zu erleben, zu spielen oder auch einfach um sich zu unterhalten.
 
 Die Spielwelt von Unitopia besteht aus zwei Teilen - einerseits einer virtuellen Darstellung der Universität Stuttgart und andererseits aus der gigantischen Fantayswelt Magyra. Neue Spieler werden ohne irgendwelche komplizierte Charaktererschaffung oder ähnliches in der [[Karten/Campus/S-Bahn]]-Haltestelle der Uni Stuttgart ausgesetzt und kommen von dort aus mit wenigen Schritten nach Magyra oder in verschiedene Realwelt-Nachbauten. 
+
+Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra gezeichnet habe für andere Spieler veröfftenlichen. Die Art wie die Karten aufgebaut sind habe ich in einer kurzen [[Legende]] erklärt.
