@@ -1,0 +1,13 @@
+Hier mal eine kleine Erklärung wie meine Karten aufgebaut sind und was die einzelnen Zeichen zu bedeuten haben:
+
+1. Buchstaben stehen für die einzelnen Felder in der Spielwelt in denen die Charaktere unterwegs sind. Am unteren Ende einer Karte ist jeweils eine kurze Legende mit der Bedeutung der Buchstaben.
+2. Striche zwischen Buchstaben (-,|,/,\,X) stellen die Verbindungen dar entlang derer man sich durch die Welt bewegen kann. Z.b. ist ein | eine Nord-Süd-Verbindung, - eine Ost-West-Verbindung und ein X ist eine Überschneidung von / und \. Bei manchen Karten reichten die normalen Striche nicht aus, dort sind weitere Linien durch Sonderzeichen eingezeichnet.
+3. Orte an denen es hoch oder runter geht enthalten entweder einen Link zu einer neuen Karte oder, falls sich eine Karte für sehr wenige Felder nicht lohnt, Zeichen die die Höhenbeziehungen anzeigen: <,>,V,^ . Die Spitze zeigt immer zum 'niedriger' gelegenen Feld
+
+Die Karten sind über einige Jahre entstanden und deshalb farblich nicht so ganz einheitlich. Neben der farblichen Darstellung verschiedener Landschaftstypen gibt es aber ein paar Regeln an die ich mich im allgemeinen gehalten habe:
+
+1. <span class="hellblau">Hellblau</span> sind Felder in denen irgendetwas besonderes (NPCs,Gebäude,...) ist oder die zu einer anderen Karte führen und verklinkt sind.
+2. Im Inneren von Städten sind die besonderen Felder gelb und nur die Verknüpfungen zu anderen Karten, Gildensitze, der Laden, die Bank und die Post hellblau.
+3. Geschäfte und andere Orte an denen man Geld ausgeben kann sind orange.
+4. Dimensionstore und ähnliches sind violett.
+5. Rote Verbindungslinien sind mit Schranken versperrt.
