@@ -1,0 +1,31 @@
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>H</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>H</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>S</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>F</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>s</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp;<A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>a</font></A> <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>M</font></A>&nbsp; &nbsp; &nbsp; &nbsp;t <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>a</font></A><br>
+&nbsp; \| &nbsp; &nbsp; &nbsp; |/<br>
+&nbsp; &nbsp;B &nbsp; &nbsp; &nbsp; B<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;B&lt;u-<A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>T</font></A>-u&gt;B<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><font color=9900CC>E</font></A> &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>O</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>V</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a</FONT>
