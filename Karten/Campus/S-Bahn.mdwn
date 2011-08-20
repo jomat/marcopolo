@@ -5,46 +5,46 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>S</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>F</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">F</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>s</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">s</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp;<A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>a</font></A> <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>M</font></A>&nbsp; &nbsp; &nbsp; &nbsp;t <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>a</font></A><br>
+&nbsp;<A TITLE="Universität" HREF="Campus.html"><span class="hellblau">a</font></A> <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>M</font></A>&nbsp; &nbsp; &nbsp; &nbsp;t <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>a</span></A><br>
 &nbsp; \| &nbsp; &nbsp; &nbsp; |/<br>
 &nbsp; &nbsp;B &nbsp; &nbsp; &nbsp; B<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
-&nbsp; &nbsp;B&lt;u-<A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>T</font></A>-u&gt;B<br>
+&nbsp; &nbsp;B&lt;u-<A TITLE="Universität" HREF="Campus.html"><span class="hellblau">T</span></A>-u&gt;B<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
-&nbsp; &nbsp;<A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><font color=9900CC>E</font></A> &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp;<A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><span class="violett">E</span></A> &nbsp; &nbsp; &nbsp; t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>O</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">O</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>V</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><span class="hellblau">V</span></A><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a
 </span>
 
 <span class="legend">
-<font color=00CCFF>a =</font> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
+<span class="hellblau">a =</font> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</span></A><br>
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <font color=C0C0C0>B =</font> Bahnsteig Universität<br>
 <font color=C0C0C0>g =</font> S-Bahn Gleis<br>
-<font color=9900CC>E =</font> Eingangsbereich zu Unitopia (hier auch der Teleporter zum <A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><font color=00CCFF>Anfängerpraktikum</font></A>)<br>
-<font color=FFCC00>F =</font> Haltestelle Feuersee<br>
-<font color=00CCFF>H =</font> Hier gehts hoch zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Hauptbahnhof</font></A> Stuttgart<br>
-<font color=00CCFF>M =</font> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>Tadmor</font></A> raus)<br>
-<font color=FFCC00>O =</font> Haltestelle Oesterfeld<br>
-<font color=FFCC00>S =</font> Haltestelle Stadtmitte<br>
-<font color=FFCC00>s =</font> Haltestelle Schwabstrasse<br>
-<font color=00CCFF>T =</font> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
+<span class="violett">E =</span> Eingangsbereich zu Unitopia (hier auch der Teleporter zum <A TITLE="Anfängerpraktikum" HREF="A-Praktikum.html"><span class="hellblau">Anfängerpraktikum</span></A>)<br>
+<span class="gelb">F =</span> Haltestelle Feuersee<br>
+<span class="hellblau">H =</font> Hier gehts hoch zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Hauptbahnhof</span></A> Stuttgart<br>
+<span class="hellblau">M =</font> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von <A TITLE="Tadmor" HREF="../Vaniorh/Tadmor.html"><font color=00CCFF>Tadmor</span></A> raus)<br>
+<span class="gelb">O =</span> Haltestelle Oesterfeld<br>
+<span class="gelb">S =</span> Haltestelle Stadtmitte<br>
+<span class="gelb">s =</span> Haltestelle Schwabstrasse<br>
+<span class="hellblau">T =</font> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</span></A><br>
 <font color=C0C0C0>u =</font> Unterführung (runter gehts zu den Bahnsteigen<br>
-<font color=00CCFF>V =</font> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>Vaihingen</font></A> (nach unten gehts weiter)<br>
+<span class="hellblau">V =</font> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>Vaihingen</span></A> (nach unten gehts weiter)<br>
 </span>
