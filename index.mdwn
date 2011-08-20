@@ -6,6 +6,8 @@ Die Spielwelt von Unitopia besteht aus zwei Teilen - einerseits einer virtuellen
 
 Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra gezeichnet habe für andere Spieler veröfftenlichen. Die Art wie die Karten aufgebaut sind habe ich in einer kurzen [[Legende]] erklärt.
 
+Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halten kann es immer mal passieren dass ein Gott mal wieder Eingriffe in die Realität tätigt oder dass ich mich einfach mal irgendwo verschreibe - ich bitte also um Verständnis für eventuelle Ungenauigkeiten. 
+
 <map name="RL-Weltkarte">
 <area shape="rect" coords="578, 66, 679, 103" href="Karten/Campus/Erlangen" alt="Erlangen">
 <area shape="rect" coords="149, 39, 257, 69" href="Karten/Campus/Mannheim" alt="Mannheim">
