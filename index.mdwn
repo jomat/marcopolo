@@ -13,7 +13,6 @@ Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra 
 <area shape="rect" coords="68, 311, 158, 454" href="Karten/Gallien" alt="Gallien">
 <area shape="rect" coords="69, 592, 182, 764" href="Karten/Doerrland" alt="Dörrland">
 <area shape="rect" coords="174, 904, 302, 978" href="Karten/Maerchenland" alt="Märchenland">
-
 <area shape="rect" coords="317, 521, 397, 620" href="Karten/Vaniorh" alt="Vaniorh">
 <area shape="rect" coords="427, 412, 562, 511" href="Karten/Kreta" alt="Kreta & Phygria">
 <area shape="rect" coords="563, 421, 683, 469" href="Karten/Dschungelinsel" alt="Dschungelinsel">
@@ -26,7 +25,9 @@ Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra 
 <area shape="rect" coords="207, 725, 302, 785" href="Karten/Ooronoque" alt="OoronoqueNankea">
 </map>
 <p><img src="Weltkarte.gif" width="700" height="1100" border="0" alt="Weltkarte" usemap="#Weltkarte"></p>
+[[Karten/Veldergautland]] [[Karten/Nordische_Inseln]] [[Karten/Gallien]] [[Karten/Doerrland]] [[Karten/Maerchenland]] [[Karten/Vaniorh]] [[Karten/Kreta]] [[Karten/Dschungelinsel]] [[Karten/Vulkanien]] [[Karten/Isla_Nublar]] [[Karten/Ebenen]] [[Karten/Mittelerde]] [[Karten/Mompracem]] [[Karten/Nankea]] [[Karten/Ooronoque]]
 </center>
+
 Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halten kann es immer mal passieren dass ein Gott mal wieder Eingriffe in die Realität tätigt oder dass ich mich einfach mal irgendwo verschreibe - ich bitte also um Verständnis für eventuelle Ungenauigkeiten. 
 
 <center>
@@ -43,6 +44,5 @@ Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halte
 </map>
 <img src="Ueberschrift2.gif" WIDTH="400" HEIGHT="100">
 <p><img src="RL-Weltkarte.gif" width="700" height="350" border="0" alt="RL-Weltkarte" usemap="#RL-Weltkarte"></p>
-</center>
-
 [[Karten/Campus/Erlangen]] [[Karten/Campus/Mannheim]] [[Karten/Campus/Saarbruecken]] [[Karten/Campus/Paris]] [[Karten/Campus/Hauptbahnhof]] [[Karten/Campus/Campus]] [[Karten/Campus/S-Bahn]] [[Karten/Campus/Vaihingen]] [[Karten/Campus/Cannstatt]]
+</center>
