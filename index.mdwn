@@ -8,22 +8,22 @@ Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra 
 
 <img src="Ueberschrift1.gif" WIDTH="400" HEIGHT="100">
 <map name="Weltkarte">
-<area shape="rect" coords="281, 18, 424, 108" href="Karten/Veldergautland.html" alt="Veldergautland">
-<area shape="rect" coords="158, 118, 315, 248" href="Karten/Nordische_Inseln.html" alt="Nordische Inseln">
-<area shape="rect" coords="68, 311, 158, 454" href="Karten/Gallien.html" alt="Gallien">
-<area shape="rect" coords="69, 592, 182, 764" href="Karten/Doerrland.html" alt="Dörrland">
-<area shape="rect" coords="174, 904, 302, 978" href="Karten/Maerchenland.html" alt="Märchenland">
+<area shape="rect" coords="281, 18, 424, 108" href="Karten/Veldergautland" alt="Veldergautland">
+<area shape="rect" coords="158, 118, 315, 248" href="Karten/Nordische_Inseln" alt="Nordische Inseln">
+<area shape="rect" coords="68, 311, 158, 454" href="Karten/Gallien" alt="Gallien">
+<area shape="rect" coords="69, 592, 182, 764" href="Karten/Doerrland" alt="Dörrland">
+<area shape="rect" coords="174, 904, 302, 978" href="Karten/Maerchenland" alt="Märchenland">
 
-<area shape="rect" coords="317, 521, 397, 620" href="Karten/Vaniorh.html" alt="Vaniorh">
-<area shape="rect" coords="427, 412, 562, 511" href="Karten/Kreta.html" alt="Kreta & Phygria">
-<area shape="rect" coords="563, 421, 683, 469" href="Karten/Dschungelinsel.html" alt="Dschungelinsel">
-<area shape="rect" coords="569, 481, 665, 535" href="Karten/Vulkanien.html" alt="Vulkanien">
-<area shape="rect" coords="457, 534, 571, 575" href="Karten/Isla_Nublar.html" alt="Isla Nublar">
-<area shape="rect" coords="499, 691, 598, 802" href="Karten/Ebenen.html" alt="Die Ebenen">
-<area shape="rect" coords="413, 869, 547, 968" href="Karten/Mittelerde.html" alt="Mittelerde">
-<area shape="rect" coords="386, 830, 491, 869" href="Karten/Mompracem.html" alt="Mompracem">
-<area shape="rect" coords="312, 882, 397, 955" href="Karten/Nankea.html" alt="Nankea">
-<area shape="rect" coords="207, 725, 302, 785" href="Karten/Ooronoque.html" alt="OoronoqueNankea">
+<area shape="rect" coords="317, 521, 397, 620" href="Karten/Vaniorh" alt="Vaniorh">
+<area shape="rect" coords="427, 412, 562, 511" href="Karten/Kreta" alt="Kreta & Phygria">
+<area shape="rect" coords="563, 421, 683, 469" href="Karten/Dschungelinsel" alt="Dschungelinsel">
+<area shape="rect" coords="569, 481, 665, 535" href="Karten/Vulkanien" alt="Vulkanien">
+<area shape="rect" coords="457, 534, 571, 575" href="Karten/Isla_Nublar" alt="Isla Nublar">
+<area shape="rect" coords="499, 691, 598, 802" href="Karten/Ebenen" alt="Die Ebenen">
+<area shape="rect" coords="413, 869, 547, 968" href="Karten/Mittelerde" alt="Mittelerde">
+<area shape="rect" coords="386, 830, 491, 869" href="Karten/Mompracem" alt="Mompracem">
+<area shape="rect" coords="312, 882, 397, 955" href="Karten/Nankea" alt="Nankea">
+<area shape="rect" coords="207, 725, 302, 785" href="Karten/Ooronoque" alt="OoronoqueNankea">
 </map>
 <p><img src="Weltkarte.gif" width="700" height="1100" border="0" alt="Weltkarte" usemap="#Weltkarte"></p>
 
