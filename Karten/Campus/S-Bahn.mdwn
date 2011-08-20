@@ -1,7 +1,7 @@
-<span class="asciimap">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>H</font></A><br>
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<span class="hellblau">H</span>](Hauptbahnhof)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>H</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<span class="hellblau">H</span>](Hauptbahnhof)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
@@ -29,9 +29,10 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Runter nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>V</font></A><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a</FONT>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a
 </span>
 
+<span class="legend">
 <font color=00CCFF>a =</font> Aufzug hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <font color=C0C0C0>B =</font> Bahnsteig Universität<br>
@@ -46,4 +47,4 @@
 <font color=00CCFF>T =</font> S-Bahn Treppe hoch zur <A TITLE="Universität" HREF="Campus.html"><font color=00CCFF>Universität</font></A><br>
 <font color=C0C0C0>u =</font> Unterführung (runter gehts zu den Bahnsteigen<br>
 <font color=00CCFF>V =</font> Haltestelle <A TITLE="Runter Nach Vaihingen" HREF="Vaihingen.html"><font color=00CCFF>Vaihingen</font></A> (nach unten gehts weiter)<br>
-
+</span>
