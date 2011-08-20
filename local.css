@@ -3,7 +3,8 @@
 .orange { color:#FF9900; }
 .violett { color:#9900CC; }
 .rot { color:red; }
-
+.map { color:#ffffff; }
+.legend { color:#ffffff; }
 /* ikiwiki style sheet */
 
 /* Note that instead of modifying this style sheet, you can instead edit
@@ -510,6 +511,10 @@ td {
   border: 1px solid #333333;
 }
 
+.map a {
+	text-decoration: underline;
+}
+
 a {
 	text-decoration: none;
 	color: #11aa00;
@@ -537,8 +542,8 @@ pre {
 body {
 	margin: 0;
 	padding: 0;
-	font-family: courier;
-  font-size: 13px;
+	font-family: courier new;
+  font-size: 12px;
 	color: #00CC99;
 	background: black;
 }
