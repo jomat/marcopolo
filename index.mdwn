@@ -5,3 +5,16 @@
 Die Spielwelt von Unitopia besteht aus zwei Teilen - einerseits einer virtuellen Darstellung der Universität Stuttgart und andererseits aus der gigantischen Fantayswelt Magyra. Neue Spieler werden ohne irgendwelche komplizierte Charaktererschaffung oder ähnliches in der [[Karten/Campus/S-Bahn]]-Haltestelle der Uni Stuttgart ausgesetzt und kommen von dort aus mit wenigen Schritten nach Magyra oder in verschiedene Realwelt-Nachbauten. 
 
 Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra gezeichnet habe für andere Spieler veröfftenlichen. Die Art wie die Karten aufgebaut sind habe ich in einer kurzen [[Legende]] erklärt.
+
+<map name="RL-Weltkarte">
+<area shape="rect" coords="578, 66, 679, 103" href="Karten/Campus/Erlangen" alt="Erlangen">
+<area shape="rect" coords="149, 39, 257, 69" href="Karten/Campus/Mannheim" alt="Mannheim">
+<area shape="rect" coords="50, 105, 161, 135" href="Karten/Campus/Saarbruecken" alt="Saarbrücken">
+<area shape="rect" coords="14, 291, 70, 324" href="Karten/Campus/Paris" alt="Paris">
+<area shape="rect" coords="278, 147, 408, 174" href="Karten/Campus/Hauptbahnhof" alt="Hauptbahnhof">
+<area shape="rect" coords="231, 204, 308, 229" href="Karten/Campus/Campus" alt="Campus">
+<area shape="rect" coords="313, 213, 382, 238" href="Karten/Campus/S-Bahn" alt="S-Bahn">
+<area shape="rect" coords="337, 264, 428, 292" href="Karten/Campus/Vaihingen" alt="Vaihingen">
+<area shape="rect" coords="382, 173, 520, 200" href="Karten/Campus/Cannstatt" alt="Bad Cannstatt">
+</map>
+<p><img src="RL-Weltkarte.gif" width="700" height="350" border="0" alt="RL-Weltkarte" usemap="#RL-Weltkarte"></p>
