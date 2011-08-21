@@ -1,0 +1,60 @@
+<span class="map"><font color="blue">
+-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
+-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-m-m-m-m-M-M-M-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; \|X|X|X|X|X<br>
+-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m <font color=FFFF00>s &nbsp; s</font> m-M-M-M-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| <font color=FFFF00>| &nbsp; |</font> |X|X|X|X|X<br>
+-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m <font color=FFFF00>s [[<span class="hellblau">S</span>|Mompracem/Piratenschiff]] s</font> m-M-M-M-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| <font color=FFFF00>| <font color=brown>|</font> |</font> |X|X|X|X|X<br>
+-M-m-m-m-m-m-m-m-m-m-m-m-m-m-m <font color=FFFF00>s-<font color=00CC00>e</font>-s</font> m-m-m-m-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; <font color=FF6600>|</font> &nbsp; |X|X|X|X|X<br>
+-M-m-<font color=FFFF00>s-s-s-s-s-s-s-s-s-s-s-s-s &nbsp; <font color=FF6600>p</font>&nbsp;&nbsp; s-s-s</font>-m-M-<br>
+X|X|X<font color=FFFF00>|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|\|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FF6600>|</font> &nbsp; &nbsp; &nbsp; |</font>X|X|X<br>
+-M-m-<font color=FFFF00>s &nbsp; <span class="gelb">p</span><font color=00CC00>-w-w-</font><span class="gelb">p</span> &nbsp; s s <font color=008000>d-d-d-<font color=00CC00>b</font> &nbsp; <font color=FF6600>p</font> &nbsp; <font color=00CC00>b</font>-d</font> s</font>-m-M-<br>
+X|X|X<font color=FFFF00>| &nbsp; &nbsp; &nbsp; <font color=00CC00>|</font> &nbsp; &nbsp; | | <font color=008000>|X|X|X|\&nbsp; <font color=FF6600>|</font>&nbsp; /|X|</font> |</font>X|X|X<br>
+-M-m-<font color=FFFF00>s &nbsp; &nbsp; <span class="orange">T</span> <font color=00CC00>w</font> <span class="hellblau">L</span> &nbsp; s s <font color=008000>d-d-d-d-d-d-d-d-[[<span class="hellblau">f</span>|Mompracem/Piratenhoehle]]</font> s</font>-m-M-<br>
+X|X|X<font color=FFFF00>| &nbsp; &nbsp; <font color=00CC00>| | |</font> &nbsp; | |&nbsp; <font color=008000>\|X|X|X|X|X|X|X|</font> |</font>X|X|X<br>
+-M-m-<font color=FFFF00>s &nbsp; &nbsp; <font color=00CC00>w-<font color=C0C0C0>Z</font>-w-w-</font><font color=993300>b-b-b-</font><font color=FF6600>p-p</font><font color=008000>-d-d-d-d-d-d</font> s</font>-m-M-<br>
+X|X|X<font color=FFFF00>| &nbsp; &nbsp;<font color=00CC00>/&nbsp; <font color=C0C0C0>|</font> &nbsp; |</font> | |&nbsp; <font color=008000>/|X|X|X|X|X|X|X|</font> |</font>X|X|X<br>
+-M-m-<font color=FFFF00>s &nbsp; <font color=00CC00>w <span class="hellblau">G</span>-<font color=C0C0C0>Z</font> &nbsp; w</font> s s <font color=008000>d-d-d-d-<font color=blue>b-b-b-b-b</font></font> s</font>-m-M-<br>
+X|X|X<font color=FFFF00>| &nbsp; <font color=00CC00>| &nbsp; <font color=C0C0C0>|</font> &nbsp; |</font> | | <font color=008000>|X|X|X|<font color=blue>X</font>|X|X|X|X|</font> |</font>X|X|X<br>
+-M-m-<font color=FFFF00>s <font color=C0C0C0>S</font><font color=00CC00>-w-w-<font color=C0C0C0>Z</font>-</font><span class="hellblau">$</span> <span class="gelb">F</span> s s <font color=008000>d-d-d-<font color=blue>Q</font>-d-d-d-d-d</font> s</font>-m-M-<br>
+X|X|X<font color=FFFF00>| &nbsp; &nbsp; <font color=00CC00>| |\</font> &nbsp; &nbsp;| | <font color=008000>|X|X|X|X|X|X|X|X|</font> |</font>X|X|X<br>
+-M-m-<font color=FFFF00>s &nbsp; <span class="gelb">p</span><font color=00CC00>-w <span class="orange">S</span> w-w</font> s s <font color=008000>d-d-[[<span class="hellblau">h</span>|Mompracem/Piratenhoehle]]-d-d-d-d-<span class="gelb">B</span>-d</font> s</font>-m-M-<br>
+X|X|X<font color=FFFF00>|\ &nbsp; &nbsp;<font color=00CC00>|&nbsp; &nbsp; &nbsp; \</font> \|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|</font>X|X|X<br>
+-M-m-<font color=FFFF00>s-s-s-s-s-s-s <span class="hellblau">H</span>-s-s-s-s-s-s-s-s-s-s-s</font>-m-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
+-M-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
+-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
+X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
+</font>
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">B =</span> Baumhaus einer Hexe (au der Palme)<br>
+<font color=993300>b =</font> Strand, unter einer Hängebrücke (von Norden und Süden) / wacklige Hängebrücke (von Westen und Osten)<br>
+<font color=blue>b =</font> kleiner Bach<br>
+<font color=00CC00>b =</font> Bananenpalme<BR>
+<font color=00CC00>e =</font> Eingang zu einer kleinen Bucht<br>
+<span class="gelb">F =</span> Friedhof<br>
+<span class="hellblau">f =</span> Falltür runter in die [[<span class="hellblau">Piratenhöhle</span>|Mompracem/Piratenhoehle]]<br>
+<span class="hellblau">G =</span> Hügel (man muss nen Spiralweg hoch und kommt bei der Post und ner Flagge vorbei)<br>
+<span class="hellblau">H =</span> Hafen<br>
+<span class="hellblau">h =</span> Holzhütte mit Falltür runter in die [[<span class="hellblau">Piratenhöhle</span>|Mompracem/Piratenhoehle]]<br>
+<span class="hellblau">L =</span> Laden<br>
+<font color=blue>M =</font> Meer von Mittelerde<br>
+<font color=blue>m =</font> Meer vor Mompracem<br>
+<span class="gelb">p =</span> Piratenhütte (im SW von Wolko, NW Soran, NO verlassen)<br>
+<font color=FF6600>p =</font> Pfad<br>
+<font color=blue>Q =</font> Quelle<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="gelb">S =</span> Piratenschiff in einer kleinen Bucht<br>
+<font color=C0C0C0>s =</font> Steinbruch<br>
+<font color=FFFF00>s =</font> Strand<br>
+<span class="orange">T =</span> Taverne<br>
+<font color=00CC00>w =</font> Weg<br>
+<font color=C0C0C0>Z =</font> Zentrumsplatz der Pirateninsel<br>
+</span>
