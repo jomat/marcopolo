@@ -124,5 +124,4 @@
 <font color=C0C0C0>P =</font> alter Handelspfad<br>
 <font color=008000>W =</font> Urwald<br>
 Der Rest von Amerindia ist leider nicht betretbar... (in dieser <font color=003366>Farbe</font> gekennzeichnet)<br>
-<center><font color=00CC00>([[<font color=00CC00>zurück zur Ebenen-Übersicht</font>|Ebenen]])</font></center>
 </span>
