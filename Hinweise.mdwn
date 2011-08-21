@@ -2,3 +2,8 @@
 An dieser Stelle entsteht eine Kopie der Unitopia-Karten-Seite von Marcopolo.
 Da die Karten nur von einer Person mit viel Aufwand von Hand gepflegt wurden und länger keine Aktualisierung mehr gesehen haben,  entstand die Idee, die ursprüngliche Seite [https://marcopolo.copete.de] in die Wikiform zu übertragen, so dass jeder mitmachen kann.
 Die originalen Karten von Marcopolo wird es weiter an der alten Stelle geben, im Zweifel sollte das Wiki mit ihnen verglichen werden, da viele der Karten per Script ins Wiki kopiert werden, und das ab und zu schief geht.
+
+# Aktueller Status
+Auch wenn viele Seiten per Skript weitestgehend automatisch ins Wiki übertragen werden können, passiert es dennoch immer wieder, dass etwas nicht klappt, wo von Hand nachgearbeitet werden muss.
+Ein klassischer Fehler ist, dass die Karte selbst nicht übertragen wurde sondern nur die Legende. Dann Bescheid sagen, vermutlich sind noch mehr Karten im selben Gebiet betroffen. Dies kann mit einer kleinen Änderung im Scritp schnell behoben werden.
+Ein anderer von mir häufig beobachteter Fehler sind kaputte Links, obwohl die Zielseite eigentlich vorhanden ist. Diese Links sind dann der Linktext mit einem anklickbaren ? davor, meist reicht es, die ../ oder das .html zu entfernen (also \[\[V|../Vaniorh.html\]\] muss zu \[\[V|Vaniorh\]\] werden. Das V ist, wie der Link angezeigt wird, Vaniorh die Seite, auf die er gehen soll) .
