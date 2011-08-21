@@ -1,4 +1,16 @@
 <span class="map">
+&nbsp;[[<span class="hellblau">L</span>|Tempel]]<br>
+&nbsp;| <span class="rot">|</span><br>
+&nbsp;<span class="gelb">G</span>-a<br>
+&nbsp;&nbsp; |<br>
+&nbsp;&nbsp; [[<span class="violett">D</span>|../Jadepalast]]<br>
+&nbsp; /|\<br>
+&nbsp;[[<font color=008000>W</font>|../Amerindia]]-[[<font color=008000>W</font>|../Amerindia]]-[[<font color=008000>W</font>|../Amerindia]]<br>
+&nbsp;|X|X|
+
+</span>
+
+<span class="legend">
 <font color=008000>a =</font > Allee<br>
 <span class="violett">D =</span> Südliche Pyramide & Dimensionstor in die Küche des [[<span class="hellblau">Jadepalastes</span>|../Jadepalast]]<br>
 <span class="gelb">G =</span> Grabus, der Grabräuber<br>
