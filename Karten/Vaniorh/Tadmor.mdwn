@@ -40,60 +40,60 @@
 
 <span class="legend">
 <span class="hellblau">$ =</span> Bank<br>
-<span class="orange">A =</span> Alt Ware, der Schrotthändler<br>
+<span class="orange">A =</span> Alt Ware, der SchrotthÃ¤ndler<br>
 <span class="gelb">A =</span> Der grosse Aussichtsturm von Tadmor<br>
-<font color=00CC00>A =</font> [[<span class="hellblau">Anfängerpark</span>|Anfaengerpark]]<br>
-<span class="gelb">a =</span> Tor zum Anfängerpark<br>
+<font color=00CC00>A =</font> [[<span class="hellblau">AnfÃ¤ngerpark</span>|Anfaengerpark]]<br>
+<span class="gelb">a =</span> Tor zum AnfÃ¤ngerpark<br>
 <font color=C0C0C0>a =</font> Amberle-Platz<br>
 <font color=blue>B =</font> Im Brunnen (man kann von den umliegenden Feldern diagonal reingehen)<br>
-<font color=CC6600>B =</font> Brücke<br>
+<font color=CC6600>B =</font> BrÃ¼cke<br>
 <span class="gelb">B =</span> Beinhaus<br>
 <span class="gelb">b =</span> Ballonlandeplatz <br>
-&nbsp; &nbsp; .Linie 3 nach [[<span class="hellblau">Phexcaer</span>|../Nordische_Inseln/Phexcaer]] (nördliches Feld)<br>
-&nbsp; &nbsp; .Linie 1 nach [[<span class="hellblau">Knossos</span>|../Kreta/Knossos]] (südliches Feld)<br>
+&nbsp; &nbsp; .Linie 3 nach [[<span class="hellblau">Phexcaer</span>|../Nordische_Inseln/Phexcaer]] (nÃ¶rdliches Feld)<br>
+&nbsp; &nbsp; .Linie 1 nach [[<span class="hellblau">Knossos</span>|../Kreta/Knossos]] (sÃ¼dliches Feld)<br>
 <span class="orange">C =</span> Connors Abenteurerladen<br>
-<span class="hellblau">D =</span> In diesem Feld fliesst der Dijala nicht mehr durch Tadmor und ist auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|../Vaniorh]] ins Meer<br>
-<font color=blue>d =</font> Dijala  (man wird durch die Strömung im Fluss langsam Richtung Osten/Südosten abgetrieben)<br>
+<span class="hellblau">D =</span> In diesem Feld fliesst der Dijala nicht mehr durch Tadmor und ist auf seinem letzten StÃ¼ck durch [[<span class="hellblau">Vaniorh</span>|Vaniorh]] ins Meer<br>
+<font color=blue>d =</font> Dijala  (man wird durch die StrÃ¶mung im Fluss langsam Richtung Osten/SÃ¼dosten abgetrieben)<br>
 <span class="gelb">d =</span> [[<span class="hellblau">Alte Diebesgilde</span>|alte_Diebesgilde]] (man kann durch ein Fenster reinklettern)<br>
 <span class="hellblau">E =</span> Emma, die Klaschbase<br>
 <span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|../E-Haus]]<br>
-<span class="orange">E =</span> Schänke 'Zum Wilden Eber' (und gleichzeitig die Abenteurergilde)<br>
+<span class="orange">E =</span> SchÃ¤nke 'Zum Wilden Eber' (und gleichzeitig die Abenteurergilde)<br>
 <span class="orange">e =</span> Erich der Pfandleiher<br>
-<span class="gelb">E =</span> Eingangstor zum Gelände der alten Eisenhütte<br>
-<span class="gelb">e =</span> Hier kann man durch den Zaun ins Gelände der Eisenhütte schlüpfen<br>
+<span class="gelb">E =</span> Eingangstor zum GelÃ¤nde der alten EisenhÃ¼tte<br>
+<span class="gelb">e =</span> Hier kann man durch den Zaun ins GelÃ¤nde der EisenhÃ¼tte schlÃ¼pfen<br>
 <font color=00CC00>F =</font> Friedhof<br>
 <font color=00CC00>f =</font> Friedhofsweg<br>
 <span class="gelb">G =</span> Gerichtshof von Tadmor (Salomo der Friedensrichter)<br>
 <span class="gelb">g =</span> [[<span class="hellblau">Haus der Familie Gioco</span>|Gioco]]<br>
 <span class="orange">G =</span> Groggys Schenke<br>
-<span class="orange">g =</span> Die Glücksfee und ihr Glücksrad<br>
-<font color=00CC00>G =</font> gemütliche Sitzbank (und man kann sich durch kräftiges Denken infos über Götter anschauen; und es ist ein Wunderei oben in dem Baum)<br>
+<span class="orange">g =</span> Die GlÃ¼cksfee und ihr GlÃ¼cksrad<br>
+<font color=00CC00>G =</font> gemÃ¼tliche Sitzbank (und man kann sich durch krÃ¤ftiges Denken infos Ã¼ber GÃ¶tter anschauen; und es ist ein Wunderei oben in dem Baum)<br>
 <font color=00CC00>g =</font> kleiner Garten<br>
-<span class="gelb">h =</span> Verfallene Hütte<br>
-<span class="orange">J =</span> Jeronimo, der Dealer für Hochprozentiges und Drogen... (an der Tür klopfen um reinzukommen)<br>
-<span class="gelb">J =</span> Johannes, der Stadtführer<br>
+<span class="gelb">h =</span> Verfallene HÃ¼tte<br>
+<span class="orange">J =</span> Jeronimo, der Dealer fÃ¼r Hochprozentiges und Drogen... (an der TÃ¼r klopfen um reinzukommen)<br>
+<span class="gelb">J =</span> Johannes, der StadtfÃ¼hrer<br>
 <span class="gelb">j =</span> Haus von Jaana, der hilfsbereiten Kriegerin<br>
 <span class="hellblau">K =</span> Kathedrale von Tadmor (wenn man in die Gruft klettert kommt man wieder in der [[<span class="hellblau">S-Bahn</span>|../Campus/S-Bahn]] am Campus raus)<br>
 <span class="orange">K =</span> Gasthaus "Zur Krone"<br>
-<span class="orange">k =</span> Sascha, der Kartenverkäufer<br>
-<span class="gelb">K =</span> Eingang zum Kloster der Barmherzigen Magyrianerinnen (nach Südosten gehts in einen zweiten, kleinen [[<span class="hellblau">Anfängerpark</span>|Anfaengerpark2]])<br>
+<span class="orange">k =</span> Sascha, der KartenverkÃ¤ufer<br>
+<span class="gelb">K =</span> Eingang zum Kloster der Barmherzigen Magyrianerinnen (nach SÃ¼dosten gehts in einen zweiten, kleinen [[<span class="hellblau">AnfÃ¤ngerpark</span>|Anfaengerpark2]])<br>
 <font color=blue>K =</font> Hier kann man tauchen und in eine [[<span class="hellblau">Unterwasserkaverne</span>|Unterwasserkaverne]] schwimmen<br>
-<font color=blue>k =</font> Hier kann man nach Nordosten in den [[<span class="hellblau">Kanal der Eisenhütte</span>|Kanal]] schwimmen<br>
+<font color=blue>k =</font> Hier kann man nach Nordosten in den [[<span class="hellblau">Kanal der EisenhÃ¼tte</span>|Kanal]] schwimmen<br>
 <font color=C0C0C0>K =</font> Kartukultininurta-Platz<br>
-<font color=C0C0C0>k =</font> An einem [[<span class="hellblau">Kanal</span>|Kanal]] der zur Eisenhütte führt (hier kann man auch reinspringen)<br>
+<font color=C0C0C0>k =</font> An einem [[<span class="hellblau">Kanal</span>|Kanal]] der zur EisenhÃ¼tte fÃ¼hrt (hier kann man auch reinspringen)<br>
 <span class="hellblau">L =</span> Laden<br>
 <span class="gelb">L =</span> [[<span class="hellblau">Bibliothek</span>|Bibliothek]]<br>
 <span class="hellblau">M =</span> [[<span class="hellblau">Magiergilde</span>|Magiergilde]]<br>
 <span class="orange">M =</span> Mick, der Zeitungsjunge<br>
-<font color=00CC00>M =</font> [[<span class="hellblau">Märchenpark</span>|Maerchenpark]]<br>
+<font color=00CC00>M =</font> [[<span class="hellblau">MÃ¤rchenpark</span>|Maerchenpark]]<br>
 <font color=C0C0C0>M =</font> Marktplatz<br>
-<font color=C0C0C0>m =</font> Trödelmarkt<br>
-<span class="gelb">N =</span> "Magyra-Nachrichten"-Hauptgebäude<br>
+<font color=C0C0C0>m =</font> TrÃ¶delmarkt<br>
+<span class="gelb">N =</span> "Magyra-Nachrichten"-HauptgebÃ¤ude<br>
 <span class="gelb">n =</span> Nachtwache von Tadmor<br>
 <span class="hellblau">P =</span> Post<br>
 <span class="orange">P =</span> Parfumerie<br>
-<span class="orange">p =</span> Pralinerie 'Blümchen'<br>
-<span class="gelb">p =</span> Prächtiges Haus<br>
+<span class="orange">p =</span> Pralinerie 'BlÃ¼mchen'<br>
+<span class="gelb">p =</span> PrÃ¤chtiges Haus<br>
 <font color=blue>P =</font> Platz der Delphine (mit grossem Springbrunnen)<br>
 <font color=C0C0C0>p =</font> kleiner Platz<br>
 <span class="hellblau">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus]]<br>
@@ -104,14 +104,14 @@
 <span class="orange">s =</span> Sattler<br>
 <span class="gelb">S =</span> Nimira, die Spielerin (in den Brunnen hier kann man auch reinklettern)<br>
 <span class="gelb">s =</span> Speedy Gonzales Bruder<br>
-<font color=C0C0C0>s =</font> Straße / Weg<br>
-<font color=CC6600>S =</font> Doktor Salbe, der Quacksalber (auf der neuen Brücke)<br>
+<font color=C0C0C0>s =</font> StraÃŸe / Weg<br>
+<font color=CC6600>S =</font> Doktor Salbe, der Quacksalber (auf der neuen BrÃ¼cke)<br>
 <font color=CC6600>s =</font> Hier geht eine Treppe runter zu einem wackeligen Holzsteg<br>
 <font color=00CC00>s =</font> Spielplatz<br>
 <span class="hellblau">T =</span> Stadttor<br>
-&nbsp; &nbsp; Nördlich: [[<span class="hellblau">Ebene</span>|Ebene]]<br>
-&nbsp; &nbsp; Östlich: [[<span class="hellblau">Hafenweg</span>|Ebene]]<br>
-&nbsp; &nbsp; Südlich: [[<span class="hellblau">Handelsweg</span>|Handelsweg]] nach Terqa<br>
+&nbsp; &nbsp; NÃ¶rdlich: [[<span class="hellblau">Ebene</span>|Ebene]]<br>
+&nbsp; &nbsp; Ã–stlich: [[<span class="hellblau">Hafenweg</span>|Ebene]]<br>
+&nbsp; &nbsp; SÃ¼dlich: [[<span class="hellblau">Handelsweg</span>|Handelsweg]] nach Terqa<br>
 &nbsp; &nbsp; Westlich: Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]]<br>
 <span class="gelb">T =</span> [[<span class="hellblau">Theater</span>|Theater]]<br>
 <font color=C0C0C0>t =</font> Unter einem Torbogen<br>
@@ -119,5 +119,5 @@
 <span class="gelb">v =</span> Vor einem Stadttor (Treppe auf die [[<span class="hellblau">Stadtmauer</span>|Stadtmauer]])<br>
 <span class="gelb">W =</span> Stadtwache<br>
 <font color=00CC00>w =</font> Kuhweide<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurÃ¼ck nach Vaniorh</font>|../Vaniorh]])</font></center>
 </span>
