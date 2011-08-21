@@ -5,26 +5,26 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-O-O-V-V-V-V-K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|font>|X|X|X|X|X| &nbsp; \|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X</font>|X|X|X|X|X|X|/ &nbsp; \|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-O-O-O-O-O-<span class="hellblau">V&gt;</span>
 &nbsp;&nbsp; V-O-O-O-O-K-K-K<font color=blue>-M-M-M-M-M-M-</font>K-K-K<font color=blue>-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|font>|X|X|X|X|X|X|\ &nbsp; /|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|font>|X|X|\<font color=blue>|X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X</font>|X|X|X|X|X|X|\ &nbsp; /|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X</font>|X|X|\<font color=blue>|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-K-K-V-V-V-V-O-O-O-O-O-O-K-K-K-K<font color=blue>-M-M-M-</font>K-O-K-K<font color=blue>-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|font>|X|X|X|\<font color=blue>|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X</font>|X|X|X|\<font color=blue>|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-</font>K-O-O-K-K<font color=blue>-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|font>|X|X|X|X|\<font color=blue>|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X</font>|X|X|X|X|\<font color=blue>|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-</font>K-K-O-O-K-K<font color=blue>-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|</font>\|X|X|X|X|<font color=blue>X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-</font>K-K-O-O-K<font color=blue>-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|</font>\|X|X|X|\<font color=blue>|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|</font>\|X|X|X|\<font color=blue>|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-</font>K-K-K-K-O-O-O-O-O-O-O-K-K-K-K<font color=blue>-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-</font>K-O-O-K-K<font color=blue>-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|font>|X|X|X|X|<font color=blue>X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X</font>|X|X|X|X|<font color=blue>X|X|X|X|<br>
 M-M-M-M-M-M-</font>K-K-K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K-K<font color=blue>-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-</font>K-O-O-O-K<font color=blue>-M-M-M-M<br>
-|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|font>|X|X|X|X|<font color=blue>X|X|X|X|<br>
+|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X</font>|X|X|X|X|<font color=blue>X|X|X|X|<br>
 M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K<font color=blue>-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-</font>K-O-O-O-K<font color=blue>-M-M-M-M<br>
-|X|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X||X|X|X|X|<font color=blue>X|X|X|X|<br>
+|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\|/|X|X|X|X|<font color=blue>X|X|X|X|<br>
 M-M-M-M-M-</font>K-O-O-K-K-K-K-K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-K-K-K-O-O-O-K<font color=blue>-M-M-M-M<br>
-|X|X|X|X|font>|X|X|<font color=blue>|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|<br>
+|X|X|X|X|X</font>|X|X|X|/<font color=blue>|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\|/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|<br>
 M-M-M-M-M-</font>K-K-K-K<font color=blue>-M-M-M-M-</font>K-K-K-K-K-K-O-O-O-O-O-O-O-O-O-O-K-K-K-O-O-O-O-O-O-O-O-O-O-O-K-K-O-O-O-O-K-K<font color=blue>-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-K-O-O-O-O-O-O-O-O-O-K-O-O-O-O-O-O-O-O-O-O-O-O-K-O-O-O-O-O-O-K<font color=blue>-M-M-M<br>
@@ -36,55 +36,55 @@ M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O
 M-M-M-M-M-M-M-M-M-</font>K-K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M<br>
 |X|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-v-v-v-v-v-v-v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-v-v-v-v-v-<span class="hellblau">w-W</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v-v-v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X| &nbsp; \|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /&nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; \|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /&nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-v-v &nbsp; &nbsp; v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S4</span>|Veldergautland/Kratergebiet]]&nbsp; &nbsp; v-v-v-v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X| &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-v-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-v-v-v-[[<span class="hellblau">S3</span>|Veldergautland/Kratergebiet]]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-v-O-O-O-O-O-<span class="hellblau">E</span>-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S5</span>|Veldergautland/Kratergebiet]]&nbsp; v-v-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M<br>
-|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
+|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|<br>
 M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M<br>
-|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|<br>
+|X|X|</font>/|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|<br>
 M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-v-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-O-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-O-v-v-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-v-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v-v-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-v-[[<span class="hellblau">S2</span>|Veldergautland/Kratergebiet]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;v-v-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-O-O-O-K-K-O-O-O-[[<span class="hellblau">P</span>|Veldergautland/Schneeweg]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">G</span>|Veldergautland/Spalt]]&nbsp; &nbsp; &nbsp; &nbsp;v-v-v-v-O-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=808080>|</font>\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;&nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=808080>|</font>\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;&nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-O-K-K-K-O-O-O-O-<font color=808080>p</font>-v-v &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S1</span>|Veldergautland/Kratergebiet]]&nbsp; &nbsp; &nbsp; v-v-v-v-v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|X||\|X|X|X|X|X|<font color=808080>X</font>|X|\ &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|X|/|\|X|X|X|X|X|<font color=808080>X</font>|X|\ &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-O-K-K<font color=blue>-M-</font>K-O-O-O-O-O-<font color=808080>p</font>-v-v &nbsp; &nbsp;&nbsp; &nbsp;v-v-v-v-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K<font color=blue>-M-M-M-M-M-M<br>
-|X|font>|X|X|X|X|X|X|X|<font color=blue>|X|font>|X|X|X|X|X|X|<font color=808080>X</font>|X|\ &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|X|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|X|/<font color=blue>|X|X</font>|X|X|X|X|X|X|<font color=808080>X</font>|X|\ &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|<br>
 M-M-</font>K-O-O-O-O-O-O-K-K<font color=blue>-M-M-</font>K-O-O-O-O-O-O-<font color=808080>p</font>-v-v-v-v-v-v-<font color=808080>p-p-p</font>-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M<br>
-|X|font>|X|X|X|X|X|X|<font color=blue>|X|X|font>|X|X|X|X|X|X|X|<font color=808080>X</font>|X|X|X|X|X|<font color=808080>X</font>|X|X|<font color=808080>X</font>|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
+|X|X</font>|X|X|X|X|X|X|X|/<font color=blue>|X|X|X</font>|X|X|X|X|X|X|X|<font color=808080>X</font>|X|X|X|X|X|<font color=808080>X</font>|X|X|<font color=808080>X</font>|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-</font>K-K-O-O-O-O-K-K<font color=blue>-M-M-M-</font>K-O-O-O-O-O-O-O-<font color=808080>p-p-p-p-p-p</font>-O-O-O-<font color=808080>p-p-p-p-p-p</font>-O-O-O-O-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|</font>\|X|X|X|X|<font color=blue>|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=808080>X</font>|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|X|X|X|<br>
+|X|X|</font>\|X|X|X|X|X|/<font color=blue>|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=808080>X</font>|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-</font>K-O-O-O-O-K<font color=blue>-M-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-<span class="hellblau">S</span>-O-K-O-O-O-O-O-O-O-<font color=808080>p</font>-O-O-O-O-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|font>|X|X|X|X|X|<font color=blue>X|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=808080>X</font>|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
+|X|X|X</font>|X|X|X|X|X|<font color=blue>X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=808080>X</font>|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-</font>K-O-O-O-K-K<font color=blue>-M-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-O-O-O-O-O-O-O-<font color=808080>p</font>-<span class="hellblau">g</span>-<span class="hellblau">e</span>-O-O-K-K-K<font color=blue>-M-</font>K-K-K-K<font color=blue>-M-M-M-M<br>
-|X|X|font>|X|X|X|<font color=blue>|X|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=808080>|</font>X|X|X|X|X|X|X|\<font color=blue>|</font>/|X|X|X|<font color=blue>X|X|X|X|<br>
+|X|X|X</font>|X|X|X|X|/<font color=blue>|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=808080>|</font>X|X|X|X|X|X|X|\<font color=blue>|</font>/|X|X|X|<font color=blue>X|X|X|X|<br>
 M-M-M-</font>K-K-O-O-K<font color=blue>-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K-O-O-O-O-O-<span class="hellblau">B</span><font color=808080>-p</font>-O-O-O-O-O-O-K-K-K-O-O-K<font color=blue>-M-M-M-M<br>
-|X|X|X|</font>\|X|X|X|<font color=blue>X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X||\|X|X|X|X|X|X|X<font color=808080>|</font>X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|<br>
+|X|X|X|</font>\|X|X|X|<font color=blue>X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/|\|X|X|X|X|X|X|X<font color=808080>|</font>X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|<br>
 M-M-M-M-</font>K-O-O-K<font color=blue>-M-M-M-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-</font>K-K-O-O-O-O-O-<font color=808080>p-</font><span class="hellblau">F</span>-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-M-M<br>
-|X|X|X|font>|X|X|X|<font color=blue>X|X|X|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|</font>\|X|X|X|X|X|X<font color=808080>|</font>X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|X|<br>
+|X|X|X|X</font>|X|X|X|<font color=blue>X|X|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|</font>\|X|X|X|X|X|X<font color=808080>|</font>X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|<br>
 M-M-M-M-</font>K-O-O-K<font color=blue>-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M-</font>K-K-K-O-<span class="hellblau">a<font color=808080>-</span>A<font color=808080>-</font>H</font>-O-O-O-O-O-O-O-K-K-K-K<font color=blue>-M-M-M-M-M<br>
-|X|X|X|font>|X|X|X|\<font color=blue>|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>|X|X|X|X|X|X|X|<br>
+|X|X|X|X</font>|X|X|X|\<font color=blue>|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|<br>
 M-M-M-M-</font>K-K-O-K-K<font color=blue>-M-M-M-M-M-M-</font>K-O-O-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-M-M-</font>K-K-K-K-K-O-O-O-O-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|</font>\|X|X|X|<font color=blue>X|X|X|X|X|X|font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|</font>\|X|X|X|X|<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
+|X|X|X|X|</font>\|X|X|X|<font color=blue>X|X|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-</font>K-O-O-K<font color=blue>-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M-M-M-M-M-M-</font>K-K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|font>|X|X|X|<font color=blue>X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+|X|X|X|X|X</font>|X|X|X|<font color=blue>X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-</font>K-K-O-K<font color=blue>-M-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-O-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|</font>\|X|X|<font color=blue>X|X|X|X|X|X|X|X|</font>\|X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-</font>K-K-K<font color=blue>-M-M-M-M-M-M-M-M-</font>K-K-O-O-O-O-O-O-O-O-O-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
@@ -111,35 +111,32 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 A =</font> Forschungsstation<br>
 <span class="hellblau">a =</span> abgesperrter Bereich (nur von der Station erreichbar)<br>
 <span class="hellblau">B =</span> Brisbans Iglu<br>
-<span class="hellblau">E =</span> Earl, der EisbÃ¤r<br>
-<span class="hellblau">e =</span> EisbÃ¤ren-HÃ¶hle (unter einer Schneewehe)<br>
-<span class="hellblau">F =</span> FellhÃ¤ndler-Iglu<br>
+<span class="hellblau">E =</span> Earl, der Eisbär<br>
+<span class="hellblau">e =</span> Eisbären-Höhle (unter einer Schneewehe)<br>
+<span class="hellblau">F =</span> Fellhändler-Iglu<br>
 <span class="hellblau">G =</span> [[<span class="hellblau">Gletscherspalte</span>|Veldergautland/Spalt]]<br>
 <span class="hellblau">g =</span> Elis Grab<br>
 <span class="hellblau">H =</span> Hafen<br>
 <span class="hellblau">P =</span> Ende des Pfades (hoch zum [[<span class="hellblau">Schneeweg</span>|Veldergautland/Schneeweg]])<br>
-<span class="hellblau">S =</span> HÃ¼tte eines SpielsÃ¼chtigen<BR>
+<span class="hellblau">S =</span> Hütte eines Spielsüchtigen<BR>
 <span class="hellblau">S1-S5 = </span>Schluchten durch das Felsmassiv ins [[<span class="hellblau">Kratergebiet</span>|Veldergautland/Kratergebiet]]<br>
 <span class="hellblau">V =</span> Erkletterbare Stelle am Vulkan<Br>
-<span class="hellblau">W =</span> HÃ¼tte des Weihnachtsorks<br>
-<span class="hellblau">w =</span> Vor der HÃ¼tte des Weihnachtsorks<br>
-
+<span class="hellblau">W =</span> Hütte des Weihnachtsorks<br>
+<span class="hellblau">w =</span> Vor der Hütte des Weihnachtsorks<br>
 <span class="hellblau">Legende:</span><br>
-<font color=FFFFFF>K =</font> KÃ¼ste<br>
+<font color=FFFFFF>K =</font> Küste<br>
 <FONT COLOR=blue>M =</font> Meer (Veldermeer um genau zu sein)<br>
-<font color=FFFFFF>O =</font> EiswÃ¼ste<br>
+<font color=FFFFFF>O =</font> Eiswüste<br>
 <font color=FFFFFF>V =</font> Rund um den Vulkankrater<br>
 <font color=FFFFFF>v =</font> Vor einem Felsmassiv<br>
-
 <span class="rot">Monster:</span><br>
-SchneewÃ¼rmer<br>
-
+Schneewürmer<br>
 <span class="hellblau">Friedliche Bewohner</span><br>
-EisbÃ¤ren<br>
-FlÃ¼ffel<br>
+Eisbären<br>
+Flüffel<br>
 Mammuts<br>
 Robben<br>
-SchneefÃ¼chse<br>
-SchneegÃ¤nse<br>
+Schneefüchse<br>
+Schneegänse<br>
 Schneehasen<br>
 </span>
