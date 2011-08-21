@@ -5,7 +5,7 @@ M-M-M-M-M-M-M-M-M-M-M-<span class="rot">L-L</span>-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|<span class="rot">/|X|\</span>|X|<br>
 M-M-M-M-M-M-M-M-M-<span class="rot">L<font color=C0C0C0>-</span><font color =808080>k-k-k</font>-L</font>-M<br>
 |X|X|X|X|X|X|X|X|<font color=C0C0C0>/<span class="rot">|</span>X<font color =808080>|X|X|</font><span class="rot">/</span></font>|X|<br>
-M-M-M-M-M-M-M-M-<font color=C0C0C0><font color=00CC99>q</font>-<span class="rot">L</span>-<font color =808080>k-[[<span class="rot">K</span>|Vulkanien/Hoehle]]-k</font></font>-M-M<br>
+M-M-M-M-M-M-M-M-<font color=C0C0C0><font color=00CC99>q</font>-<span class="rot">L</span>-<font color =808080>k-[[<span class="rot">K</span>|Hoehle]]-k</font></font>-M-M<br>
 |X|X|X|X|X|X|X|<font color=C0C0C0>/|X<span class="rot">|</span>X<font color =808080>|X|X|</font></font>X|X|<br>
 M-M-M-M-M-M-<font color=C0C0C0>O-O-O-<span class="rot">L-</span><font color =808080>k-k-k</font></font>-M-M<br>
 |X|X|X|X|X|<font color=C0C0C0>/|X|X|X|X<span class="rot">|/</span></font>|X|X|X|<br>
