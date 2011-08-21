@@ -8,40 +8,40 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">R</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w &nbsp; w-w-w-w<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|&nbsp; &nbsp; \|X|X|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; G &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w &nbsp; &nbsp; w-w-w<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X||X|X|\ &nbsp; /|X|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|\ /|X|X|\ &nbsp; /|X|X|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|\ /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-<font color=339966>u-u-u-u-u</font>-w-w-w-w-w-w-w-w-w-w-w-w<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |X|X|X|X|X|X|<font color=339966>X|/ &nbsp; &nbsp; \|</font>X|X|X|X|X|X|X|X|X|X|X|X|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-w-<font color=339966>u-u-u &nbsp; &nbsp; &nbsp; u</font>-w-w-<font color=339966>u-u-u-u</font>-w-w-w-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X|X<font color=339966>|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font>X|X|X<font color=339966>|/ &nbsp; \|font>|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X|X<font color=339966>|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font>X|X|X<font color=339966>|/ &nbsp; \|X</font>|X|X|X|X|X|X|X|<br>
 &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-<font color=339966>u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; u-u-u-u &nbsp; &nbsp; u-u</font>-w-w-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp; |X|X|X|X|X|X|X<font color=339966>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">b</span> &nbsp; &nbsp; &nbsp;\|font>|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; |X|X|X|X|X|X|X<font color=339966>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">b</span> &nbsp; &nbsp; &nbsp;\|X</font>|X|X|X|X|/<br>
 &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-<font color=339966>u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>s-s-s</font> &nbsp; u-u</font>-w-w-w-w &nbsp; &nbsp; &nbsp; w-w<br>
 &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|<font color=339966>X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>/| | |</font> &nbsp; &nbsp;\|</font>X|X|X|X|&nbsp; &nbsp; &nbsp; /|X|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-<font color=339966>u-u-u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau"> K</span><font color=808080>-</font></font>w<font color=339966><font color=808080>-s-h-h-s</font> &nbsp; &nbsp; u</font>-w-w-w-w&nbsp; &nbsp;&nbsp; w-w-w<br>
-&nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X<font color=339966>|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>\</font></font>|<font color=339966><font color=808080> | | | |</font>&nbsp; &nbsp; /</font>|X|X|X|X|\&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X<font color=339966>|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>\</font></font>|<font color=339966><font color=808080> | | | |</font>&nbsp; &nbsp; /</font>|X|X|X|X|\&nbsp; &nbsp; |X|/<br>
 &nbsp; &nbsp; w-w-w-w-w-w-<font color=339966>u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font> w<font color=339966><font color=808080>-<span class="hellblau">B</span>-<span class="hellblau">T</span>-<span class="hellblau">D</span>-s</font>&nbsp;&nbsp; u</font>-w-w-w-w-w-w&nbsp;&nbsp; w-w<br>
-&nbsp; &nbsp; |X|X|X|X|X|X<font color=339966>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>\| |</font> &nbsp; /</font>|X|X|X|X|X|X||X|\<br>
+&nbsp; &nbsp; |X|X|X|X|X|X<font color=339966>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>\| | |/</font> &nbsp; /</font>|X|X|X|X|X|X|\ /|X|\<br>
 &nbsp; &nbsp; w-w-w-w-w-w-<font color=339966>u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080> s-h-s</font> &nbsp; u</font>-w-w-w-w-w-w-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp;\|X|X|X|X|X<font color=339966>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080> &nbsp;\|font>&nbsp; &nbsp; |</font>X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp;\|X|X|X|X|X<font color=339966>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080> &nbsp;\|/</font>&nbsp; &nbsp; |</font>X|X|X|X|X|X|X|X|X|X|/<br>
 &nbsp; &nbsp; &nbsp; w-w-w-w-w-<font color=339966>u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>s</font> &nbsp; &nbsp; u</font>-w-w-w-w-w-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp;/|X|X|X|X|X<font color=339966>|\&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; /|</font>X|X|X|X| \|/<br>
+&nbsp; &nbsp; &nbsp;/|X|X|X|X|X<font color=339966>|\&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; /|</font>X|X|X|X|X|/ \|/<br>
 &nbsp; &nbsp; w-w-w-<span class="hellblau">L</span>-w-w-<font color=339966>u-u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; u-u</font>-w-w-w-w-w &nbsp; w<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|<font color=339966>X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /</font>|X|X|X|<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|<font color=339966>X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /</font>|X|X|X|X|/<br>
 &nbsp; &nbsp; w-w-w-w-w-w-w-<font color=339966>u-u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; u-u</font>-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp;\| \|X|X|X|<font color=339966>X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /</font>|X|X| \|X|<br>
+&nbsp; &nbsp; &nbsp;\|X|/ \|X|X|X|<font color=339966>X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /</font>|X|X|X|/ \|X|<br>
 &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w-w-<font color=339966>u-u-u-u-u-u-u-u-u</font>-w-w-w-w&nbsp;&nbsp; w-w<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp;|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; &nbsp;|X|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-w-w-w-w-w &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;w-w-w-w<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X|X|X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; /|X|X|X|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-w-w-w-w-w-w-w-w &nbsp; &nbsp; w-w-w-w-w-w<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \|/ &nbsp; \|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |X|/ \|/ &nbsp; \|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|/<br>
 &nbsp; &nbsp; &nbsp; w &nbsp; &nbsp; w-w &nbsp; w &nbsp; &nbsp; w-w-w-w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w<br>
 &nbsp; &nbsp; &nbsp;/ \ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|\<br>
 &nbsp; &nbsp; w &nbsp; w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-w<br>
-&nbsp; &nbsp;/ &nbsp; &nbsp;|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \| \|X|<br>
-<font color=CC6600>&nbsp;-</font>[[<font color=CC6600>p</font>|Vaniorh]] &nbsp; &nbsp; w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w<BR>
+&nbsp; &nbsp;/ &nbsp; &nbsp;|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|/ \|X|X|/<br>
+<font color=CC6600>&nbsp;-</font>[[<font color=CC6600>p</font>|../Vaniorh]] &nbsp; &nbsp; w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w<BR>
 &nbsp;/|</td>
 </span>
 
@@ -56,12 +56,12 @@
 <span class="hellblau">T =</span> Turmruine<br>
 <span class="hellblau">Legende:</span><br>
 <font color=808080>h =</font> Hügel<br>
-<font color=CC6600>p =</font> Waldpfad im mittleren Teil von [[<span class="hellblau">Vaniorh</span>|Vaniorh]]<br>
+<font color=CC6600>p =</font> Waldpfad im mittleren Teil von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
 <font color=808080>s =</font> Strand<br>
 <font color=339966>u =</font> Seeufer<br>
 <font color=008000>w =</font> Wald<br>
 <font color=red>Monster:<br>
 T = Troll<br>
 Ansonsten sind noch ein paar Wölfe im Wald unterwegs…</p>
-<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
+<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
 </span>

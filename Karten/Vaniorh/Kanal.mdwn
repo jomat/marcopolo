@@ -1,4 +1,19 @@
 <span class="map">
+&nbsp;&nbsp; &nbsp;k<br>
+&nbsp;\ / &#9492;&#9472;&#9472;&#9472;&#9488;<br>
+&nbsp; [[<span class="hellblau">d</span>|Tadmor]] &nbsp; &nbsp; &nbsp; k<br>
+&nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; s---s<br>
+&nbsp; &nbsp; &nbsp; |\ /|<br>
+&nbsp; &nbsp; &nbsp; | s |<br>
+&nbsp; &nbsp; &nbsp; |/|\|<br>
+&nbsp; &nbsp; &nbsp; s | s<br>
+&nbsp; &nbsp; &nbsp; &nbsp;\|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; a
+
+</span>
+
+<span class="legend">
 <font color=blue>a =</font> Abfluss-Kanal<br>
 <font color=blue>d =</font> Der Fluss Dijala (in  [[<span class="hellblau">Tadmor</span>|Tadmor]])<br>
 <font color=blue>k =</font> Kanal<br>

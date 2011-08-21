@@ -15,8 +15,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w-<span class="gelb">L</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\</font> <font color=FFFF00>/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<font color=CC6600>s</font>|Vaniorh]]-[[<font color=FFFF00>s</font>|Vaniorh]]-[[<font color=FFFF00>s</font>|Vaniorh]]</font><font color=C0C0C0>-<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>/</font><font color=CC6600>|</font><font color=blue>X|X|font>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<font color=CC6600>s</font>|../Vaniorh]]-[[<font color=FFFF00>s</font>|../Vaniorh]]-[[<font color=FFFF00>s</font>|../Vaniorh]]</font><font color=C0C0C0>-<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>/</font><font color=CC6600>|</font><font color=blue>X|X|\</font>
 
 </span>
 
@@ -42,8 +42,8 @@
 <span class="gelb">S =</span> Stall<br>
 <span class="gelb">s =</span> Schweinepferch<br>
 <font color=00CC00>s =</font> Stadtpark (wenn man den Baum hochklettert und den Ast nach Osten langklettert landet man im Wunderhaus)<br>
-<font color=FFFF00>s =</font> Strand an der Südküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]]<br>
-<font color=CC6600>s =</font> Steg an der Südküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]]<br>
+<font color=FFFF00>s =</font> Strand an der Südküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
+<font color=CC6600>s =</font> Steg an der Südküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
 <span class="gelb">W =</span> Wunderhaus<br>
 <font color=C0C0C0>w =</font> Weg<br>
 <font color=00CC00>w =</font> Wiese<br>
