@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#00CC00">
 &nbsp; &nbsp;[[<font color=C0C0C0>s</font>|Koboldingen]]<br>
 &nbsp; &nbsp;<font color=C0C0C0>|<br>
 &nbsp;S</font>-<span class="gelb">Z</span>-<span class="gelb">G</span><br>
@@ -7,24 +8,25 @@
 &nbsp;| | &nbsp; |<br>
 &nbsp;<span class="gelb">A</span>-<span class="gelb">S</span> <span class="gelb">N</span>-<span class="gelb">L</span><br>
 &nbsp;| | |<font color=blue>s</font>|<br>
-&nbsp;<span class="gelb">z</span>-[[<span class="hellblau">D</span>|Gallien]]-<span class="gelb">h</span>-<span class="gelb">P</span></font></TD>
+&nbsp;<span class="gelb">z</span>-[[<span class="hellblau">D</span>|Gallien]]-<span class="gelb">h</span>-<span class="gelb">P</span>
+</font>
 </span>
 
 <span class="legend">
 <span class="gelb">A =</span> Die 3 weisen Affen &amp; der Ogolbaum<br>
 <font color=00CC00>b =</font> Bananenstaude<br>
-<span class="hellblau">D =</span> Haltestation der M‰rchenland-[[<span class="hellblau">Gallien</span>|Gallien]]-Flugroute von Dumbo<br>
+<span class="hellblau">D =</span> Haltestation der M√§rchenland-[[<span class="hellblau">Gallien</span>|Gallien]]-Flugroute von Dumbo<br>
 <span class="gelb">G =</span> Geschenk-Service-Bude<br>
 <span class="gelb">h =</span> Harry Bo, der spassige Elefant<br>
 <span class="gelb">I =</span> Irma, die weitsichtige Giraffe<br>
-<span class="gelb">L =</span> Der Lila-Launeb‰r<br>
+<span class="gelb">L =</span> Der Lila-Launeb√§r<br>
 <font color=00CC00>l =</font> Laubhaufen<br>
 <span class="gelb">N =</span> Naryas Baumhaus (oben in der Eiche), ein Elch und ein Knallerbsenststrauch<br>
 <span class="gelb">P =</span> Liegepilze &amp; ein Reisswolf<br>
 <font color=C0C0C0>S =</font> Steinbeisser &amp; Schnuppi<br>
-<font color=C0C0C0>s =</font> Straﬂe<br>
+<font color=C0C0C0>s =</font> Stra√üe<br>
 <span class="gelb">S =</span> eine eklige Spinne<br>
-<font color=00CC00>s =</font> Stadtpark von [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]] (durch Loch im Geb¸sch [<font color=00FFCC>-</font>] kriechen)<br>
+<font color=00CC00>s =</font> Stadtpark von [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]] (durch Loch im Geb√ºsch [<font color=00FFCC>-</font>] kriechen)<br>
 <font color=blue>s =</font> Kleiner See (man kann drin schwimmen und in der Mitte ist Nessie, das freundliche Seemonster)<br>
 <span class="gelb">V =</span> Viola, die Schlange (und ein Beet mit Liebesblumen)<br>
 <span class="gelb">Z =</span> Zooloo, der Buschmann<br>
