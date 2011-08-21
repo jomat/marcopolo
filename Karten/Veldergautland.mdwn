@@ -103,40 +103,40 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-O-O-O-K<font 
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>\|X|X|X|X|<font color=blue>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</font></p>
-</td>
-</tr>
-</table>
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</font>
+</span>
+
+<span class="legend">
 <font color=00CCFF>Sehenswertes:<br>
 A =</font> Forschungsstation<br>
 <span class="hellblau">a =</span> abgesperrter Bereich (nur von der Station erreichbar)<br>
 <span class="hellblau">B =</span> Brisbans Iglu<br>
-<span class="hellblau">E =</span> Earl, der Eisbär<br>
-<span class="hellblau">e =</span> Eisbären-Höhle (unter einer Schneewehe)<br>
-<span class="hellblau">F =</span> Fellhändler-Iglu<br>
+<span class="hellblau">E =</span> Earl, der EisbÃ¤r<br>
+<span class="hellblau">e =</span> EisbÃ¤ren-HÃ¶hle (unter einer Schneewehe)<br>
+<span class="hellblau">F =</span> FellhÃ¤ndler-Iglu<br>
 <span class="hellblau">G =</span> [[<span class="hellblau">Gletscherspalte</span>|Veldergautland/Spalt]]<br>
 <span class="hellblau">g =</span> Elis Grab<br>
 <span class="hellblau">H =</span> Hafen<br>
 <span class="hellblau">P =</span> Ende des Pfades (hoch zum [[<span class="hellblau">Schneeweg</span>|Veldergautland/Schneeweg]])<br>
-<span class="hellblau">S =</span> Hütte eines Spielsüchtigen<BR>
+<span class="hellblau">S =</span> HÃ¼tte eines SpielsÃ¼chtigen<BR>
 <span class="hellblau">S1-S5 = </span>Schluchten durch das Felsmassiv ins [[<span class="hellblau">Kratergebiet</span>|Veldergautland/Kratergebiet]]<br>
 <span class="hellblau">V =</span> Erkletterbare Stelle am Vulkan<Br>
-<span class="hellblau">W =</span> Hütte des Weihnachtsorks<br>
-<span class="hellblau">w =</span> Vor der Hütte des Weihnachtsorks<br>
+<span class="hellblau">W =</span> HÃ¼tte des Weihnachtsorks<br>
+<span class="hellblau">w =</span> Vor der HÃ¼tte des Weihnachtsorks<br>
 <span class="hellblau">Legende:</span><br>
-<font color=FFFFFF>K =</font> Küste<br>
+<font color=FFFFFF>K =</font> KÃ¼ste<br>
 <FONT COLOR=blue>M =</font> Meer (Veldermeer um genau zu sein)<br>
-<font color=FFFFFF>O =</font> Eiswüste<br>
+<font color=FFFFFF>O =</font> EiswÃ¼ste<br>
 <font color=FFFFFF>V =</font> Rund um den Vulkankrater<br>
 <font color=FFFFFF>v =</font> Vor einem Felsmassiv<br>
 <span class="rot">Monster:</span><br>
-Schneewürmer<br>
+SchneewÃ¼rmer<br>
 <span class="hellblau">Friedliche Bewohner</span><br>
-Eisbären<br>
-Flüffel<br>
+EisbÃ¤ren<br>
+FlÃ¼ffel<br>
 Mammuts<br>
 Robben<br>
-Schneefüchse<br>
-Schneegänse<br>
+SchneefÃ¼chse<br>
+SchneegÃ¤nse<br>
 Schneehasen<br>
 </span>
