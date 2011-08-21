@@ -1,0 +1,8 @@
+<span class="map">
+<font color=CC6600>B =</font> Vor der Brücke über den Burggraben <br>
+<span class="hellblau">D =</span> Dornröschenschloss<br>
+<font color=339966>H =</font> Hügel<br>
+<font color=00CC00>h =</font> Vor einer riesigen Dornenhecke<br>
+<font color=C0C0C0>P =</font> Pfad durch das [[<span class="hellblau">Märchenland</span>|Maerchenland]]<br>
+<font color=C0C0C0>s =</font> Statuen<br>
+</span>

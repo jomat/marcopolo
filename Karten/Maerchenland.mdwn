@@ -1,0 +1,86 @@
+<span class="map">
+<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>/|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K<font color=blue>-M-</font>K-K-O-O-O-K<font color=blue>-M-M-M-M-</font>K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X|X|X|X|X|X|</font>/|X|X|\<font color=blue>|</font>/|X|X|X|X|X|\<font color=blue>|X|X|X|</font>/|X|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M-</font>K-K-K-O-O-O-K-O-O-<font color=008000>W-W</font>-O-O-K-K-K-K-O-O-O-O-K<font color=blue>-M-</font>K-K<font color=blue>-M-M-M-M-M-M<br>
+|X|X|X|X|X|X|X|</font>/|X|X|X|<font color=008000>X|X|X|X|X|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|\<font color=blue>|</font>/ &nbsp; \<font color=blue>|X|X|X|X|X|<br>
+M-M-M-</font>K-K-K<font color=blue>-M-</font>K-O-O-<font color=008000>W-W-<span class="hellblau">L</span>-W-W-W-W-W-W</font>-O-O-O-O-O-O-O-O-O-O-<font color=339966>H</font>-K<font color=808080> B-B </font> K<font color=blue>-M-M-M-M-M<br>
+|X|X|</font>/|X|X|\<font color=blue>|</font>/|X|X|<font color=008000>X|X|X|X|X|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X<font color=339966>|/</font> <font color=808080> \|X|/</font> \<font color=blue>|X|X|X|X|<br>
+M-M-</font>K-O-O-O-K-O-O-<font color=008000>W-W-W-W-W-W-W-W-W-W-</font><span class="hellblau">k</span>-O-O-O-O-O-O-O-O-O-<font color=339966>H</font><font color=808080>-B-B-B-B</font> K<font color=blue>-M-M-M-M<br>
+|X|X</font>|X|X|X|X|X|X|X<font color=008000>|X|X|X|X|X|X|X|X|X|X|</font>X|X|X|X|X|X|X|X|X|X<font color=808080>|X|X|X|X|</font> |<font color=blue>X|X|X|X|<br>
+M-M-</font>K-O-<font color=blue>s</font>-O-O-<font color=C0C0C0>P-P-P-P-P-P-P-P-P-P</font><font color=008000>-W-W-W</font>-O-O-<font color=C0C0C0>P-P-P-P-P-P</font>-O-<font color=808080>B-B-B-B-B</font> K<font color=blue>-M-M-M-M<br>
+|X|X|</font>\|X|X|X|<font color=C0C0C0>X</font>|X|X<font color=008000>|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X</font>|X|<font color=C0C0C0>X</font>|X|X|X|X|X|<font color=C0C0C0>X</font>|X<font color=808080>|X|/ \|X|</font> |<font color=blue>X|X|X|X|<br>
+M-M-M-</font>K-O-O-<font color=C0C0C0>P</font>-O-O-<font color=008000>W-W-W-W-W-W-W-<font color=C0C0C0>P</font>-W-W-W-W</font>-<font color=C0C0C0>P</font>-O-O-O-O-O-O-<font color=C0C0C0>P</font>-<font color=808080>B-B [[<span class="hellblau">S</span>|Maerchenland/Tal2]] B-B</font> K<font color=blue>-M-M-M-M<br>
+|X|X|X|</font>\|X|<font color=C0C0C0>X</font>|X|X|<font color=008000>X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X|X</font>|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|<font color=C0C0C0>X</font><font color=808080>|X|\<font color=C0C0C0>|</font>/|X|</font> |<font color=blue>X|X|X|X|<br>
+M-M-M-M-</font>K-<font color=C0C0C0>P</font>-O-O-<font color=008000>W-<span class="hellblau">F</span>-W-W-W-W-W-W-W-<font color=C0C0C0>P</font>-W-W</font>-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>P-<span class="hellblau">M</span>-P</font><font color=808080>-B-B</font> K<font color=blue>-M-M-M-M<br>
+|X|X|X|X|</font>\<font color=C0C0C0>|</font>X|X|<font color=008000>X|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|</font>X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X<font color=808080>|X|X|X|X|</font> |<font color=blue>X|X|X|X|<br>
+M-M-M-M-M-</font><font color=C0C0C0>P</font>-O-<font color=008000>W-W-W-W-W-W-W-W-W-W-W</font>-<font color=C0C0C0>P-P</font>-O-O-O-O-O-O-O-O-O-<font color=808080>B-B-B-B-B</font> K<font color=blue>-M-M-M-M<br>
+|X|X|X|X|</font>/<font color=C0C0C0>|</font>X|X<font color=008000>|X|X|X|X|X|X|X|X|X</font>|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X|X|X|<font color=808080>X|X|X|X|</font> |<font color=blue>X|X|X|X|<br>
+M-M-M-M-</font>K-<font color=C0C0C0>P</font>-O-<font color=008000>W-<span class="hellblau">W</span><font color=C0C0C0>-P-P-P</font>-W-W-W-W</font>-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-O-O-<font color=339966>H</font><font color=808080>-B-B-B</font> K<font color=blue>-M-M-M-M<br>
+|X|X|X|</font>/|X<font color=C0C0C0>|</font>X|<font color=008000>X|X<font color=C0C0C0>|</font>X|X|X|<font color=C0C0C0>X</font>|X|X|X|</font>X|/ <span class="hellblau">\|/ X</span>|X|X|X|X|X|X|X|X|X|X<font color=339966>|X|X|X</font> /|<font color=blue>X|X|X|X|<br>    M-M-M-</font>K-O-<font color=C0C0C0>P</font>-<font color=008000>W-<font color=C0C0C0>P-P</font>-W-W-W-<font color=C0C0C0>P-P-P</font>-W</font>-O<span class="hellblau"> &nbsp; [[<font color=00CCFF>T</span>|Maerchenland/Koboldingen]]&nbsp; 
+-</font>O-O-O-<font color=blue>S</font>-O-O-O-O-O-O-<font color=339966>H-H-H</font>-K-K<font color=blue>-M-M-M-M<br>
+|X|X|X</font>|X|X<font color=C0C0C0>|</font>X<font color=008000>|<font color=C0C0C0>X</font>|X<font color=C0C0C0>|</font>X|X|X|X|X|X|<font color=C0C0C0>X</font>|</font>X|<span class="hellblau">\&nbsp;&nbsp;&nbsp;&nbsp; X</span>|X|X|X|X|X|X|X|/ \|X<font color=339966>|X|X|</font>X|X|<font color=blue>X|X|X|X|<br>
+M-M-M-</font>K-O-<font color=C0C0C0>P-P</font><font color=008000>-W-<font color=C0C0C0>P-</font><span class="hellblau">G</span>-W-W-W-W-W-</font><font color=C0C0C0>P-P</font><span class="hellblau">-[[<font color=00CCFF>T</span>|Maerchenland/Koboldingen]] [[<span class="hellblau">K</span>|Maerchenland/Koboldingen]]&nbsp; -</font>O-O-O-O-O-O-O-O.[[<span class="hellblau">v</span>|Maerchenland/Ruine]] O-<font color=339966>H-H-H</font>-K-K<font color=blue>-M-M-M-M<br>
+|X|X|X</font>|X|X<font color=C0C0C0>|</font>X|X<font color=008000>|X|X|X|X|X|X|X|X</font>|<font color=C0C0C0>X</font>|<span class="hellblau">/ &nbsp; &nbsp; X</span>|X|X|X|X|X|X|X|\ /|X<font color=339966>|X|X|</font>X|X|<font color=blue>X|X|X|X|<br>
+M-M-M-</font>K-O-<font color=C0C0C0>P</font>-O-<font color=008000>W-W-<span class="hellblau">E</span>-W-W-W-W-W</font>-<font color=C0C0C0>P</font>-O<span class="hellblau"> &nbsp; [[<font color=00CCFF>T</span>|Maerchenland/Koboldingen]]&nbsp; -</font>O-O-O-O-O-O-O-O-O-O-<font color=339966>H-[[<span class="hellblau">D</span>|Maerchenland/Dornkreis]]-H</font>-K-K<font color=blue>-M-M-M-M<br>
+|X|X|X|</font>\|X<font color=C0C0C0>|</font>X|X<font color=008000>|X|X|X|X|X|X</font>|X|<font color=C0C0C0>X</font>|X|\<span class="hellblau"> /|\</span> /|X|X|X|X|X|X|X|X|X|X<font color=339966>|X<font color=C0C0C0>|</font>X|</font>X|X|<font color=blue>X|X|X|X|<br>
+M-M-M-M-</font>K-<font color=C0C0C0>P</font>-O-<font color=008000>W-W-W-W-W-W</font>-O-<font color=C0C0C0>P</font>-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>P-P-P</font><font color=339966>-H</font>-K-K<font color=blue>-M-M-M-M<br>
+|X|X|X|X</font>|X<font color=C0C0C0>|</font>X|X|<font color=008000>X|X|X|X|X</font>|X|<font color=C0C0C0>X</font>|X|X|X|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X<font color=339966>|X|</font>X|X|<font color=blue>X|X|X|X|<br>
+M-M-M-M-</font>K-<font color=C0C0C0>P</font>-O-O-<font color=008000>W-W-W-W</font>-O-<font color=C0C0C0>P</font>-O-O-O-O-O-<font color=C0C0C0>P-P-<span class="hellblau">R</span>-P-P-P-P-P-P-P-</font>[[<span class="hellblau">P</span>|Mittelerde]]-O-<font color=339966>H-H</font>-K-K<font color=blue>-M-M-M-M<br>
+|X|X|X|</font>/|X<font color=C0C0C0>|</font>X|X|X<font color=008000>|X|X|X|</font>X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|<font color=339966>X|X|</font>X|X|<font color=blue>X|X|X|X|<br>
+M-M-M-</font>K-O-<font color=C0C0C0>P-P-P-P-P-P-P-P-P</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-<font color=339966>H-H-H</font>-K-K<font color=blue>-M-M-M-M<br>
+|X|X|</font>/|X|<font color=C0C0C0>X</font>|X|X|X|<font color=008000>X|X|X|</font>X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|<font color=339966>X|X|X|</font>X|/<font color=blue>|X|X|X|X|<br>
+M-M-</font>K-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-<font color=339966>H-H-H-H-H</font>-K<font color=blue>-M-M-M-M-M<br>
+|X|X</font>|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X|X|X|<font color=339966>X|X|X|X</font>|X|X|<font color=blue>X|X|X|X|X|<br>
+M-M-</font>K-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>P-P-P-P-P</font><font color=339966>-H-H-H</font>-O-O-K<font color=blue>-M-M-M-M-M<br>
+|X|X</font>|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X|X|X|X|<font color=339966>X|<font color=C0C0C0>X</font>|X|X</font>|X|X|/<font color=blue>|X|X|X|X|X|<br>
+M-M-</font>K-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-O-<font color=339966>H-H-H-<font color=C0C0C0>P</font>-H</font>-O-O-K<font color=blue>-M-M-M-M-M-M<br>
+|X|X|</font>\|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X|<font color=339966>X|/ \|<font color=C0C0C0>X</font>|X|</font>X|X|X|<font color=blue>X|X|X|X|X|X|<br>
+M-M-M-</font>K-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-<font color=339966>H-H  [[<span class="hellblau">t</span>|Maerchenland/Tal1]]<font color=C0C0C0>-P</font>-H-H</font>-O-O-K<font color=blue>-M-M-M-M-M-M<br>
+|X|X|X</font>|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X<font color=339966>|X|\ /|X</font>|X|X|X|X|<font color=blue>X|X|X|X|X|X|<br>
+M-M-M-</font>K-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-<font color=339966>H-H-H-H</font>-O-O-O-O-K<font color=blue>-M-M-M-M-M-M<br>
+|X|X|X|</font>\|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X<font color=339966>|X|X|X</font>|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|<br>
+M-M-M-M-</font>K-O-<font color=C0C0C0>P</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>P</font>-O-O-K-K-O-O-O-O-<font color=339966>H-H-H</font>-O-O-O-O-K<font color=blue>-M-M-M-M-M-M-M<br>
+|X|X|X|X</font>|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X|/<font color=blue>|X|</font>\|X|X|X|X|X|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|<br>
+M-M-M-M-</font>K-O-<font color=C0C0C0>P</font>-O-O-<font color=C0C0C0>P</font>-O-<font color=C0C0C0>P-P-P-P</font>-O-O-K<font color=blue>-M-M-</font>K-K-O-O-K-O-O-O-O-K-K<font color=blue>-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|</font>\|X<font color=C0C0C0>|</font>X|X|<font color=C0C0C0>X</font>|<font color=C0C0C0>X</font>|<font color=C0C0C0>X</font>|X|X|X|X|X|/<font color=blue>|X|X|X|X|</font>\|X|/<font color=blue>|</font>\|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-</font>K-<font color=C0C0C0>P-P-P</font>-K-<span class="hellblau">H</span>-O-O-O-O-O-K<font color=blue>-M-M-M-M-M-</font>K-K<font color=blue>-M-</font>K-O-O-K<font color=blue>-M-M-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X</font>|X|X|X|/<font color=blue>|</font>\|X|X|X|X|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|</font>\|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-</font>K-O-O-K<font color=blue>-M-</font>K-K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-</font>K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X|</font>\|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-</font>K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font></td>
+</tr>
+</table>
+</center>
+</div>
+<span class="hellblau">Sehenswertes:</span><br>
+<span class="hellblau">D =</span> Dornröschenschloss (in diesem einen Feld ist nochmal eine Landschaft von 3*3 Feldern mit dem Schloss in der Mitte eingeschlossen)<br>
+<span class="hellblau">E =</span> Edelholz-Baum<br>
+<span class="hellblau">F =</span> Fuchsbau<br>
+<span class="hellblau">G =</span> Haus der Großmutter (im Brunnen ist ein Portal zur [[<span class="hellblau">Beschwörergilde</span>|OdF]])<br>
+<span class="hellblau">H =</span> Hafen (Rumsrüttelkoge)<br>
+<span class="hellblau">K =</span> [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]]<br>
+<span class="hellblau">k =</span> Lichtung mit der Hütte des Köhlers<br>
+<span class="hellblau">L =</span> Lichtung im Wald (mit verfallener Hütte)<br>
+<span class="hellblau">M =</span> Sandmännchens Wolke<br>
+<span class="hellblau">P =</span> Pfefferkuchenhaus (die Hexe bringt einen nach ein bissen Rennerei um Zeug zu beschaffen auf ihrem Besen nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="hellblau">R =</span> Rudi Raser, die Postschnecke<br>
+<span class="hellblau">S =</span> Schneewittchen-Tal<br>
+<span class="hellblau">T =</span> Stadttore von [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]]<br>
+<span class="hellblau">t =</span> [[<span class="hellblau">kleines Tal</span>|Maerchenland/Tal1]]<br>
+<span class="hellblau">v =</span> verfallenes [[<span class="hellblau">Schloss</span>|Maerchenland/Ruine]] (von Westen 'zwänge durch Blattwerk' um hinzukommen)<br>
+<span class="hellblau">W =</span> Woodold, der Holzfäller<br>
+<span class="hellblau">Legende:</span><br>
+<font color=808080>B =</font> Berge<br>
+<font color=339966>H =</font> Hügel<br>
+<font color=00CC00>K =</font> Küste<br>
+<font color=blue>M =</font> Meer<br>
+<font color=00CC00>O =</font> Grasland<br>
+<font color=C0C0C0>P =</font> Pfad<br>
+<font color=blue>S =</font> kleiner See<br>
+<font color=blue>s =</font> Salzsee<br>
+<font color=008000>W =</font> Wald <br>
+</span>

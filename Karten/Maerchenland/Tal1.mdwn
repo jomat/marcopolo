@@ -1,0 +1,14 @@
+<span class="map">
+&nbsp;<span class="gelb">E</span>-t-t<br>
+&nbsp;|X|X|&nbsp; <font color=339966>\|</font><font color=C0C0C0>/</font><br>
+&nbsp;t-t-t-t<font color=C0C0C0>-</font>[[<font color=C0C0C0>P</font>|Maerchenland]]<font color=339966>-</font><br>
+&nbsp;|X|X|&nbsp; <font color=339966>/|\</font><br>
+&nbsp;<span class="gelb">r</span>-t-t
+</span>
+
+<span class="legend">
+<span class="gelb">E =</span> Der Goldesel, Thomas der Hirte und ein Apfelbaum<br>
+<font color=C0C0C0>P =</font> Pfad durch das [[<span class="hellblau">Märchenland</span>|Maerchenland]]<br>
+<span class="gelb">r =</span> Rübenfeld<br>
+<font color=00CC00>t =</font> In einem kleinen Tal
+</span>

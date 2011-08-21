@@ -1,0 +1,17 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; Keller &nbsp; &nbsp; Erdgeschoss &nbsp; Obergeschoss<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;k &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=00CC00>v</font>|Maerchenland]].t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="violett">A</span>|Amerindia/Gruft]]
+</span>
+
+<span class="legend">
+<span class="violett">A =</span> Verstecktes Dimensionstor zur [[<span class="hellblau">Gruft</span>|Amerindia/Gruft]] der Pyramide in Amerindia ('rumpelstilzchen' sagen, danach einfach nach Westen gehen oder die Westwand betreten)<br>
+<font color=C0C0C0>k =</font> Turmkeller<br>
+<span class="gelb">S =</span> Raum in dem der Steinrucksack für Golems liegt (andere Spieler bekommen die Tür auch gar nicht auf und der Rucksack geht kaputt wenn ein Nicht-Golem ihn nehmen will)<br>
+<font color=C0C0C0>s =</font> Obergeschoss des Turms<br>
+<font color=C0C0C0>t =</font> In einem dunklen Turm<br>
+<font color=00CC00>v =</font> Vor einer Schlossruine ('zwänge durch Buschwerk' um raus ins [[<span class="hellblau">Märchenland</span>|Maerchenland]] zu kommen; man kann durch ein Fenster in den Turm reinklettern)<br>
+</span>
