@@ -1,44 +1,32 @@
 <span class="map">
-
-<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">|</span><br>
-
 &nbsp; &nbsp;g&gt;t&gt;B-<span class="hellblau">$</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;[[<span class="hellblau">g</span>|Hauptbahnhof]]&gt;t&gt;u<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">a</span>-<span class="hellblau">P</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp;w<br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;b &nbsp; u<br>
-
 &nbsp; / \ &nbsp;|<br>
 &nbsp;b-<span class="gelb">B</span> b r<br>
 &nbsp; \ / &nbsp;|<br>
 &nbsp;<span class="orange">k</span>-b---r-r-<span class="gelb">F</span><br>
-
 &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;r-<span class="orange">G</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
-
 &nbsp; &nbsp; &nbsp;<span class="gelb">Z</span> <span class="orange">K</span>-<span class="orange">S</span><br>
 &nbsp; &nbsp; &nbsp;| | |<br>
 &nbsp; &nbsp; &nbsp;<span class="orange">Z</span>-r-<span class="orange">W</span><br>
-
 &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
 &nbsp; &nbsp; &nbsp;b-r-r<br>
 &nbsp; &nbsp; &nbsp;<span class="rot">|</span> |<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp;w<br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp;w<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp;w
-</FONT>
 </span>
 
 <span class="legend">
@@ -47,24 +35,20 @@
 <span class="gelb">B =</span> Bungeeturm<br>
 <font color=C0C0C0>B =</font> Bahnhofshalle<br>
 <font color=C0C0C0>b =</font> Baustelle<br>
-
 <font color=C0C0C0>b =</font> Am Bungeeturm<br>
 <span class="gelb">F =</span> Fernseh-Zelt<br>
 <span class="orange">G =</span> Geisterbahn<br>
 <span class="hellblau">g =</span> Bahnsteig (von hier kann man zu Fuß entlang der Gleise zum [[<span class="hellblau">Hauptbahnhof</span>|Hauptbahnhof]] gehen<br>
-
 <font color=C0C0C0>g =</font> Bahnsteig<br>
 <span class="orange">K =</span> Karussell<br>
 <span class="orange">k =</span> Kiosk vom Bungeeturm<br>
 <span class="hellblau">P =</span> Post<br>
 <font color=C0C0C0>r =</font> Rummel<br>
-
 <span class="orange">S =</span> Süßwarenbude<br>
 <font color=C0C0C0>t =</font> Treppe<br>
 <font color=C0C0C0>u =</font> Unterführung<br>
 <span class="orange">W =</span> Wasserbobbahn<br>
 <font color=C0C0C0>w =</font> Weg<br>
-
 <span class="gelb">Z =</span> Bierzelt<br>
 <span class="orange">Z =</span> Bierzelt (hier verkauft Zenzi Bier)<br>
 </span>
