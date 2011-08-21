@@ -1,6 +1,6 @@
 <span class="map"><font color="blue">
-	M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
-	|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-<span class="rot">L-L</span>-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|<span class="rot">/|X|\</span>|X|<br>
 M-M-M-M-M-M-M-M-M-<span class="rot">L<font color=C0C0C0>-</span><font color =808080>k-k-k</font>-L</font>-M<br>
@@ -39,11 +39,11 @@ M-M-M-M-M-<font color=C0C0C0>s-s-s-O-O-O-s</font>-M-M-M<br>
 |X|X|X|X|X|X|X|<font color=C0C0C0>\|X|X|/</font>|X|X|X|<br>
 M-M-M-M-M-M-M-M-<font color=C0C0C0>s-s-s</font>-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</td></font>
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
 </font>
 </span>
 
-<span vlass="legend">
+<span class="legend">
 <span class="gelb">a =</span> Abstellkammer<br>
 <span class="gelb">B =</span> Landeplatz für den Ballon nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]]<br>
 <span class="gelb">b =</span> Büro mit einem verzweifelten Student<br>
