@@ -20,6 +20,6 @@
 <font color=00CC00>s =</font> Strand von [[<span class="hellblau">Vandras</span>|Nordische_Inseln]]<br>
 <span class="gelb">s =</span> Hier hängt eine Schleuder an einem Vorsprung<br>
 <font color=C0C0C0>t =</font> Über dem Torbogen (man kann ins Labyrinth runterklettern)<br>
-<span class="violett">V =</span> Vorsprung mit Dimensionswirbel nach [[<span class="hellblau">Okeanos</span>|Okeanos]]<br>
+<span class="violett">V =</span> Vorsprung mit Dimensionswirbel nach [[<span class="hellblau">Okeanos</span>|Ebenen/Okeanos]]<br>
 <span class="gelb">v =</span> Von der Mauer hier aus kann man auf den Vorsprung im Osten draufspringen<br>
 </span>
