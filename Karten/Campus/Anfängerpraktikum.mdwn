@@ -1,0 +1,31 @@
+<span class="map">
+&nbsp;t-<span class="gelb">R</span>-<span class="gelb">S</span>-<span class="gelb">B</span>-<span class="gelb">F</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &#9492;&#9488;<br>
+&nbsp;t-<span class="gelb">G</span>-<span class="gelb">M</span>-<span class="gelb">N</span>-t&#9474;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&#9474;<br>
+&nbsp;t-<span class="gelb">W</span>-<span class="gelb">r</span>-<span class="gelb">k</span>-t&#9474;<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &#9484;&#9496;<br>
+&nbsp;<span class="gelb">h</span>-<span class="gelb">K</span>-<span class="gelb">s</span>-<span class="gelb">I</span>-[[<span class="violett">E</span>|S-Bahn]]-[[<span class="hellblau">C</span>|Campus]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Raum der Bank und Post<br>
+<span class="hellblau">C =</span> [[<span class="hellblau">Campus</span>|Campus]]<br>
+<span class="violett">E =</span> Eingangsbereich (hier steht auch ein Teleporter in die [[<span class="hellblau">S-Bahn</span>|S-Bahn]])<br>
+<span class="gelb">F =</span> Raum der Fehler und Ideen (man kann hier in ein Loch klettern und durch einen Schacht runterrutschen)<br>
+<span class="gelb">G =</span> Raum der Gilden<br>
+<span class="gelb">h =</span> Treppe, an der ein Holzwurm nagt<br>
+<span class="gelb">I =</span> Raum der Information<br>
+<span class="gelb">K =</span> Raum der Kommunikation<br>
+<span class="gelb">k =</span> Raum des Kampfes<br>
+<span class="gelb">M =</span> Raum der Magie<br>
+<span class="gelb">N =</span> Raum der Nahrung<br>
+<span class="gelb">R =</span> Raum der Rätsel<br>
+<span class="gelb">r =</span> Raum der Rüstungen und Kleidung<br>
+<span class="gelb">S =</span> Raum der Spiele<br>
+<span class="gelb">s =</span> Raum der Selbsterkenntnis<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="gelb">W =</span> Raum der Waffen<br>
+</span>
