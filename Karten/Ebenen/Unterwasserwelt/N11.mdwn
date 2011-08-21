@@ -22,7 +22,7 @@ m-m-m-m-m-m-m-m-m <font color=C0C0C0>s &nbsp; s</font> m-m-m-m-m-m-m-m<br>
 m-m-m-m-m-m-m <span class="hellblau">H</span><font color=C0C0C0>-s-r<span class="rot">- &nbsp;r</span></font> m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X| &nbsp; &nbsp; <font color=C0C0C0>| &nbsp; |</font> |X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m &nbsp;<span class="rot">-</span><font color=00CC00>p</font> <font color=C0C0C0>s-r s</font> m-m-m-m-m-m-m-m<br>
-|X|X|X|X|X|X| &nbsp; <font color=00CC00>|font> <font color=C0C0C0>\ /</font>&nbsp; |X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X| &nbsp; <font color=00CC00>|\</font> <font color=C0C0C0>\ /</font>&nbsp; |X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m &nbsp; <font color=00CC00>p-p</font> <font color=C0C0C0>h-</font><span class="orange">K</span> m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
