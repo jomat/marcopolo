@@ -1,0 +1,39 @@
+<span class="map">
+&nbsp; &nbsp;w<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; <span class="rot">|</span><br>
+&nbsp;w-w-w-<font color=C0C0C0>w-w-p-w-w</font><br>
+&nbsp;| &nbsp; |X<font color=C0C0C0>| &nbsp; &nbsp; &nbsp; |</font><br>
+&nbsp;w <font color=C0C0C0>p</font>-w-<font color=C0C0C0>w &nbsp; &nbsp; &nbsp; w</font><br>
+&nbsp;| &nbsp; |X<font color=C0C0C0>| &nbsp; | &nbsp; |</font><br>
+&nbsp;w-w-w-<font color=C0C0C0>w &nbsp; [[<span class="hellblau">T</span>|Palast]] &nbsp; w</font><span class="rot">-</span><br>
+&nbsp;| &nbsp; |X<font color=C0C0C0>| &nbsp; | &nbsp; |</font><br>
+&nbsp;w-<font color=C0C0C0>p</font> w-<font color=C0C0C0>w &nbsp; <span class="gelb">D</span> &nbsp; w</font><br>
+&nbsp;| &nbsp; |X<font color=C0C0C0>| &nbsp; | &nbsp; |</font><br>
+&nbsp;w-w-w-<font color=C0C0C0>w-w-<font color=blue>B</font>-w-w</font><br>
+&nbsp; &nbsp;|\|X|X|X<font color=C0C0C0>|</font>X|X|\<br>
+&nbsp; &nbsp;<span class="gelb">P</span> r-p-p-<font color=C0C0C0>A</font>-p-p-r-r<br>
+&nbsp; &nbsp; &nbsp;|X|X|X<font color=C0C0C0>|</font>X|X|X|/<br>
+&nbsp; &nbsp; &nbsp;r-r-p-<font color=C0C0C0>A</font>-p-r-r<br>
+&nbsp; &nbsp; &nbsp; \|X|X<font color=C0C0C0>|</font>X|X|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp;p-p-<font color=C0C0C0>A</font>-p-r<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>E</font><span class="rot">-</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">K</span>|Sarasande]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font>
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>A =</font> Allee<br>
+<font color=blue>B =</font> Platz mit Springbrunnen<br>
+<span class="gelb">D =</span> Din Gior, der Wächter des Palastes<br>
+<span class="hellblau">K =</span> Eingang zum Kalifenpalast ([[<span class="hellblau">Sarasande</span>|Sarasande]])<br>
+<span class="gelb">P =</span> Pavillion<br>
+<font color=00CC00>p =</font> Kokospalme<br>
+<font color=C0C0C0>p =</font> kleiner Platz<br>
+<font color=00CC00>r =</font> Rasenfläche<br>
+<span class="hellblau">T =</span> Treppen ins [[<span class="hellblau">Innere des Palastes</span>|Palast]]<br>
+<font color=00CC00>w =</font> Kiesweg zwischen verschiedenen Blumenbeeten<br>
+<font color=C0C0C0>w =</font> Palastweg<br>
+</span>

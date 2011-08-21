@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp; <span class="gelb">K</span>-<span class="gelb">I</span><br>
+&nbsp; |<br>
+&nbsp; E-<font color=00CC00>G</font><br>
+&nbsp; |<br>
+&nbsp; [[<span class="hellblau">T</span>|Kalifenpalast]]<br>
+&nbsp; |
+</span>
+
+<span class="legend">
+<font color=C0C0C0>E =</font> Eingangshalle<br>
+<font color=00CC00>G =</font> frisch angelegter Garten<br>
+<span class="gelb">I =</span> Isnoguds Gemächer<br>
+<span class="gelb">K =</span> Audienzsaal von Kalif Harun al Pussah<br>
+<span class="hellblau">T =</span> Treppen des Palastes (zurück zum [[<span class="hellblau">Palastgelände</span>|Kalifenpalast]])
+</span>

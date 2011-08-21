@@ -1,0 +1,14 @@
+<span class="map">
+&nbsp;M<br>
+&nbsp;|<br>
+&nbsp;<span class="gelb">S</span><br>
+&nbsp;|<br>
+&nbsp;[[<span class="hellblau">E</span>|Doerrstadt_alt]]<br>
+&nbsp;|<br>
+</span>
+
+<span class="legend">
+<span class="hellblau">E =</span> Eingang des alten Platinbergwerks (nach Süden gehts ins alte [[<span class="hellblau">Doerrstadt</span>|Doerrstadt_alt]])<br>
+<font color=808080>M =</font> Tunnel<br>
+<span class="gelb">S =</span> Bergwerksschacht (man kann nicht runter)<br>
+</span>

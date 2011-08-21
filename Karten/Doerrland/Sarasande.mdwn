@@ -1,0 +1,52 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Doerrland]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">A</span>-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-<span class="orange">H</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;s---s---s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp;<span class="gelb">a</span> &nbsp;<span class="rot">-</span>s &nbsp; &nbsp; <span class="orange">W</span>-s <font color=00CC00>B</font><br>
+&nbsp; &nbsp;| &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<span class="gelb">p</span>-[[<span class="gelb">h</span>|Keller]]-<span class="hellblau">L</span>-s-<span class="hellblau">$</span> [[<span class="orange">L</span>|Luxus]]---p-[[<span class="gelb">M</span>|Moschee]] [[<span class="hellblau">K</span>|Kalifenpalast]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; \ / <span class="rot">\</span> &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s---s-s &nbsp; p-<span class="hellblau">P</span> b<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|\ &nbsp;| &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">D</span> <span class="violett">X</span>-b-b &nbsp; P<span class="rot">-</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\ &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">S</span> &nbsp; s-<span class="gelb">b</span> <span class="orange">K</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Doerrland]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="orange">A =</span> Abduls Laden für magische Gegenstände<br>
+<span class="gelb">a =</span> Angina, die malariakranke Bettlerin<br>
+<font color=00CC00>B =</font> Vorgarten des Gastzeltes zum Beduinen (und vor allem ein <font color=blue>Brunnen</font>)<br>
+<span class="gelb">b =</span> Haus des alten Bergsteigers<br>
+<font color=C0C0C0>b =</font> Basar<br>
+<span class="orange">D =</span> Dahab, der Juwelier<br>
+<span class="orange">H =</span> Laden von Hamis, dem verrückten Erfinder<br>
+<span class="gelb">h =</span> Hinterhof (die verschlossene Luke im Boden führt in den [[<span class="hellblau">Keller</span>|Keller]] des Ladens)<br>
+<span class="hellblau">K =</span> Eingang zum [[<span class="hellblau">Kalifenpalast</span>|Kalifenpalast]]<br>
+<span class="orange">K =</span> Kaffeehaus<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="orange">L =</span> [[<span class="hellblau">Turm des Luxus</span>|Luxus]]<br>
+<span class="gelb">M =</span> [[<span class="hellblau">Moschee</span>|Moschee]]<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="gelb">p =</span> Pferdestall<br>
+<font color=C0C0C0>p =</font> kleiner Platz<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="orange">S =</span> Shahin, der orientalische Schneider<br>
+<span class="hellblau">T =</span> Stadttore nach [[<span class="hellblau">Dörrland</span>|Doerrland]]<br>
+<span class="orange">W =</span> Waffenladen von Shaik<br>
+<span class="violett">X =</span> Hier treffen sich einige Wege:<br>
+&nbsp; &nbsp; – im Keller (r,r,no) gelangt man in das [[<span class="hellblau">Tunnelsystem</span>|Tunnel]] nach Dörrstadt und zur Sphinx<br>
+&nbsp; &nbsp; - ebenfalls im Keller (r,w) geht es zu Stella in [[<span class="hellblau">Erad Nairs Haus</span>|E-Haus]]<br>
+&nbsp; &nbsp; - auf dem Dach ist der Landeplatz des fliegenden Teppichs nach [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]]<br>
+<center><font color=FFFF00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=FFFF00>zurück nach Dörrland</font>|Doerrland]])</font></center>
+</span>

@@ -1,0 +1,7 @@
+<span class="map">
+<span class="gelb">T =</span> Talkessel mit Feuerstelle<br>
+<font color=FFFF00>s =</font> Schlucht<br>
+<font color=blue>s =</font> Felsspalt mit Quelle<br>
+<font color=FFBB00>v =</font> Am Rand eines Vulkans in [[<span class="hellblau">Dörrland</span>|Doerrland]]<br>
+<span class="gelb">Z =</span> Zelt<br>
+</span>

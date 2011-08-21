@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp; <span class="gelb">K</span>-[[<span class="hellblau">E</span>|Doerrland]]-<span class="gelb">d</span><br>
+&nbsp; v |<br>
+&nbsp; <span class="rot">L</span> h-<span class="gelb">H</span><br>
+&nbsp; . |<br>
+... h-<span class="gelb">P</span><br>
+. &nbsp; |<br>
+. <span class="gelb">D</span>-h-<span class="gelb">B</span><br>
+. &nbsp; |<br>
+..<span class="gelb">k</span>-h-<span class="gelb">U</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Gruft der Bürger von Dörrstadt<br>
+<span class="gelb">D =</span> Gruft der Diebesgilde<br>
+<span class="gelb">d =</span> Kammer von Digger, dem Totengräber<br>
+<span class="hellblau">E =</span> Eingang der Höhle (hoch gehts nach [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+<span class="gelb">H =</span> Gruft von Hoheisel, dem ehemaligen Schmied von Dörrstadt<br>
+<span class="gelb">K =</span> Felsenkapelle (man kommt nicht runter in den Lavasee)<br>
+<span class="gelb">k =</span> Krematorium (Lebensmüde können sich auf eine tolle Rutschpartie in den Lavasee freuen)<br>
+<span class="rot">L =</span> Lavasee (hoch gehts in die Kapelle)<br>
+<span class="gelb">P =</span> Kammer von (Priesterin) Ber-Etta<br>
+<span class="gelb">U =</span> Gruft der unbekannten Toten<br>
+</span>

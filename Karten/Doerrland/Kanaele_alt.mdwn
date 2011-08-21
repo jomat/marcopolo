@@ -1,0 +1,8 @@
+<span class="map">
+<span class="gelb">h =</span> Halle (eine  Geheimtür führt hoch in den Bierkeller der Bierbar - also auch ins alte [[<span class="hellblau">Doerrstadt</span>|Doerrstadt_alt]])<br>
+<span class="gelb">K =</span> Kellerraum (mit einer Leiter kann man hoch in den [[<span class="hellblau">ausgebrannten Laden</span>|Laden_alt]] klettern)<br>
+<span class="gelb">k =</span> Aufstieg zur Gilde der Kanalreiniger im alten [[<span class="hellblau">Doerrstadt</span>|Doerrstadt_alt]]<BR>
+<font color=CC3300>k =</font> Abwasserkanal<br>
+<font color=CC3300>r =</font> kleiner Raum<br>
+<font color=CC3300>t =</font> Hier hats ein Becken wo man drin tauchen kann (ziemlich ekelhaft)<br>
+</span>

@@ -1,0 +1,29 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">D</span>|Doerrstadt]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">T</span>-g-g-<span class="gelb">W</span>-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; /&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;g&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; /&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp;g&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; /&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; \<br>
+&nbsp; &nbsp;k&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Doerrland]]<br>
+&nbsp; /<br>
+&nbsp;[[<span class="hellblau">R</span>|Sarasande]]
+</font></TD>
+</span>
+
+<span class="legend">
+<span class="hellblau">D =</span> Treppe hoch nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]]<br>
+<font color=808080>g =</font> Gang<br>
+<font color=808080>k =</font> Spielraum mit frustriertem kartenspieler (aggressiv)<br>
+<span class="hellblau">R =</span> Spielraum in einem Keller in [[<span class="hellblau">Sarasande</span>|Sarasande]]<br>
+<span class="hellblau">S =</span> Treppe hoch zur [[<span class="hellblau">Sphinx</span>|Doerrland]] (und Spinner dem Spinnerich der einem ne Frage stellt bevor er einen durchlässt...) <br>
+<span class="gelb">T =</span> Marmortür<br>
+<span class="gelb">W =</span> Riesiger Sandwurm<br>
+Ansonsten hats noch Alligatoren, Katakobnenasseln und -nattern, und Ratten. Die 
+sind zwar aggresiv, aber man kann allem weglaufen.<br>
+&nbsp;
+</span>

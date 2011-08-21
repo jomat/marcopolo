@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp;<span class="gelb">R</span><br>
+&nbsp;|<br>
+&nbsp;s&lt;g&lt;g<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">B</span>&lt;<span class="gelb">S</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;[[<span class="hellblau">v</span>|Doerrland]]<br>
+&nbsp; &nbsp;<font color=FFBB00>|</font><br>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Höhle eines Sandbär<br>
+<font color=808080>g =</font> Finsterer Gang<br>
+<span class="gelb">R =</span> Hier liegt in einer Lavapfütze der EINE Ring (Vorsicht, ungesund !)<br>
+<span class="gelb">S =</span> Hier kommt man raus wenn man von oben aus dem [[<span class="hellblau">Vulkankrater</span>|Vulkan_2]] in die Spalte klettert (hoch gehts hier nicht)<br>
+<font color=808080>s =</font> Finsterer Stollen<br>
+<span class="gelb">v =</span> Vor der Bärenhöhle (in [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+</span>

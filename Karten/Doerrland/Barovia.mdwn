@@ -1,0 +1,76 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>z</font>-[[<span class="hellblau">S</span>|Schloss]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-W-W-W-W-W-W-W-W-</font>p<font color=008000>-W-W</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X|X|X|X|X|X|X|X|X</font>|<font color=008000>X|X|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-</font>m-m-m-m-m-m-m<font color=008000>-W-</font>p<font color=008000>-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">s</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X</font>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<font color=008000>X|X</font>|<font color=008000>X|X|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-</font>m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<font color=008000>-W-</font>p<font color=008000>-W-W</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; f [[<span class="hellblau">G</span>|Gruftlab]] f<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X</font>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<font color=008000>X|X</font>|<font color=008000>X|X|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \|/ \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-</font>m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<font color=008000>-W-</font>p<font color=008000>-W-W</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; <span class="gelb">K</span> &nbsp; f<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X</font>| &nbsp; &nbsp; <span class="rot">|</span> &nbsp; &nbsp; |<font color=008000>X|X</font>|<font color=008000>X|X|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ / \ / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-</font>m-m-m-T-m-m-m<font color=008000>-W-</font>p<font color=008000>-W-W</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; f &nbsp; f &nbsp; f &nbsp; f<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X</font>|X|X|X|X|X|X|<font color=008000>X|X</font>|<font color=008000>X|X|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ / \ / \ / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-</font>f-f-f-f-f-f-f<font color=008000>-W-</font>p<font color=008000>-W-W</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; f &nbsp; f &nbsp; f &nbsp; f<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X|X|X|X|X|X|X|X|X</font>|<font color=008000>X|X|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ / \ / \ / \ / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-W-W-W-W-W-W-W-W-</font>p<font color=008000>-W-W</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">J</span><font color=C0C0C0>-</font><span class="gelb">j</span> f &nbsp; f &nbsp; f &nbsp; f &nbsp; f &nbsp; f<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|</font> &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>s-s-s-<span class="gelb">P</span>-</font>[[<span class="hellblau">T</span>|Tyr]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; s-s-s-s&nbsp; &nbsp; &nbsp;<font color=C0C0C0>s</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp;&nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span> &nbsp; &nbsp; &nbsp; s [[<span class="rot">F</span>|OdF]]-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;|/ &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">Z</span>-M-s-<font color=blue>b</font> &nbsp; &nbsp; s-<span class="gelb">G</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;/|\ &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; <span class="hellblau">L</span> |&nbsp;<span class="orange">B</span> s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp;/&nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s &nbsp; s-s &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s---<span class="gelb">p</span>-s-s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-W-W-W-</font>p<font color=008000>-W-W-W-W &nbsp; [[<span class="hellblau">M</span>|Mausoleum]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X</font>|<font color=008000>X|X|X|X| &nbsp; <font color=808080>.</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-</font>p<font color=008000>-W-W-W-W-</font>f-f-f<font color=008000><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X</font>|<font color=008000>X|X|X|X| </font>|X|X|<font color=008000><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-</font>p<font color=008000>-W-W-W-W</font> f-f-<span class="gelb">E</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;n-n-n-s-n-n-n<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">N</span>|Vulkan]]
+</span>
+
+<span class="legend">
+<span class="orange">B =</span> Taverne 'Blut der Reben'<br>
+<font color=blue>b =</font> kleiner Platz mit Brunnen<br>
+<span class="gelb">E =</span> Edward, der dunkle Paladin (hier ist auch ein Loch, durch das man in eine unterirdische Kammer kriechen kann)<br>
+<span class="rot">F =</span> Flammentor zur [[<span class="hellblau">Beschwörergilde</span>|OdF]]<br>
+<font color=808080>f =</font> Friedhof<br>
+<span class="hellblau">G =</span> Eingang zur [[<span class="hellblau">Gruft</span>|Gruftlab]] des Zombiefürsten<br>
+<span class="gelb">G =</span> Gruft des Paladinordens<br>
+<span class="gelb">K =</span> Krypta<br>
+<span class="gelb">J =</span> Jean Pierres Fechtschule (momentan wird renoviert)<br>
+<span class="gelb">j =</span> Jean Pierres Privatgemächer<br>
+<span class="hellblau">L =</span> Laden<br>
+<font color=808080>M =</font> alter Marktplatz<br>
+<font color=808080>m =</font> verfallene Mauer<br>
+<span class="hellblau">M =</span> [[<span class="hellblau">Mausoleum</span>|Mausoleum]] (man kommt hin in dem man unter der Brombeerhecke durchkriecht)<br>
+<span class="hellblau">N =</span> besonders dichte Nebelbank durch die man zu den [[<span class="hellblau">Ruinen von Smaragdenstadt</span>|Vulkan]] gelangt<br>
+<font color=808080>n =</font> Im Nebel... hier sind einige Untote unterwegs und man läuft öfters mal im Kreis - ich zeichne mal nur die Wege ein die irgendwohin führen...<br>
+<span class="gelb">P =</span> Paladin vor dem Tempel des Tyr<br>
+<span class="gelb">p =</span> Geplünderter Planwagen<br>
+<font color=808080>p =</font> Pfad durch den Wald<br>
+<span class="hellblau">S =</span> [[<span class="hellblau">Schloss</span>|Schloss]] von Barovia<br>
+<span class="gelb">S =</span> Serrafin, der Aussteiger<br>
+<span class="gelb">s =</span> Statue<br>
+<font color=808080>s =</font> Straße<br>
+<span class="hellblau">T =</span> [[<span class="hellblau">Tempel des Tyr</span>|Tyr]]<br>
+<font color=808080>T =</font> verrostetes Tor in der Mauer<br>
+<font color=808080>t =</font> grosses Tor<br>
+<font color=008000>W =</font> Im Svalichwald<br>
+<font color=808080>z =</font> Vor der Zugbrücke des Schlosses<br>
+<span class="orange">Z =</span> Vor dem Laden von Smork, dem Zombieverkäufer<br>
+<center><font color=808080 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=808080>zurück nach Dörrland</font>|Doerrland]])</font></center>
+</span>

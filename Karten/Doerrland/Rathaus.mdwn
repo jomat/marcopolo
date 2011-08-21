@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp;Erdgeschoss &nbsp; Obergeschoss<br>
+&nbsp;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<span class="violett">L</span>|L-Space]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">S</span>-[[<span class="hellblau">H</span>|Doerrstadt]]-<span class="gelb">A</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">B</span>-<span class="gelb">V</span> &nbsp;<br>
+&nbsp; &nbsp; &nbsp; |<br>
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Archiv<br>
+<span class="gelb">B =</span> Bürgermeisterbüro<br>
+<span class="hellblau">H =</span> Rathaushalle (nach Süden gehts raus nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]], oder die Treppe hoch in den Versammlungssaal)<br>
+<span class="violett">L =</span> Eingang zum dimensional gekrümmten [[<span class="hellblau">L-Space</span>|L-Space]]<br>
+<span class="gelb">S =</span> Beth, die Stadtschreiberin<br>
+<span class="gelb">V =</span> Versammlungsraum (hier geht auch die Treppe runter in die Rathaushalle)<br>
+</span>

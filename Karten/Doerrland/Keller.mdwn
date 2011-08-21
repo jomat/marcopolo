@@ -1,0 +1,14 @@
+<span class="map">
+&nbsp;k-k-k<br>
+&nbsp;|&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;<span class="gelb">g</span>-[[<span class="hellblau">a</span>|Drachenland/U3]] k-[[<span class="hellblau">l</span>|Sarasande]]<br>
+&nbsp;|&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;k-k-k
+</span>
+
+<span class="legend">
+<span class="hellblau">a =</span> Abstellkammer (Durch ein Loch in der Wand gelangt man in die [[<span class="hellblau">Unterwelt</span>|Drachenland/U3]])<br>
+<span class="gelb">g =</span> Durch drücken oder ziehen der öllampe in diesem Feld öffnet sich der Durchgang nach Osten<br>
+<span class="hellblau">l =</span> An der Decke dieses Raumes ist eine (verschlossene) Luke durch die man in den Hinterhof des Ladens von [[<span class="hellblau">Sarasande</span>|Sarasande]] gelangt<br>
+<font color=808080>k =</font> Im Keller<br>
+</span>

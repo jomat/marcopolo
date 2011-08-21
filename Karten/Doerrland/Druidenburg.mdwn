@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;F-g-a-g-<span class="gelb">V</span>&nbsp;&nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; |<br>
+&nbsp;r-<span class="gelb">s</span>-r-<span class="gelb">n</span>-E-d-f-f-f<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; v &nbsp; <font color=00CC00>|</font><br>
+&nbsp;f<font color=00CC00>-g</font> &nbsp; &nbsp; [[<span class="hellblau">b</span>|Doerrland]] &nbsp; <font color=00CC00>h</font><br>
+&nbsp;| <font color=00CC00>|</font> &nbsp; &nbsp; v &nbsp; <font color=00CC00>|</font><br>
+&nbsp;A <font color=00CC00>g</font> <span class="gelb">B</span> &nbsp; &nbsp; &nbsp; [[<span class="hellblau">L</span>|Druidenburglab]]<br>
+&nbsp;| &nbsp; |<br>
+&nbsp;<span class="gelb">h</span>-<span class="gelb">A</span>-f
+</span>
+
+<span class="legend">
+<P><font color=C0C0C0 FACE="Courier New" STYLE="font-size: 8pt">
+<span class="gelb">A =</span> Allanon, der Druide<br>
+<font color=C0C0C0>A =</font> Aufenthaltsraum<br>
+<font color=C0C0C0>a =</font> Abstellkammer<br>
+<span class="gelb">B =</span> Bibliothek<br>
+<span class="hellblau">b =</span> An einem großen Felsblock (runter gehts nach [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+<font color=C0C0C0>d =</font> Durchgang<br>
+<font color=C0C0C0>E =</font> Eingangshalle<br>
+<font color=C0C0C0>F =</font> Auf dem Felsen der Druidenburg (vor der Ruine)<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<font color=00CC00>g =</font> Garten<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">h =</span> Um die Tür nach Osten zu öffnen muss man hier 5 Hebel in die Richtige Position bringen<br>
+<font color=00CC00>h =</font> Verwilderter Innenhof<br>
+<span class="hellblau">L =</span> Felsbrocken (wenn man ihn zur Seite rollt gehts runter ins [[<span class="hellblau">Druidenburglabyrinth</span>|Druidenburglab]])<br>
+<span class="gelb">n =</span> Die Tür nach Westen öffnet sich wenn man den herausstehenden Nagel drückt<br>
+<font color=C0C0C0>r =</font> Ruine<br>
+<span class="gelb">s =</span> Ein Stein an der Wand öffnet beim Drücken eine Geheimtür nach Westen<br>
+<font color=C0C0C0>t =</font> Treppe (im Obergeschoss kann man ein Feld nach 
+Westen in einen Flur gehen - wenn man von dort nach Süden geht bricht man durch 
+die Decke in das Feld südwestlich der Treppe)<br>
+<span class="gelb">V =</span> Versteck<br>
+</span>

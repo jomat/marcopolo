@@ -1,0 +1,51 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>B</font>.<span class="gelb">a</span>.g<font color=blue>.T</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ^^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^ ^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;k.k<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. .</font><br>
+&nbsp; &nbsp;t-t &nbsp; &nbsp; &nbsp; <span class="gelb">W</span>-<span class="gelb">N</span><br>
+&nbsp; &nbsp;| &nbsp;\ &nbsp; &nbsp; .<br>
+&nbsp; &nbsp;t &nbsp; <span class="gelb">A</span>-g <span class="gelb">s</span> 
+<span class="gelb">K</span>-<span class="gelb">z</span><br>
+&nbsp; &nbsp;| &nbsp; ^ | &nbsp;\|\<br>
+&nbsp; &nbsp;t &nbsp; a g-g-<span class="gelb">P</span> <span class="gelb">L</span><br>
+&nbsp; /&nbsp; &nbsp; | &nbsp; |<br>
+&nbsp;t &nbsp; &nbsp; <span class="rot">F</span> &nbsp; <span class="gelb">k</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">f</span> s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>-[[<span class="hellblau">w</span>|Doerrland]]-</font>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Dreiköpfiger Affe<br>
+<span class="gelb">a =</span> Durchgang mit Algenmonster ('rein' geht auf meiner Karte nach Westen und 'raus' nach Osten)<br>
+<font color=808080>a =</font> Absatz (mit nem Seil kann man runterklettern)<br>
+<font color=blue>B =</font> Wunschbrunnen<br>
+<span class="rot">F =</span> Fangeisen (fest installiert)<br>
+<span class="gelb">f =</span> Höhle mit Feldermäusen (aggressiv)<br>
+<font color=808080>g =</font> Grotte/Gang<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">k =</span> Kleine Kammer<br>
+<font color=C0C0C0>k =</font> Sims an einer Klippe (man kann ins jeweils andere Feld bzw. in die Fenster klettern - oder runter in den Brandungstümpel klettern/fallen)<br>
+<span class="gelb">N =</span> Piratenkapitän Norris Schlafzimmer<br>
+<span class="gelb">P =</span> Höhle mit ein paar Piratenskeletten<br>
+<font color0FFCC00>S =</font> Schatzkammer<br>
+<span class="gelb">s =</span> Sackgasse (mit ner Leiter kann man durch die Öffnung im Nordosten klettern)<br>
+<font color=808080>s =</font> Hier ist ein Spalt an der Wand (man kann ins andere Feld durchklettern)<br>
+<font color=blue>T =</font> Brandungstümpel (man kann in das Loch am Grund hineintauchen und gelangt so in die westlich eingezeichnete Grotte)<br>
+<font color=808080>t =</font> Tunnel<br>
+<span class="gelb">W =</span> Wohnzimmer<br>
+<span class="hellblau">w =</span> Wasserfall (auf einer kleinen Insel östlich von [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+<span class="gelb">z =</span> Piratenschlafzimmer<br>
+</span>

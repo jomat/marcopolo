@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp; Turm &nbsp; &nbsp;Keller<br>
+	<br>
+&nbsp;<span class="gelb">A</span><br>
+&nbsp;v<br>
+&nbsp;t K &nbsp; &nbsp; &nbsp; &nbsp;g-K<br>
+&nbsp;v | &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;t-r-<span class="gelb">M</span> [[<span class="hellblau">s</span>|Vulkan_2]] &nbsp; &nbsp;<span class="gelb">G</span><br>
+&nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp;r---r
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Turmspitze mit einer gewaltigen Armbrust<br>
+<span class="gelb">G =</span> Grotte mit Maschinerie zum Drehen der Armbrust<br>
+<font color=C0C0C0>g =</font> Dunkler Gang<br>
+<font color=C0C0C0>K =</font> Hier gehts in den Keller runter bzw. wieder hoch<br>
+<span class="gelb">M =</span> Munitionsdepot<br>
+<font color=C0C0C0>r =</font> Ruine<br>
+<span class="hellblau">s =</span> Schacht im [[<span class="hellblau">Vulkan</span>|Vulkan_2]]<br>
+<font color=C0C0C0>t =</font> Im Inneren des Wachturmes<br>
+</span>

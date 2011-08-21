@@ -1,0 +1,39 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;g-g s-s<br>
+&nbsp; &nbsp; &nbsp; /&nbsp; | &nbsp;\<br>
+&nbsp;g &nbsp; g &nbsp; s &nbsp; <span class="gelb">s</span> &nbsp; s-s<br>
+&nbsp; \ / &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp;g-g-g-g-<span class="gelb">h</span>-g-g-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=009999>f-f</font> g g-g-g-g-[[<span class="gelb">T</span>|Nekromantengilde]]-[[<span class="gelb">n</span>|Nekromantengilde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;w-[[<font color=FFFF00>S</font>|Lavasee]] j<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g-g-w <span class="rot">L</span> j<br>
+&nbsp; &nbsp;| &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp;g &nbsp; w-w-w<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g-g-g-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; <span class="gelb">k</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g [[<span class="gelb">K</span>|Doerrstadt]]
+</span>
+
+<span class="legend">
+<font color=009999>f =</font> Gekühlte Lagerräume (jetzt voller Knochen - im Hinteren liegt ne Nachricht rum)<br>
+<font color=808080>g =</font> enger Gang<br>
+<span class="gelb">h =</span> Ruhmeshöhle des Arbeitenden Zwerges (hier steht ne Statue mit Goldzahn)<br>
+<font color=808080>j =</font> Um in das jeweils andere Feld zu gelangen muss man dorthin springen (mit 'springe nach norden/süden')<br>
+<span class="gelb">K =</span> Hier kommt man von [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]] runter (in den Keller der alten Schmiede)<br>
+<span class="gelb">k =</span> Über den Kohlehaufen hier kann man nach Norden rüberklettern [kletter über Haufen]<br>
+<span class="rot">L =</span> Lavasee (der See ist 3x3 Felder gross und von dem Feld unter Feld S [treppe runter] kann man hineinspringen)<br>
+<span class="gelb">n =</span> In diesem Obsidianwurmgang kann man sich den Weg nach Süden in die [[<span class="hellblau">Nekromantengilde</span>|Nekromantengilde]] freisprengen<br>
+<font color=FFFF00>S =</font> Hier findet man Schwefel (und es geht noch ein paar Treppenstufen runter von wo aus man in den [[<span class="hellblau">Lavasee</span>|Lavasee]] springen kann)<br>
+<span class="gelb">s =</span> Spalte (runter ins Nest der Würmer)<br>
+<font color=808080>s =</font> Bergwerksstollen<br>
+<span class="gelb">T =</span> Schwarzes Felsentor (wenn man das Passwort 'Abumaze' sagt gelangt man in die [[<span class="hellblau">Nekromantengilde</span>|Nekromantengilde]])<br>
+<font color=808080>w =</font> Weg am Rande eines Lavasees<br>
+<font color=red> Im Gang vor der Steintür hat es einige gefählriche Nebelfelder - die greifen sofort recht stark an, haben ein recht tödliches Gift namens 
+&quot;Todeskälte&quot; und verfolgen in etwa so gut wie Tarakaja - also Vorsicht !
+</span>

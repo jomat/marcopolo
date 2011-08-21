@@ -1,0 +1,6 @@
+<span class="map">
+<span class="gelb">C</span>-g-g-g-[[<span class="violett">U</span>|Universum]]</TR>
+<span class="gelb">C =</span> Kammer der Chimäre (bloßes Betreten des Raumes zieht schon um die 10 AP ab; die Chimäre ist in dem großen Brannkreis den man betreten kann)<br>
+<font color=808080>g =</font> Dunkler Gang<br>
+<span class="violett">U =</span> Ostende der großen Halle mit 4 Statuen (durch ein richtig ausgeführtes Ritual [Abumaze, Jarod, Erad Nair, Tod -&gt; rufen] gelangt man hier ins [[<span class="hellblau">Universum</span>|Universum]] - vorsicht, zieht ein paar AP das Ritual)<br>
+</span>

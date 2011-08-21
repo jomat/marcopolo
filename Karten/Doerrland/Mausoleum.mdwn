@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp;s-s-s-s<br>
+&nbsp;| | | |<br>
+&nbsp;s-h-h-s<br>
+&nbsp;| |<span class="gelb">S</span>| |<br>
+&nbsp;s-h-h-s<br>
+&nbsp;| | | |<br>
+&nbsp;s-s-s-s<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;[[<span class="hellblau">E</span>|Barovia]]
+</span>
+
+<span class="legend">
+<span class="hellblau">E =</span> Eingangshalle des Mausoleums (hier kommt man auch wieder raus nach [[<span class="hellblau">Barovia</span>|Barovia]])<br>
+<font color=808080>h =</font> Halle<br>
+<span class="gelb">S =</span> Sarg (diagonal von den Feldern aussenrum zu erreichen)<br>
+<font color=808080>s =</font> Säulengang<br>
+</span>

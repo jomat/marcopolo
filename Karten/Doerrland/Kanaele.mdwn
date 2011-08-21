@@ -1,0 +1,15 @@
+<span class="map">
+<span class="gelb">a =</span> Gitter zur Arena in [[<span class="hellblau">Doerrstadt</span>|Doerrstadt]]<br>
+<span class="gelb">b =</span> Eingang des alten Bergwerks in [[<span class="hellblau">Doerrstadt</span>|Doerrstadt]]<br>
+<font color=808080>g =</font> kleiner Gang<br>
+<span class="gelb">h =</span> Halle (eine  Geheimtür führt hoch in den Bierkeller von McGregors (also auch nach [[<span class="hellblau">Doerrstadt</span>|Doerrstadt]])<br>
+<font color=CC3300>k =</font> Abwasserkanal<br>
+<span class="gelb">k =</span> Aufstieg zur Gilde der Kanalreiniger in [[<span class="hellblau">Doerrstadt</span>|Doerrstadt]]<BR>
+<font color=CC3300>R =</font> runder Raum mit Gitter im Boden<br>
+<font color=CC3300>r =</font> kleiner Raum<br>
+<font color=808080>S =</font> Bergwerksschacht in der alten Mine von Dörrstadt (4 Felder übereinander - ganz unten gehts nach Norden zum Rand des [[<span class="hellblau">Lavasees</span>|Lavasee]], 2. von unten gehts nach so in den Gang, 3. Feld 
+ist nur grader Schacht und ganz oben gehts nach Norden zum Troll und nach Süden zum Ausgang)<br>
+<font color=CC3300>s =</font> Schacht (hier gehts runter und wieder hoch zu dem Gangstück zwischen den beiden Schächten [2 Felder übereinander])<br>
+<font color=CC3300>t =</font> Hier hats ein Becken wo man drin tauchen kann (ziemlich ekelhaft)<br>
+<font color=808080>W =</font> Wohnhöhle des Wüstentrolls<br>
+</span>

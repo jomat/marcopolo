@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp;<span class="gelb">K</span>-s-<span class="gelb">s</span>-[[<span class="gelb">L</span>|Doerrstadt_alt]]<br>
+&nbsp;|<br>
+&nbsp;s<br>
+&nbsp;|<br>
+&nbsp;<span class="gelb">S</span><br>
+
+</span>
+
+<span class="legend">
+<span class="gelb">K =</span> Kammer mit schleimigen Klumpen<br>
+<span class="gelb">L =</span> Kokon mit einem Loch, durch dass man in die Arena im alten [[<span class="hellblau">Dörrstadt</span>|Doerrstadt_alt]] runterklettern kann<br>
+<span class="gelb">s =</span> Hier kann man hochklettern und gelangt in einen mit einem Pfropfen zugeschleimten Schacht<br>
+<span class="gelb">S =</span> Hier geht ein tiefer Schacht in die Tiefe<br>
+<font color=C0C0C0>s =</font> Schacht<br>
+</span>

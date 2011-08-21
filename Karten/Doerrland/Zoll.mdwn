@@ -1,0 +1,15 @@
+<span class="map">
+&nbsp;<span class="gelb">T</span><br>
+&nbsp;|<br>
+&nbsp;g<br>
+&nbsp;|<br>
+&nbsp;<span class="gelb">g</span>-<span class="gelb">g</span>-[[<span class="hellblau">Z</span>|Doerrstadt]]
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">g =</span> Zwischen diesen beiden Feldern ist ein Eisengitter<br>
+<span class="gelb">T =</span> Tresorraum<br>
+<span class="hellblau">Z =</span> Hier kann man (gefahrlos) ins Zollhäuschen von [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]] runterspringen<br>
+</span>

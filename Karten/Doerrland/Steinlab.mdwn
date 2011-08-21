@@ -1,0 +1,42 @@
+<span class="map">
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=3366FF>6</font>&nbsp;&nbsp;k--k--k--k&nbsp;&nbsp;<span class="gelb">H</span>--k<span class="gelb">t7</span>k--k--k<br>
+&nbsp;&nbsp;&nbsp; <span class="gelb">t5</span>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp; <font color=3366FF>1</font>&nbsp; k--k--k&nbsp;&nbsp;k--k--k--k--k&nbsp; k<br>
+&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp; &nbsp; k--k&nbsp;&nbsp;k&nbsp;&nbsp;k--k--<span class="gelb">g</span>&nbsp;&nbsp;k<span class="gelb">t6</span>k&nbsp;&nbsp;k<span class="gelb">t4</span>k<br>
+&nbsp;&nbsp;&nbsp; |&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;<span class="rot">|</span>&nbsp;&nbsp;|<br>
+&nbsp; &nbsp; k&nbsp; <span class="gelb">F</span>&nbsp;&nbsp;k--<span class="gelb">f</span>&nbsp;&nbsp;k&nbsp;&nbsp;k--k&nbsp;&nbsp;k&nbsp;&nbsp; &nbsp;&nbsp;k<br>
+&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp; <font color=C0C0C0>-</font>[[<span class="gelb">S</span>|Doerrstadt]]&nbsp;&nbsp;k--k--k&nbsp; <span class="gelb">T</span>&nbsp; k&nbsp;&nbsp;<span class="gelb">A</span>&nbsp;&nbsp;k&nbsp; k--k<br>
+&nbsp; &nbsp; |&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;<span class="gelb">t2</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;k--<font color=3366FF>7</font> &nbsp;k&nbsp;&nbsp;k-h-<span class="gelb">W</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;<font color=3366FF>2</font>&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;k--k&nbsp;&nbsp;<font color=3366FF>4</font>--k&nbsp;&nbsp;<span class="gelb">F</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;k--k--k&nbsp;&nbsp;k&nbsp;&nbsp;k--k&nbsp;&nbsp;k&nbsp;&nbsp;k<span class="gelb">t3</span><font color=3366FF>5</font>&nbsp;&nbsp;k<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;t&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;k&nbsp;&nbsp;k&nbsp;&nbsp;<font color=3366FF>3</font><span class="gelb">t1</span>k--k--k&nbsp;&nbsp;k--k--k--k<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp; &nbsp; k--k--k--k--k--k--k--k--k--k
+</span>
+
+<span class="legend">
+<span class="gelb">t1-t7 =</span> Tür 1 bis 7, die mit folgenden Schlüsseln zu öffnen sind:<br>
+<font color=3366FF>1 =</font> In einer Spalte in der Wand einen schwarzen Schlüssel<BR>
+<font color=3366FF>2 =</font> Hinter einem losen Stein liegt ein grauer Schlüssel<BR>
+<font color=3366FF>3 =</font> Ein bronzefarbener Schlüssel hängt an einem Haken<br>
+<font color=3366FF>4 =</font> N'zgr'ndl, die Ork-Schlammcatcherin hat den silbernen Schlüssel und rückt ihn raus wenn man ihr nen Waschlappen gibt<BR>
+<font color=3366FF>5 =</font> Der Goldene Schlüssel liegt auf dem Bord in N'zgr'ndl's Badezimmer<BR>
+<font color=3366FF>6 =</font> Ein weisser Schlüssel liegt hier auf dem Boden<BR>
+<font color=3366FF>7 =</font> An nem Haken hängt hier ein roter Schlüssel<br>
+<span class="gelb">A =</span> Altar<br>
+<span class="gelb">F =</span> Hier gehts ne Falltür runter (das Loch im Raum darunter führt zu nem ähnlichen Raum unter der 2. Falltür)<br>
+<span class="gelb">f =</span> Fackelkobold<br>
+<span class="gelb">g =</span> goldener Kochtopf<br>
+<span class="gelb">H =</span> Hebel (erzeugt ein Notenblatt)<br>
+<font color=808080>h =</font> kleiner Halle hinter dem Labyrinth<br>
+<font color=808080>k =</font> Korridor / Gang / Röhre<br>
+<span class="gelb">S =</span> Eingang zum Steinernen Labyrinth (von [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]] aus)<br>
+<span class="gelb">T =</span> Höhlentroll<br>
+<span class="gelb">W =</span> Heilige Quelle der Wasserkobolde
+</span>

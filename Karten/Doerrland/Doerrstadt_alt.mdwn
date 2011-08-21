@@ -1,0 +1,59 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">M</span><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">m</span>-s-s-<span class="gelb">H</span><br>
+&nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;[[<span class="gelb">k</span>|Kanaele_alt]] &nbsp; s &nbsp; &nbsp; [[<span class="gelb">b</span>|Bergwerk_alt]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">B</span><span class="rot">-</span>p &nbsp; &nbsp; s-<span class="orange">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">r</span>-<span class="orange">s</span> &nbsp; <span class="hellblau">a</span> &nbsp; [[<span class="gelb">R</span>|Rathaus]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp;[[<span class="gelb">N</span>|Roax-Nest]]-a <span class="gelb">h</span>-s&nbsp;<span class="hellblau">G</span> &nbsp; s &nbsp; p-<span class="hellblau">P</span><br>
+&nbsp; &nbsp;|X| &nbsp; | | &nbsp; | &nbsp; |<br>
+&nbsp;a-a-a-s-p-s-s-s <span class="violett">E</span>-s-<span class="hellblau">L</span><br>
+&nbsp;|\| &nbsp; &nbsp;/| &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp;a-a &nbsp; <span class="gelb">B</span> <span class="hellblau">$</span> &nbsp; &nbsp; <span class="violett">D</span>-s-s-s-<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s <span class="orange">B</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s-s-[[<span class="gelb">G</span>|Luftschacht_alt]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-<span class="gelb">E</span> s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s s-<span class="gelb">p</span>-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+<span class="hellblau">$ =</span> Bank<br>
+<span class="hellblau">a =</span> Aufstieg die Schlucht hinauf nach Dörrland (oben ist ein geschlossenes Tor)<br>
+<font color=C0C0C0>a =</font> Arena<br>
+<span class="orange">B =</span> Bierbar (beschrankt)<br>
+<span class="orange">b =</span> Barbier von Dörrstadt (geschlossen)<br>
+<span class="gelb">B =</span> Turm der Bürgerwehr (verschlossen)<br>
+<span class="gelb">b =</span> Altes [[<span class="hellblau">Platinbergwerk</span>|Bergwerk_alt]]<br>
+<span class="violett">D =</span> Dimensionstor nach Asia (inaktiv)<br>
+<span class="violett">E =</span> Erad-Nairs Haus (man kann es nicht betreten von hier aus - ein Kraftfeld hält einen zurück)<br>
+<span class="gelb">E =</span> Einsiedlerhöhle (zu vermieten)<br>
+<span class="gelb">G =</span> Glond, der Minjero (man kann in nen [[<span class="hellblau">Luftschacht</span>|Luftschacht_alt]] an der Wand klettern)<br>
+<span class="hellblau">G =</span> Laden & Eingang der Diebesgilde<br>
+<span class="gelb">H =</span> Schmutziger Hinterhof<br>
+<span class="gelb">h =</span> Altes Herrenhaus (verschlossen)<br>
+<span class="gelb">k =</span> Gilde der Kanalreiniger (ne Leiter runter gehts in die [[<span class="hellblau">Kanalisaion</span>|Kanaele_alt]])<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="gelb">M =</span> Gilde der Minenarbeiter<br>
+<span class="gelb">N =</span> Hier kann man Hochklettern ins [[<span class="hellblau">Nest</span>|Roax-Nest]] der Roax<br>
+<span class="gelb">m =</span> Minjeros, vor der verschlossenen Mine<br>
+<span class="gelb">p =</span> Pickelnase<br>
+<font color=C0C0C0>p =</font> Labplatz / Sandplatz / Altstadtplatz<br>
+<span class="gelb">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus_alt]] des alten Dörrstadt<br>
+<span class="gelb">r =</span> Rotlichtbezirk (Rosy & Lude Achmet)<br>
+<span class="orange">S =</span> Restaurant Schad<br>
+<span class="orange">s =</span> Sandbar (geschlossen)<br>
+<span class="gelb">S =</span> Eingang zum steinernen Labyrinth (dieses Feld ist nicht betretbar - ein Kraftfeld hält einen ab)<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<center><font color=FFFF00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=FFFF00>zurück nach Dörrland</font>|Doerrland]])</font></center>
+</span>

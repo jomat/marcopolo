@@ -1,0 +1,7 @@
+<span class="map">
+<span class="gelb">A =</span> Altar am Ufer des Lavasees<br>
+<span class="gelb">b =</span> Hier kann man aus der Lava rausklettern (und ist dann im [[<span class="hellblau">Bergwerk</span>|Kanaele]])<br>
+<span class="gelb">F =</span> Mitten in der Lava hier ist ein grosser Felsen mit ner Leiche drauf<br>
+<span class="rot">L =</span> Lava<br>
+<span class="rot">S =</span> Hier ladet man wenn man in den [[<span class="hellblau">Vulkanhöhlen</span>|Vulkanhoehlen]] in die Lava springt (zurück kommt man hier nicht)<br>
+</span>

@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp; g-<span class="gelb">u</span><br>
+&nbsp; |<br>
+&nbsp; <span class="gelb">k</span><br>
+&nbsp; |<br>
+&nbsp; <span class="gelb">K</span><br>
+&nbsp; |<br>
+&nbsp; g<br>
+&nbsp; |<br>
+&nbsp;<font color=FFFF00>-[[<span class="hellblau">R</span>|Doerrland]]-<br>
+&nbsp;/|\
+</span>
+
+<span class="legend">
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">K =</span> Hier ist ein magischer Kalender in die Wand eingelassen<br>
+<span class="gelb">k =</span> Im Schutt ist hier eine Kiste verbuddelt<br>
+<span class="hellblau">R =</span> Vor der Ramoth-Pyramide (in [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+<span class="gelb">u =</span> Hier steht eine alte Standuhr<br>
+</span>

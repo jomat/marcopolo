@@ -1,0 +1,61 @@
+<span class="map">
+&nbsp;g---g---g---g-<span class="gelb">W</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">N</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;g &nbsp; &nbsp; S-S-S-S-<span class="gelb">A</span>-S-S-S-S-S<br>
+&nbsp;&#9474; &nbsp; &nbsp; | | | | | | | | | |<br>
+&nbsp;&#9474; &nbsp; &nbsp; ...................<br>
+&nbsp;&#9474; &nbsp; &nbsp; .18 weitere Zeilen.<br>
+&nbsp;&#9474; &nbsp; &nbsp; ...................<br>
+&nbsp;&#9474; &nbsp; &nbsp; | | | | | | | | | |<br>
+&nbsp;&#9474; &nbsp; &nbsp; S-S-S-S-<span class="gelb">E</span>-S-S-S-S-S<br>
+&nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">I</span><br>
+&nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&#9474; u u &nbsp; &nbsp; &nbsp; &nbsp; h<br>
+&nbsp;&#9474; | | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&#9474; <span class="gelb">F<font color=blue>.</span>F</font> &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">T</span><font color=00CC00>-</font><span class="gelb">k</span><br>
+&nbsp;&#9474; | | &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/|X|</font><br>
+&nbsp;&#9474; u u &nbsp; &nbsp; t <font color=00CC00>o-o-b</font><br>
+&nbsp;&#9492;&#9488;| | &nbsp; &nbsp; | <font color=00CC00>.</font><br>
+&nbsp;h&#9532;u ö.ö<font color=00CC00>-o-o-</font><span class="rot">f</span> <font color=blue>s-</font><span class="gelb">s</span><br>
+&nbsp;|&#9474;| | &nbsp; &nbsp; <font color=00CC00>|X|</font> <font color=blue>|X|</font><br>
+&nbsp;|&#9474;u u &nbsp; &nbsp; <font color=00CC00>B-</font><span class="gelb">s</span><font color=blue>.s-s</font><br>
+&nbsp;|&#9492;&#9488; &nbsp; &nbsp; &nbsp; <font color=00CC00>|X|</font><br>
+&nbsp;<span class="gelb">S</span>&lt;<span class="gelb">e</span>&lt;s&lt;s&lt;[[<span class="hellblau">L</span>|Doerrland]] <span class="gelb">K</span><font color=00CC00>-P</font>.<span class="gelb">p</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Ausgang der Höhle der Säulen (hier ist ein Podest auf das man das Glas stellen muss)<br>
+<font color=00CC00>B =</font> Bananenplantage<br>
+<font color=00CC00>b =</font> Blumenwiese<br>
+<span class="gelb">E =</span> Eingang der Höhle der Säulen (hier ist ein Wasserbecken wo man das Glas füllen kann)<br>
+<span class="gelb">e =</span> Hier ist eine enge Spalte im Gestein (wo man am Ende wieder rauskommt)<br>
+<span class="gelb">F =</span> Floß (im westlichen Feld muss man sich ein Segel improvisieren, im östlichen Feld kann man sich einfach mit der Stange abstoßen)<br>
+<span class="rot">f =</span> Feuerwurm (und eine Palme auf die man klettern kann, und eine Lücke in die man nach Norden hin kriechen kann)<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<font color=C0C0C0>h =</font> Kleine Höhle<br>
+<span class="gelb">I =</span> Intelligenztest<br>
+<span class="gelb">K =</span> Sesam, die Kiste<br>
+<span class="gelb">k =</span> Knubbelkinn, der Falschspieler<br>
+<span class="hellblau">L =</span> Großes Loch (in der Wüste [[<span class="hellblau">Dörrlands</span>|Doerrland]])<br>
+<span class="gelb">N =</span> Hier liegt der Sandbeutel mit Natumo drin<br>
+<span class="gelb">O =</span> Hier ist unter Wasser ein Octopus<br>
+<font color=00CC00>o =</font> Geheime Oase<br>
+<font color=C0C0C0>ö =</font> Hier ist eine Öffnung in der Wand durch die man in das jeweils andere Feld klettern kann<br>
+<font color=00CC00>P =</font> Palme (man kann draufklettern; ansonsten hats hier noch ne Spalte in die man kriechen kann)<br>
+<span class="gelb">p =</span> Panzerkäfer<br>
+<span class="gelb">S =</span> Höhle mit einem Skelett<br>
+<span class="gelb">s =</span> Hier ist ein Steg, der auf den See im Osten herausragt (und eine erkletterbare Palme)<br>
+<font color=C0C0C0>S =</font> Höhle der Säulen<br>
+<font color=C0C0C0>s =</font> Schacht<br>
+<font color=blue>s =</font> See (man kann drin tauchen...)<br>
+<span class="gelb">T =</span> Symbolstein-Tor<br>
+<font color=C0C0C0>t =</font> Eingestürzter Tunnel<br>
+<font color=C0C0C0>u =</font> Ufer<br>
+<span class="gelb">W =</span> Hier wartet der gigantische Sandwurm Shai-Halad auf seinen Bezwinger<br>
+</span>

@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp;<span class="gelb">D</span>-<font color=FFFFFF>F</font><br>
+&nbsp;| | <span class="rot">|</span> &nbsp; |<br>
+&nbsp;<font color=blue>S</font>-<font color=00CC00>I</font>-<span class="gelb">U</span>-<span class="gelb">E</span>-[[<span class="hellblau">s</span>|Doerrstadt]]<br>
+&nbsp;| | &nbsp; &nbsp; |<br>
+&nbsp;<span class="gelb">M</span>-<span class="gelb">T</span></TR>
+<span class="gelb">D =</span> Dampfbad<br>
+<span class="gelb">E =</span> Eingangshalle<br>
+<font color=FFFFFF>F =</font> Frigidarium (hier kann man sich mit kaltem Wasser abkühlen)<br>
+<font color=00CC00>I =</font> Innenhof (mit einem Maulbeerenbaum und Brunnen)<br>
+<span class="gelb">M =</span> Massageraum<br>
+<font color=blue>S =</font> Schwimmbecken<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]]<br>
+<span class="gelb">T =</span> Teeraum<br>
+<span class="gelb">U =</span> Umkleide, in der das Hamam-Etwas auf die Kleidung der Badenden aufpasst<br>
+</span>

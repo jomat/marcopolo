@@ -1,0 +1,43 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; g-g-g-r-g-g-g-g-g-r &nbsp; &nbsp; &nbsp;<span class="gelb">Dachgeschoss</span><br>
+&nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp; &nbsp; w&#9488; &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp;t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t<br>
+&nbsp;&#9484;&#9472;&#9472;&#9472;&#9496; &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;w-w-w &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;| &nbsp; &#9492;&#9488;&nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;w &nbsp; g&#9532;g-g-h-g-g-r-g-g-h &nbsp; &nbsp; &nbsp;<span class="gelb">Obergeschoss</span><br>
+&nbsp;&#9474;| &nbsp;/&#9484;&#9496; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&#9474;<br>
+&nbsp;&#9474;w-w&#9488;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474; &nbsp;&#9484;&#9496;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9492;&#9472;&#9472;&#9532;&#9472;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;<br>
+&nbsp;&#9484;&#9472;&#9472;&#9496; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;| &nbsp; &#9492;&#9488; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&#9474;<br>
+&nbsp;&#9474;w &nbsp; g&#9532;g-g-g-g-g-g-g-r-g &nbsp; t &nbsp;<span class="gelb">Mittlere Etage</span><br>
+&nbsp;&#9474;| &nbsp;/&#9484;&#9496; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;w-w&#9488;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9474;&nbsp; &#9484;&#9496;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9492;&#9472;&#9472;&#9532;&#9472;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; &#9474;<br>
+&nbsp;&#9484;&#9472;&#9472;&#9496; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9484;&#9472;&#9472;&#9472;&#9532;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;<br>
+&nbsp;&#9474;w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &#9474;<br>
+&nbsp;&#9474;| &nbsp; &#9492;&#9488;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &#9474; &nbsp; &nbsp; <font color=FFFF00>|/</font><br>
+&nbsp;&#9474;w &nbsp; g&#9532;g-g-g-g-g-h-g-h-g-<span class="gelb">P</span>-[[<span class="hellblau">I</span>|Doerrland]]<font color=FFFF00>-</font> <span class="gelb">Erdgeschoss</span><br>
+&nbsp;&#9474;|&nbsp; /&#9484;&#9496; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFFF00>|\</font><br>
+&nbsp;&#9474;w-w&nbsp;w<br>
+&nbsp;&#9474; &nbsp; &nbsp;|<br>
+&nbsp;&#9492;&#9472;&#9472;&#9472;&#9472;w
+</span>
+
+<span class="legend">
+<font color=C0C0C0>g =</font> Gang (mit jeweils einer Tür im Norden und Süden)<br>
+<font color=C0C0C0>h =</font> In diesem Feld des Ganges geht es eine Treppe hoch (die Linie 
+nach Norden zeigt an wo die Treppe endet)<br>
+<span class="hellblau">I =</span> Eingang des Irrenhauses (in [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+<span class="gelb">P =</span> Portal & Pförtner<br>
+<font color=C0C0C0>r =</font> In diesem Feld des Ganges geht es eine Treppe runter (die Linie 
+nach Süden zeigt an wo die Treppe endet)<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<font color=C0C0C0>w =</font> Wendeltreppe<br>
+</span>

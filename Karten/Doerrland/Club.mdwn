@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp; &nbsp;k<br>
+&nbsp; &nbsp;|<br>
+&nbsp;[[<span class="hellblau">K</span>|Doerrstadt]]-<span class="gelb">T</span>&gt;<span class="rot">G</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">K</span>
+
+</span>
+
+<span class="legend">
+<span class="rot">G =</span> Grubenarena<br>
+<span class="hellblau">K =</span> Kellerraum (hoch gehts nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]])<br>
+<span class="gelb">K =</span> Küche<br>
+<font color=C0C0C0>k =</font> Leerer Kellerraum<br>
+<span class="gelb">T =</span> Hier gehts zur Tribüne bzw. man kann auch runterklettern in die Arena<br>
+</span>

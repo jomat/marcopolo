@@ -1,0 +1,33 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-[[<span class="gelb">T</span>|Vulkanhoehlen]]-[[<span class="gelb">k</span>|Vulkanhoehlen]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; <span class="gelb">R</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<span class="gelb">W A S</span> &nbsp; g h-h-h<br>
+&nbsp; &nbsp;| | | &nbsp; | |X|X|<br>
+&nbsp;<span class="gelb">a</span>-g-g-g-g-<span class="gelb">K</span>-h-h-h-[[<span class="violett">U</span>|Universum]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g h-h-h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">h</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Arbeitsräume<br>
+<span class="gelb">a =</span> Auftenthaltsräume (im Kamin [Betretbar] steckt das Skelett vom Weihnachtsmann)<br>
+<font color=808080>g =</font> Finsterer Gang<br>
+<span class="gelb">h =</span> Aufnahme-Halle (wenn man im Geröll gräbt kann man einen Hohlraum mit einem untoten Nekromant freilegen)<br>
+<font color=808080>h =</font> Große Halle mit ein paar Zombies<br>
+<span class="gelb">K =</span> Kreuzung (das Tor im Osten lässt nur Nekromanten [Besitzer eines Nekro-Amulettes] durch)<br>
+<span class="gelb">k =</span> Kessel-Aufzug (wenn man runterfährt kann man in den Obsidianwurmgang neben dem Tor in den [[<span class="hellblau">Vulkanhöhlen</span>|Vulkanhoehlen]] klettern)<br>
+<span class="gelb">R =</span> Arbeitsraum von Abumaze<br>
+<span class="gelb">S =</span> Schlafräume<br>
+<span class="gelb">T =</span> Schwarzes Felsentor (wenn man das Passwort 'Abumaze' sagt gelangt man in die [[<span class="hellblau">Vulkanhöhlen</span>|Vulkanhoehlen]])<br>
+<font color=C0C0C0>t =</font> Treppe (oben ist ein verschütteter Eingang)<br>
+<span class="violett">U =</span> Ostende der großen Halle mit 4 Statuen (durch ein richtig ausgeführtes Ritual [Abumaze, Jarod, Erad Nair, Tod -&gt; rufen] gelangt man hier ins [[<span class="hellblau">Universum</span>|Universum]] - vorsicht, zieht ein paar AP das Ritual)<br>
+<span class="gelb">W =</span> Wachraum<br>
+</span>

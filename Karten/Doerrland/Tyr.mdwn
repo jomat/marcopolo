@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; p<br>
+&nbsp; &nbsp;/&nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">|</span>/|<br>
+&nbsp;-[[<span class="hellblau">P</span>|Barovia]]-t-t-t-<span class="gelb">O</span>-H <span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">|</span>\|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; p
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Altar<br>
+<font color=C0C0C0>H =</font> Haupthalle des Tempels<br>
+<span class="gelb">O =</span> Opferschale<br>
+<span class="hellblau">P =</span> Paladin vor dem Tempeltor (in [[<span class="hellblau">Barovia</span>|Barovia]])<br>
+<font color=C0C0C0>p =</font> Podest<br>
+<font color=C0C0C0>t =</font> Tempelhalle<br>
+</span>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 -M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
@@ -46,7 +46,7 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X|X<font color=FF
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=FFFF00>\|X<font color=FFBB00>|X|X|/ &nbsp; \|X|X|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\</font>|X|<font color=FFFF00>/|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=FFFF00>/|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 -M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-u-<font color=FFFF000>s-<font color=FFBB00>h-h-v &nbsp; &nbsp; v-v-v-h-h</font>-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-<font color=00CC00>b</font>-O-O-O-O-O-O-O-O-n-s-s-s-n-l-n-n-n</font>-u-u-u-u-u-M-M-M-M-M-M-M-M-u-<font color=FFFF00>n-n-n</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X<font color=FFBB00>|X|X| &nbsp; &nbsp;/&nbsp; &nbsp;\|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
--M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-u-<font color=FFFF00>s-<font color=FFBB00>h-v-v &nbsp; [[<span class="hellblau">ü</span>|Doerrland/Lager]] &nbsp; &nbsp; v-v-h</font>-O-O-O-O-O-O-O-O-O-O-O-O-O-[[<span class="hellblau">f</span>|Doerrland/Friedhofshoehle]]<font color=CCCC99>-p-p-p-p</font>-O-O-O-O-O-O-O-O-O-O-l-l-l-l-n</font>-u-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=FFFF00>n-O-n</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-<br>
+-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-u-<font color=FFFF00>s-<font color=FFBB00>h-v-v &nbsp; [[<span class="hellblau">Ã¼</span>|Doerrland/Lager]] &nbsp; &nbsp; v-v-h</font>-O-O-O-O-O-O-O-O-O-O-O-O-O-[[<span class="hellblau">f</span>|Doerrland/Friedhofshoehle]]<font color=CCCC99>-p-p-p-p</font>-O-O-O-O-O-O-O-O-O-O-l-l-l-l-n</font>-u-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=FFFF00>n-O-n</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X<font color=FFBB00>|X|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=CCCC99>|X|X|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 -M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-u-<font color=FFFF000>s-<font color=FFBB00>h-v &nbsp; [[<span class="hellblau">Vulkan</span>|Doerrland/Vulkan_2]]&nbsp; &nbsp; v-h</font>-O-O-O-O-O-O-O-O-O-O-O-O-O-<font color=CCCC99>p-p-[[<span class="hellblau">D</span>|Doerrland/Doerrstadt]]-p-p</font>-O-O-O-O-O-O-O-O-O-n-</font><font color=00CC00>s</font><font color=FFFF00>-n-n-n</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=FFFF00>n-<span class="hellblau">h</span>-n</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X<font color=FFBB00>|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=CCCC99>|X|/|\|X|</font>X|X|X|X|X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=FFFF00>\|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
@@ -114,7 +114,7 @@ X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 X|X|X|X|X|X|X|X|X|X|X|X|<font color=FFFF00>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|</font>X|X|X|X|X<font color=C0C0C0>|/ &nbsp; &nbsp; &nbsp; &nbsp; \|</font>X|X|\</font>|X|X|X|X|X<br>
 -M-M-M-M-M-M-M-M-M-M-m-u-<font color=FFFF00>s-n-O-O-O-O-O-O-O-b-b-b-O-O-O-O-O-O-O-O-O-O-s-s-s-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0><span class="hellblau">l</span>&gt;<font color=FF0000>&nbsp; </font>&nbsp;&nbsp; &nbsp; &nbsp;<span class="hellblau">Sphinx</span> &nbsp; &nbsp; &nbsp; &lt;M-K</font>-O-O-O-O-<font color=C0C0C0>P&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;P</font>-O-n-n</font>-u-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=FFFF00>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; |X|</font>X|X|X|X|X<font color=C0C0C0>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</font>X|X|X|</font>X|X|X|X|X<br>
--M-M-M-M-M-M-M-M-M-M-m-u-u-<font color=FFFF00>s-n-O-O-O-O-O-O-b-<span class="hellblau">Ü</span>-b-O-O-O-O-O-O-O-O-O-O-s-[[<span class="hellblau">T</span>|Doerrland/Sarasande]]-s-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; K-K</font>-O-O-O-O-<font color=C0C0C0>P&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;P</font>-O-n-n</font>-u-M-M-M-<br>
+-M-M-M-M-M-M-M-M-M-M-m-u-u-<font color=FFFF00>s-n-O-O-O-O-O-O-b-<span class="hellblau">Ãœ</span>-b-O-O-O-O-O-O-O-O-O-O-s-[[<span class="hellblau">T</span>|Doerrland/Sarasande]]-s-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; K-K</font>-O-O-O-O-<font color=C0C0C0>P&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;P</font>-O-n-n</font>-u-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=FFFF00>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|</font>X|X|X|X|X<font color=C0C0C0>| [[<span class="hellblau">Ramoth</span>|Doerrland/Pyramide]]<span class="hellblau">-</span> &nbsp; |</font>X|X|/</font>|X|X|X|X|X<br>
 -M-M-M-M-M-M-M-M-M-M-M-m-u-<font color=FFFF00>s-n-n-O-O-O-O-O-b-b-b-O-O-O-O-O-O-O-O-O-O-s-s-s-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>w&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">a</span>|Doerrland/Tunnel]]<span class="hellblau"> E</span>-p-p-p-p-p-p&lt;p</font>-O-O-O-O-<font color=C0C0C0>P [[<span class="hellblau">Pyramide</span>|Doerrland/Pyramide]] &nbsp;P</font>-O-n</font>-u-u-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=FFFF00>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|&nbsp; &nbsp;&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</font>X|X|X|X|X<font color=C0C0C0>| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</font>X|X|\</font>|X|X|X|X|X<br>
@@ -198,31 +198,32 @@ X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 -M-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X</td>
-</tr>
-</table>
-<font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
+</font>
+</span>
+
+<span class="legend">
 <span class="hellblau">Sehenswertes:</span><br>
-<span class="hellblau">A =</span> Hütte von Kapitän Ahab<br>
+<span class="hellblau">A =</span> HÃ¼tte von KapitÃ¤n Ahab<br>
 <span class="hellblau">a =</span> Eingang ins [[<span class="hellblau">Tunnelsystem</span>|Doerrland/Tunnel]] (und Spinner, der Spinnerich)<br>
 <span class="hellblau">B =</span> Hier gehts hoch zur Ruine der [[<span class="hellblau">Druidenburg</span>|Doerrland/Druidenburg]]<br>
 <span class="hellblau">b =</span> kleine Bucht (und ein Tintenfisch)<br>
 <span class="hellblau">C =</span> Schiffswrack<br>
-<span class="hellblau">c =</span> Aussichtspunkt (und Piratenjoe, der Schlächter)<br>
-<span class="hellblau">D =</span> [[<span class="hellblau">Dörrstadt</span>|Doerrland/Doerrstadt]] (auffälliger Strauch am Eingang zur Schlucht)<br>
+<span class="hellblau">c =</span> Aussichtspunkt (und Piratenjoe, der SchlÃ¤chter)<br>
+<span class="hellblau">D =</span> [[<span class="hellblau">DÃ¶rrstadt</span>|Doerrland/Doerrstadt]] (auffÃ¤lliger Strauch am Eingang zur Schlucht)<br>
 <span class="hellblau">d =</span> Wegweiser zur Druidenburg<br>
-<span class="hellblau">E =</span> Edelsteine = Polynore (mit Wächter im Feld östlich)<br>
-<span class="hellblau">F =</span> Falltürenhaus<br>
-<span class="hellblau">f =</span> [[<span class="hellblau">Höhle</span>|Doerrland/Friedhofshoehle]] mit kleiner Kapelle & dem Friedhof von Dörrstadt<br>
-<span class="hellblau">G =</span> Kreuzdorn, der brennende Dornbusch (hält sich für einen Gott)<br>
-<span class="hellblau">H =</span> Hafen (Hafen Dörrstadt am Nordende der Insel, im Südwesten ist es der alte Hafen von Smaragdtenstadt)<br>
-<span class="hellblau">h =</span> Schatzhöhle<br>
+<span class="hellblau">E =</span> Edelsteine = Polynore (mit WÃ¤chter im Feld Ã¶stlich)<br>
+<span class="hellblau">F =</span> FalltÃ¼renhaus<br>
+<span class="hellblau">f =</span> [[<span class="hellblau">HÃ¶hle</span>|Doerrland/Friedhofshoehle]] mit kleiner Kapelle & dem Friedhof von DÃ¶rrstadt<br>
+<span class="hellblau">G =</span> Kreuzdorn, der brennende Dornbusch (hÃ¤lt sich fÃ¼r einen Gott)<br>
+<span class="hellblau">H =</span> Hafen (Hafen DÃ¶rrstadt am Nordende der Insel, im SÃ¼dwesten ist es der alte Hafen von Smaragdtenstadt)<br>
+<span class="hellblau">h =</span> SchatzhÃ¶hle<br>
 <span class="hellblau">I =</span> Einganz zum [[<span class="hellblau">Irrenhaus</span>|Doerrland/Irrenhaus]]<br>
-<span class="hellblau">K =</span> Kazira, die Höhlenforscherin (Unter ihr im Keller hats ne Kneipe)<br>
+<span class="hellblau">K =</span> Kazira, die HÃ¶hlenforscherin (Unter ihr im Keller hats ne Kneipe)<br>
 <span class="hellblau">k =</span> Aufstieg zum Kraterrand des nordwestlichen [[<span class="hellblau">Vulkans</span>|Doerrland/Vulkan_2]]<br>
 <span class="hellblau">L =</span> Riesiges Loch (unten ist die [[<span class="hellblau">unterirdische Oase</span>|Doerrland/Oase]])<br>
-<span class="hellblau">l =</span> Löwenschwanz der Sphinx (hier gehts einen Weg mit vielen Monstern den Rücken der Sphinx hoch...)<br>
+<span class="hellblau">l =</span> LÃ¶wenschwanz der Sphinx (hier gehts einen Weg mit vielen Monstern den RÃ¼cken der Sphinx hoch...)<br>
 <span class="hellblau">M =</span> Die Insel mit der Moby Dick<br>
-<span class="hellblau">m =</span> Mysteriöster Monolith<br>
+<span class="hellblau">m =</span> MysteriÃ¶ster Monolith<br>
 <span class="hellblau">N =</span> Felsnadel ([[<span class="hellblau">Sichermahl</span>|Doerrland/Sichermahl]])<br>
 <span class="hellblau">n =</span> Seeadler-Nest<br>
 <span class="hellblau">O =</span> Oase <br>
@@ -231,40 +232,40 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
 <span class="hellblau">p =</span> Hier ist unter einer kleinen Palme das Pharao-Spiel verbuddelt<br>
 <span class="hellblau">Q =</span> Piratenlager am Strand (nach Norden gehts in einen Palmenhain -&gt; Piratenlager)<br>
 <span class="hellblau">R =</span> Eingang zur Ramoth-Pyramide<br>
-<span class="hellblau">r =</span> Einsamer Rastplatz in der Wüste<br>
+<span class="hellblau">r =</span> Einsamer Rastplatz in der WÃ¼ste<br>
 <span class="hellblau">S =</span> Vulkan &amp; [[<span class="hellblau">Ruinen der Smaragdenstadt</span>|Doerrland/Vulkan]]<br>
 <span class="hellblau">s =</span> Scheich Hassan<br>
-<span class="hellblau">T =</span> Tore von [[<span class="hellblau">Sarasande</span>|Doerrland/Sarasande]] (je nach der Richtung aus der man kommt landet man am Nord- oder Südtor)<br>
+<span class="hellblau">T =</span> Tore von [[<span class="hellblau">Sarasande</span>|Doerrland/Sarasande]] (je nach der Richtung aus der man kommt landet man am Nord- oder SÃ¼dtor)<br>
 <span class="hellblau">t =</span> Tal des Todes<br>
-<span class="hellblau">Ü =</span> Überreste eines Brunnens<br>
-<span class="hellblau">ü =</span> [[<span class="hellblau">Flüchtlingslager</span>|Doerrland/Lager]] in einer kleinen Schlucht<br>
-<span class="hellblau">V =</span> Hütte von Mama Gobang, der Voodoopriesterin<br>
-<span class="hellblau">v =</span> [[<span class="hellblau">Bärenhöhle</span>|Doerrland/Vulkanhoehle]] im Vulkan<br>
-<span class="hellblau">W =</span> Woran – der letzte der Karun<br>
-<span class="hellblau">w =</span> Wasserfall (hinter dem sich im Norden die [[<span class="hellblau">Piratenhöhle</span>|Doerrland/Piratenhoehle]] verbirgt)<br>
+<span class="hellblau">Ãœ =</span> Ãœberreste eines Brunnens<br>
+<span class="hellblau">Ã¼ =</span> [[<span class="hellblau">FlÃ¼chtlingslager</span>|Doerrland/Lager]] in einer kleinen Schlucht<br>
+<span class="hellblau">V =</span> HÃ¼tte von Mama Gobang, der Voodoopriesterin<br>
+<span class="hellblau">v =</span> [[<span class="hellblau">BÃ¤renhÃ¶hle</span>|Doerrland/Vulkanhoehle]] im Vulkan<br>
+<span class="hellblau">W =</span> Woran Â– der letzte der Karun<br>
+<span class="hellblau">w =</span> Wasserfall (hinter dem sich im Norden die [[<span class="hellblau">PiratenhÃ¶hle</span>|Doerrland/Piratenhoehle]] verbirgt)<br>
 <span class="hellblau">Z =</span> Zwergengruft<br>
 <span class="hellblau">z =</span> Stelle zusammengetretener Sand<br>
 <span class="hellblau">Legende:</span><br>
-Die normalen Kakteen (anschneiden -> Wasserquelle), Sträucher, Dornenbüsche (essbare Beeren), und Bäume (Äste als Prügel benutzbar) sind nicht an feste Orte gebunden und daher nicht in diese Karte eingetragen. Scheinbar werden sie immer wieder neu an andere Orte gesetzt.<br>
+Die normalen Kakteen (anschneiden -> Wasserquelle), StrÃ¤ucher, DornenbÃ¼sche (essbare Beeren), und BÃ¤ume (Ã„ste als PrÃ¼gel benutzbar) sind nicht an feste Orte gebunden und daher nicht in diese Karte eingetragen. Scheinbar werden sie immer wieder neu an andere Orte gesetzt.<br>
 <font color=C0C0C0>B =</font> Am Felsen der Druidenburg<br>
 <font color=blue>b =</font> In der Brandung<br>
-<font color=00CC00>b =</font> Auffälliger Dornenbusch<br>
-<font color=C0C0C0>F =</font> Aussenmauer des Falltürenhauses<br>
+<font color=00CC00>b =</font> AuffÃ¤lliger Dornenbusch<br>
+<font color=C0C0C0>F =</font> Aussenmauer des FalltÃ¼renhauses<br>
 <font color=808080>f =</font> Felsen<br>
-<font color=006600>g =</font> Gebüsch<br>
-<font color=FFFF00>H =</font> Hügel<br>
-<font color=FFBB00>h =</font> Hügellandschaft<br>
+<font color=006600>g =</font> GebÃ¼sch<br>
+<font color=FFFF00>H =</font> HÃ¼gel<br>
+<font color=FFBB00>h =</font> HÃ¼gellandschaft<br>
 <font color=FFFF00>i =</font> Auf der Pirateninsel (jedes Feld hat ne eigenen Beschreibung und Benamung - zu viel um es einzeln darzustellen)<br>
 <font color=808080>K =</font> Klippe<br>
 <font color=C0C0C0>K =</font> Kopfseite der Sphinx<br>
-<font color=00CC00>k =</font> Auffälliger Kaktus<br>
+<font color=00CC00>k =</font> AuffÃ¤lliger Kaktus<br>
 <font color=blue>l =</font> In einer kleinen Lagune<br>
-<font color=FFFF00>l =</font> wüste Landzunge<br>
+<font color=FFFF00>l =</font> wÃ¼ste Landzunge<br>
 <font color=blue>M =</font> Meer<br>
-<font color=blue>m =</font> Meer in der Nähe einer Insel<br>
-<font color=808080>m =</font> Bachmündung<br>
-<font color=FFFF00>n =</font> In Meeresnähe<br>
-<font color=FFFF00>O =</font> Wüste<br>
+<font color=blue>m =</font> Meer in der NÃ¤he einer Insel<br>
+<font color=808080>m =</font> BachmÃ¼ndung<br>
+<font color=FFFF00>n =</font> In MeeresnÃ¤he<br>
+<font color=FFFF00>O =</font> WÃ¼ste<br>
 <font color=006600>P =</font> Palmenwald<br>
 P<font color=C0C0C0> =</font> Rand der Ramoth-Pyramide<br>
 <font color=C0C0C0>p =</font> Auf/Vor der Pfote der Sphinx<br>
@@ -273,18 +274,18 @@ P<font color=C0C0C0> =</font> Rand der Ramoth-Pyramide<br>
 <font color=00CC00>p =</font> Kokospalmen<br>
 <font color=808080>r =</font> Riff / felsige Insel<br>
 <font color=808080>s =</font> Schlucht<br>
-<font color=00CC00>s =</font> Auffälliger Strauch<br>
+<font color=00CC00>s =</font> AuffÃ¤lliger Strauch<br>
 <font color=FFBB00>s =</font> Steppenlandschaft<br>
 <font color=FFFF00>s =</font> Strand<br>
 <font color=993300>s =</font> Steg<br>
 <font color=blue>S =</font> Am Rand eines Strudels<br>
-<font color=blue>s =</font> In Strandnähe<br>
+<font color=blue>s =</font> In StrandnÃ¤he<br>
 <font color=FFFF00>t =</font> In einer trostlosen Gegend / am Rand seiner Bodensaenke<br>
 <font color=FFBB00>u =</font> Unterhalb der Druidenburg<br>
 <font color=blue>u =</font> Ufer<br>
 <font color=FFBB00>v =</font> Am Kraterrand<br>
 <font color=C0C0C0>w =</font> Aussenwand der Sphinx<br>
-<span class="hellblau">Friedliche NPCs:</span> Wüstenspringmäuse, Kamele, Hyänen, Panzertiere,Satyre, Gargylen<br>
-<span class="rot">Feindliche NPCs:</span> Ankhegs, Guhle, Löwen, Mantikore, Nachtheuler, Sandwürmer, Schlangen, Skorpione, Ziegen<br>
+<span class="hellblau">Friedliche NPCs:</span> WÃ¼stenspringmÃ¤use, Kamele, HyÃ¤nen, Panzertiere,Satyre, Gargylen<br>
+<span class="rot">Feindliche NPCs:</span> Ankhegs, Guhle, LÃ¶wen, Mantikore, Nachtheuler, SandwÃ¼rmer, Schlangen, Skorpione, Ziegen<br>
 </FONT>
 </span>

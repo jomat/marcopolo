@@ -1,0 +1,17 @@
+<span class="map">
+<font color=008000>A =</font> Ahornbaum & Brunnen<br>
+<font color=FFFF00>a =</font> Auf einem Vulkan<br>
+<span class="hellblau">B =</span> In dieser Ruine ist das Tor nach [[<span class="hellblau">Barovia</span>|Barovia]] (durch den Nebel)<br>
+<span class="gelb">G =</span> Hier ist in einer Ruine das Geröllspiel versteckt<br>
+<span class="hellblau">H =</span> Hafen Smaragdenstadt/Sarasande (in [[<span class="hellblau">Dörrland</span>|Doerrland]])<br>
+<span class="gelb">L =</span> Hier ist ein Loch im Boden (unter nem Felsen) durch dass man zur Hydra kommt (allerdings braucht man 3 andere Spieler die mit einem Hebel umlegen)<br>
+<font color=FFFF00>h =</font> etwas besser erhaltene (betretebare) Ruine<br>
+<font color=FFFF00>i =</font> Inmitten Ruinen<br>
+<span class="gelb">N =</span> In der Ruine hier ist eine Nonne, die tief im Gebet versunken ist<br>
+<font color=blue>s =</font> Kratersee<br>
+<span class="gelb">V =</span> In dieser Ruine liegt das Spiel Vielweiberei<br>
+<font color=FFFF00>v =</font> In der Wüste von [[<span class="hellblau">Dörrland</span>|Doerrland]] bei einem Vulkan<br>
+Anmerkung: Die äußeren Felder (v,H) sind nebeneinanderliegende Felder in der 
+Wüste Dörrlands - die Inneren Felder (7x7) sind dazwischengeschoben. </font><br>
+<center><font color=FFFF00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=FFFF00>zurück nach Dörrland</font>|Doerrland]])</font></center>
+</span>

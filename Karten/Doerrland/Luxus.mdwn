@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp;Ebene -2&nbsp;&nbsp; Ebene -1&nbsp;&nbsp; Ebene 0&nbsp;&nbsp; Ebene 1&nbsp;&nbsp; 
+Ebene 2&nbsp;&nbsp; Ebene 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H-<span class="orange">B</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp; <span class="orange">W</span>-<span class="orange">A</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">J</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;[[<span class="hellblau">E</span>|Sarasande]]-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gelb">M</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">F</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gelb">D</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+</span>
+
+<span class="legend">
+<span class="orange">A =</span> Ariel S. Omo<br>
+<span class="orange">B =</span> Gastzelt zum Beduinen<br>
+<span class="gelb">D =</span> Dach des Turmes (man wird von den Teppichen zu, eigenen Schiff geflogen)<br>
+<span class="hellblau">E =</span> Eingangshalle des Turms (nach Osten und Südosten gehts raus nach [[<span class="hellblau">Sarasande</span>|Sarasande]])<br>
+<span class="orange">F =</span> Feinschmeckerrestaurant<br>
+<font color=C0C0C0>H =</font> Halle<br>
+<span class="orange">J =</span> Ajamir Al Varrukt<br>
+<span class="gelb">M =</span> Meditaionsraum<br>
+<span class="orange">W =</span> Wunderlampe<br>
+</span>

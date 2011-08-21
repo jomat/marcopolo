@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp; Erdgeschoss &nbsp; Obergeschoss<br>
+&nbsp; &nbsp; &nbsp; &nbsp; v g-<span class="gelb">G</span> &nbsp; &nbsp; &nbsp;t---t<br>
+&nbsp; | &nbsp; &nbsp;/ &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; [[<span class="hellblau">p</span>|Sarasande]]-<font color=blue>M</font>-<span class="gelb">E</span>---<span class="gelb">H</span>-<span class="gelb">I</span> &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp;/ <span class="rot">\</span> &nbsp; \ &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; v <span class="gelb">T &nbsp; &nbsp; &nbsp; &nbsp;T</span>---t
+</span>
+
+<span class="legend">
+<span class="gelb">E =</span> Eingang, an dem Faruk aufpasst ob man sich auch gewaschen hat<br>
+<span class="gelb">G =</span> Gebetsraum<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">H =</span> Eingangshalle<br>
+<span class="gelb">I =</span> Innenhof<br>
+<font color=blue>M =</font> Moscheehof mit Brunnen (nicht zum draus trinken)<br>
+<span class="hellblau">p =</span> Platz in [[<span class="hellblau">Sarasande</span>|Sarasande]]<br>
+<span class="gelb">T =</span> Treppenhaus (hier gehts hoch ins Obergeschoss - wo auch noch eine Falltür auf einen der vier Türme ist)<br>
+<font color=C0C0C0>t =</font> Obergeschoss der Moschee (hier ist jeweils eine Falltür nach oben auf die Türme)<br>
+<font color=C0C0C0>v =</font> Unter dem Vordach der Moschee<br>
+</span>

@@ -1,0 +1,26 @@
+<span class="map">
+&nbsp;<span class="violett">Neues Dörrstadt &nbsp; Altes Dörrstadt</span><br>
+&nbsp; &nbsp; &nbsp; <span class="violett">a</span>-<span class="gelb">N</span>-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-<span class="gelb">A</span>-<span class="violett">n</span><br>
+&nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; &nbsp; <span class="rot">T</span> g g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g g g<br>
+&nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; &nbsp; g-g-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-<span class="rot">R</span>-g<br>
+&nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; &nbsp; g g g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g g g<br>
+&nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; &nbsp; g-g-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">R</span>|Rathaus]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">R</span>|Rathaus_alt]]<br>
+
+</span>
+
+<span class="legend">
+<span class="violett">a =</span> Wenn man in diesem Raum nach Osten geht gelangt man in Raum <span class="gelb">A</span> im alten Dörrstadt<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="violett">n =</span> Wenn man in diesem Raum nach Westen geht gelangt man in Raum <span class="gelb">N</span> im neuen Dörrstadt<br>
+<span class="rot">T =</span> Ein fürchterlicher Thesaurus<br>
+<span class="hellblau">R =</span> Rathaus von Dörrstadt ([[<span class="hellblau">neu</span>|Rathaus]] / [[<span class="hellblau">alt</span>|Rathaus_alt]])<br>
+<span class="rot">R =</span> Eine tückische Leseratte<br>
+</span>
