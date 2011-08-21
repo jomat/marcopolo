@@ -1,13 +1,13 @@
 <font color=808080 face="Courier New" style="font-size: 8pt">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=00CCFF>Barke</font>|Amerindia/Gruft]] &nbsp; &nbsp; [[<font color=00CCFF>Sonne</font>|Doerrland/Nekromantengilde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=00CCFF>Barke</font>|Ebenen/Amerindia/Gruft]] &nbsp; &nbsp; [[<font color=00CCFF>Sonne</font>|Doerrland/Nekromantengilde]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. &nbsp; &nbsp; .<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .&nbsp; &nbsp;.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. .<br>
-&nbsp;[[<font color=00CCFF>Nebelfelder</font>|Doerrland/Barovia]]....<font color=FFCC00>W</font>....[[<font color=00CCFF>Chim‰re</font>|Doerrland/Chimaere]]<br>
+&nbsp;[[<font color=00CCFF>Nebelfelder</font>|Doerrland/Barovia]]....<font color=FFCC00>W</font>....[[<font color=00CCFF>Chim√§re</font>|Doerrland/Chimaere]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. .<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; . &nbsp; .<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. &nbsp; &nbsp; .<br>
-&nbsp; &nbsp; [[<font color=00CCFF>Doppelstern</font>|Mompracem]] &nbsp; [[<font color=00CCFF>Schwarzes Loch</font>|Drachenland/U2]]
+&nbsp; &nbsp; [[<font color=00CCFF>Doppelstern</font>|Mompracem]] &nbsp; [[<font color=00CCFF>Schwarzes Loch</font>|Ebenen/Drachenland/U2]]
 </font>
 </span>
 
@@ -16,7 +16,7 @@
 <font color=FFCC00>W =</font> Weltraum (unendliche Weiten... aber man kann zu den eingezeichneten Zielen 'fliegen':<br>
 - [[<font color=00CCFF>Barovia</font>|Doerrland/Barovia]] (Nebelfelder)<br>
 - [[<font color=00CCFF>Eingang zur Unterwelt</font>|Drachenland/U2]] (Schwarzes Loch)<br>
-- [[<font color=00CCFF>Kammer der Chim‰re</font>|Doerrland/Chimaere]] (Chim‰re)<br>
+- [[<font color=00CCFF>Kammer der Chim√§re</font>|Doerrland/Chimaere]] (Chim√§re)<br>
 - [[<font color=00CCFF>Mompracem</font>|Mompracem]] (Doppelstern)<br>
 - [[<font color=00CCFF>Nekromantengilde</font>|Doerrland/Nekromantengilde]] (Sonne)<br>
 - [[<font color=00CCFF>Totenschiff in Amerindia</font>|Amerindia/Gruft]] (Barke)<br>
