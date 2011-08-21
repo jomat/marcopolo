@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
@@ -22,7 +22,7 @@ m-m-m-m-m-m-m-m-m-m-<span class="hellblau">n</span>-m-m-m-m-m-m-m-m-m<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-<span class="hellblau">n-n-n</span>-m-m-m-m-m-m-m-m-m-m<br>
-|X|X|X|X|X|X|X<span class="hellblau">|X|X|X</span>|X|X|X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X<span class="hellblau">|X|X|span>|X|X|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-<span class="hellblau">n-n-n-n</span>-m-m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
@@ -38,13 +38,13 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-
+</font>
 </span>
 
 <span class="legend">
 <font color=blue>m =</font> Meer<br>
 <span class="hellblau">n =</span> Auf der Stadt der Nixen (es geht nicht nach unten, weil da die Korallen der Stadt sind)<br>
 <span class="gelb">R =</span> Eingang zur Stadt der Nixen (nach unten)<br>
-<span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] tragen lassen)<br>
-<span class="hellblau">s =</span> Am Rande einer warmen Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] tragen lassen)<br>
+<span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
+<span class="hellblau">s =</span> Am Rande einer warmen Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
 </span>
