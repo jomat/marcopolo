@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#008000">
 &nbsp; &nbsp;<font color=00CC00>\|X|X|X|/</font><br>
 &nbsp; &nbsp;<font color=C0C0C0>-[[<font color=C0C0C0>S</font>|Mittelerde]]-[[<font color=C0C0C0>S</font>|Mittelerde]]-[[<font color=C0C0C0>S</font>|Mittelerde]]-[[<font color=C0C0C0>S</font>|Mittelerde]]-</font><br>
 &nbsp;&nbsp;&nbsp; &nbsp;\|X|/<br>
@@ -15,7 +16,8 @@
 &nbsp;&nbsp;&nbsp; W-W&#8594;W W&#8592;W<br>
 &nbsp; &nbsp;/|&nbsp;&nbsp; |&nbsp;&nbsp; |<br>
 &nbsp;<font color=blue>-[[<font color=blue>f</font>|Mittelerde]]-[[<font color=blue>f</font>|Mittelerde]]<font color=00CC00>- -[[<font color=00CC00>O</font>|Mittelerde]]- -[[<font color=00CC00>O</font>|Mittelerde]]<br>
-&nbsp;/|X<font color=blue>|</font>\ /|\ /|\</TD>
+&nbsp;/|X<font color=blue>|</font>\ /|\ /|\
+</font>
 </span>
 
 <span class="legend">
@@ -23,13 +25,13 @@ Viele der Pfade im alten Wald sind nur in eine Richtung zu benutzen. Da es aber 
 <font color=blue>f =</font> Fluss Baranduin in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
 <font color=008000>G =</font> Geist<br>
 <span class="gelb">H =</span> Haus von Tom Bombadil<br>
-<font color=00CC00>L =</font> Lichtung (man kommt von hier aus nur nach Südosten weg)<br>
+<font color=00CC00>L =</font> Lichtung (man kommt von hier aus nur nach SÃ¼dosten weg)<br>
 <font color=00CC00>O =</font> [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
-<font color=C0C0C0>S =</font> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>S =</font> StraÃŸe in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
 <span class="gelb">S =</span> Hohler Baumstumpf (mit Rune drin)<br>
 <font color=00CC00>s =</font> Senke zwischen dem Alten Wald und [[<span class="hellblau">Krickloch</span>|Krickloch]]<br>
 <span class="gelb">T =</span> Tom Bombadil<br>
 <font color=008000>W =</font> Wald<br>
 <font color=008000>w =</font> Wolf<br>
-<span class="rot">W =</span> Weidenmann (greift an und lässt einen nicht nach Südosten weitergehen)<br>
+<span class="rot">W =</span> Weidenmann (greift an und lÃ¤sst einen nicht nach SÃ¼dosten weitergehen)<br>
 </span>
