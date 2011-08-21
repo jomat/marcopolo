@@ -1,32 +1,32 @@
 <span class="map">
 <font color=800000>
-<font color=808000>[[<font color=808000>h</font>|../Nordische_Inseln]]---[[<font color=808000>h</font>|../Nordische_Inseln]]-----[[<font color=808000>h</font>|../Nordische_Inseln]]-----[[<font color=808000>h</font>|../Nordische_Inseln]]-----[[<font color=808000>h</font>|../Nordische_Inseln]]---[[<font color=808000>h</font>|../Nordische_Inseln]]<br>
+<font color=808000>[[<font color=808000>h</font>|Nordische_Inseln]]---[[<font color=808000>h</font>|Nordische_Inseln]]-----[[<font color=808000>h</font>|Nordische_Inseln]]-----[[<font color=808000>h</font>|Nordische_Inseln]]-----[[<font color=808000>h</font>|Nordische_Inseln]]---[[<font color=808000>h</font>|Nordische_Inseln]]<br>
 |\ /|\ X /|\ X /|\ X /|\ /|<br>
 | X | X X | X X | X X | X |<br>
 |/ \|X|X|X|X|X|X|X|X|X|/ \|</font><br>
-<font color=00CC00>[[<font color=00CC00>K</font>|../Nordische_Inseln]]---</font>M-M-M-M-M-M-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|../Nordische_Inseln]]</font><br>
+<font color=00CC00>[[<font color=00CC00>K</font>|Nordische_Inseln]]---</font>M-M-M-M-M-M-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|Nordische_Inseln]]</font><br>
 <font color=00CC00>|\ X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X /|</font><br>
 <font color=00CC00>| X-</font>M-M-M-M-M-M-M-M-M-M<font color=808000>-X |</font><br>
 <font color=00CC00>|X X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X X|</font><br>
 <font color=00CC00>| X-</font>M-M-M-M-M-M-M-<font color=00CCFF>S</font>-M-M<font color=808000>-X |</font><br>
 <font color=00CC00>|/ X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X \|</font><br>
-<font color=808000>[[<font color=808000>h</font>|../Nordische_Inseln]]---</font>M-M-M-<font color=B00000>[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]</font>-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|../Nordische_Inseln]]</font><br>
+<font color=808000>[[<font color=808000>h</font>|Nordische_Inseln]]---</font>M-M-M-<font color=B00000>[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]</font>-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|Nordische_Inseln]]</font><br>
 <font color=808000>|\ X</font>|X|X|X<font color=B00000>|X|X|</font>X|X|X|X|<font color=808000>X /|</font><br>
 <font color=808000>| X-</font>M-M-M-<font color=B00000>[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]</font>-M-M-M-M<font color=808000>-X |</font><br>
 <font color=808000>|X X</font>|X|X|X<font color=B00000>|X|X|</font>X|X|X|X|<font color=808000>X X|</font><br>
 <font color=808000>| X-</font>M-M-M-<font color=B00000>[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]-[[<font color=B00000>H</font>|Moorhoehle]]</font>-M-M-M-M<font color=808000>-X |</font><br>
 <font color=808000>|/ X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X \|</font><br>
-<font color=808000>[[<font color=808000>h</font>|../Nordische_Inseln]]---</font>M-M-M-M-M-M-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|../Nordische_Inseln]]</font><br>
+<font color=808000>[[<font color=808000>h</font>|Nordische_Inseln]]---</font>M-M-M-M-M-M-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|Nordische_Inseln]]</font><br>
 <font color=808000>|\ X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X /|</font><br>
 <font color=808000>| X-</font>M-M-M-M-M-<font color=FFCC00>T</font>-M-M-M-M<font color=808000>-X |</font><br>
 <font color=808000>|X X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X X|</font><br>
 <font color=808000>| X-</font>M-M-M-M-M-M-M-M-M-M<font color=808000>-X |</font><br>
 <font color=808000>|/ X</font>|X|X|X|X|X|X|X|X|X|<font color=808000>X \|</font><br>
-<font color=808000>[[<font color=808000>h</font>|../Nordische_Inseln]]---</font>M-M-M-M-M-M-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|../Nordische_Inseln]]</font><br>
+<font color=808000>[[<font color=808000>h</font>|Nordische_Inseln]]---</font>M-M-M-M-M-M-M-M-M-M<font color=808000>---[[<font color=808000>h</font>|Nordische_Inseln]]</font><br>
 <font color=808000>|\ /|X|X|X|X|X|X|X|X|X|\ /|<br>
 | X | X X | X X | X X | X |<br>
 |/ \|/ X \|/ X \|/ X \|/ \|<br>
-[[<font color=808000>h</font>|../Nordische_Inseln]]---[[<font color=808000>h</font>|../Nordische_Inseln]]-----[[<font color=808000>h</font>|../Nordische_Inseln]]-----[[<font color=808000>h</font>|../Nordische_Inseln]]-----[[<font color=808000>h</font>|../Nordische_Inseln]]---[[<font color=808000>h</font>|../Nordische_Inseln]]</font></FONT>
+[[<font color=808000>h</font>|Nordische_Inseln]]---[[<font color=808000>h</font>|Nordische_Inseln]]-----[[<font color=808000>h</font>|Nordische_Inseln]]-----[[<font color=808000>h</font>|Nordische_Inseln]]-----[[<font color=808000>h</font>|Nordische_Inseln]]---[[<font color=808000>h</font>|Nordische_Inseln]]</font></FONT>
 </font>
 </span>
 
