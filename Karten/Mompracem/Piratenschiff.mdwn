@@ -22,7 +22,7 @@
 <font color=FFCC00>M =</font> Messe<br>
 <font color=FFCC00>m =</font> Mannschaftsraum<br>
 <font color=FF6600>n =</font> Niedergang<br>
-<font color=00CCFF>S =</font> Diese Seite des Schiffes liegt am Steg in der Bucht von [[<font color=00CCFF>Mompracem</font>|../Mompracem]] d.h. man kann hier vom Schiff runter<br>
+<font color=00CCFF>S =</font> Diese Seite des Schiffes liegt am Steg in der Bucht von [[<font color=00CCFF>Mompracem</font>|Mompracem]] d.h. man kann hier vom Schiff runter<br>
 <font color=FF6600>s =</font> Schiffsdeck<br>
 <font color=FFCC00>Z =</font> Zelle<br>
 </span>
