@@ -1,0 +1,46 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-f-f-f <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; &nbsp; &nbsp; f<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; <span class="gelb">Q</span> &nbsp; &nbsp; &nbsp; f-f-f<br>
+&nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; /<br>
+&nbsp;f-f-f-f &nbsp; &nbsp; &nbsp; &nbsp; t-t-f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; t &nbsp; &nbsp; &nbsp; f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; /| &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-f-f &nbsp; f-f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L-B-G<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \| &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; &nbsp; f-t&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;I<font color=blue>-s-</font>l &nbsp; D b-W-<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; <font color=blue>/</font> &nbsp; &nbsp; &nbsp; &nbsp;|/ \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; <font color=blue>s</font> &nbsp; &nbsp; &nbsp; &nbsp; S &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>/ \ &nbsp; /</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-f-f&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>s &nbsp; s-s</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="violett">D</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f&nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>s</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">M</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \&nbsp; &nbsp; &nbsp;<font color=blue>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-t-t
+</span>
+
+<span class="legend">
+Zurück zu Marianus im [[<span class="hellblau">Keller</span>|Keller]] des Jadepalastes gelangt man wenn man die Schelle wieder absetzt<br>
+<font color=00CC66>B =</font> Großer Komposthaufen und ein lebender Baum mit Tentakeln<br>
+<font color=00CC66>b =</font> Baustellenschranke (lebend)<br>
+<font color=00CC66>D =</font> Pfütze, in der ein Wasserdrache badet<br>
+<span class="violett">D =</span> Dimensionstor zu Arwoors Werkstatt (hier ist auch das Wesen Ballorina mit dem man nach Norden über den Spalt schweben kann)<br>
+<font color=00CC66>f =</font> Kahler Gang mit Flechten<br>
+<font color=00CC66>G =</font> Statue einer eitlen Gorgone die sich mit nem Spiegel selber versteinert hat (die Schlange auf ihrem Kopf will dass man den Spiegel zerschlägt)<br>
+<font color=00CC66>I =</font> Schwimmende Insel auf der ein glitschiges Schleimmonster steht<br>
+<font color=00CC66>L =</font> Lindwurm<br>
+<font color=00CC66>l =</font> Hungriger Lambdatöter und kleines Rinnsal von frischem Wasser<br>
+<span class="gelb">M =</span> Arwoors alte Werkstatt (Mariann hockt hier rum und Studiert Arwoors Aufzeichnungen - weiter gehts durch das Dimensionstor)<br>
+<span class="gelb">Q =</span> Quelle, an der man seine psionische Energie auffrischen kann<br>
+<font color=00CC66>S =</font> Zwischen diesem Feld und dem im Süden ist eine 
+breite Spalte - man kommt nur im Körper von Ballorina rüber<br>
+<font color=00CC66>s =</font> Schutthaufen und lebender Stein<br>
+<font color=blue>s =</font> Höhlensee<br>
+<span class="gelb">S =</span> Raum mit vielen verschiedenen Schellen<br>
+<font color=00CC66>T =</font> Gewölbe mit einem Kessel und ein Teufelchen<br>
+<font color=00CC66>t =</font> Tropfsteinhöhle<br>
+<font color=00CC66>W =</font> Wächter<br>
+</span>
