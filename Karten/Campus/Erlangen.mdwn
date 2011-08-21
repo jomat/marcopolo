@@ -27,6 +27,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-p-p-p<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">| &nbsp; &nbsp; |</span></FONT></TD>
 </span>
+
 <span class="legend">
 <span class="hellblau">$ =</span> Hier kann man die Bank betreten<br>
 <font color=C0C0C0>d =</font> Durchgang unter den Gleisen<br>
