@@ -1,5 +1,21 @@
 <span class="map">
+<font color=800000 face="Courier New" style="font-size: 8pt">
+<font color=B00000><A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A>-<A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A>-<A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A></font><br>
+<font color=B00000>|X|X|</font><br>
+<font color=B00000><A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A>-<A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A>-<A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A></font><br>
+<font color=B00000>|X|X|</font><br>
+<font color=B00000><A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A>-<A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A>-<A TITLE="Moor" HREF="Moor.html"><font color=B00000>H</font></A></font><br>
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; g<br>
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; g<br>
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <font color=FFCC00>A</font></FONT>
+</font>
+</span>
+
+</span class="legend">
 <span class="gelb">A =</span> Halle der Mooraxt<br>
-<font color=B00000>H =</font> Halle (nach oben geht es zurück ins [[<span class="hellblau">Moor</span>|Moor]])<br>
+<font color=B00000>H =</font> Halle (nach oben geht es zurÃ¼ck ins [[<span class="hellblau">Moor</span>|Moor]])<br>
 <font color=800000>g =</font> Gang (auch hier werden einem AP entzogen)<br>
 </span>
