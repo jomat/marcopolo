@@ -1,4 +1,5 @@
 <span class="map">
+<font color="008000">
 &nbsp; &nbsp;<font color=808080>M s</font> <font color=blue>S</font><br> 
 &nbsp; &nbsp;<font color=808080>|</font> &nbsp;\|<br> 
 &nbsp; &nbsp;<font color=808080>F-h</font> <span class="gelb">L</span><br> 
@@ -11,15 +12,15 @@
 &nbsp; &nbsp; &nbsp; &nbsp;|<br> 
 &nbsp; &nbsp; &nbsp; <font color=C0C0C0>-[[<font color=C0C0C0>w</font>|Gallien]]-<br> 
 &nbsp; &nbsp; &nbsp; <font color=00CC00>/|\</font>
-</td>
-</tr>
-</table>
+</span>
+
+<span class="legend">
 <font color=008000>b =</font> Brombeerstrauch<br>
-<font color=808080>F =</font> Felsen (ein Feld hoch geht es nach Osten in die Höhle und 2 Felder hoch geht es nach Norden zum Steinkreis)<br>
-<font color=808080>h =</font> kleine Höhle<br>
+<font color=808080>F =</font> Felsen (ein Feld hoch geht es nach Osten in die HÃ¶hle und 2 Felder hoch geht es nach Norden zum Steinkreis)<br>
+<font color=808080>h =</font> kleine HÃ¶hle<br>
 <font color=008000>k =</font> Komposthaufen<br>
 <span class="gelb">L =</span> Lichtung mit Feuerstelle und grosser Eiche mit Baumhaus<br>
-<font color=808080>M =</font> Steinkreis  (über den man zu der [[<span class="hellblau">Druidengilde</span>|Kreta/Druidengilde]], [[<span class="hellblau">Bardengilde</span>|Kreta]] und [[<span class="hellblau">Sehergilde</span>|Sehergilde]] reisen kann)<br>
+<font color=808080>M =</font> Steinkreis  (Ã¼ber den man zu der [[<span class="hellblau">Druidengilde</span>|Kreta/Druidengilde]], [[<span class="hellblau">Bardengilde</span>|Kreta]] und [[<span class="hellblau">Sehergilde</span>|Sehergilde]] reisen kann)<br>
 <font color=blue>S =</font> kleiner See<br>
 <font color=808080>s =</font> niedriges Steinhaus<br>
 <font color=008000>s =</font> Stachelbeerstrauch<br>
