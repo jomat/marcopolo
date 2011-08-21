@@ -6,20 +6,20 @@
 &nbsp; &nbsp; \|/<br>
 &nbsp; &nbsp;<span class="gelb">A</span>-<span class="hellblau">B</span>-<span class="gelb">E</span>-[[<font color=C0C0C0>M</font>|Koboldingen]]<br>
 &nbsp; &nbsp; /|\<br>
-&nbsp; &nbsp;<span class="gelb">g<span class="hellblau"> Ä </span>L</span>
-</font></TD>
+&nbsp; &nbsp;<span class="gelb">g<span class="hellblau"> Ã„ </span>L</span>
+</font>
 </span>
 
 <span class="legend">
-<span class="hellblau">  Ä = </span>Ältestenrat von UNItopia<br>
+<span class="hellblau">  Ã„ = </span>Ã„ltestenrat von UNItopia<br>
 <span class="gelb">A = </span>Amtsstube mit Spenden-Apparat und dem fleissigen Denkerchen<br>
 <span class="hellblau">  B = </span>Schwarzes Brett<br>
 <span class="gelb">E = </span>Eingangshalle<br>
 <span class="gelb">G = </span>Amtszimmer von Gengulli, dem Koboldrichter<br>
-<span class="gelb">g = </span>Vorraum des Gefängnisses (durch das Gitter im Boden kommt man in die Zelle)<br>
+<span class="gelb">g = </span>Vorraum des GefÃ¤ngnisses (durch das Gitter im Boden kommt man in die Zelle)<br>
 <span class="gelb">H = </span>Halloeli, die Vorzimmerdame von Genulli<br>
 <span class="gelb">L = </span>Leerer Raum<br>
 <font color=C0C0C0>M =</font> Marktplatz von [[<span class="hellblau">Koboldingen</span>|Koboldingen]]<br>
-<span class="gelb">S = </span>Steno, der Schreiber des Bürgermeisters<br>
+<span class="gelb">S = </span>Steno, der Schreiber des BÃ¼rgermeisters<br>
 <span class="gelb">T = </span>Toiletten<br>
 </span>
