@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp;Keller &nbsp; Erdgeschoss &nbsp; &nbsp;1. Stock &nbsp; &nbsp;2. Stock &nbsp; &nbsp;3. Stock<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B-m-m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="gelb">N</span>|Anfurten]]- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp;<span class="gelb">V</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="violett">E</span>|Maerchenland/Koboldingen]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s &nbsp; &nbsp; &nbsp; &nbsp;B-m-o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">G</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">C</span>
+</span>
+
+<span class="legend">
+<font color=C0C0C0>B =</font> Bastion<br>
+<span class="gelb">C =</span> Cirdans Kammer<br>
+<span class="violett">E =</span> Eingangshalle (durch 'betrete Märchenbuch' gelangt man in eine Höhle von wo einen ein Maulwurf gegen Geld [abzugeben beim Kaninchen] auf den Marktplatz von [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]] bringt)<br>
+<span class="gelb">G =</span> Gebetszimmer<br>
+<font color=C0C0C0>m =</font> Auf der Mauer<br>
+<span class="gelb">N =</span> Mallorn-Baum mit Adler-Landeplatz obendrauf (in [[<span class="hellblau">Anfurten</span>|Anfurten]])<br>
+<font color=C0C0C0>o =</font> Obergeschoss<br>
+<font color=C0C0C0>s =</font> Turmzimmer (um nach Süden in den Raum zu kommen muss man die Sonne an der Tür drücken)<br>
+<font color=C0C0C0>T =</font> Auf dem Tor (man kann hier auch auf den Baum mit dem Adlernest klettern)<br>
+<span class="gelb">V =</span> Vorratsraum<br>
+</span>

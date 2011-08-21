@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; [[<span class="gelb">H</span>|Hobbingen]]<br>
+&nbsp; &nbsp; |<br>
+&nbsp; <span class="gelb">S</span>-<span class="gelb">E</span>-<span class="gelb">W</span><br>
+&nbsp; &nbsp; |<br>
+&nbsp;<font color=00CC00>---</font>[[<font color=C0C0C0>h</font>|Hobbingen]]---<br>
+&nbsp; &nbsp;/|<br>
+&nbsp; <span class="gelb">s</span> |<br>
+&nbsp; &nbsp; |
+
+</span>
+
+<span class="legend">
+<span class="gelb">E =</span> Eingang<br>
+<span class="gelb">H =</span> Heustadel (nach Norden gehts nach [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>
+<font color=C0C0C0>h =</font> Hof (nach Westen, Süden und Osten gehts nach [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<span class="gelb">s =</span> Stall<br>
+<span class="gelb">W =</span> Wohnzimmer<br>
+</span>

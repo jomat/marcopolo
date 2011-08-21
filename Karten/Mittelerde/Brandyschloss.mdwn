@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=C0C0C0>w</font>|Bockland]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">H h</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; <span class="gelb">S</span> [[<font color=C0C0C0>h</font>|Huegel]] f-f-f-<span class="gelb">d</span><br>
+&nbsp; &nbsp; |\|/ &nbsp; \<br>
+&nbsp; <span class="gelb">&nbsp; B</span>-f &nbsp; &nbsp; f &nbsp; <span class="gelb">s</span><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;\ / &nbsp;|<br>
+&nbsp; &nbsp; <span class="gelb">E</span>-f-<span class="gelb">K</span>-<font color=blue>B</font> &nbsp; f-<span class="gelb">O</span>-[[<font color=C0C0C0>w</font>|Bockland]]<br>
+&nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp;/ &nbsp; /<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>w</font>|Bockland]].</font><span class="gelb">k</span>-f <span class="gelb">V</span> &nbsp; f<br>
+&nbsp; &nbsp;<font color=00CC00>\</font> &nbsp;|\ &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">M</span>     f-f-<span class="gelb">k</span>
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bibliothek<br>
+<font color=blue>B =</font> Brunnen<br>
+<span class="gelb">d =</span> Damenklo<br>
+<span class="gelb">E =</span> Esszimmer<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="gelb">H =</span> Große Halle<br>
+<span class="gelb">h =</span> Herrenklo<br>
+<font color=C0C0C0>h =</font> Stiege hoch auf den [[<span class="hellblau">Hügel</span>|Huegel]] von Bockland<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">k =</span> Kinderzimmer (beim westlichen kann man aus dem Fenster rausklettern)<br>
+<span class="gelb">M =</span> Merry's Zimmer<br>
+<span class="gelb">O =</span> Osteingang (hier liegt das Horn von Bockland)<br>
+<span class="gelb">S =</span> Salon<br>
+<span class="gelb">s =</span> Stall<br>
+<span class="gelb">V =</span> Vorratskeller<br>
+<font color=C0C0C0>w =</font> Weg im [[<span class="hellblau">Bockland</span>|Bockland]]<br>
+<font color=00CC00>w =</font> Wiese im [[<span class="hellblau">Bockland</span>|Bockland]]<br>
+</span>

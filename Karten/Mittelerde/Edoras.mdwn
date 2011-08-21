@@ -1,0 +1,55 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; [[<span class="hellblau">W</span>|Edoras_Wall]] <span class="gelb">h</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| <span class="rot">|</span> | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;g g g g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|\ \| &nbsp;\<br>
+&nbsp; &nbsp;<span class="orange">A</span> &nbsp; <span class="orange">W</span> s-s---s<br>
+&nbsp; &nbsp;| &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp;|\<br>
+&nbsp;g-g &nbsp; / &nbsp; &nbsp; &nbsp; | s-<span class="orange">B</span><br>
+&nbsp; / \ / &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp;g <span class="orange">g</span>-s &nbsp;[[<span class="hellblau">Meduseld</span>|Edoras_Meduseld]] s-<span class="orange">K</span> <span class="orange">r</span><br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp;[[<span class="hellblau">W</span>|Edoras_Wall]] <span class="orange">R</span>-s-s---s---s-s-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; &nbsp;\ \ <br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">G</span> <span class="orange">H</span>-s &nbsp; &nbsp; <span class="hellblau">P</span> g-[[<span class="hellblau">W</span>|Edoras_Wall]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau">$</span>-s-<span class="hellblau">L</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; <span class="rot">-</span><span class="gelb">K</span>-g-g |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">S</span>-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Edoras_Wall]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Mittelerde]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="orange">A =</span> Abenteurerladen<br>
+<span class="orange">G =</span> Gürtelmacher<br>
+<span class="orange">g =</span> Gemüsehändler<br>
+<font color=C0C0C0>g =</font> Gasse<br>
+<span class="orange">H =</span> Hornburg Inn (Schänke)<br>
+<span class="gelb">h =</span> Heuhaufen<br>
+<span class="orange">K =</span> Schneller Reiter (Kneipe)<br>
+<span class="gelb">K =</span> Kasernentor<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="orange">R =</span> Rüstungsschmied<br>
+<span class="orange">r =</span> Rrufio, der Geldwechsler<br>
+<span class="orange">S =</span> Sattler<br>
+<span class="hellblau">S =</span> Strasse in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>s =</font> Strasse<br>
+<span class="hellblau">T =</span> Stadttor (mit Treppe hoch auf den [[<span class="hellblau">Stadtwall</span>|Edoras_Wall]])<br>
+<span class="orange">W =</span> Waffenschmied<br>
+<span class="hellblau">W =</span> Aufgang auf den [[<span class="hellblau">Stadtwall</span>|Edoras_Wall]]<br>
+</span>

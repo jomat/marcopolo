@@ -1,0 +1,15 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; <span class="gelb">K</span><br>
+&nbsp; | &nbsp; |<br>
+&nbsp;-[[<font color=C0C0C0>p</font>|Hobbingen]]---<span class="gelb">E</span><br>
+&nbsp;/|\ &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">S</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">E =</span> Eingang<br>
+<span class="gelb">K =</span> Küche<br>
+<font color=C0C0C0>p =</font> Pfad in (in [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+</span>

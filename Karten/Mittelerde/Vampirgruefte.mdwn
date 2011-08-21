@@ -1,0 +1,45 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g&gt;<span class="gelb">G</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">G</span>&lt;g-g-g-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; g &nbsp; &nbsp; &nbsp; g-g-g-g&gt;<span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;\ &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; g &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;\ /<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">G</span>&lt;g &nbsp; &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">T</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">v</span>-g-g-g-t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">H</span>|Grabhuegel]]-
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Hier liegt Aluera in ihrem Sarg<br>
+<span class="gelb">G =</span> Gruft mit leerem Sarg<br>
+<font color=808080>g =</font> Gang<br>
+<span class="gelb">H =</span> Höhlengruft in einem [[<span class="hellblau">Grabhügel</span>|Grabhuegel]]<br>
+<span class="gelb">T =</span> Tor zu den Grabkammern<br>
+<font color=808080>t =</font> Treppe<br>
+<span class="gelb">v =</span> Verlies<br>
+</span>

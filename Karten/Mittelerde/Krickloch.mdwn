@@ -1,0 +1,42 @@
+<span class="map">
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-p<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp;|<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p <font color=00CC00>g-</font>h<font color=00CC00>-g</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; / <font color=00CC00>/</font> &nbsp;| &nbsp;<font color=00CC00>\</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;p <font color=00CC00>r</font> <span class="gelb">K</span>-H-<span class="gelb">B</span> <font color=00CC00>r &nbsp; &nbsp; s</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| <font color=00CC00>|</font>&#9492;&#9472;&#9488;|&#9484;&#9472;&#9496;<font color=00CC00>| &nbsp; &nbsp; |</font> <font color=008000>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;p <font color=00CC00>r</font> <span class="gelb">W</span>-H-<span class="gelb">S</span> <font color=00CC00>r</font> &nbsp; <font color=808080>t</font><font color=00CC00>-s-</font>[[<font color=008000>W</font>|Alter_Wald]]<font color=008000>-</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| <font color=00CC00>|\</font> &nbsp;| &nbsp;<font color=00CC00>/|</font> &nbsp; <font color=808080>|</font> <font color=00CC00>|</font> <font color=008000>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;p <font color=00CC00>r-g</font> s <font color=00CC00>g-r</font> &nbsp; <font color=808080>t</font> <font color=00CC00>s</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;<font color=00CC00>\|X</font>|<font color=00CC00>X|/</font> &nbsp; &nbsp;<font color=808080>|</font> <font color=00CC00>|</font> <font color=008000>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; <font color=00CC00>v-<span class="rot">K</span>-v</font> &nbsp; s-s  <font color=00CC00>s-</font>[[<font color=008000>W</font>|Alter_Wald]]<font color=008000>-</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp;<font color=008000>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; <span class="rot">P</span>-s-s<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;/ &nbsp;|<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;s-s-<span class="rot">R</span> &nbsp; <span class="gelb">s</span><br>
+&nbsp;&nbsp;| &nbsp; &nbsp;/<br>
+&nbsp;&nbsp;[[<span class="gelb">P</span>|Bockland]]-<span class="rot">R</span>-s<br>
+&nbsp;&nbsp;|
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Badezimmer<br>
+<font color=00CC00>g =</font> Garten<br>
+<font color=C0C0C0>H =</font> Große Halle von Krickloch<br>
+<font color=C0C0C0>h =</font> Hintertür von Krickloch<br>
+<span class="rot">K =</span> Khamul, der Zweite der Schwarzen Reiter<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="rot">P =</span> Schwarzes Pferd eines Nazgul<br>
+<span class="gelb">P =</span> Postbote von [[<span class="hellblau">Bockland</span>|Bockland]]<br>
+<font color=C0C0C0>p =</font> Pfad<br>
+<span class="rot">R =</span> Schwarzer Reiter<br>
+<font color=00CC00>r =</font> Rasen<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<span class="gelb">s =</span> Stall<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<font color=00CC00>s =</font> Senke<br>
+<font color=808080>t =</font> Tunnel<br>
+<font color=00CC00>v =</font> Vor der Hecke von Krickloch<br>
+<span class="gelb">W =</span> Wohnzimmer<br>
+<font color=008000>W =</font> [[<span class="hellblau">Alter Wald</span>|Alter_Wald]]<br>
+</span>

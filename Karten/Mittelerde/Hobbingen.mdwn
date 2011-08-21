@@ -1,0 +1,67 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; | &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; [[<font color=00CC00>w</font>|Mittelerde]] [[<font color=00CC00>w</font>|Mittelerde]] <font color=C0C0C0>p-</font><span class="orange">L</span><br>
+&nbsp; &nbsp; &nbsp;/| |<font color=C0C0C0>/</font> &nbsp;|\<br>
+&nbsp; &nbsp; <span class="gelb">a</span>-<font color=339966>h</font>-<font color=C0C0C0>p</font> <span class="gelb">F</span>-<span class="orange">g</span> <span class="gelb">s</span><br>
+&nbsp; &nbsp; |/<font color=339966>|</font> <font color=C0C0C0>|</font> &nbsp; | &nbsp;\<br>
+&nbsp; &nbsp; <span class="orange">B</span>-<font color=339966>h</font>-<font color=C0C0C0>p</font> &nbsp; <span class="orange">e</span>-<span class="orange">S</span>-<span class="gelb">w</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>| &nbsp;/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>| p</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|/</font><br>
+&nbsp; &nbsp; &nbsp; [[<span class="gelb">E</span>|Beutelsend]]<font color=C0C0C0>-v</font>-S<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|</font> |<br>
+&nbsp; &nbsp; G-b-<span class="gelb">G</span>-k<br>
+&nbsp; &nbsp;\| &nbsp; <font color=C0C0C0>|</font> |<br>
+&nbsp; &nbsp; [[<font color=00CC00>R</font>|Mittelerde]]-[[<span class="gelb">W</span>|Wohnhoehlen]]<font color=C0C0C0>-p</font>-w<br>
+&nbsp; &nbsp; | | <font color=C0C0C0>|</font> &nbsp;\<br>
+&nbsp; &nbsp; A-[[<span class="gelb">B</span>|Bauernhof]]<font color=C0C0C0>-p-</font>[[<span class="gelb">b</span>|Bauernhaus]] <span class="gelb">h</span><br>
+&nbsp; &nbsp; | <font color=C0C0C0>|/|\</font><br>
+&nbsp; &nbsp; f-<font color=993300>b</font> [[<span class="gelb">M</span>|Muehle]]<font color=C0C0C0>-[[<font color=C0C0C0>h</font>|Mittelerde]]</font><br>
+&nbsp; &nbsp; &nbsp; <font color=993300>|</font><br>
+&nbsp; &nbsp; &nbsp; <font color=993300>|</font> &nbsp; <span class="hellblau">P</span><br>
+&nbsp; &nbsp; &nbsp; <font color=993300>|</font> &nbsp; <font color=C0C0C0>|</font><br>
+&nbsp;<font color=C0C0C0>-[[<font color=C0C0C0>s</font>|Mittelerde]]---s-s-[[<font color=blue>B</font>|Mittelerde]]-</font><br>
+&nbsp; | &nbsp; <font color=C0C0C0>| &nbsp; |</font><br>
+&nbsp; g---<font color=C0C0C0>p</font> &nbsp; <span class="orange">E</span><br>
+&nbsp; &nbsp;\ /<br>
+&nbsp; &nbsp; [[<font color=008000>w</font>|Mittelerde]]<br>
+&nbsp; &nbsp;/|<font color=008000>\</font>
+</span>
+
+<span class="legend">
+<font color=00CC00>A =</font> Acker<br>
+<span class="gelb">a =</span> Abstellkammer<br>
+<span class="orange">B =</span> Bienenstand<br>
+<span class="gelb">B =</span> [[<span class="hellblau">Bauernhof</span>|Bauernhof]]<br>
+<span class="gelb">b =</span> [[<span class="hellblau">Bauernhaus</span>|Bauernhaus]]<br>
+<font color=blue>B =</font> Brunnen (nach Osten gehts nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=993300>b =</font> Brücke über den Fluss 'die Wasser'<br>
+<font color=00CC00>b =</font> Blumengarten<br>
+<span class="gelb">E =</span> Eingang von [[<span class="hellblau">Beutelsend</span>|Beutelsend]]<br>
+<span class="orange">E =</span> Gasthaus 'zum Efeubusch'<br>
+<span class="orange">e =</span> Eisverkäufer<br>
+<font color=00CC00>f =</font> Flussaue<br>
+<span class="gelb">G =</span> Gandalf<br>
+<span class="orange">g =</span> Grill<br>
+<font color=00CC00>G =</font> Gemüsegarten<br>
+<font color=00CC00>g =</font> Garten<br>
+<span class="gelb">h =</span> Hühnerhof<br>
+<font color=C0C0C0>h =</font> Hof der Mühle (man kann über den Zaun klettern - nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=339966>h =</font> Hügel<br>
+<font color=00CC00>k =</font> Kartoffelacker<br>
+<span class="orange">L =</span> 'Hau-den-Lukas'-Stand<br>
+<span class="gelb">M =</span> [[<span class="hellblau">Mühle</span>|Muehle]]<br>
+<span class="hellblau">P =</span> Post<br>
+<font color=C0C0C0>p =</font> Pfad / Weg<br>
+<font color=00CC00>R =</font> Rübenacker (nach Nordosten gehts nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=00CC00>S =</font> Frodos Lieblingsspielwiese<br>
+<span class="orange">S =</span> Schiessbude<br>
+<span class="gelb">s =</span> Spiegelzelt<br>
+<font color=C0C0C0>s =</font> Straße (nach Westen gehts nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=C0C0C0>v =</font> Vor dem Eingang von Beutelsend<br>
+<span class="gelb">W =</span> [[<span class="hellblau">Wohnhöhlen</span>|Wohnhoehlen]]<br>
+<span class="gelb">w =</span> Anfang des Wandertags<br>
+<font color=008000>w =</font> Waldrand (in den Südlichen Richtungen gehts nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=00CC00>w =</font> Wiese (bei den Wiesen ganz im Norden gehts nach Norden / Nordosten nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Mittelerde</font>|Mittelerde]])</font></center>
+</span>

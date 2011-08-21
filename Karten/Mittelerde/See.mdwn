@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;[[<span class="gelb">h</span>|Hochtal]]<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp;[[<span class="gelb">h</span>|Hochtal]] &nbsp; w<br>
+&nbsp; \ / &#9492;&#9472;&#9488;<br>
+&nbsp; &nbsp;w<font color=blue>-S-S-</font>w<br>
+&nbsp; &nbsp;|<font color=blue>X|X|X</font>|<br>
+&nbsp; &nbsp;[[<span class="hellblau">W</span>|Nebelgebirge]]<font color=blue>-S-S-</font>w<br>
+&nbsp; &nbsp;|<font color=blue>X|X|X|</font>\<br>
+&nbsp; &nbsp;w<font color=blue>-S-S-S-</font>w-[[<span class="hellblau">T</span>|Moria_Minen]]<br>
+&nbsp; &nbsp; \<font color=blue>|X|X|/</font><br>
+&nbsp; &nbsp; &nbsp;w<font color=blue>-S-S</font>
+</span>
+
+<span class="legend">
+<span class="gelb">h =</span> hier kann man in ein relativ kleines [[<span class="hellblau">Hochtal</span>|Hochtal]] hochklettern<br>
+<font color=blue>S =</font> unheimlicher See<br>
+<span class="hellblau">T =</span> Tor der [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
+<font color=C0C0C0>t =</font> Tobel (Ritze/Tal)<br>
+<span class="hellblau">W =</span> hier gehts runter ins [[<span class="hellblau">Tal des Sirannon</span>|Nebelgebirge]]<br>
+<font color=C0C0C0>W =</font> Auf halber Höhe über dem Tal des Sirannon<br>
+<font color=C0C0C0>w =</font> Weg<br>
+</span>

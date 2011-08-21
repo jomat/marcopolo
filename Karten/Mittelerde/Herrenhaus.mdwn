@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp;Ergeschoss &nbsp; 1. Stock &nbsp; 2. Stock<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<span class="gelb">s</span>-<span class="gelb">E</span>-<span class="gelb">K</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">d</span>|Tharbad]]<br>
+&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">k</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">D</span><br>
+&nbsp; &nbsp; \|/<br>
+&nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>v</font>|Tharbad]]
+</span>
+
+<span class="legend">
+<span class="gelb">D =</span> Bedienstetenkammer<br>
+<span class="gelb">d =</span> Dachboden (durch das Fenster kann man runter zum Garten des Hauses [in [[<span class="hellblau">Tharbad</span>|Tharbad]]] klettern) <br>
+<span class="gelb">E =</span> Eingangshalle<br>
+<span class="gelb">K =</span> Handelskontor<br>
+<span class="gelb">k =</span> Kinderzimmer<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<span class="gelb">s =</span> Salon<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<font color=C0C0C0>v =</font> Veranda vor der Haustür des alten Herrenhauses in [[<span class="hellblau">Tharbad</span>|Tharbad]]<br>
+</span>

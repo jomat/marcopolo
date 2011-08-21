@@ -1,0 +1,24 @@
+<span class="map">
+&nbsp;<span class="gelb">R &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;|<br>
+&nbsp;g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;g<br>
+&nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp;g-g-g-g-g-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;\|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; &nbsp;-[[<span class="gelb">I</span>|Vampirschloss]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;/|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t&lt;t&lt;t&lt;t-<span class="gelb">S</span>
+</span>
+
+<span class="legend">
+<font color=808080>g =</font> Gang<br>
+<span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>
+<span class="gelb">R =</span> Radamirs Empfangsraum (Eintritt in die Vampirgilde)<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<span class="gelb">s =</span> Kammer mit Steinsarg<br>
+<font color=808080>t =</font> Treppe<br>
+</span>

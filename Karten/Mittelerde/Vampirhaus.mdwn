@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp; &nbsp;<span class="gelb">D</span> &nbsp; <span class="gelb">g</span><br>
+&nbsp; &nbsp;^ &nbsp; |<br>
+&nbsp;<span class="gelb">A</span>-T-<span class="gelb">W</span>-<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp;<span class="gelb">G</span>-[[<span class="hellblau">F</span>|Mittelerde]] <span class="gelb">B</span><br>
+&nbsp;
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Abstellkammer<br>
+<span class="gelb">B =</span> Badezimmer<br>
+<span class="gelb">D =</span> Dachboden<br>
+<span class="hellblau">F =</span> Flur (hier kommt man auch wieder raus nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="gelb">G =</span> Garderobe<br>
+<span class="gelb">g =</span> Geheimgang (hier geht eine Treppe nach unten - wo man durch ein kleines Labyrinth zum Sarg des Vampirs gelangt)<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<font color=C0C0C0>T =</font> Treppenhaus<br>
+<span class="gelb">W =</span> Wohnzimmer<br>
+</span>

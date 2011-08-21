@@ -1,0 +1,35 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>\<font color=C0C0C0>|</font>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>-[[<font color=C0C0C0>S</font>|Mittelerde]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; / <font color=00CC00>\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;t-[[<span class="gelb">F</span>|Grabhuegel]] &nbsp; &nbsp; w-[[<font color=00CC00>O</font>|Mittelerde]]<font color=00CC00>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;/ /<font color=00CC00>|X</font><br>
+&nbsp;[[<span class="gelb">V</span>|Vampirschloss]]-s &nbsp; t <span class="orange">B</span> &nbsp; f H-[[<font color=339966>h</font>|Mittelerde]]<font color=00CC00>-</font><br>
+&nbsp; &nbsp; \ /| | &nbsp;/ &nbsp; \<font color=339966>|</font><font color=00CC00>X</font><br>
+&nbsp; &nbsp; &nbsp;s t w-[[<span class="gelb">g</span>|Grabhuegel]] &nbsp; &nbsp; [[<font color=339966>h</font>|Mittelerde]]<font color=00CC00>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|/ &nbsp; &nbsp; &nbsp; <font color=339966>/</font><font color=00CC00>|\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;S<br>
+&nbsp; &nbsp; <font color=00CC00>\|/<font color=339966>|\</font>|/<br>
+&nbsp; &nbsp; -[[<font color=00CC00>O</font>|Mittelerde]]-[[<font color=339966>h</font>|Mittelerde]]-[[<font color=00CC00>O</font>|Mittelerde]]-<br>
+&nbsp; &nbsp; /|X|X|\</font>
+</span>
+
+<span class="legend">
+<span class="orange">B =</span> Gasthaus &quot;Zum Blutsauger&quot;<br>
+<span class="gelb">F =</span> Schmaler Felssteig (hier kann man weiter hoch auf den [[<span class="hellblau">Grabhügel</span>|Grabhuegel]] gehen)<br>
+<font color=808080>f =</font> Am Fuße eines Berges<br>
+<span class="gelb">g =</span> Geröllfeld (hier kann man weiter hoch auf den [[<span class="hellblau">Grabhügel</span>|Grabhuegel]] gehen)<br>
+<font color=808080>H =</font> Auf den Hügelgräberhöhlen (alle Richtungen ausser die eingezeichneten führen zur Senke)<br>
+<font color=339966>h =</font> Hügel in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=00CC00>O =</font> [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=808080>t =</font> Tal<br>
+<font color=C0C0C0>S =</font> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=808080>S =</font> Senke<br>
+<font color=808080>s =</font> Felsspalte<br>
+<span class="gelb">V =</span> Hier gehts hoch zum [[<span class="hellblau">Vampirschloss</span>|Vampirschloss]]<br>
+<font color=808080>w =</font> Weg<br>
+</span>

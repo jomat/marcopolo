@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp; \<br>
+&nbsp; &nbsp; -[[<span class="hellblau">s</span>|Edoras]]<br>
+&nbsp; &nbsp; &nbsp;|\<br>
+&nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp;w---w-----w<br>
+&nbsp;| &nbsp;/&#9492;&#9472;&#9488; &nbsp; |<br>
+&nbsp;| <span class="gelb">T</span> <span class="gelb">W</span>-g-<span class="gelb">E</span> |<br>
+&nbsp;| | &nbsp; | &nbsp; |<br>
+&nbsp;w <span class="gelb">K</span>-g-g-<span class="gelb">k</span> w<br>
+&nbsp;| | &nbsp; | &nbsp; |<br>
+&nbsp;| H &nbsp; <span class="gelb">k</span> &nbsp; |<br>
+&nbsp;| | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;w-<font color=blue>B</font>-------w<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;t-t<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; -[[<span class="hellblau">s</span>|Edoras]]-<br>
+&nbsp; &nbsp; &nbsp;|<br>
+
+</span>
+
+<span class="legend">
+<font color=blue>B =</font> Brunnen<br>
+<span class="gelb">E =</span> Eowyns Gemach<br>
+<font color=C0C0C0>H =</font> Halle von Meduseld<br>
+<span class="gelb">K =</span> Kartentisch<br>
+<span class="gelb">k =</span> Kleine Kammer<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Edoras</span>|Edoras]]<br>
+<font color=C0C0C0>s =</font> Strasse<br>
+<span class="gelb">T =</span> Thron von Rohan<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="gelb">W =</span> Wachraum über dem Verlies<br>
+<font color=C0C0C0>w =</font> Weg zm Meduseld<br>
+</span>

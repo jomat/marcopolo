@@ -1,0 +1,61 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; <span class="gelb">S</span><br>
+&nbsp;<font color=00CC00>\</font>|<font color=00CC00>/</font> &nbsp;|<br>
+&nbsp;<font color=00CC00>-</font>[[<font color=C0C0C0>S</font>|Mittelerde]]<font color=00CC00>-</font> &nbsp;<font color=blue>B</font><br>
+&nbsp;<font color=00CC00>/|</font>\ &nbsp;|\<br>
+&nbsp; &nbsp; \ | <span class="hellblau">$</span><br>
+&nbsp; &nbsp; &nbsp;\|<br>
+&nbsp; &nbsp; &nbsp; s-s<font color=00CC00>---w</font><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; <font color=00CC00>|</font><br>
+&nbsp; &nbsp; <span class="hellblau">L</span>-s-<span class="orange">S</span> &nbsp; p<br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;.<br>
+&nbsp; &nbsp; s-s-<span class="hellblau">P</span> &nbsp;.<br>
+&nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \ <span class="orange">A</span>.<span class="orange">K</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/<br>
+&nbsp; <span class="rot">S</span>-<span class="rot">s</span>-s-s-H-<span class="orange">B</span><br>
+&nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp;|.<br>
+&nbsp; &nbsp; <span class="orange">k</span> [[<font color=00CC00>g</font>|Herrenhaus]] &nbsp; | <span class="gelb">A</span><br>
+&nbsp; &nbsp; |<font color=00CC00>/.\</font>&nbsp; | &nbsp; &nbsp; &nbsp;<font color=blue>\</font><font color=00CC00>|/</font><br>
+&nbsp;&nbsp;&nbsp; h [[<span class="gelb">H</span>|Herrenhaus]] s-s-s-----[[<font color=C0C0C0>S</font>|Mittelerde]]-<br>
+&nbsp; &nbsp; &nbsp;\|/&nbsp; | &nbsp;\ &nbsp; <font color=blue>/</font><font color=00CC00>|\</font><br>
+&nbsp; &nbsp; &nbsp; v <span class="orange">G</span>-s &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; <span class="orange">J</span>-<span class="gelb">K</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">H</span> <span class="orange">U</span>---<span class="orange">T</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &#9492;&#9488;/<br>
+&nbsp; &nbsp; &nbsp; F-F &nbsp; &nbsp; <span class="orange">H</span>
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank/Handelskontor<br>
+<span class="orange">A =</span> Apotheker<br>
+<font color=blue>B =</font> Viereckiger Hof mit Brunnen<br>
+<span class="orange">B =</span> Bäckerei<br>
+<font color=C0C0C0>F =</font> Friedhof<br>
+<span class="orange">G =</span> Gasthaus<br>
+<font color=00CC00>g =</font> Garten (an dem Efeu an der Wand kann man in das [[<span class="hellblau">alte Herrenhaus</span>|Herrenhaus]] hineinklettern)<br>
+<span class="hellblau">H =</span> Hafen (von hier kann man mit dem Flussboot nach Londaer fahren)<br>
+<span class="gelb">H =</span> [[<span class="hellblau">Altes Herrenhaus</span>|Herrenhaus]]<br>
+<span class="orange">H =</span> Alter Herr (verzaubert Gegenstände)<br>
+<font color=C0C0C0>H =</font> Hauptplatz von Tharbad (man kann über das Bauplakat zum alten Abenteurergilde klettern; Richtung 'Gasse' kann man zwischen den Häusern im Norden und Nordosten durch)<br>
+<font color=C0C0C0>h =</font> Hinterhof<br>
+<span class="orange">J =</span> Schuhhändler<br>
+<span class="orange">K =</span> Kaffeehaus<br>
+<span class="orange">k =</span> Kneipe<br>
+<span class="gelb">K =</span> Alter Kahn<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="hellblau">P =</span> Post<br>
+<font color=C0C0C0>p =</font> Pfad zwischen Häusern<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="gelb">S =</span> Stall<br>
+<span class="rot">S =</span> Lager der Straßenschläger (hier gehts runter in ne kleine Höhle) [vorsicht, man kann nicht fliehen]<br>
+<span class="rot">s =</span> Straßenschläger [vorsicht, man kann nicht fliehen]<br>
+<font color=C0C0C0>S =</font> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="orange">T =</span> Trödelhändlerin<br>
+<span class="orange">U =</span> Uhrenhändler<br>
+<font color=C0C0C0>v =</font> Veranda an der Eingangstür des Hauses (nach unten gehts in einen leeren Keller)<br>
+<font color=00CC00>w =</font> Wiese (Richtung 'Pfad' gehts auf einen Pfad zwischen den Häusern)<br>
+</span>

@@ -1,0 +1,19 @@
+<span class="map">
+&nbsp; &nbsp;<span class="gelb">S K</span><br>
+&nbsp; &nbsp;|/<br>
+&nbsp; &nbsp;<span class="gelb">E</span>-<span class="gelb">w</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">a</span> | <span class="gelb">a</span><br>
+&nbsp; \|/<br>
+&nbsp; -[[<span class="gelb">W</span>|Hobbingen]]-<br>
+&nbsp; &nbsp;|
+</span>
+
+<span class="legend">
+<span class="gelb">a =</span> Ärmliche Hobbithöhle<br>
+<span class="gelb">E =</span> Eingang der Höhle der Ham Gamdschies<br>
+<span class="gelb">K =</span> Küche von Ham Gamdschie<br>
+<span class="gelb">S =</span> Schlafzimmer von Sam Gamdschie<br>
+<span class="gelb">W =</span> Vor dem Eingang der Wohnhöhlen in [[<span class="hellblau">Hobbingen</span>|Hobbingen]]<br>
+<span class="gelb">w =</span> Wohnzimmer der Gamdschies<br>
+</span>

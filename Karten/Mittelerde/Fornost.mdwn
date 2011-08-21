@@ -1,0 +1,39 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">T</span>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; S<br>
+&nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; [[<span class="hellblau">G</span>|Fornost_Katakomben]] <span class="gelb">G</span><br>
+&nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; F <font color=blue>E</font><br>
+&nbsp; &nbsp; | |<br>
+&nbsp;-[[<span class="hellblau">T</span>|Mittelerde]]-S-S-M-M-S<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |X| &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; M-M-<span class="hellblau">P</span> F<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; S &nbsp; S<font color=777777>-B</font><span class="rot">-</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp; <font color=00CC00>P</font> S-S-<span class="orange">S</span>-<span class="orange">T</span><br>
+&nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; [[<span class="hellblau">R</span>|Fornost_Katakomben]]-<span class="orange">G</span>-[[<span class="hellblau">T</span>|Mittelerde]]-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+
+</span>
+
+<span class="legend">
+<font color=777777>B =</font> Brücke<br>
+<font color=blue>E =</font> Evendimbrunnen<br>
+<font color=C0C0C0>F =</font> Friedhof<br>
+<span class="orange">G =</span> Gasthaus<br>
+<span class="gelb">G =</span> Platz der Gaukler (hier gehts auch nach Westen ins Zelt einer Wahrsagerin)<br>
+<span class="hellblau">G =</span> Hier gehts runter in eine Grabkammer in den [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] Fornosts (2 Felder runter...)<br>
+<font color=00CC00>P =</font> Ehemaliger Park (jetzt Gemüsegarten)<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="hellblau">R =</span> Räuberverseck im Hinterzimmer des Gasthauses (hier gehts auch runter in die Tunnels und [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]])<br>
+<span class="orange">S =</span> Schuhgeschäft<br>
+<font color=C0C0C0>S =</font> Straße<br>
+<span class="orange">T =</span> Platz vor dem Möbelhaus Tanoa (nach Norden gehts rein)<br>
+<span class="hellblau">T =</span> Stadttor (hier gehts wieder raus nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]], am Westtor ist zudem noch ein Gitter runter in die [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] unter der Stadt)<br>
+<font color=C0C0C0>W =</font> Wachstube<br>
+</span>

@@ -1,0 +1,17 @@
+<span class="map">
+&nbsp;<span class="gelb">P</span><br>
+&nbsp;|<br>
+&nbsp;<span class="gelb">k</span> &nbsp; g<br>
+&nbsp; \ &nbsp;|<br>
+&nbsp; &nbsp;g-g-[[<span class="hellblau">S</span>|Mittelerde]]-g <span class="gelb">f</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g
+</span>
+
+<span class="legend">
+<span class="gelb">f =</span> Der Gang endet hier in einer Sackgasse, aber durch eine Falltür am Boden kommt man in einen weiteren Kellerraum<br>
+<font color=808080>g =</font> Gang<br>
+<span class="gelb">k =</span> kleine Kammer (druch Drücken des Steines im Mosaik kommt man nach Norden)<br>
+<span class="gelb">P =</span> Palantir von Annuminas<br>
+<span class="hellblau">S =</span> Spalt durch den man an die Oberfläche klettern kann ([[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+</span>

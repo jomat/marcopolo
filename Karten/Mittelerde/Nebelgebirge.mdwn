@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp; <font color=339966>\</font><br>
+&nbsp; &nbsp; -[[<span class="hellblau">S</span>|Mittelerde]]<br>
+&nbsp; &nbsp; <font color=339966>/|</font>\<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-p &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">s</span>|Schattenbachtal]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFFFF>/</font><br>
+&nbsp;<span class="gelb">r</span> &nbsp; &nbsp; w &nbsp; p-p-L &nbsp; <font color=FFFFFF>S-v W v-p</font><br>
+&nbsp;&#9474; &nbsp; &nbsp;/ &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<font color=FFFFFF>\ /</font><br>
+&nbsp;&#9492;&#9472;t-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">E</span><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w-w-w-[[<span class="hellblau">W</span>|See]]
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Abzweigung (Vorsicht, Drachenwildwechsel)<br>
+<span class="gelb">E =</span> kleine Erhebung (Aussichtspunkt)<br>
+<font color=C0C0C0>L =</font> hier bekommt man öfters mal ne Steine von oben ab<br>
+<font color=C0C0C0>p =</font> Pfad<br>
+<font color=FFFFFF>p =</font> Verschneiter Pfad<br>
+<span class="gelb">r =</span> Raubtierhöhle<br>
+<font color=FFFFFF>S =</font> In einem Schneesturm<br>
+<font color=C0C0C0>S =</font> Straße an der Westseite des Nebelgebirges in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<span class="hellblau">s =</span> Am Rande einer Schlucht (Abstieg ins [[<span class="hellblau">Schattenbachtal</span>|Schattenbachtal]])<br>
+<font color=C0C0C0>t =</font> Trampelpfad um eine Hausruine<br>
+<font color=FFFFFF>v =</font> Vor einer Schneewehe (weiter gehts indem man in den Spalt in der Wehe kriecht)<br>
+<font color=FFFFFF>W =</font> In einer Schneewehe<br>
+<span class="hellblau">W =</span> Wasserfall (nach oben gehts zu einem [[<span class="hellblau">unheimlichen See</span>|See]])<br>
+<font color=C0C0C0>w =</font> Weg<br>
+</span>

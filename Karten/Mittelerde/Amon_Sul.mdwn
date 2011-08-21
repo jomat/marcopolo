@@ -1,0 +1,45 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">g</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;[[<span class="hellblau">a</span>|Mittelerde]] &nbsp; &nbsp; s-<span class="rot">S</span><br>
+&nbsp; \ &nbsp; / &nbsp; \<br>
+&nbsp; &nbsp;w <span class="gelb">T</span> &nbsp; &nbsp; <font color=00CC00>t</font>-<span class="orange">V</span><br>
+&nbsp; &nbsp;^/ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g <span class="orange">S</span> <span class="gelb">B</span>-<span class="gelb">S</span> s-<span class="gelb">V</span><br>
+&nbsp; &nbsp; &nbsp;| | &nbsp; &nbsp;\<br>
+&nbsp; &nbsp;[[<span class="hellblau">g</span>|Mittelerde]]-<span class="gelb">f</span>-<font color=blue>b</font>-<span class="gelb">K</span> &nbsp; s<br>
+&nbsp; &nbsp; &nbsp;| | &nbsp; &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">T</span> <span class="orange">s</span> <span class="hellblau">$</span> m &nbsp; <span class="gelb">E</span><br>
+&nbsp; &nbsp; &nbsp; \ &nbsp;|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp;s-<span class="gelb">L</span><br>
+&nbsp; &nbsp; &nbsp; / &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<span class="hellblau">O</span> &nbsp; <span class="gelb">R</span>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank (Geldwechselstube)<br>
+<span class="hellblau">a =</span> Anfang des Aufstiegs (runter gehts wieder nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="gelb">B =</span> Bergfried<br>
+<font color=blue>b =</font> Innenhof mit Brunnen<br>
+<span class="gelb">E =</span> Der Turm "Elessars Wacht" mit (momentan geschlossenem) Museum drin<br>
+<span class="gelb">f =</span> Innenhof mit Feuerstelle<br>
+<span class="hellblau">a =</span> Gefängnisturm (mit Geheimgang nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="gelb">g =</span> Gebirgswacht<br>
+<font color=C0C0C0>g =</font> Gipfel der Wetterspitze (runter [^] gehts auf den Weg zum Gipfel)<br>
+<span class="gelb">K =</span> Kapelle<br>
+<span class="gelb">L =</span> Lumpi, die Gauklerin<br>
+<font color=C0C0C0>m =</font> Markt<br>
+<span class="hellblau">O =</span> Ohtars Turm (im untergeschoss ist der örtliche Laden)<br>
+<span class="gelb">R =</span> Turm von Rhudaur<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="orange">s =</span> Schneider<br>
+<span class="gelb">S =</span> Stallungen<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="rot">S =</span> Baustelle/Schlachtfeld (ab und zu überfallen die Orks dieses Feld)<br>
+<span class="gelb">T =</span> Burgtor<br>
+<font color=00CC00>t =</font> kleiner Teich<br>
+<span class="orange">V =</span> Gasthaus 'Valandils Erker'<br>
+<span class="gelb">V =</span> Valandils Turm (örtlicher Adler-Landeplatz auf dem Dach)<br>
+<font color=C0C0C0>w =</font> Weg zum Gipfel (hoch [^] kommt man zum Gipfel)<br>
+</span>

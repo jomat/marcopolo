@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp;<span class="gelb">b</span>-<span class="gelb">g</span><br>
+&nbsp; /<br>
+&nbsp;<span class="gelb">B</span><br>
+&nbsp;|<br>
+&nbsp;v<br>
+&nbsp; \|/<br>
+&nbsp; -[[<span class="gelb">I</span>|Vampirschloss]]-<br>
+&nbsp; /|\
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Ballsaal<br>
+<span class="gelb">b =</span> Bühne (Teil des Ballsaales, aber nur über die Garderobe betretbar)<br>
+<span class="gelb">g =</span> Garderobe<br>
+<span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>
+<font color=808080>v =</font> Vorraum<br>
+</span>

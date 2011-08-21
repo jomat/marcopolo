@@ -1,0 +1,41 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">S</span> <span class="orange">G</span><br>
+&nbsp; &nbsp; &nbsp;| |<br>
+&nbsp;<span class="hellblau">$</span> &nbsp; s-s<br>
+&nbsp; \ &nbsp;| &nbsp;\<br>
+&nbsp; &nbsp;s-s &nbsp; s<br>
+&nbsp; &nbsp;| | &nbsp; &nbsp;\<br>
+&nbsp; &nbsp;g s &nbsp; &nbsp; s-<span class="orange">K</span><br>
+&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;m &nbsp; m-s<br>
+&nbsp; &nbsp; &nbsp; \ / &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>b</font> &nbsp; s-<span class="orange">b</span><br>
+&nbsp; &nbsp; &nbsp; / &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="hellblau">L</span>-m &nbsp; &nbsp; s <span class="orange">S</span><br>
+&nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;s---s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |&nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">B &nbsp;</span>&nbsp;s &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">s</span>-s &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-[[<span class="hellblau">M</span>|Mittelerde]]
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">A =</span> Am Anfang von Belegost (hier liegt auch ein Buch über die Entstehung der Stadt)<br>
+<span class="orange">B =</span> Brauerei<br>
+<span class="orange">b =</span> laden für Bernsteinschmuck<br>
+<font color=blue>b =</font> Mitte des Marktplatzes (mit Brunnen)<br>
+<span class="orange">G =</span> Gasthaus<br>
+<font color=808080>g =</font> Gasse<br>
+<span class="orange">K =</span> Kneipe<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="hellblau">M =</span> Hier steht Moddin an der Treppe hoch nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=808080>m =</font> Marktplatz<br>
+<span class="orange">S =</span> Schmied<br>
+<span class="orange">s =</span> Schneider<br>
+<span class="gelb">S =</span> Sekte<br>
+<font color=808080>s =</font> Stollen<br>
+</span>

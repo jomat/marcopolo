@@ -1,0 +1,28 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">K</span>-<span class="gelb">T</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">R</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .<br>
+&nbsp;-[[<span class="gelb">F</span>|Huegelgraeber]]&lt;&lt;&lt;f&lt;&lt;&lt;<span class="gelb">G</span><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; [[<span class="gelb">t</span>|Vampirgruefte]] |<br>
+&nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; <span class="gelb">H</span>-g<br>
+&nbsp; &nbsp; &nbsp; v<br>
+&nbsp; &nbsp; &nbsp; v<br>
+&nbsp; &nbsp; &nbsp; v/<br>
+&nbsp; &nbsp; &nbsp;-[[<span class="gelb">g</span>|Huegelgraeber]]
+</span>
+
+<span class="legend">
+<span class="gelb">F =</span> Felssteig in den [[<span class="hellblau">Hügelgräbern</span>|Huegelgraeber]]<br>
+<font color=808080>f =</font> Felssteig<br>
+<span class="gelb">G =</span> Gipfel des Grabhügels (nachdem man mit 'drücke stein in grab' eine Öffnung geschaffen hat kann man in das Grab nördlich schlüpfen)<br>
+<span class="gelb">g =</span> Geröllfeld in den [[<span class="hellblau">Hügelgräbern</span>|Huegelgraeber]]<br>
+<font color=808080>g =</font> Geröllfeld<br>
+<span class="gelb">H =</span> Höhlengruft (mit beweglicher Steinplatte -> Gang nach Norden)<br>
+<span class="gelb">K =</span> Grabkammer (man kann durch die Ostwand brechen und so zu Theoden kommen)<br>
+<span class="gelb">R =</span> Eingang zu Theodens Grab & Grabräuber<br>
+<span class="gelb">T =</span> Geist von König Theoden<br>
+<span class="gelb">t =</span> Treppenhaus runter zu den [[<span class="hellblau">Vampirgrüften</span>|Vampirgruefte]]<br>
+</span>

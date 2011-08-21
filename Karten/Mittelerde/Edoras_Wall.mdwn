@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp;w-w-w-[[<span class="hellblau">W</span>|Edoras]]-w-w-w<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;[[<span class="hellblau">W</span>|Edoras]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">W</span>|Edoras]]<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;w-w-w-[[<span class="hellblau">T</span>|Edoras]]-w-w-w<br>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">T =</span> Wachturm am Stadttor (mit Treppe runter nach [[<span class="hellblau">Edoras</span>|Edoras]])<br>
+<span class="hellblau">W =</span> Aufgang auf den Stadtwall (mit Treppe runter nach [[<span class="hellblau">Edoras</span>|Edoras]])<br>
+<font color=C0C0C0>w =</font> Stadtwall<br>
+</span>

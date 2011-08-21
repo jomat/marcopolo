@@ -1,0 +1,25 @@
+<span class="map">
+<font color=00CC00>&nbsp; Keller &nbsp; Erdgeschoss &nbsp; 1. Stock &nbsp; 2. Stock</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">H G G</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S</span>|Mittelerde]]-E-f-t-[[<span class="hellblau">g</span>|Mittelerde]] &nbsp; &nbsp; &nbsp; <span class="gelb">T</span>-t &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp;<span class="gelb">V</span>-<span class="gelb">K &nbsp; &nbsp; &nbsp; &nbsp;F G B</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bad<br>
+<font color=C0C0C0>E =</font> Eingangshalle<br>
+<span class="gelb">F =</span> Festhalle (hier gehts runter in die Küche)<br>
+<font color=C0C0C0>f =</font> Treppe<br>
+<span class="gelb">G =</span> Gästezimmer<br>
+<span class="hellblau">g =</span> Gartenterasse (runter/nach Osten gehts wieder nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="gelb">H =</span> Halle des Feuers<br>
+<span class="gelb">K =</span> Küche (hier gehts hoch in die Festhalle)<br>
+<span class="gelb">S =</span> Turmspitze<br>
+<span class="hellblau">S =</span> Söller (runter/nach Westen gehts wieder nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="gelb">T =</span> Turmzimmer<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="gelb">V =</span> Vorratskammer<br>
+</span>

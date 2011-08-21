@@ -1,0 +1,27 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; [[<span class="hellblau">q</span>|Nebelgebirge]]<br>
+&nbsp; &nbsp; &nbsp; <font color=C0C0C0>|<br>
+&nbsp; &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; s</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; |\<br>
+&nbsp;<font color=808080>-</font>[[<span class="hellblau">T</span>|Moria_Minen]]<font color=C0C0C0>-v-v</font>-<span class="hellblau">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<font color=blue>\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">Q</span>-[[<font color=blue>f</font>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\</font>
+</span>
+
+<span class="legend">
+<font color=blue>f =</font> Silberlauf (Fluss im Osten [[<span class="hellblau">Mittelerdes</span>|Mittelerde]])<br>
+<span class="hellblau">Q =</span> Quelle des Silberlauf (hier steht auch der Ellcrys)<br>
+<span class="hellblau">q =</span> Quelle des Schattenbach (und Aufstiegsmöglichkeit für Bergsteiger über das [[<span class="hellblau">Nebelgebirge</span>|Nebelgebirge]])<br>
+<span class="hellblau">S =</span> Spiegelsee<br>
+<font color=C0C0C0>s =</font> Schlucht durch die der Schattenbach fliesst<br>
+<span class="hellblau">T =</span> Tor der [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
+<font color=00CC00>t =</font> Schattenbachtal<br>
+<font color=C0C0C0>v =</font> Vor der Pforte/dem Tor von Moria<br>
+</span>

@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp; Ebene 0 &nbsp; Ebene -1 &nbsp; Ebene -2<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span>-<span class="gelb">W</span>-<span class="gelb">K</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;k<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g.s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /&nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp;S &nbsp; &nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; F<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;[[<span class="gelb">E</span>|Mittelerde]]
+</span>
+
+<span class="legend">
+<span class="gelb">E =</span> Eingangshalle ('kletter durch lücke' um raus nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]] zu kommen)<br>
+<font color=808080>F =</font> Felsenraum<br>
+<font color=808080>g =</font> Gang (man kann durch eine Spalte in der Ostwand klettern)<br>
+<span class="gelb">K =</span> Küche<br>
+<font color=808080>k =</font> Kleine Kammer<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<font color=808080>S =</font> Großer Saal<br>
+<font color=808080>s =</font> Enger Spalt im Felsen<br>
+<font color=808080>t =</font> Treppe<br>
+<span class="gelb">W =</span> Weihraum (hier ist Auromir der Exorzist)<br>
+</span>

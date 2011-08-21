@@ -1,0 +1,29 @@
+<span class="map">
+&nbsp; &nbsp;[[<span class="hellblau">G</span>|Fornost]]<br>
+&nbsp; &nbsp; \<br>
+&nbsp; &nbsp;<span class="gelb">S</span> G<br>
+&nbsp; &nbsp;|/<br>
+&nbsp;[[<span class="hellblau">K</span>|Fornost]] <span class="gelb">W</span><br>
+&nbsp; \|\<br>
+&nbsp;k-K <span class="gelb">Z</span><br>
+&nbsp; &nbsp; &nbsp;.<br>
+&nbsp;<span class="gelb">w</span>....<br>
+&nbsp;|<br>
+&nbsp;g<br>
+&nbsp; \<br>
+&nbsp; &nbsp;[[<span class="hellblau">R</span>|Fornost]]<br>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">G =</span> Grabkammer (hier gehts hoch nach [[<span class="hellblau">Fornost</span>|Fornost]] [2 Felder hoch])<br>
+<font color=C0C0C0>G =</font> Grabkammer<br>
+<font color=C0C0C0>g =</font> Dunkler Gang<br>
+<span class="hellblau">K =</span> Düstere Kammer (an der Decke ist ein Gitter hoch nach [[<span class="hellblau">Fornost</span>|Fornost]])<br>
+<font color=C0C0C0>K =</font> Katakomben<br>
+<span class="hellblau">R =</span> Kellerraum(hoch gehts zum Räuberversteck im geheimen Hinterzimmer des Gasthauses von [[<span class="hellblau">Fornost</span>|Fornost]])<br>
+<span class="gelb">S =</span> Schatzkammer<br>
+<span class="gelb">W =</span> Diebeswerkstatt<br>
+<span class="gelb">w =</span> Alte Waffenkammer<br>
+<span class="gelb">Z =</span> Kerkerzelle (Vorsicht, die Tür fällt von alleine zu - aber man kann durch ein Loch in der Wand rauskriechen)<br>
+</span>

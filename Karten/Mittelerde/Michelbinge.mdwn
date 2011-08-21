@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp; [[<span class="gelb">G</span>|Gefaengnis]] <span class="gelb">M</span> <span class="hellblau">L $</span><br>
+&nbsp;<font color=00CC00>\</font>|/ &nbsp;| |<font color=00CC00>/</font><br>
+&nbsp;-[[<font color=C0C0C0>s</font>|Mittelerde]]---s-[[<font color=C0C0C0>s</font>|Mittelerde]]<font color=008000>-</font><br>
+&nbsp;<font color=339966>/</font>| &nbsp; | <font color=339966>|</font>\<br>
+&nbsp; [[<span class="gelb">R</span>|Rathaus2]] &nbsp; <span class="orange">K</span>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">G =</span> [[<span class="hellblau">Gef‰ngnis</span>|Gefaengnis]]<br>
+<span class="orange">K =</span> Komissionsverkaufsladen<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="gelb">M =</span> Mathomhaus<br>
+<span class="gelb">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus2]]<br>
+<font color=C0C0C0>s =</font> Straﬂe (nach Osten und Westen gehts nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+</span>

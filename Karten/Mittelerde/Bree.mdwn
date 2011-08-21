@@ -1,0 +1,56 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>g</font>.m<font color=00CC00>-v-</font><span class="gelb">F</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/| &nbsp; &nbsp; <font color=00CC00>|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">a</span> s s-s-<span class="gelb">T</span>-[[<span class="hellblau">S</span>|Mittelerde]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |/ &nbsp;| &nbsp; &nbsp; <font color=00CC00>|\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; s &nbsp; s-<span class="orange">P</span><br>
+&nbsp;<font color=00CC00>\</font>|<font color=00CC00>/</font> &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp;-[[<span class="hellblau">S</span>|Mittelerde]]-<span class="gelb">T</span>-s-<font color=blue>B</font>-<span class="orange">s</span>-s<br>
+&nbsp;<font color=00CC00>/ \</font> &nbsp; &nbsp;|\ &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; s-[[<span class="hellblau">$</span>|Rathaus]] | <span class="orange">G</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">h</span>-s [[<span class="gelb">R</span>|Rathaus]]-M-i<br>
+&nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; s-<span class="orange">%</span> <span class="orange">M</span>-M <span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; |\| &nbsp;/|<br>
+&nbsp; &nbsp; &nbsp; [[<font color=00CC00>w</font>|Wiese]] s-s <span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">f</span>&nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">N</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\</font>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>-[[<span class="hellblau">S</span>|Mittelerde]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font>|<font color=00CC00>\
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank (durch den Keller gehts ins [[<span class="hellblau">Rathaus</span>|Rathaus]])<br>
+<span class="orange">% =</span> Tabakladen (von Westen betretbar), Pfeifenschnitzer (von Osten betretbar)<br>
+<span class="gelb">a =</span> baufälliges Anwesen<br>
+<font color=blue>B =</font> Hauptplatz von Bree (mit Brunnen)<br>
+<span class="gelb">F =</span> Haus in dem die kleine Fledermaus ist<br>
+<span class="gelb">f =</span> Wohnhöhle von Otho Gutleib (Fallensteller)<br>
+<span class="orange">G =</span> Gasthaus zum 'Tänzelnden Pony'<br>
+<font color=00CC00>g =</font> verwilderter Garten (in dem kleinen Haus ist hier das Spiel Heimlich&Co)<br>
+<span class="gelb">h =</span> Hobbithöhle<br>
+<font color=C0C0C0>i =</font> Innenhof des Gasthauses<br>
+<span class="orange">M =</span> Markthalle (Laden in dem man Waren gegeneinander Tauscht)<br>
+<font color=C0C0C0>M =</font> Marktplatz<br>
+<font color=C0C0C0>m =</font> Straße (an der Westseite ist eine kleine Mauer über die man klettern kann)<br>
+<span class="gelb">N =</span> Adler-Landeplatz<br>
+<span class="orange">P =</span> Parfümerie<br>
+<span class="gelb">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus]]<br>
+<span class="orange">s =</span> Scherenschleifer<br>
+<span class="gelb">S =</span> Stall<br>
+<span class="hellblau">S =</span> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="gelb">T =</span> Stadttor<br>
+<font color=00CC00>v =</font> Vorgarten (mit Wachhund)<br>
+<span class="gelb">W =</span> Waage<br>
+<font color=00CC00>w =</font> [[<span class="hellblau">Wildblumenwiese</span>|Wiese]]<br>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Mittelerde</font>|Mittelerde]])</font></center>
+</span>
