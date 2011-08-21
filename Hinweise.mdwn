@@ -9,9 +9,9 @@ Auch wenn viele Seiten per Skript weitestgehend automatisch ins Wiki übertragen
 
 Ein klassischer Fehler ist, dass die Karte selbst nicht übertragen wurde sondern nur die Legende. Dann Bescheid sagen, vermutlich sind noch mehr Karten im selben Gebiet betroffen. Dies kann mit einer kleinen Änderung im Scritp schnell behoben werden.
 
-Ein anderer von mir häufig beobachteter Fehler sind kaputte Links, obwohl die Zielseite eigentlich vorhanden ist. Diese Links sind dann der Linktext mit einem anklickbaren ? davor, meist reicht es, die ../ oder das .html zu entfernen (also \[\[V|../Vaniorh.html\]\] muss zu \[\[V|Vaniorh\]\] werden. Das V ist, wie der Link angezeigt wird, Vaniorh die Seite, auf die er gehen soll.). Ebenso ist \[\[Gallien/W1\]\] falsch und es muss nur \[\[W1\]\] heissen und manche Stellen haben sich verschoben: Amerindia/Gruft → Ebenen/Amerindia/Gruft
+Ein anderer von mir häufig beobachteter Fehler sind kaputte Links, obwohl die Zielseite eigentlich vorhanden ist. Diese Links sind dann der Linktext mit einem anklickbaren ? davor, meist reicht es, die ../ oder das .html zu entfernen (also \[\[V|../Vaniorh.html\]\] muss zu \[\[V|Vaniorh\]\] werden. Das V ist, wie der Link angezeigt wird, Vaniorh die Seite, auf die er gehen soll.). Manche Stellen haben sich auch verschoben: Amerindia/Gruft → Ebenen/Amerindia/Gruft
 
-Häufig ist das Meer weiss statt blau, das ist per Hand einfach behoben, einfach auf einer funktionierenden Seite spicken ;-)
+Häufig ist das Meer weiss statt blau, die Grassteppe nicht grün und so weiter, das ist per Hand einfach behoben, einfach auf einer funktionierenden Seite spicken ;-)
 
 # TODOs
 Neben den oben genannten Farbissues und so weiter gibt's hier noch die Links ins Leere: [[brokenlinks]]
