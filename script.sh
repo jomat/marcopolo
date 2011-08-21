@@ -20,8 +20,8 @@ sed -i '/^$/d' $1
 rm $1.tmp
 sed -i 's|</FONT></TD>$||' $1
 sed -i 's|^</TR>$|</span>\n\n<span class="legend">|' $1
-sed -i '/^<\/TABLE>$/d' $i
-sed -i '/^<\/CENTER>$/d' $i
-sed -i '/^<\/DIV>$/d' $i
-sed -i '/^<br>$/d' $i
-sed -i '/^<font color=C0C0C0 face="Courier New" style="font-size: 8pt">$/d' $i
+sed -i '/^<\/TABLE>$/d' $1
+sed -i '/^<\/CENTER>$/d' $1
+sed -i '/^<\/DIV>$/d' $1
+sed -i '/^<br>$/d' $1
+sed -i '/^<font color=C0C0C0 face="Courier New" style="font-size: 8pt">$/d' $1

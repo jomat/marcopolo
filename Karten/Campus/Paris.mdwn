@@ -1,41 +1,17 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Paris</title>
-</head>
+<span class="map">
+&nbsp;<span class="hellblau">b</span> b<br>
+&nbsp;| |<br>
+&nbsp;[[<span class="hellblau">m</span>|Paris_Lab]]-[[<span class="hellblau">m</span>|Paris_Lab]]<br>
+&nbsp;| |<br>
+&nbsp;g g<br>
+&nbsp;| |<br>
+&nbsp;v-v
 
-<body text=FFFFFF bgcolor=000000>
+</span>
 
-<DIV ALIGN="center">
-  <CENTER>
-   <font face="Forte" size="6" color=00CC00>Paris</font><br>
-   <font color=00CC00 face="Courier New" style="font-Size: 8pt">(<A TITLE="Weltkarte" HREF="../../Index.html"><font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück zur Weltkarte</font></A>)</font>
-   <br>
-   <br>
-
-<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse" BORDERCOLOR="#111111" WIDTH="28" ID="AutoNumber2">
-  <TR>
-    <TD WIDTH="28">
-    <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
-    &nbsp;<font color=00CCFF>b</font> b<br>
-    &nbsp;| |<br>
-    &nbsp;<A TITLE="Rolltreppe zur Metro" HREF="Paris_Lab.html"><font color=00CCFF>m</font></A>-<A TITLE="Rolltreppe zur Metro" HREF="Paris_Lab.html"><font color=00CCFF>m</font></A><br>
-    &nbsp;| |<br>
-    &nbsp;g g<br>
-    &nbsp;| |<br>
-    &nbsp;v-v
-    </FONT></TD>
-  </TR>
-</TABLE>
-
-  </CENTER>
-</DIV>
-<br>
-<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
-<font color=00CCFF>b =</font> Bahnsteig (hier hält der Zug nach <A TITLE="Zug nach Stuttgart Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Stuttgart</font></A> [über <A TITLE="Zug nach Saarbrücken" HREF="Saarbruecken.html"><font color=00CCFF>Saarbrücken</font></A> und <A TITLE="Zug nach Mannheim" HREF="Mannheim.html"><font color=00CCFF>Mannheim</font></A>])<br>
+<span class="legend">
+<span class="hellblau">b =</span> Bahnsteig (hier hält der Zug nach [[<span class="hellblau">Stuttgart</span>|Hauptbahnhof]] [über [[<span class="hellblau">Saarbrücken</span>|Saarbruecken]] und [[<span class="hellblau">Mannheim</span>|Mannheim]]])<br>
 <font color=C0C0C0>g =</font> Gare l'Est<br>
-<font color=00CCFF>m =</font> Rolltreppe runter ins <A TITLE="Rolltreppe zur Metro" HREF="Paris_Lab.html"><font color=00CCFF>Labyrinth unter Paris</font></A><br>
+<span class="hellblau">m =</span> Rolltreppe runter ins [[<span class="hellblau">Labyrinth unter Paris</span>|Paris_Lab]]<br>
 <font color=C0C0C0>v =</font> Vor dem Gare l'Est<br>
-
-</body>
-</html
+</span>
