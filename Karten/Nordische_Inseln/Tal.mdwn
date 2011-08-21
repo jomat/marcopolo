@@ -1,6 +1,6 @@
 <span class="map">
 <font color=00CC00>b =</font> auffälliger Busch<br>
-<font color=blue>b =</font> Bach (fließt nach Süden aus dem Tal in die Ebene von [[<span class="hellblau">Thule</span>|../Nordische_Inseln]]<br>
+<font color=blue>b =</font> Bach (fließt nach Süden aus dem Tal in die Ebene von [[<span class="hellblau">Thule</span>|Nordische_Inseln]]<br>
 <span class="hellblau">C =</span> Caligulix Hütte<br>
 <font color=00CC00>g =</font> kleiner Garten<BR>
 <font color=808080>h =</font> [[<span class="hellblau">Höhlensystem</span>|Hoehle]]<br>

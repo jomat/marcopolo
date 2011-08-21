@@ -41,7 +41,7 @@
 &nbsp; &nbsp; &nbsp;/ \ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|\<br>
 &nbsp; &nbsp; w &nbsp; w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w-w-w-w-w-w-w<br>
 &nbsp; &nbsp;/ &nbsp; &nbsp;|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|/ \|X|X|/<br>
-<font color=CC6600>&nbsp;-</font>[[<font color=CC6600>p</font>|../Vaniorh]] &nbsp; &nbsp; w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w<BR>
+<font color=CC6600>&nbsp;-</font>[[<font color=CC6600>p</font>|Vaniorh]] &nbsp; &nbsp; w-w-w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-w-w<BR>
 &nbsp;/|</td>
 </span>
 
@@ -56,12 +56,12 @@
 <span class="hellblau">T =</span> Turmruine<br>
 <span class="hellblau">Legende:</span><br>
 <font color=808080>h =</font> Hügel<br>
-<font color=CC6600>p =</font> Waldpfad im mittleren Teil von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
+<font color=CC6600>p =</font> Waldpfad im mittleren Teil von [[<span class="hellblau">Vaniorh</span>|Vaniorh]]<br>
 <font color=808080>s =</font> Strand<br>
 <font color=339966>u =</font> Seeufer<br>
 <font color=008000>w =</font> Wald<br>
 <font color=red>Monster:<br>
 T = Troll<br>
 Ansonsten sind noch ein paar Wölfe im Wald unterwegs…</p>
-<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>

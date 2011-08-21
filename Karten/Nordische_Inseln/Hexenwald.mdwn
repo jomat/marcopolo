@@ -1,26 +1,26 @@
 <span class="map">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=008000>t</font>|../Nordische_Inseln]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=008000>t</font>|Nordische_Inseln]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>-[[<font color=808080>S</font>|../Nordische_Inseln]]</font> &nbsp; &nbsp; &nbsp; W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>-[[<font color=808080>S</font>|Nordische_Inseln]]</font> &nbsp; &nbsp; &nbsp; W<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>|</font> &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>&nbsp; L-</font><span class="gelb">F</span> <font color=808080>g</font> <span class="gelb">N</span>-<font color=blue>Q</font> &nbsp; D<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |\ &nbsp;<font color=808080>^/</font> &nbsp;<font color=blue>|</font>&nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=339966>u</font> <span class="gelb">b</span><font color=808080>-s</font> &nbsp; <font color=blue>b</font>-W&nbsp; &nbsp; &nbsp;W---<span class="gelb">A</span><br>
 &nbsp; &nbsp; &nbsp;\|/ &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>|</font> <font color=339966>|</font>\ &nbsp; <font color=blue>/</font> &nbsp;| &nbsp; &nbsp; | &nbsp; |<br>
-&nbsp; &nbsp; <font color=808080>B</font> [[<font color=008000>t</font>|../Nordische_Inseln]] &nbsp; &nbsp; <font color=339966>u</font><font color=blue>-S-l</font> <font color=339966>u</font>-d <font color=blue>b</font><font color=808080>-m</font> | &nbsp; &nbsp; L-W&nbsp;w<br>
+&nbsp; &nbsp; <font color=808080>B</font> [[<font color=008000>t</font>|Nordische_Inseln]] &nbsp; &nbsp; <font color=339966>u</font><font color=blue>-S-l</font> <font color=339966>u</font>-d <font color=blue>b</font><font color=808080>-m</font> | &nbsp; &nbsp; L-W&nbsp;w<br>
 &nbsp; &nbsp; &nbsp;\ \ &nbsp; &nbsp; <font color=339966>\</font><font color=blue>| |</font> <font color=339966>|</font>&nbsp; <font color=blue>/</font><font color=00CC00>|</font>&nbsp; <font color=808080>\</font>| &nbsp; &nbsp;/ &nbsp; \| |/<br>
-&nbsp; &nbsp; &nbsp; W W &nbsp; &nbsp; <font color=339966>u-W-</font><font color=blue>m-b</font><font color=808080>-</font><font color=00CC00>K-[[<span class="hellblau">H</span>|Hexenhaus]]-h</font> &nbsp;.<span class="gelb">B</span>...W-p-[[<font color=008000>t</font>|../Nordische_Inseln]]-<br>
+&nbsp; &nbsp; &nbsp; W W &nbsp; &nbsp; <font color=339966>u-W-</font><font color=blue>m-b</font><font color=808080>-</font><font color=00CC00>K-[[<span class="hellblau">H</span>|Hexenhaus]]-h</font> &nbsp;.<span class="gelb">B</span>...W-p-[[<font color=008000>t</font>|Nordische_Inseln]]-<br>
 &nbsp; &nbsp; &nbsp; |/ &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; . .&nbsp;| &nbsp;&#9484;| &nbsp; |\<br>
 &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; W-W &nbsp; &nbsp; &nbsp; &nbsp; ..&nbsp; W-<span class="gelb">G</span>&#9474;<span class="gelb">T</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; / &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|&#9484;&#9472;&#9496;|<br>
-&nbsp; &nbsp; &nbsp; W-<font color=00CC00>L</font>-W-<font color=00CC00>L</font> &nbsp; &nbsp; W-W-W &nbsp; W-W&nbsp;[[<font color=008000>t</font>|../Nordische_Inseln]] &nbsp; <font color=808080>v</font><br>
+&nbsp; &nbsp; &nbsp; W-<font color=00CC00>L</font>-W-<font color=00CC00>L</font> &nbsp; &nbsp; W-W-W &nbsp; W-W&nbsp;[[<font color=008000>t</font>|Nordische_Inseln]] &nbsp; <font color=808080>v</font><br>
 &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ / &nbsp; /|\&nbsp; <font color=808080>|</font><br>
 &nbsp; &nbsp; h.<span class="gelb">f</span> &nbsp; W &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">P</span>|Hexentunnel]]<br>
 &nbsp;<font color=808000>\|</font>/ &nbsp; &nbsp; &nbsp; \ / \ &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">|</span><br>
-&nbsp;<font color=808000>-</font>[[<font color=808000>h</font>|../Nordische_Inseln]] &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; W<br>
+&nbsp;<font color=808000>-</font>[[<font color=808000>h</font>|Nordische_Inseln]] &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; W<br>
 &nbsp;<font color=808000>/|\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \&nbsp;/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=008000>t</font>|../Nordische_Inseln]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=008000>t</font>|Nordische_Inseln]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\
 </span>
 
@@ -39,7 +39,7 @@
 <span class="hellblau">H =</span> [[<span class="hellblau">Hexenhaus</span>|Hexenhaus]]<br>
 <font color=00CC00>h =</font> Vor dem Hexenhaus (nach Süden hin irrt man als Nichthexe ne weile zufällig durch den Wald und kommt am Ende bei der Buche raus)<br>
 <font color=008000>h =</font> Wenn man hier in die Hecken kriecht gelangt man zum Felskreis<br>
-<font color=808000>h =</font> Hügel auf [[<span class="hellblau">Thule</span>|../Nordische_Inseln]]<br>
+<font color=808000>h =</font> Hügel auf [[<span class="hellblau">Thule</span>|Nordische_Inseln]]<br>
 <font color=00CC00>L =</font> Lichtung<br>
 <font color=008000>L =</font> Linde<br>
 <font color=blue>l =</font> Hier im See sind Lotosblüten<br>
@@ -50,10 +50,10 @@
 <font color=008000>p =</font> Hier wachsen Pilze<br>
 <font color=blue>Q =</font> Quelle<br>
 <font color=blue>S =</font> See mit magischer Wassersäule (nach Osten kommen nur Hexen)<br>
-<font color=808080>S =</font> Schlucht auf [[<span class="hellblau">Thule</span>|../Nordische_Inseln]] (nur Hexen finden einen Weg nach Süden über das Geröllfeld)<br>
+<font color=808080>S =</font> Schlucht auf [[<span class="hellblau">Thule</span>|Nordische_Inseln]] (nur Hexen finden einen Weg nach Süden über das Geröllfeld)<br>
 <font color=808080>s =</font> An einer Schlucht (hier kann man runterklettern)<br>
 <span class="gelb">T =</span> Lichtung mit Feuerstelle und einigen Nordtrollen<br>
-<font color=008000>t =</font> Trampelpfad im Hexenwald (auf [[<span class="hellblau">Thule</span>|../Nordische_Inseln]])<br>
+<font color=008000>t =</font> Trampelpfad im Hexenwald (auf [[<span class="hellblau">Thule</span>|Nordische_Inseln]])<br>
 <font color=808080>v =</font> Vor einer Höhle<br>
 <font color=008000>W =</font> Wald<br>
 <font color=339966>W =</font> Weide (um nach Westen gehen zu können oder draufklettern zu können muss man 'drücke zweige zur seite' machen - von Westen her kommen übrigens nur Hexen in dieses Feld)<br>

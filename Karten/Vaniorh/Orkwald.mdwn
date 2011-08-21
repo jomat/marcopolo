@@ -57,5 +57,5 @@ k</font> &nbsp; <font color=00CC00>/</font><br>
 <span class="gelb">T =</span> Tor des Orklagers<br>
 <font color=008000>W =</font> Wald (zufällig verteilt gibts einige Fallgruben)<br>
 <span class="hellblau">w =</span> Handelsweg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]]<br>
-<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>

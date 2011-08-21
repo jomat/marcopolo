@@ -1,7 +1,7 @@
 <span class="map">
 <font color=B00000>H =</font> Hier kann man im Moor versinken und gelangt in die [[<span class="hellblau">Moorhöhle</span>|Moorhoehle]]<br>
-<font color=808000>h =</font> Hügelige Ebene auf [[<span class="hellblau">Thule</span>|../Nordische_Inseln]]<br>
-<font color=00CC00>K =</font> Küste von [[<span class="hellblau">Thule</span>|../Nordische_Inseln]]<br>
+<font color=808000>h =</font> Hügelige Ebene auf [[<span class="hellblau">Thule</span>|Nordische_Inseln]]<br>
+<font color=00CC00>K =</font> Küste von [[<span class="hellblau">Thule</span>|Nordische_Inseln]]<br>
 <font color=800000>M =</font> Moor (das Moor entzieht Lebewesen AP, man bleibt mit jedem Schritt darin stecken und braucht ne Weile bis man sich befreit hat, Engel können hier nicht abfliegen und quer durch stapft ein großer Golem)<br>
 <span class="hellblau">S =</span> Moorsee (kein AP-Abzug hier, Heilendes Wasser, Engel können von hier losfliegen)<br>
 <span class="gelb">T =</span> Trauerweide (greift an)<br>

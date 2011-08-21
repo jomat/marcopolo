@@ -4,8 +4,8 @@
 <font color=blue>B =</font> (fast) ausgetrockneter brunnen [reinklettern...]<br>
 <span class="gelb">B =</span> Bauernhaus<br>
 <span class="gelb">b =</span> Ballonlandeplatz <br>
-&nbsp; &nbsp; .Linie 3 nach [[<span class="hellblau">Tadmor</span>|../Vaniorh/Tadmor]]<br>
-&nbsp; &nbsp; .Zeppelin nach [[<span class="hellblau">Knossos</span>|../Kreta/Knossos]]<br>
+&nbsp; &nbsp; .Linie 3 nach [[<span class="hellblau">Tadmor</span>|Vaniorh/Tadmor]]<br>
+&nbsp; &nbsp; .Zeppelin nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]]<br>
 <span class="gelb">D =</span> Dorfteich (die kleine Ylvie)<br>
 <span class="orange">d =</span> Dealer (Spezialitätenladen)<br>
 <span class="gelb">e =</span> Erica, die Hausfrau<br>
@@ -30,7 +30,7 @@
 <span class="gelb">S =</span> Stall<br>
 <span class="gelb">s =</span> Spielezimmer des Gasthauses<br>
 <font color=C0C0C0>s =</font> Straße<br>
-<span class="hellblau">T =</span> Stadttor nach [[<span class="hellblau">Thule</span>|../Nordische_Inseln]]<br>
+<span class="hellblau">T =</span> Stadttor nach [[<span class="hellblau">Thule</span>|Nordische_Inseln]]<br>
 <span class="hellblau">V =</span> Hütte des vergessliche Lorenzson<br>
 v = Vorplatz einer Blockhütte<br>
 W = Wohnsiedlung (Maraike, eine Hausfrau und Mutter)<br>
