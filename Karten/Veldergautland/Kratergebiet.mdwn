@@ -1,1 +1,1 @@
-![Kratergebiet](Kratergebiet.jpg)
+![Kratergebiet](../Kratergebiet.jpg)
