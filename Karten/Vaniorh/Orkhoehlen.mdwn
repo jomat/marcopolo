@@ -10,7 +10,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t t-t-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span> &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ / &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X| &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; t t t-t t &nbsp; &nbsp; g-g-g-g &nbsp; &nbsp; &nbsp; <span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span> &nbsp; &nbsp; &nbsp; &nbsp; t<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /&nbsp; | | |/ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;|X|X| &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /&nbsp; | | &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;|X|X| &nbsp; &nbsp; &nbsp; &nbsp;/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t-t t t &nbsp; &nbsp; g &nbsp; g-g-g g &nbsp; <span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span> &nbsp; &nbsp; t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; /| | &nbsp; &nbsp; | &nbsp;/ &nbsp; &nbsp;| | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp;/ \<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t-t t t &nbsp; &nbsp; g&nbsp;<span class="hellblau">D</span> g-g-g g &nbsp; &nbsp; <span class="rot">O</span>-h-<span class="rot">O</span> &nbsp; &nbsp; t &nbsp; <span class="rot">O</span><br>
@@ -22,11 +22,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> t-t t &nbsp; t-t-t-t-t &nbsp; &nbsp; &nbsp; &nbsp; t <span class="rot">O</span> t-t-<span class="rot">O</span> &nbsp; &nbsp; <span class="rot">O</span> &nbsp; t &nbsp; &nbsp; t<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /| &nbsp; &nbsp;/ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ &nbsp;|\ \ &nbsp; &nbsp; &nbsp; \ /|\ &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> t t <font color=C0C0C0>e</font> <span class="rot">O</span> &nbsp; t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span> &nbsp; t <span class="rot">O</span> t <span class="rot">O</span> <span class="rot">O</span> &nbsp; &nbsp; t t t &nbsp; t<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ / \ &nbsp; \ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /| &nbsp;/ \ &nbsp;|\ / &nbsp; &nbsp; /| | | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ / \ &nbsp; \ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /| &nbsp;/ \ &nbsp;| &nbsp; &nbsp; /| | | &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> <font color=C0C0C0>e</font>-t t-<font color=C0C0C0>e</font> <font color=C0C0C0>e</font> t &nbsp; t &nbsp; &nbsp; &nbsp; <span class="gelb">S</span> t t &nbsp; t <span class="rot">O</span> t &nbsp; t-t t t t &nbsp; t<br>
 &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp;| &nbsp;\ \ &nbsp; \ \ / &nbsp; &nbsp; &nbsp; / /|\ &nbsp; &nbsp; &nbsp; / \ &nbsp; &nbsp; &nbsp; X &nbsp;| &nbsp; |<br>
 &nbsp; &nbsp; t-t t <font color=C0C0C0>e</font>-t t t-t-t t &nbsp; &nbsp; &nbsp; t <span class="gelb">S</span> <span class="gelb">S</span> t &nbsp; &nbsp; <span class="rot">O</span> &nbsp; <span class="rot">O</span> [[<span class="hellblau">S</span>|Steinbruch]]-t-t t t &nbsp; t<br>
-&nbsp; &nbsp; &nbsp;\ /|\ / \ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; /|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; X &nbsp; /<br>
+&nbsp; &nbsp; &nbsp;\ /| \ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; /|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; X &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; t t t-<font color=C0C0C0>e</font> t-t-t &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span> <span class="gelb">S</span> <span class="gelb">S</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t<br>
 &nbsp; &nbsp; &nbsp;/ / \ &nbsp; &nbsp; \ &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
 &nbsp;-[[<span class="hellblau">L</span>|Wasserfall]]-<span class="rot">W</span> <font color=C0C0C0>e</font> &nbsp; <font color=C0C0C0>e</font>-<font color=C0C0C0>e</font>-<font color=C0C0C0>e</font> <font color=C0C0C0>e</font> <font color=C0C0C0>e</font>-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t<br>

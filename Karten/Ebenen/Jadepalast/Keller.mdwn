@@ -1,15 +1,15 @@
 <span class="map">
-&nbsp;[[<span class="gelb">S</span>|../Jadepalast]] [[<span class="gelb">M</span>|Labyrinth]]<br>
+&nbsp;[[<span class="gelb">S</span>|Jadepalast]] [[<span class="gelb">M</span>|Labyrinth]]<br>
 &nbsp;| |<br>
 &nbsp;g-g-s<br>
 &nbsp; &nbsp; &nbsp; \<br>
-&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">A</span>|../Jadepalast]]
+&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">A</span>|Jadepalast]]
 </span>
 
 <span class="legend">
-<span class="gelb">A =</span> Der Aufzug hier fährt hoch in die Küche des [[<span class="hellblau">Jadepalast</span>|../Jadepalast]]<br>
+<span class="gelb">A =</span> Der Aufzug hier fährt hoch in die Küche des [[<span class="hellblau">Jadepalast</span>|Jadepalast]]<br>
 <font color=00CC66>g =</font> Gang<br>
 <span class="gelb">M =</span> Marianus Kammer (mit der Schelle von ihm kann man seinen Geist in [[<span class="hellblau">Arwoors Labyrinth</span>|Labyrinth]] schicken kann)<br>
-<span class="gelb">S =</span> Hier gehts hoch zum Schlafzimmer im [[<span class="hellblau">Jadepalast</span>|../Jadepalast]]<br>
+<span class="gelb">S =</span> Hier gehts hoch zum Schlafzimmer im [[<span class="hellblau">Jadepalast</span>|Jadepalast]]<br>
 <font color=00CC66>s =</font> Spinnennetz mit dem Schlüssel zu Marianus Kammer<br>
 </span>

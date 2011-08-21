@@ -10,7 +10,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">h</span> <span class="orange">S</span> a <span class="gelb">F</span>-<span class="gelb">S</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">h</span> &nbsp; &nbsp; &nbsp; w<br>
 &nbsp;<font color=00CC00>\</font> &nbsp; &nbsp; &nbsp;| &nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
-&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|../Drachenland]]-</font><font color=CC6600>B-</font><span class="gelb">T</span>-h-t-t-<span class="gelb">E &nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w &nbsp; &nbsp; &nbsp; w<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Drachenland]]-</font><font color=CC6600>B-</font><span class="gelb">T</span>-h-t-t-<span class="gelb">E &nbsp; </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w &nbsp; &nbsp; &nbsp; w<br>
 &nbsp; &nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; k <span class="hellblau">$</span> <span class="gelb">s</span>-<span class="gelb">k</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w &nbsp; &nbsp; &nbsp; w<br>
 &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
@@ -30,7 +30,7 @@
 <font color=C0C0C0>h =</font> Eingangshalle<br>
 <span class="gelb">k =</span> Küche (hier geht es in den Keller runter)<br>
 <font color=C0C0C0>k =</font> Korridor<br>
-<font color=00CC00>O =</font> Hügelige Ebene von [[<span class="hellblau">Drachenland</span>|../Drachenland]]<br>
+<font color=00CC00>O =</font> Hügelige Ebene von [[<span class="hellblau">Drachenland</span>|Drachenland]]<br>
 <font color=C0C0C0>r =</font> Treppe runter in den Keller<br>
 <span class="orange">S =</span> Schmiede<br>
 <span class="gelb">S =</span> Schlafgemach von Sabine<br>

@@ -1,7 +1,7 @@
 <span class="map">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">M</span>|Mine]]&nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>B</font>&nbsp; &nbsp; &nbsp;<font color=CC6600>m</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>/</font> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;<font color=CC6600>|</font> <font color=blue>|/</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">G</span>|Gebirge_S]]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b<font color=00CC00>-a</font><font color=blue>-b-</font><font color=CC6600>m</font><font color=FFFF00>-[[<font color=FFFF00>s</font>|../Vaniorh]]</font><font color=blue>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>/</font> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;<font color=CC6600>|</font> <font color=blue>|font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">G</span>|Gebirge_S]]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b<font color=00CC00>-a</font><font color=blue>-b-</font><font color=CC6600>m</font><font color=FFFF00>-[[<font color=FFFF00>s</font>|Vaniorh]]</font><font color=blue>-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font> <font color=blue> |</font> <font color=FFFF00>|/|</font><br>
 &nbsp; &nbsp; &nbsp;<font color=008000>W-W-</font><font color=00CC00>O-O-O-<font color=C0C0C0>F</font> O-O&nbsp;&nbsp; h-u</font><font color=FFFF00>-d-s-</font><span class="gelb">S</span><br>
 &nbsp; &nbsp; &nbsp; <font color=008000>\</font> &nbsp;<font color=00CC00>| | | | | | &nbsp; | |</font> <font color=FFFF00>| |</font><br>
@@ -19,13 +19,13 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p <span class="gelb">b</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp; &nbsp; &nbsp;<font color=C0C0C0>/</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-<span class="gelb">b</span>&nbsp; &nbsp; &nbsp;[[<span class="gelb">W</span>|../Vaniorh]]<font color=C0C0C0>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-<span class="gelb">b</span>&nbsp; &nbsp; &nbsp;[[<span class="gelb">W</span>|Vaniorh]]<font color=C0C0C0>-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<font color=blue>X</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; &nbsp; &nbsp; [[<font color=C0C0C0>k</font>|../Vaniorh]]<font color=blue>-</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<font color=blue>X|/</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="hellblau">T</span>|Tadmor]]-w-w-<span class="gelb">H</span>-w-<font color=CC6600>s-</font>[[<span class="hellblau">H</span>|../Vaniorh]]<font color=blue>-</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; <font color=FFFF00>|</font><font color=blue>X|\</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; <font color=FFFF00>K</font> &nbsp; [[<span class="gelb">w</span>|../Vaniorh]]<font color=blue>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; &nbsp; &nbsp; [[<font color=C0C0C0>k</font>|Vaniorh]]<font color=blue>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<font color=blue>X|font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="hellblau">T</span>|Tadmor]]-w-w-<span class="gelb">H</span>-w-<font color=CC6600>s-</font>[[<span class="hellblau">H</span>|Vaniorh]]<font color=blue>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; <font color=FFFF00>|</font><font color=blue>X|font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; <font color=FFFF00>K</font> &nbsp; [[<span class="gelb">w</span>|Vaniorh]]<font color=blue>-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;<font color=00CC00>/ \</font> &nbsp;<font color=FFFF00>|</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p <font color=00CC00>K</font> &nbsp; <font color=FFFF00>W</font> <font color=FFFF00>s</font><font color=CC6600>-m-m</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;<font color=00CC00>\ /|</font> <font color=FFFF00>|</font> &nbsp; &nbsp;<font color=CC6600>\</font><br>
@@ -33,9 +33,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| <font color=blue>|</font> &nbsp; &nbsp; <font color=FFFF00>|</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-<font color=blue>g</font> <span class="gelb">h</span>-v-<span class="gelb">F</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; <font color=FFFF00>|</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; &nbsp; &nbsp; [[<font color=FFFF00>s</font>|../Vaniorh]]<font color=CC6600>-m</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; &nbsp; &nbsp; [[<font color=FFFF00>s</font>|Vaniorh]]<font color=CC6600>-m</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">U</span>|../Vaniorh]]
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">U</span>|Vaniorh]]
 </font></TD>
 </span>
 
@@ -56,13 +56,13 @@
 <span class="gelb">g =</span> Gatter - Eingang zum Kükenschloss<br>
 <font color=blue>g =</font> Alter Stadtgraben<br>
 <span class="gelb">H =</span> Der freundliche Heini<br>
-<span class="hellblau">H =</span> Hafen (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]])<br>
+<span class="hellblau">H =</span> Hafen (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]])<br>
 <span class="gelb">h =</span> Hütte des Fischers<br>
 <font color=00CC00>H =</font> Himbeergestrüpp (ich glaube dieses Feld kann man gar nicht betreten... man bleibt immer in den Dornen hängen)<br>
 <font color=00CC00>h =</font> Hügel<br>
 <font color=FFFF00>K =</font> Kornfeld<br>
 <font color=00CC00>K =</font> Kohlfeld<br>
-<font color=C0C0C0>k =</font> Kaimauer (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]])<br>
+<font color=C0C0C0>k =</font> Kaimauer (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]])<br>
 <span class="gelb">L =</span> Lager der Riesen<br>
 <span class="gelb">l =</span> verfallener Leuchtturm<br>
 <span class="hellblau">M =</span> Eingang zur alten [[<span class="hellblau">Mine</span>|Mine]]<br>
@@ -74,17 +74,17 @@
 <font color=C0C0C0>p =</font> Pfad (am/durch den Stadtgraben)<br>
 <span class="gelb">R =</span> uralte Ruine<br>
 <span class="gelb">S =</span> Schiffswrack<br>
-<font color=FFFF00>s =</font> Strand (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]])<br>
+<font color=FFFF00>s =</font> Strand (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]])<br>
 <span class="hellblau">T =</span> Stadttor von [[<span class="hellblau">Tadmor</span>|Tadmor]]<br>
-<span class="hellblau">U =</span> Flussufer (von hier aus kann man in den Dijala waten der hier auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|../Vaniorh]] auf dem Weg zum Meer ist)<br>
+<span class="hellblau">U =</span> Flussufer (von hier aus kann man in den Dijala waten der hier auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|Vaniorh]] auf dem Weg zum Meer ist)<br>
 <font color=00CC00>u =</font> Ufer<br>
 <font color=C0C0C0>V =</font> Vorhof des Kükenschlosses<br>
 <font color=C0C0C0>v =</font> Vor der Fischerhütte<br>
-<span class="gelb">W =</span> Ehemaliges Werft-Gelände (Kapitän Blaubär, der alte Schiffeversenker) (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]) (man kann hier auch die Klippen hochklettern)<br>
-<span class="gelb">w =</span> Schiffswrack (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]])<br>
+<span class="gelb">W =</span> Ehemaliges Werft-Gelände (Kapitän Blaubär, der alte Schiffeversenker) (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]]) (man kann hier auch die Klippen hochklettern)<br>
+<span class="gelb">w =</span> Schiffswrack (an der Ostküste von [[<span class="hellblau">Vaniorh</span>|Vaniorh]])<br>
 <font color=FFFF00>W =</font> Weizenfeld<br>
 <font color=C0C0C0>w =</font> Weg<br>
 <font color=00CC00>w =</font> Wiese<br>
 <font color=C0C0C0>z =</font> Recht kahle Zimmer im Kükenschloss (und die treppen hier kann man auch nicht hochgehen)<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>

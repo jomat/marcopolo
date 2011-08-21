@@ -2,16 +2,16 @@
 &nbsp;Ebene1 &nbsp;Ebene2 &nbsp;Ebene3&nbsp; Metro<br>
 &nbsp;&nbsp;l-l-<span class="gelb">^</span> &nbsp; l-l-<span class="gelb">^</span> &nbsp; l-l-<span class="gelb">^</span>&nbsp; &nbsp;[[<span class="hellblau">P</span>|Paris]]-[[<span class="hellblau">P</span>|Paris]]<br>
 &nbsp; | | | &nbsp; | | | &nbsp; | | | &nbsp; | &#8593;<br>
-&nbsp; l l-l &nbsp; l l-l &nbsp; l <span class="gelb">v</span>-l &nbsp; [[<span class="hellblau">M</span>|../Gallien/Kanalisation]] <span class="gelb">v</span><br>
+&nbsp; l l-l &nbsp; l l-l &nbsp; l <span class="gelb">v</span>-l &nbsp; [[<span class="hellblau">M</span>|Gallien/Kanalisation]] <span class="gelb">v</span><br>
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |<br>
-&nbsp; [[<span class="hellblau">L</span>|../Gallien/Kanalisation]]-l-l &nbsp; <span class="gelb">v</span>-l-l &nbsp; l-l-l
+&nbsp; [[<span class="hellblau">L</span>|Gallien/Kanalisation]]-l-l &nbsp; <span class="gelb">v</span>-l-l &nbsp; l-l-l
 </span>
 
 <span class="legend">
 <span class="gelb">^ =</span> Rolltreppe nach oben<br>
-<span class="hellblau">L =</span> Hier kommt man raus wenn man in der [[<span class="hellblau">Kanalisation von Lutetia</span>|../Gallien/Kanalisation]] durch das Loch schlüpft<br>
+<span class="hellblau">L =</span> Hier kommt man raus wenn man in der [[<span class="hellblau">Kanalisation von Lutetia</span>|Gallien/Kanalisation]] durch das Loch schlüpft<br>
 <font color=C0C0C0>l =</font> Labyrinth<br>
-<span class="hellblau">M =</span> Rolltreppe runter zur Metro (man gerät in eine grüne Nebelwolke die einen in der [[<span class="hellblau">Kanalisation von Lutetia</span>|../Gallien/Kanalisation]] ausspuckt)<br>
+<span class="hellblau">M =</span> Rolltreppe runter zur Metro (man gerät in eine grüne Nebelwolke die einen in der [[<span class="hellblau">Kanalisation von Lutetia</span>|Gallien/Kanalisation]] ausspuckt)<br>
 <span class="hellblau">P =</span> Hier geht eine Rolltreppe hoch nach [[<span class="hellblau">Paris</span>|Paris]]<br>
 <span class="gelb">v =</span> Hier kommt die Rolltreppe von der letzten Ebene hoch<BR>
 </span>

@@ -17,5 +17,5 @@ Baby-Ankhegs, Berbalang, Bullywugs, Chimären, Cloaker, Doppelgänger, Drow,
 Drider, faulende Hände, Ghoule, Gnolle, Goblins, Käferbären, Kobolde, 
 Echesenmenschen, Krieger, Krieger-Dämonen, Schatten, Tausendfüssler <br></font>
 <font color=00CCFF> Aber es gibt auch (einige wenige) friedliche Wesen... das sind die Snirvneblin (Gnome) und die Mykoniden (Pilzmenschen)<br>
-<center><font color=339966 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=339966>zurück ins Drachenland</font>|../Drachenland]])</font></center>
+<center><font color=339966 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=339966>zurück ins Drachenland</font>|Drachenland]])</font></center>
 </span>

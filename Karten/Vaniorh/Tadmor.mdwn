@@ -8,7 +8,7 @@
 &nbsp; <font color=blue>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; &nbsp;/<br>
 &nbsp; &nbsp;[[<font color=blue>K</font>|Unterwasserkaverne]] &nbsp;&nbsp;s &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<span class="hellblau">L</span>-s-<span class="orange">P</span> &nbsp; s-<span class="gelb">n</span> [[<span class="hellblau">M</span>|Magiergilde]]<br>
 &nbsp; &nbsp; <font color=blue>\</font> &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; |<br>
-&nbsp; &nbsp; &nbsp;<font color=blue>d</font>&nbsp; &nbsp;s &nbsp; &nbsp; [[<span class="gelb">L</span>|Bibliothek]] &nbsp; <span class="orange">s</span> &nbsp; s-[[<span class="violett">E</span>|../E-Haus]] s-p-s-s-[[<span class="gelb">v</span>|Stadtmauer]]-[[<span class="hellblau">T</span>|Ebene]]-<br>
+&nbsp; &nbsp; &nbsp;<font color=blue>d</font>&nbsp; &nbsp;s &nbsp; &nbsp; [[<span class="gelb">L</span>|Bibliothek]] &nbsp; <span class="orange">s</span> &nbsp; s-[[<span class="violett">E</span>|E-Haus]] s-p-s-s-[[<span class="gelb">v</span>|Stadtmauer]]-[[<span class="hellblau">T</span>|Ebene]]-<br>
 &nbsp; &nbsp; &nbsp; <font color=blue>\</font> &nbsp; \ &nbsp; &nbsp;| &nbsp; | &nbsp; | &nbsp;/ &nbsp;| | |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>d</font> &nbsp; s-s-p-s-s-s-s s&nbsp; &nbsp;s <span class="orange">C</span> <span class="orange">U</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>\</font> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |/ &nbsp; &nbsp;|<br>
@@ -20,15 +20,15 @@
 &nbsp; &nbsp;| &nbsp; | &nbsp; <font color=blue>|</font> | | &nbsp;/ &nbsp; &nbsp; <font color=blue>\</font> &nbsp; &nbsp; &nbsp;|<br>
 -[[<span class="hellblau">T</span>|Orkberge]]-[[<span class="gelb">v</span>|Stadtmauer]]-s-s-s-<font color=CC6600>B</font>-s-K-<span class="hellblau">E</span><font color=00CC00>-f-F-</font><span class="gelb">B</span> [[<font color=blue>k</font>|Kanal]] &nbsp; &nbsp; <span class="gelb">E</span><br>
 &nbsp; &nbsp;| | | | <font color=blue>|</font> &nbsp; |<font color=blue>B</font>| &nbsp; <font color=00CC00>| |</font>&nbsp;<font color=blue>|</font> &nbsp; &nbsp; |<br>
-&nbsp; &nbsp;<span class="gelb">W</span>&nbsp;<span class="orange">G</span> t [[<span class="gelb">T</span>|Theater]] <font color=blue>d</font> <span class="orange">E</span>-K-<span class="gelb">J</span>-[[<span class="hellblau">K</span>|../Campus/S-Bahn]]&nbsp;<font color=00CC00>F-F</font>&nbsp;<font color=blue>d</font> &nbsp; &nbsp; <span class="gelb">e</span><br>
+&nbsp; &nbsp;<span class="gelb">W</span>&nbsp;<span class="orange">G</span> t [[<span class="gelb">T</span>|Theater]] <font color=blue>d</font> <span class="orange">E</span>-K-<span class="gelb">J</span>-[[<span class="hellblau">K</span>|Campus/S-Bahn]]&nbsp;<font color=00CC00>F-F</font>&nbsp;<font color=blue>d</font> &nbsp; &nbsp; <span class="gelb">e</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; <font color=blue>|</font> &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;&nbsp;<font color=blue>|</font> &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; <font color=blue>d</font> &nbsp; <span class="gelb">p</span>-<font color=CC6600>s</font> &nbsp; &nbsp; &nbsp;&nbsp;<font color=blue>d</font> &nbsp; &nbsp; s<br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;<font color=blue>\</font> &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>\</font><br>
-&nbsp; &nbsp; &nbsp;<span class="orange">k</span>-m [[<span class="gelb">T</span>|Theater]] <span class="gelb">A</span> <font color=blue>d-d-<font color=CC6600>S</font>-d-d-----d-d-d-d-d-d-[[<span class="hellblau">D</span>|../Vaniorh]]-</font><br>
+&nbsp; &nbsp; &nbsp;<span class="orange">k</span>-m [[<span class="gelb">T</span>|Theater]] <span class="gelb">A</span> <font color=blue>d-d-<font color=CC6600>S</font>-d-d-----d-d-d-d-d-d-[[<span class="hellblau">D</span>|Vaniorh]]-</font><br>
 &nbsp; &nbsp; &nbsp;| | | | &nbsp; &nbsp; |<br>
-&nbsp; &nbsp; &nbsp;<span class="gelb">s</span>-<span class="orange">g</span>-<span class="orange">e</span>-s-s-s-s-r-<span class="orange">A</span> [[<span class="gelb">b</span>|../Nordische_Inseln/Phexcaer]]<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">s</span>-<span class="orange">g</span>-<span class="orange">e</span>-s-s-s-s-r-<span class="orange">A</span> [[<span class="gelb">b</span>|Nordische_Inseln/Phexcaer]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp; &nbsp;\ &nbsp; &nbsp;<span class="gelb">|</span><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>g G</font> &nbsp; &nbsp; s-<span class="orange">J</span> [[<span class="gelb">b</span>|../Kreta/Knossos]] &nbsp; <span class="orange">S</span>&nbsp;<span class="orange">R</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>g G</font> &nbsp; &nbsp; s-<span class="orange">J</span> [[<span class="gelb">b</span>|Kreta/Knossos]] &nbsp; <span class="orange">S</span>&nbsp;<span class="orange">R</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp;| &nbsp; |/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a-s-s-<font color=blue>P</font>-s-<span class="gelb">a</span>-[[<font color=00CC00>A</font>|Anfaengerpark]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | | | |<br>
@@ -49,14 +49,14 @@
 <font color=CC6600>B =</font> Brücke<br>
 <span class="gelb">B =</span> Beinhaus<br>
 <span class="gelb">b =</span> Ballonlandeplatz <br>
-&nbsp; &nbsp; .Linie 3 nach [[<span class="hellblau">Phexcaer</span>|../Nordische_Inseln/Phexcaer]] (nördliches Feld)<br>
-&nbsp; &nbsp; .Linie 1 nach [[<span class="hellblau">Knossos</span>|../Kreta/Knossos]] (südliches Feld)<br>
+&nbsp; &nbsp; .Linie 3 nach [[<span class="hellblau">Phexcaer</span>|Nordische_Inseln/Phexcaer]] (nördliches Feld)<br>
+&nbsp; &nbsp; .Linie 1 nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]] (südliches Feld)<br>
 <span class="orange">C =</span> Connors Abenteurerladen<br>
 <span class="hellblau">D =</span> In diesem Feld fliesst der Dijala nicht mehr durch Tadmor und ist auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|Vaniorh]] ins Meer<br>
 <font color=blue>d =</font> Dijala  (man wird durch die Strömung im Fluss langsam Richtung Osten/Südosten abgetrieben)<br>
 <span class="gelb">d =</span> [[<span class="hellblau">Alte Diebesgilde</span>|alte_Diebesgilde]] (man kann durch ein Fenster reinklettern)<br>
 <span class="hellblau">E =</span> Emma, die Klaschbase<br>
-<span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|../E-Haus]]<br>
+<span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]]<br>
 <span class="orange">E =</span> Schänke 'Zum Wilden Eber' (und gleichzeitig die Abenteurergilde)<br>
 <span class="orange">e =</span> Erich der Pfandleiher<br>
 <span class="gelb">E =</span> Eingangstor zum Gelände der alten Eisenhütte<br>
@@ -73,7 +73,7 @@
 <span class="orange">J =</span> Jeronimo, der Dealer für Hochprozentiges und Drogen... (an der Tür klopfen um reinzukommen)<br>
 <span class="gelb">J =</span> Johannes, der Stadtführer<br>
 <span class="gelb">j =</span> Haus von Jaana, der hilfsbereiten Kriegerin<br>
-<span class="hellblau">K =</span> Kathedrale von Tadmor (wenn man in die Gruft klettert kommt man wieder in der [[<span class="hellblau">S-Bahn</span>|../Campus/S-Bahn]] am Campus raus)<br>
+<span class="hellblau">K =</span> Kathedrale von Tadmor (wenn man in die Gruft klettert kommt man wieder in der [[<span class="hellblau">S-Bahn</span>|Campus/S-Bahn]] am Campus raus)<br>
 <span class="orange">K =</span> Gasthaus "Zur Krone"<br>
 <span class="orange">k =</span> Sascha, der Kartenverkäufer<br>
 <span class="gelb">K =</span> Eingang zum Kloster der Barmherzigen Magyrianerinnen (nach Südosten gehts in einen zweiten, kleinen [[<span class="hellblau">Anfängerpark</span>|Anfaengerpark2]])<br>
@@ -119,5 +119,5 @@
 <span class="gelb">v =</span> Vor einem Stadttor (Treppe auf die [[<span class="hellblau">Stadtmauer</span>|Stadtmauer]])<br>
 <span class="gelb">W =</span> Stadtwache<br>
 <font color=00CC00>w =</font> Kuhweide<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>

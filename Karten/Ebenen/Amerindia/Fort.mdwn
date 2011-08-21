@@ -5,7 +5,7 @@
 &nbsp; \|/<br>
 &nbsp;<span class="orange">M</span>-p<br>
 &nbsp;&nbsp; |/<br>
-&nbsp; -[[<font color=C0C0C0>P</font>|../Amerindia]]<font color=00CC00>-<br>
+&nbsp; -[[<font color=C0C0C0>P</font>|Amerindia]]<font color=00CC00>-<br>
 &nbsp; /|\
 
 </span>
@@ -14,7 +14,7 @@
 <span class="gelb">K =</span> Kommandantenbüro<br>
 <span class="gelb">m =</span> Meditationsraum<br>
 <span class="orange">M =</span> Mensa<br>
-<font color=C0C0C0>P =</font> alter Handelspfad durch das Grasland von [[<span class="hellblau">Amerindia</span>|../Amerindia]]<br>
+<font color=C0C0C0>P =</font> alter Handelspfad durch das Grasland von [[<span class="hellblau">Amerindia</span>|Amerindia]]<br>
 p = Paradeplatz<font color=FF9900><br>
 R</font> = Rampes, der Händler der zweiten Hand<br>
 <span class="gelb">V =</span> Verpflegungsschuppen<br>

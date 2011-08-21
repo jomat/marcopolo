@@ -14,7 +14,7 @@
 &nbsp; | | H &nbsp; H | &nbsp; t &nbsp; T-M<br>
 &nbsp; | | | &nbsp;/&nbsp; | &nbsp; | &nbsp; | |<br>
 &nbsp; | H g-g &nbsp; | &nbsp; | &nbsp; T M <span class="rot">x</span><br>
-&nbsp; | |/ &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | | |<br>
+&nbsp; | &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | | |<br>
 &nbsp; t-g &nbsp; &nbsp; <span class="gelb">D</span>-g <span class="gelb">V</span> | &nbsp; T M g<br>
 &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | | | &nbsp; |<span class="rot">/</span> &nbsp;|<br>
 &nbsp; <span class="gelb">I</span>-g-----g-g-g-g---g---g-g-<span class="rot">x</span><br>

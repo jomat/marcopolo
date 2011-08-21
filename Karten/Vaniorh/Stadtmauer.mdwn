@@ -41,5 +41,5 @@
 <span class="gelb">t =</span> Ostturm - man kann man aus dem Fenster in einen anliegenden Baum klettern<br>
 <font color=C0C0C0>t =</font> Turm der Stadtmauer<br>
 <span class="hellblau">W =</span> (Südtor) Würg, der tapfere Wächter (hier geht es auch wieder von der Mauer [[<span class="hellblau">runter</span>|Tadmor]])<br>
-<center><font color=C0C0C0 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=C0C0C0>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=C0C0C0 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=C0C0C0>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>

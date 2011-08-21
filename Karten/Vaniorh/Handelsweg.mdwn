@@ -22,12 +22,12 @@
 <font color=blue>t =</font> Froschtümpel<br>
 <font color=008000>t =</font> Trampelpfad durch einen Buchenwald<br>
 <font color=C0C0C0>v =</font> Am Eingang der Kapelle<br>
-<font color=blue>W =</font> Hüfthohes Wasser (von hier aus kann man in den Dijala waten der hier auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|../Vaniorh]] auf dem Weg zum Meer ist)<br>
+<font color=blue>W =</font> Hüfthohes Wasser (von hier aus kann man in den Dijala waten der hier auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|Vaniorh]] auf dem Weg zum Meer ist)<br>
 <font color=blue>w =</font> Flaches Wasser<br>
 <font color=008000>W =</font> Laubwald<br>
 <font color=008000>w =</font> Waldrand<br>
 <span class="orange">W =</span> Waldschänke<br>
 <font color=C0C0C0>w =</font> Handelsweg / Handelsstraße<br>
 <span class="hellblau">w =</span> kleiner Weg nach [[<span class="hellblau">Terqa</span>|Terqa]]<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>
