@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#C0C0C0">
 &nbsp; &nbsp; &nbsp;g<br>
 &nbsp; &nbsp; / \<br>
 &nbsp; &nbsp;g &nbsp; g<br>
@@ -32,19 +33,20 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font>[[<font color=00CC00>O</font>|Drachenland]]<br>
-&nbsp; &nbsp; &nbsp; &nbsp; /</font> </TD>
+&nbsp; &nbsp; &nbsp; &nbsp; /</font>
+</font>
 </span>
 
 <span class="legend">
-<font color=C0C0C0>B =</font> An der Zugbrücke/Im Burggraben (hier kann man runterklettern)<br>
+<font color=C0C0C0>B =</font> An der ZugbrÃ¼cke/Im Burggraben (hier kann man runterklettern)<br>
 <font color=808080>b =</font> Berghang<br>
 <font color=blue>B =</font> Brunnen<br>
-<font color=00CC00>b =</font> In diesem Feld des Grabens wächst ein kleiner Busch vor der Geheimtür in der Burgmauer...<br>
+<font color=00CC00>b =</font> In diesem Feld des Grabens wÃ¤chst ein kleiner Busch vor der GeheimtÃ¼r in der Burgmauer...<br>
 <font color=C0C0C0>g =</font> Burggraben<br>
 <font color=00CC00>g =</font> Grasland<br>
 <font color=00CC00>h =</font> Vor einem Haus<br>
-<font color=CC6600>j =</font> Jauchegrube (unten drin liegt ein Schlüssel)<br>
-<font color=00CC00>O =</font> Hügelige Ebene von [[<span class="hellblau">Drachenland</span>|Drachenland]]<br>
+<font color=CC6600>j =</font> Jauchegrube (unten drin liegt ein SchlÃ¼ssel)<br>
+<font color=00CC00>O =</font> HÃ¼gelige Ebene von [[<span class="hellblau">Drachenland</span>|Drachenland]]<br>
 <font color=808080>r =</font> Ruine eines Bauernhauses<br>
 <span class="hellblau">V =</span> [[<span class="hellblau">Verlies</span>|Verlies]] der Ordensburg<br>
 <font color=00CC00>v =</font> Vor der Ruine eines Bauernhauses<br>
@@ -52,5 +54,4 @@
 <font color=008000>W =</font> Wald<br>
 <font color=008000>w =</font> Waldrand<br>
 <font color=00CC00>w =</font> Wiese<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Drachenland</font>|Drachenland]])</font></center>
 </span>
