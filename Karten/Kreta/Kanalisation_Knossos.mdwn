@@ -35,7 +35,7 @@
 <span class="gelb">F =</span> Fäulnismonster<br>
 <font color=C0C0C0>g =</font> Gang<br>
 <font color=blue>h =</font> Unter Wasser im Hafenbecken von [[<span class="hellblau">Knossos</span>|Knossos]]<br>
-<font color=996600>k =</font> Kanalisation (es gibt ein paar Kanaldeckel durch die man hoch nach [[<span class="hellblau">Knossos</span>||Knossos]] kommt und ganz im Süden und Norden kann man tauchen in Richtung .)<br>
+<font color=996600>k =</font> Kanalisation (es gibt ein paar Kanaldeckel durch die man hoch nach [[<span class="hellblau">Knossos</span>|Knossos]] kommt und ganz im Süden und Norden kann man tauchen in Richtung .)<br>
 <span class="hellblau">L =</span> Leiter hoch nach [[<span class="hellblau">Kreta</span>|Kreta]] (vor den Stadtmauern von Knossos)<br>
 <span class="gelb">O =</span> Lager eines einäugigen Orks<br>
 <span class="gelb">P =</span> Puddingmonster (hier ist ein Kanaldeckel durch den man hoch nach [[<span class="hellblau">Knossos</span>|Knossos]] kommt)<br>
