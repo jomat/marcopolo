@@ -75,7 +75,7 @@
 <span class="gelb">M =</span> Maschinenbaugebäude<br>
 <span class="hellblau">N =</span> Nesrin, die seltsame Studentin & die Treppe runter zur [[<span class="hellblau">S-Bahn</span>|S-Bahn]]<br>
 <span class="hellblau">n =</span> Nili<br>
-<span class="hellblau">P =</span> [[<span class="hellblau">Anfängerpraktikum</span>|AnfÃ¤ngerpraktikum]]<br>
+<span class="hellblau">P =</span> [[<span class="hellblau">Anfängerpraktikum</span>|Anfängerpraktikum]]<br>
 <span class="gelb">P =</span> Hier gehts runter ins Paradies<br>
 <font color=C0C0C0>p =</font> Platz/Hof<br>
 <span class="hellblau">R =</span> Platz mit Wendeltreppe hoch zum [[<span class="hellblau">Rechenzentrum</span>|RUS]] der Uni Stuttgart<br>
