@@ -1,0 +1,116 @@
+<span class="map">
+<font color=blue>
+		M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+		|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+		M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=0055FF>f-f-f-f-f</font>-M-M-M-M-M-M-M-M-M<br>
+		|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=0055FF>X|/     \|X</font>|X|X|X|X|X|X|X|X|<br>
+		M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=0055FF>f-f-f       f-f</font>-M-M-M-M-M-M-M-M<br>
+		|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=0055FF>X|/           \|X</font>|X|X|X|X|X|X|X|<br>
+		M-M-M-M-M-M-<font color=0055FF>f-f-f-f-f-f-f-f-f             f-f-f-f</font>-M-M-M-M-M<br>
+		|X|X|X|X|X|<font color=0055FF>X|/   \|/   \|X|/              |X|/ \|</font>X|X|X|X|X|<br>
+		M-M-M-M-<font color=0055FF>f-f-f     f     f-f               f-f   f</font>-M-M-M-M-M<br>
+		|X|X|X|X<font color=0055FF>|/              |X|               |/    |</font>X|X|X|X|X|<br>
+		M-M-M-M-<font color=0055FF>f               <font color=FFFF00>v-</font><font color=00CCFF>W</font>               f     f</font>-M-M-M-M-M<br>
+		|X|X|X|<font color=0055FF>X|                                /|     |X</font>|X|X|X|X|<br>
+		M-M-M-<font color=0055FF>f-f                               f-f     f-f</font>-M-M-M-M<br>
+		|X|X|<font color=0055FF>X|/                                |X|     |X|</font>X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f                                 f-f     <font color=FFFF00>v</font>-f</font>-M-M-M-M<br>
+		|X|X<font color=0055FF>|/                                  |X|\   / \|</font>X|X|X|X|<br>
+		M-M-<font color=0055FF>f                                   f-f-f-f   f</font>-M-M-M-M<br>
+		|X|X<font color=0055FF>|\                                 /|X|X|X|\ /|</font>X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f                               f-f-f-M-f-f-f</font>-M-M-M-M<br>
+		|X|X<font color=0055FF>|/                               /|/ \|X|X</font>|X|X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f                               f-f   f-f</font>-M-M-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|                              /|/     \|</font>X|X|X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f   <font color=FFFF00>s-<font color=008000>B</font>                       v</font>-f       f</font>-M-M-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|   |<font color=FFFF00>X|                       |X</font>|       |</font>X|X|X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f   f-<font color=FFFF00>s <font color=008000>d</font>                     <font color=00CCFF>h</font>-v</font>       f</font>-M-M-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|\ /|X<font color=FFFF00>|</font>                                 |X</font>|X|X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f-f-<font color=FFFF00>s</font> <font color=008000>d</font>                               f-f-f-f-f</font>-M-M-M<br>
+		|X|X|<font color=0055FF>X|X|X<font color=FFFF00>|</font>                                  \|X|/ \|X</font>|X|X|<br>
+		M-M-M-<font color=0055FF>f-f-<font color=FFFF00>s</font> <font color=008000>d</font>                                 f-f   f-f</font>-M-M<br>
+		|X|X|X<font color=0055FF>|X|<font color=FFFF00>/</font>                                    |X|    \|</font>X|X|<br>
+		M-M-M-<font color=0055FF>f-<font color=FFFF00>s</font>   <font color=008000>d</font>                                 f-f     f</font>-M-M<br>
+		|X|X|X<font color=0055FF>|X<font color=FFFF00>|</font>                                     |/      |</font>X|X|<br>
+		M-M-M-<font color=0055FF>f-<font color=FFFF00>s</font>                                     f       f</font>-M-M<br>
+		|X|X|<font color=0055FF>X|X<font color=FFFF00>|</font>                                            /|</font>X|X|<br>
+		M-M-<font color=0055FF>f-f-<font color=FFFF00>s</font>                                           f-f</font>-M-M<br>
+		|X|X<font color=0055FF>|/                                              |X</font>|X|X|<br>
+		M-M-<font color=0055FF>f                                               f</font>-M-M-M<br>
+		|X|X<font color=0055FF>|                                               |</font>X|X|X|<br>
+		M-M-<font color=0055FF>f                                               f</font>-M-M-M<br>
+		|X|X<font color=0055FF>|\                                              |</font>X|X|X|<br>
+		M-M-<font color=0055FF>f-f                                             f</font>-M-M-M<br>
+		|X|X<font color=0055FF>|X|                                            /|</font>X|X|X|<br>
+		M-M-<font color=0055FF>f-f                                           <font color=FFFF00>F</font>-f</font>-M-M-M<br>
+		|X|X<font color=0055FF>|X|                                           |X|</font>X|X|X|<br>
+		M-M-<font color=0055FF>f-f                                           f-f</font>-M-M-M<br>
+		|X|X<font color=0055FF>|X|                                           |X|X</font>|X|X|<br>
+		M-M-<font color=0055FF>f-<font color=FFFF00>s</font>                                           f-f-f</font>-M-M<br>
+		|X|X<font color=0055FF>|X<font color=FFFF00>|</font>                                           |/ \|</font>X|X|<br>
+		M-M-<font color=0055FF>f-<font color=FFFF00>s</font>     <font color=008000>d d</font> b                                 f   f</font>-M-M<br>
+		|X|X<font color=0055FF>|X<font color=FFFF00>|\</font>                                              |</font>X|X|<br>
+		M-M-<font color=0055FF>f-<font color=FFFF00>s-s-<font color=008000>K</font>-s</font> b <font color=008000>d d</font>                                   f</font>-M-M<br>
+		|X|X<font color=0055FF>|X|X|X|X|<font color=FFFF00>\</font>                                       /|</font>X|X|<br>
+		M-M-<font color=0055FF>f-f-f-f-f-<font color=FFFF00>s</font><font color=00CC00>-</font><font color=00CCFF>Z</font> <font color=008000>d</font>                                 f-f</font>-M-M<br>
+		|X|X|X|X|X|<font color=0055FF>X|X<font color=FFFF00>|</font><font color=00CC00>X|</font>                                   |X</font>|X|X|<br>
+		M-M-M-M-M-M-<font color=0055FF>f-<font color=FFFF00>s</font><font color=00CC00>-g</font> <font color=008000>d</font>                                 f</font>-M-M-M<br>
+		|X|X|X|X|X|<font color=0055FF>X|X<font color=FFFF00>|</font><font color=00CC00>/</font>                                    |</font>X|X|X|<br>
+		M-M-M-M-M-<font color=0055FF>f-f-<font color=FFFF00>s</font> <font color=008000>d d</font>                                 f</font>-M-M-M<br>
+		|X|X|X|X|<font color=0055FF>X|X|<font color=FFFF00>/</font>                                      |</font>X|X|X|<br>
+		M-M-M-M-<font color=0055FF>f-f-<font color=FFFF00>s</font> <font color=008000>d d</font>                                   f</font>-M-M-M<br>
+		|X|X|X|X<font color=0055FF>|X|<font color=FFFF00>/</font>                                       /|</font>X|X|X|<br>
+		M-M-M-M-<font color=0055FF>f-<font color=FFFF00>s</font>   <font color=008000>d</font>                                   f-f</font>-M-M-M<br>
+		|X|X|X|X<font color=0055FF>|X<font color=FFFF00>|</font>                                       |X</font>|X|X|X|<br>
+		M-M-M-M-<font color=0055FF>f-<font color=FFFF00>s</font>                                       f</font>-M-M-M-M<br>
+		|X|X|X|<font color=0055FF>X|/                                       /|</font>X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f-f                                       f-f</font>-M-M-M-M<br>
+		|X|X<font color=0055FF>|/                                          |X</font>|X|X|X|X|<br>
+		M-M-<font color=0055FF>f                                           f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|                                          /|</font>X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f                                 f-f     f-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|\                               /|X|\   /|X</font>|X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f                           f-f-f-f-f-f-f</font>-M-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|X|                            \|X|X|X|X|X|X</font>|X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f       <font color=008000>d d</font> b           <font color=008000>d</font>     f-f-f-f-f-f-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|/                             /|X|X|X|X|X|X|</font>X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f         <font color=00CC00>g-g</font> b <font color=008000>d</font>         <font color=008000>d</font> <font color=008000>B</font>-f-f-f-f-f-<font color=FFFF00>s-</font><font color=00CCFF>H</font>-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|        <font color=00CC00>/|/ \</font>              <font color=FFFF00>|</font>X|X|X|X|X|X|X|X|</font>X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f       <font color=FFFF00>s-</font><font color=008000>B</font> b <font color=00CC00>g</font> <font color=008000>d</font>         <font color=008000>d</font> <font color=FFFF00>s</font>-f-f-f-f-f-f-f-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|\      |X|<font color=FFFF00>\</font> <font color=00CC00>/|</font>             <font color=FFFF00>|</font>X|X|X|X|X|X|X|X|</font>X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f     f-f-<font color=FFFF00>s</font><font color=00CC00>-g</font> <font color=008000>d</font>           <font color=FFFF00>s</font>-f-f-f-f-f-f-f-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|X|    /|X|X<font color=FFFF00>|</font><font color=00CC00>X|</font>                \|X|X|X|X|X|X|</font>X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f   f-f-f-<font color=008000>K</font><font color=00CC00>-g</font> <font color=008000>d</font>               f-f-f-<font color=FFFF00>s-s</font>-f-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|/    |X|X|X<font color=FFFF00>|</font><font color=00CC00>X|</font>                 |X|X|<font color=FFFF00>/   \</font>|X|</font>X|X|X|X|X|<br>
+		M-M-<font color=0055FF>f     f-f-f-<font color=FFFF00>s</font><font color=00CC00>-g</font> <font color=008000>d</font>               f-f-<font color=008000>B</font>     <font color=FFFF00>s</font>-f</font>-M-M-M-M-M<br>
+		|X|X<font color=0055FF>|     |X|X|/                     \|<font color=FFFF00>/      |</font>X|X</font>|X|X|X|X|<br>
+		M-M-<font color=0055FF>f     f-f-f   <font color=008000>d d</font>     f-f         <font color=FFFF00>s       s</font>-f-f</font>-M-M-M-M<br>
+		|X|X<font color=0055FF>|\    |X|/            |X|\       /|          \|</font>X|X|X|X|<br>
+		M-M-<font color=0055FF>f-f-f-f-f             f-f-f     f-f           f</font>-M-M-M-M<br>
+		|X|X|X|X|<font color=0055FF>X|/             /|X</font>|<font color=0055FF>X|\   /|X|          /|</font>X|X|X|X|<br>
+		M-M-M-M-M-<font color=0055FF>f             f-f</font>-M-<font color=0055FF>f-f-f-f-f         f-f</font>-M-M-M-M<br>
+		|X|X|X|X|X<font color=0055FF>|            /|X</font>|X|X|X|X|<font color=0055FF>X|/         /|X</font>|X|X|X|X|<br>
+		M-M-M-M-M-<font color=0055FF>f           f-f</font>-M-M-M-M-M-<font color=0055FF>f         f-f</font>-M-M-M-M-M<br>
+		|X|X|X|X|X<font color=0055FF>|\         /|X</font>|X|X|X|X|X|X<font color=0055FF>|\       /|X</font>|X|X|X|X|X|<br>
+		M-M-M-M-M-<font color=0055FF>f-f-f-f-f-f-f</font>-M-M-M-M-M-M-<font color=0055FF>f-f-f-f-f-f</font>-M-M-M-M-M-M<br>
+		|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+		M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+</FONT>
+</font>
+</span>
+
+<span class="legend">
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+<font color=008000>B =</font> Bananenstaude am Strand<br>
+<font color=0055FF>b =</font> Bach<br>
+<font color=008000>d =</font> Dschungel (nicht betretbar)<br>
+<font color=FFFF00>F =</font> Vulkansandstrand mit Felsblock<br>
+<font color=0055FF>f =</font> Flachwasser<br>
+<font color=00CCFF>H =</font> Verfallener Anlegesteg<br>
+<font color=00CCFF>h =</font> Hoehleneingang<br>
+<font color=008000>K =</font> Kokospalme am Strand<br>
+<font color=0000FF>M =</font> Meer<br>
+<font color=FFFF00>b =</font> Vulkansandstrand<br>
+<font color=00CCFF>W =</font> Walskelett und Huette<br>
+<font color=00CCFF>Z =</font> Zuckerrohrfeld<br>
+</span>
