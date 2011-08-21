@@ -32,7 +32,9 @@ in einem Gang weiter unten auf)<br>
 > * [[<span class="hellblau">Nankea</span>|Nankea/Wurzelwald]] (beim Turm des Sauren Mannes)<br>
 > * [[<span class="hellblau">Veldergautland</span>|Veldergautland/Spalt]] (in einer Gletscherspalte)<br>
 > * [[<span class="hellblau">Vulkanien</span>|Vulkanien]] (im südlichen Krater)<br>
+</span>
 
+<span class="legend">
 <span class="rot">F =</span> Großes Feuer<br>
 <font color=808080>g =</font> Gang<br>
 <font color=808080>h =</font> Hier gehts hoch zur Massagebank<br>
