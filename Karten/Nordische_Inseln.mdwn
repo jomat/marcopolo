@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 M-M-M-m-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-m-m-M-M-M-M-M-M-M-M-m-m-m-m-m-m-m-m-m-m-M-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-I-I-<font color=00CC00>K-</font><font color=808080>k-k-k-k-k-k</font>-I-I-I-I-<font color=808080>k-k-k-k-k</font>-I-I-<font color=808080>k-k-k</font>-I-I-m-m-M-M-M-M-M-M-M-M-m-m-<font color=00CC00>K-K-K-K-K</font>-m-m-m-m-m-m-m-M-M-M-M-M-M-M-M<br>
@@ -97,12 +97,13 @@ M-M-M-M-m-m-m-m-m-m-m-m-m-m-m-M-M-M-m-m-m-m-m-m-m-m-m-m-m-m-m-M-M-M-M-m-m-m-m-m-
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-m-m-m-m-m-M-M-M-M-M-M-M-M-M-M-M-M-M-m-m-m-m-o-o-<font color=00CC00>O-O</font>-o-o-m-m-m-m-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-m-m-m-o-o-o-o-m-m-m-m-M-M-M-M-M-M-M</FONT></p>
-</td>
-</tr>
-</table>
-<span class="hellblau">A =</span> Anhöhe mit Laborzelt (hier ist einer der Landepunkte von Sleipnir)<br>
+</font>
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> AnhÃ¶he mit Laborzelt (hier ist einer der Landepunkte von Sleipnir)<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Burg</span>|Nordische_Inseln/Burg]] auf Vandras<br>
-<span class="hellblau">b =</span> Brummbeerensträucher<br>
+<span class="hellblau">b =</span> BrummbeerenstrÃ¤ucher<br>
 <span class="hellblau">C =</span> Wrack der [[<font COLOR=00CCFF>Marie Celeste</font>|Nordische_Inseln/Marie-Celeste]]<br>
 <span class="hellblau">c =</span> Von hier aus kann man auf der Wrack runterklettern (man kommt bis zu einem Vorsprung und muss den Rest des Weges springen - ist recht ungesund)<br>
 <font color=Red> D =</font> Dorf (im Bau)<br>
@@ -110,53 +111,59 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <span class="hellblau">G =</span> Seilbahn<br>
 <span class="hellblau">H =</span> Hafen (auf der grossen Insel [Thule]: Phexcaer&nbsp; -&nbsp; auf der nordwestlichen Insel [Imneborg]: Paragon)<br>
 <span class="hellblau">h =</span> Hier gehts zum (Hexen-)Steinkries [in die Hecke kriechen]<br>
-<span class="hellblau">K =</span> optimale Stelle um sich von der Klippe ins Meer zu stürzen (und ein Schild auf dem &quot;MHGV&quot; steht)<br>
+<span class="hellblau">K =</span> optimale Stelle um sich von der Klippe ins Meer zu stÃ¼rzen (und ein Schild auf dem &quot;MHGV&quot; steht)<br>
 <span class="hellblau">k =</span> Auf der Klippe liegt ein Felsen mit einer verwitterten Gravur (hier ist einer der  Landepunkte von Sleipnir)<br>
 <span class="hellblau">L =</span> Langhaus [Die Umgebund des Hauses ist nochmal 4 Felder gross]<br>
 <span class="hellblau">l =</span> Leiter hoch auf den Felsen (dort ist ein Plateau mit einer Bank - und eine Perlmuttplatte mit einem Spalt daneben an einer Wand)<br>
-<span class="hellblau">n =</span> In der Nähe von Phexcaer<br>
+<span class="hellblau">n =</span> In der NÃ¤he von Phexcaer<br>
 <span class="hellblau">P =</span> [[<span class="hellblau">Phexcaer</span>|Nordische_Inseln/Phexcaer]]<br>
 <span class="hellblau">p =</span> Beates Puppenhaus<br>
 <span class="hellblau">S =</span> Bootsanlegesteg<br>
-<span class="hellblau">q =</span> Quelle (von hier aus Fällt man ins [[<span class="hellblau">Tal</span>|Nordische_Inseln/Tal]] runter wenn man es sich anschaut)<br>
+<span class="hellblau">q =</span> Quelle (von hier aus FÃ¤llt man ins [[<span class="hellblau">Tal</span>|Nordische_Inseln/Tal]] runter wenn man es sich anschaut)<br>
 <span class="hellblau">s =</span> Strand mit Schleifspuren &amp; kaputtes Schwert<br>
-<span class="hellblau">T =</span> Trollhöhlen-Vorplatz<br>
+<span class="hellblau">T =</span> TrollhÃ¶hlen-Vorplatz<br>
 <span class="hellblau">V =</span> Bootsanlegesteg von Vandras<br>
-<span class="hellblau">v =</span> Mit Brettern verrammelte Höhle<br>
-<span class="hellblau">Y =</span> Rettungsfloß der Yollo<br>
+<span class="hellblau">v =</span> Mit Brettern verrammelte HÃ¶hle<br>
+<span class="hellblau">Y =</span> RettungsfloÃŸ der Yollo<br>
 <span class="hellblau">Z =</span> Zelt von Tschebyscheff dem Meterologen<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Legende:</span><br>
-<font color=808080>% =</font> [[<span class="hellblau">Labyrinth</span>|Nordische_Inseln/Labyrinth]] (von Westen aus), Vor einer Höhle (von Süden aus) [aus diesem Feld gehts dann nach Westen in die Höhle und man kann in ein Drachennest hochklettern]<br>
+<font color=808080>% =</font> [[<span class="hellblau">Labyrinth</span>|Nordische_Inseln/Labyrinth]] (von Westen aus), Vor einer HÃ¶hle (von SÃ¼den aus) [aus diesem Feld gehts dann nach Westen in die HÃ¶hle und man kann in ein Drachennest hochklettern]<br>
 <font color=808080>a =</font> Burgauffahrt<BR>
-<font color=00CC00>b =</font> Bei den Beerensträuchern (man kann hier ins Schloss hochklettern)<br>
+<font color=00CC00>b =</font> Bei den BeerenstrÃ¤uchern (man kann hier ins Schloss hochklettern)<br>
 <font color=808080>b =</font> Berg<br>
 <font color=blue>E =</font> Fluss Eisige Wasser<br>
 <font color=808080>e =</font> Einschnitt<br>
 <font color=blue>F =</font> In einem Fjord<br>
 <font color=808080>f =</font> Zwischen seltsamen Felsen (wenn man hochklettert landet man im Nest der Druden)<br>
 <font color=blue>f =</font> kleiner Fluss<br>
-<font color=808000>h =</font> sehr hügelige Ebene<br>
+<font color=808000>h =</font> sehr hÃ¼gelige Ebene<br>
 <font color=blue>I =</font> Vor der Insel Imneboerg<br>
-<font color=blue>i =</font> In der Nähe einer Insel (Vandras)<br>
-<font color=00CC00>K =</font> Küste / Strand<br>
+<font color=blue>i =</font> In der NÃ¤he einer Insel (Vandras)<br>
+<font color=00CC00>K =</font> KÃ¼ste / Strand<br>
 <font color=808080>k =</font> Klippen<br>
-<font color=00CC00>k =</font> Hier wächst das Heidekraut<br>
+<font color=00CC00>k =</font> Hier wÃ¤chst das Heidekraut<br>
 <font color=blue>M =</font> Nordmeer<br>
 <font color=800000>m =</font> [[<span class="hellblau">Moor</span>|Nordische_Inseln/Moor]]<br>
-<font color=blue>m =</font> In der Nähe des Festlandes<br>
-<font color=00CC00>O =</font> Ebene bzw. mässig hügelige Ebene<br>
+<font color=blue>m =</font> In der NÃ¤he des Festlandes<br>
+<font color=00CC00>O =</font> Ebene bzw. mÃ¤ssig hÃ¼gelige Ebene<br>
 <font color=blue>o =</font> Vor Orchid <br>
 <font color=808080>P =</font> ein alter Platz<br>
 <font color=blue>p =</font> Vor Pandas<br>
 <font color=blue>r =</font> Im Innisriver<br>
-<font color=blue>R =</font> Mündung des Innisriver<br>
+<font color=blue>R =</font> MÃ¼ndung des Innisriver<br>
 <font color=808080>S =</font> Schlucht (man kann zu den anliegenden Feldern hochklettern)<BR>
 <font color=00CC00>s =</font> Strand (hier ist einer der Landepunkte von Sleipnir)<br>
-<font color=00CC00>u =</font> Eine von Unkraut überwucherte Gegend<br>
-<font color=006600>W =</font> Wald (hier lohnt sich die Kräutersuche wirklich - hier wachsen verschiedenste Kräuter, Knollen, Blumen, Gräser und Pilze)<br>
+<font color=00CC00>u =</font> Eine von Unkraut Ã¼berwucherte Gegend<br>
+<font color=006600>W =</font> Wald (hier lohnt sich die KrÃ¤utersuche wirklich - hier wachsen verschiedenste KrÃ¤uter, Knollen, Blumen, GrÃ¤ser und Pilze)<br>
 <font color=00CC00>w =</font> Wiese<br>
 <font color=blue>w =</font> Am Weiher<br>
-<font color=00CC00>z =</font> Grünes Zimmer<br>
+<font color=00CC00>z =</font> GrÃ¼nes Zimmer<br>
+</span>
+
+<span class="legend">
 <font color=006600>Hexenwald (in der Mitte von Thule):</font> <br>
 <font color=006600>A =</font> Ahorn<br>
 <font color=006600>B =</font> Birke<br>
@@ -165,7 +172,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <font color=006600>K =</font> Kastanie<br>
 <font color=006600>k =</font> Kiefer<br>
 <font color=006600>L =</font> Linde<br>
-<font color=006600>l =</font> Lärche<br>
+<font color=006600>l =</font> LÃ¤rche<br>
 <font color=006600>T =</font> Tanne<br>
 <font color=006600>t =</font> Trampelpfad<br>
 <font color=006600>W =</font> Weissdorn<br>
