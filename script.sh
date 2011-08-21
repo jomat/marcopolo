@@ -26,3 +26,4 @@ sed -i '/^<\/DIV>$/d' $1
 sed -i '/^<br>$/d' $1
 sed -i '/^<font color=C0C0C0 face="Courier New" style="font-size: 8pt">$/d' $1
 sed -i '/.*zur Weltkarte.*/d' $1
+sed -i 's/A-Praktikum/Anfängerpraktikum/g' $1
