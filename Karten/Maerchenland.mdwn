@@ -1,5 +1,5 @@
 <span class="map">
-<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+<font color="#00CC00"><font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>/|X|X|\<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K<font color=blue>-M-</font>K-K-O-O-O-K<font color=blue>-M-M-M-M-</font>K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M<br>
@@ -51,32 +51,33 @@ M-M-M-M-M-</font>K-<font color=C0C0C0>P-P-P</font>-K-<span class="hellblau">H</s
 M-M-M-M-M-</font>K-O-O-K<font color=blue>-M-</font>K-K-K-K-K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-</font>K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|</font>\|X|/<font color=blue>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-</font>K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font></td>
-</tr>
-</table>
-</center>
-</div>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|</font>
+</font>
+</font>
+</span>
+
+<span class="legend">
 <span class="hellblau">Sehenswertes:</span><br>
-<span class="hellblau">D =</span> Dornröschenschloss (in diesem einen Feld ist nochmal eine Landschaft von 3*3 Feldern mit dem Schloss in der Mitte eingeschlossen)<br>
+<span class="hellblau">D =</span> DornrÃ¶schenschloss (in diesem einen Feld ist nochmal eine Landschaft von 3*3 Feldern mit dem Schloss in der Mitte eingeschlossen)<br>
 <span class="hellblau">E =</span> Edelholz-Baum<br>
 <span class="hellblau">F =</span> Fuchsbau<br>
-<span class="hellblau">G =</span> Haus der Großmutter (im Brunnen ist ein Portal zur [[<span class="hellblau">Beschwörergilde</span>|OdF]])<br>
-<span class="hellblau">H =</span> Hafen (Rumsrüttelkoge)<br>
+<span class="hellblau">G =</span> Haus der GroÃŸmutter (im Brunnen ist ein Portal zur [[<span class="hellblau">BeschwÃ¶rergilde</span>|OdF]])<br>
+<span class="hellblau">H =</span> Hafen (RumsrÃ¼ttelkoge)<br>
 <span class="hellblau">K =</span> [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]]<br>
-<span class="hellblau">k =</span> Lichtung mit der Hütte des Köhlers<br>
-<span class="hellblau">L =</span> Lichtung im Wald (mit verfallener Hütte)<br>
-<span class="hellblau">M =</span> Sandmännchens Wolke<br>
+<span class="hellblau">k =</span> Lichtung mit der HÃ¼tte des KÃ¶hlers<br>
+<span class="hellblau">L =</span> Lichtung im Wald (mit verfallener HÃ¼tte)<br>
+<span class="hellblau">M =</span> SandmÃ¤nnchens Wolke<br>
 <span class="hellblau">P =</span> Pfefferkuchenhaus (die Hexe bringt einen nach ein bissen Rennerei um Zeug zu beschaffen auf ihrem Besen nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
 <span class="hellblau">R =</span> Rudi Raser, die Postschnecke<br>
 <span class="hellblau">S =</span> Schneewittchen-Tal<br>
 <span class="hellblau">T =</span> Stadttore von [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]]<br>
 <span class="hellblau">t =</span> [[<span class="hellblau">kleines Tal</span>|Maerchenland/Tal1]]<br>
-<span class="hellblau">v =</span> verfallenes [[<span class="hellblau">Schloss</span>|Maerchenland/Ruine]] (von Westen 'zwänge durch Blattwerk' um hinzukommen)<br>
-<span class="hellblau">W =</span> Woodold, der Holzfäller<br>
+<span class="hellblau">v =</span> verfallenes [[<span class="hellblau">Schloss</span>|Maerchenland/Ruine]] (von Westen 'zwÃ¤nge durch Blattwerk' um hinzukommen)<br>
+<span class="hellblau">W =</span> Woodold, der HolzfÃ¤ller<br>
 <span class="hellblau">Legende:</span><br>
 <font color=808080>B =</font> Berge<br>
-<font color=339966>H =</font> Hügel<br>
-<font color=00CC00>K =</font> Küste<br>
+<font color=339966>H =</font> HÃ¼gel<br>
+<font color=00CC00>K =</font> KÃ¼ste<br>
 <font color=blue>M =</font> Meer<br>
 <font color=00CC00>O =</font> Grasland<br>
 <font color=C0C0C0>P =</font> Pfad<br>
