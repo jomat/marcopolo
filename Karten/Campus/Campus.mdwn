@@ -89,5 +89,4 @@
 <span class="hellblau">Z =</span> <A title="Zwischengeschoss" HREF="NWZII_1.html"><span class="hellblau">Zwischengeschoss</span></A> des NWZII<br>
 <span class="gelb">z =</span> Hier gehts runter zur Zufahrt des NWZII (man kommt unten nicht an den Autos vorbei)<br>
 <br
-<Center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font color=00CC00>zurück zur Weltkarte</font>|../../Index]])</font></Center>
 </span>
