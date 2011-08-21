@@ -1,4 +1,12 @@
 <span class="map">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[<span class="hellblau">h</span>|Hasenbau]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+[[<font color=FFFFFF>w</font>|../Veldergautland]]-w-w-<span class="hellblau">S</span><br>
+&nbsp;&nbsp; \<br>
+&nbsp;&nbsp;&nbsp; <font color=blue>s</font>-<span class="hellblau">T</span></TD>
+</span>
+
+<span class="legend">
 <span class="hellblau">h =</span> [[<span class="hellblau">Bau des Schneehasen</span>|Hasenbau]]<br>
 <span class="hellblau">S =</span> Schneemann<br>
 <font color=blue>s =</font> Eissee &amp; angelnder Schneetroll<br>
