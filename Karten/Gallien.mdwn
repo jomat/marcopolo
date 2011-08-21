@@ -1,0 +1,97 @@
+<span class="map">
+<span class="hellblau">Sehenswertes:</span><br>
+<span class="hellblau">A =</span> Altar &amp; Höhle mit der Entstehungsgeschichte von Unitopia<br>
+<span class="hellblau">a =</span> höchster Gipfel der Alpen (von der Spitze aus fliegt der Adler Landroval nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="rot">B =</span> Hier ist der bluuutroote Mond<br>
+<span class="hellblau">B =</span> Felsen zwischen einigen Büschen (Eingang zur [[<span class="hellblau">Räuberhöhle</span>|Gallien/R-Hoehle]] -&gt; betrete Spalt)<br>
+<span class="hellblau">b =</span> Sandburgenwettbewerb<br>
+<span class="violett">D =</span> Dimensionstor ins [[<span class="hellblau">Drachenland</span>|Drachenland]]<br>
+<span class="orange">d =</span> Eurodisnix (vom Dach aus Startet Dumbo auf seinem Flug zum [[<span class="hellblau">Tierpark von Koboldingen</span>|Maerchenland/Zoo]])<br>
+<span class="hellblau">d =</span> Kleine Dorf mit einer Bar und einer verfallenen Holzhütte deren Feuerstelle benutzbar ist<br>
+<font color=CC6600>E =</font> Eingang des [[<span class="hellblau">Gallischen Dorfes</span>|Gallien/Dorf]]<br>
+<span class="hellblau">E =</span> Eiche von Panoramix<br>
+<span class="hellblau">e =</span> Erdkobold (Tiertransport-Rätsel) <br>
+<span class="hellblau">F =</span> [[<span class="hellblau">Frigorn</span>|Gallien/Frigorn]], die Stadt des ewigen Eises<br>
+<span class="hellblau">f =</span> Fackel-Kiste<br>
+<span class="orange">G =</span> [[<span class="hellblau">Gallischer Gasthof</span>|Gallien/Gasthof]]<br>
+<span class="hellblau">G =</span> [[<span class="hellblau">Landsitz</span>|Gallien/Landsitz]] von Gaius Bonus<br>
+<span class="hellblau">g =</span> Hier gehts hoch zum Gipfel wo es die Lichtpfeile für Engel gibt<br>
+<span class="hellblau">H =</span> Hafen<br>
+<span class="hellblau">h =</span> [[<span class="hellblau">Seherhöhlen</span>|Gallien/Seherhoehlen]] (vom Hafen Richtung so)<br>
+<span class="hellblau">I =</span> Hütte von Ichton, dem Druiden<br>
+<span class="hellblau">J =</span> Rastplatz (mit Jäger-Abschussliste an nem Baum)<br>
+<span class="hellblau">K =</span> Steinhütte von Korruptus<br>
+<span class="hellblau">k =</span> Keskonrix, der Nachwuchsgallier<br>
+<font color=008000>K =</font> Karnutenwald<br>
+<font color=996600>K =</font> [[<span class="hellblau">Kanalisation Lutetias</span>|Gallien/Kanalisation]]<br>
+<span class="hellblau">L =</span> Leuchtturm<br>
+<span class="hellblau">l =</span> Latrine<br>
+<span class="hellblau">M =</span> Mixnix, der Druide<br>
+<span class="hellblau">m =</span> Moor mit Moorhühnern<br>
+<span class="hellblau">N =</span> Nautix Gebrauchtschiffladen<br>
+<span class="hellblau">n =</span> Frantzi, die Sumpffranze<br>
+<span class="hellblau">ö =</span> unheimliche [[<span class="hellblau">Höhle</span>|Gallien/Hoehle]]<br>
+<span class="hellblau">P =</span> Pferdeverleih<br>
+<span class="hellblau">p =</span> Felsplatte in den Alpen (Vorsicht: Abrutschgefahr)<br>
+<span class="hellblau">Q =</span> Kleines Wäldchen (3x3 Felder groß) in dem die <A TITLE="Quelle der Maas" HREF="Gallien/Quellwald.html"><span class="hellblau">Quelle der Maas</span><A> ist<br>
+<span class="hellblau">R =</span> Römerlager (von unten nach oben) : [[<span class="hellblau">Aquarium</span><A>, <A TITLE="Römerlager Babaorum" HREF="Gallien/Babaorum.html"><span class="hellblau">Babaorum</span>|Gallien/Aquarium]], [[<span class="hellblau">Laudanum</span>|Gallien/Laudanum]], [[<span class="hellblau">Kleinbonum</span>|Gallien/Kleinbonum]]<br>
+<span class="orange">R =</span> Reitbahn (geschlossen)<br>
+<span class="hellblau">r =</span> Rastplatz<br>
+<span class="orange">S =</span> Spelunke „Zum Abgebrannten Hund“<br>
+<span class="hellblau">s =</span> Lagerschuppen der Spelunke<br>
+<span class="hellblau">T =</span> Tantalos, der Gottverfluchte<br>
+<span class="hellblau">t =</span> kleines Tal mit Steinbruch<br>
+<span class="orange">T =</span> Tonix Töpferladen (und eine Feuerstelle)<br>
+<span class="hellblau">V =</span> Vor einem Stadttor von [[<span class="hellblau">Massilia</span>|Gallien/Massilia]]<br>
+<span class="hellblau">v =</span> [[<span class="hellblau">verfallene Festung</span>|Gallien/Festung]]<br>
+<span class="hellblau">W =</span> Waagnerianer-Treffpunkt (Nachts) [Wiege-Spiel]<br>
+<span class="orange">w =</span> Weinhandlung von Ligurix<br>
+<span class="orange">Y =</span> Yodaa, die Pizza-Servie-Taube<br>
+<span class="hellblau">z =</span> Zelt von Schachus Mattus (Schachprobleme)<br>
+<span class="hellblau">Legende:</span><br>
+<font color=C0C0C0>4,5,6,7,8 =</font> Römerstrassen<br>
+<font color=808080>A =</font> Berge (Alpen)<br>
+<font color=FFFFFF>A =</font> Tieef in den Alpen (hier liegt Schnee und es ist sehr kalt)<br>
+<font color=C0C0C0>a =</font> Ansiedlung<br>
+<font color=008000>b =</font> Gebüsch<br>
+<font color=00CC00>C =</font> Camargue<br>
+<font color=00CC00>f =</font> Reisfelder<br>
+<font color=blue>f =</font> Am Ufer eines kleinen Flusses<br>
+<font color=808080>f =</font> Felsflanke<br>
+<font color=808080>G =</font> Grat in den Pyrenaeen (hier kann man allerhöchstens zum den Feldern Meer die anliegen runterfallen...)<br>
+<font color=blue>G =</font> Der Fluss Garonne<br>
+<font color=00CC00>g</font> = Grenze des röm. Reiches<br>
+<font color=339966>h =</font> Hügel<br>
+<font color=808080>h =</font> Hochebene<br>
+<font color=C0C0C0>h =</font> Hauptheeresstraße nach Rom<br>
+<font color=blue>i =</font> Isere<br>
+<font color=C0C0C0>i =</font> Wegweiser / Hinweisschild<br>
+<font color=00CC00>K =</font> Küste<br>
+<font color=blue>M =</font> Meer (bzw. die Mosel im Nordosten von Gallien)<br>
+<font color=blue>m =</font> Der Fluss Maas<br>
+<font color=CC6600>m =</font> Palisandenmauer des Gallischen Dorfes<br>
+<font color=00CC00>O =</font> Grasland / Ebene (nix besonderes also)<br>
+<font color=808080>P =</font> Berge (Pyrenaeen)<br>
+<font color=C0C0C0>p =</font> Pfad<br>
+<font color=blue>R =</font> Die Rhone<br>
+<font color=800000>S =</font> Sumpf<br>
+<font color=blue>S =</font> Die Seine<br>
+<span class="gelb">S =</span> Salinen<br>
+<span class="gelb">s =</span> Sandbank<br>
+<font color=C0C0C0>T =</font> Stadttor von Lutetia<br>
+<font color=blue>t =</font> Tümpel<br>
+<font color=008000>W =</font> Wald:<br>
+&nbsp; &nbsp; - <A TITLE="Gallischer Wald" HREF="Gallien/G_Wald.html"><span class="hellblau">gallischer Wald</span><A><br>
+&nbsp; &nbsp; - <A TITLE="Pfadfinderwald" HREF="Gallien/Pfadfinder.html"><span class="hellblau">Pfadfinderwald</span><A><br>
+&nbsp; &nbsp; - <A TITLE="Karnutenwald" HREF="Gallien/Karnutenwald.html"><span class="hellblau">Karnutenwald</span><A><br>
+&nbsp; &nbsp; - <A TITLE="kleines Waldstück" HREF="Gallien/W1.html"><span class="hellblau">Wald 1</span><A> (im nw Galliens)<br>
+&nbsp; &nbsp; - <A TITLE="Wald" HREF="Gallien/W2.html"><span class="hellblau">Wald 2</span><A> (im n Galliens)<br>
+&nbsp; &nbsp; - <A TITLE="Wald" HREF="Gallien/W3.html"><span class="hellblau">Wald 3</span><A> (im n Galliens)<br>
+&nbsp; &nbsp; - <A TITLE="Waldstück" HREF="Gallien/W4.html"><span class="hellblau">Wald 4</span><A> (im no Galliens)<br>
+&nbsp; &nbsp; - <A TITLE="Waldstück" HREF="Gallien/W5.html"><span class="hellblau">Wald 5</span><A> (im no Galliens)<br>
+&nbsp; &nbsp; - <A TITLE="kleiner Wald" HREF="Gallien/W6.html"><span class="hellblau">Wald 6</span><A> (im so Galliens)<br>
+<font color=00CC00>w =</font> Wiese<br>
+<font color=C0C0C0>w =</font> (meist un-)befestigte Wege<br>
+<font color=339966>w =</font> Weinberg<br>
+</html>
+</span>
