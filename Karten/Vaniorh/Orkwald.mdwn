@@ -1,0 +1,61 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W &nbsp; W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /| &nbsp; &nbsp;\|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W &nbsp; &nbsp; &nbsp; W-W &nbsp; W-W-W &nbsp; &nbsp; W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|\ &nbsp; &nbsp; /|X|\ /|X|X|\ &nbsp; /|X|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-g-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<br>
+&nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp; \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<br>
+&nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<br>
+&nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-[[<span class="hellblau">L</span>|Orkhoehlen]]-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<br>
+&nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<br>
+&nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp;|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<br>
+&nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; \|X|/ \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp;W-W &nbsp; W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |X|X|X|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W-W-W-W-W-W <span class="gelb">H S K</span> &nbsp; &nbsp; W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|/ \|X|X|X|X|X|X|X|X|X|&nbsp; <font color=00CC00>\|/</font>&nbsp; &nbsp; &nbsp; |X|X|X|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W &nbsp; W-W-W-W-W-W-W-W-W-W&nbsp;&nbsp; <span class="gelb">F<font color=00CC00>---</span>T</font>&nbsp;&nbsp; W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|X|X|X|X|&nbsp; <font color=00CC00>/ &nbsp; /</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W-W-W-W <font color=FFCC00>
+k</font> &nbsp; <font color=00CC00>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \X|X/ \|X|X|X| &nbsp; &nbsp;<font color=00CC00>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W &nbsp; W-W-W-W-W-<font color=00CC00>L</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="hellblau">w</span>|Orkberge]]-
+
+</span>
+
+<span class="legend">
+<span class="gelb">F =</span> Feuerstelle<br>
+<span class="gelb">H =</span> Häuptlingszelt<br>
+<span class="gelb">K =</span> Katapult<br>
+<span class="gelb">k =</span> Küchenzelt<br>
+<span class="hellblau">L =</span> Am Boden ist eine versteckte Luke zu den [[<span class="hellblau">Orkhöhlen</span>|Orkhoehlen]] (die Luke wechselt wahrscheinlich ihre Position ab und zu)<br>
+<font color=00CC00>L =</font> Lichtung<br>
+<span class="gelb">S =</span> Sarkon, der Orkschamane<br>
+<span class="gelb">T =</span> Tor des Orklagers<br>
+<font color=008000>W =</font> Wald (zufällig verteilt gibts einige Fallgruben)<br>
+<span class="hellblau">w =</span> Handelsweg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]]<br>
+<center><font color=008000 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=008000>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+</span>

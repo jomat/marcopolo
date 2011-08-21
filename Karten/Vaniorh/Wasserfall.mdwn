@@ -1,0 +1,47 @@
+<span class="map">
+obere Ebene&nbsp;&nbsp; untere Ebene<BR>
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=808080>v</font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">t</span>|Orkberge]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=808080>v</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=808080>v</font><br>
+&nbsp;&nbsp;&nbsp;<font color=blue>b-b-W..>..>..&gt;..</font>[[<span class="hellblau">P</span>|Orkberge]]<br>
+&nbsp;&nbsp;&nbsp;<font color=808080>^</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<font color=blue>|</font><br>
+&nbsp;&nbsp;&nbsp;u&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<font color=blue>w</font><br>
+&nbsp;&nbsp;&nbsp;<font color=808080>^</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;/ <font color=blue>\</font><br>
+&nbsp;s-s-s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<span class="gelb">K</span>&nbsp;&nbsp;&nbsp;p<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+&nbsp;k<font color=808080><</font>B-f-B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=808080>></font>[[<span class="hellblau">D</span>|Drachenkopf]]-<span class="gelb">L</span>-[[<span class="hellblau">H</span>|Orkhoehlen]]<br>
+&nbsp;|&nbsp;&nbsp; |&nbsp;|<br>
+&nbsp;S&nbsp;&nbsp;&nbsp;<span class="gelb">a</span> <font color=008000>W</font><br>
+&nbsp;<font color=00CC00>|<br>
+&nbsp;O<br>
+&nbsp;|<br>
+&nbsp;O<br>
+&nbsp;|<br>
+&nbsp;O<br>
+&nbsp;|</font><br>
+&nbsp;<span class="gelb">A</span>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Hütte der Orkfrau Aline<br>
+<span class="gelb">a =</span> Anhöhe (ein Feld hoch hat man eine tolle Aussicht)<br>
+<font color=C0C0C0>B =</font> In den Bergen (im Westlichen Feld kann man runterklettern [<])<br>
+<font color=blue>b =</font> Bach:<br>
+&nbsp; &nbsp; -im westlichen Feld kommt man an wenn man in die Spalte im Bach der [[<span class="hellblau">Borsippa-Ebene</span>|Borsippa_Ebene]] gekrochen ist<br>
+&nbsp; &nbsp; -im Westlichen Feld kann man hoch ans Ufer klettern [^] und dann weiter hoch auf einen Sims [^]<br>
+&nbsp; &nbsp; -die Strömung treibt einen nach Osten hin ab<br>
+&nbsp;&nbsp;&nbsp; -im Östlichen Feld kann man hoch auf eine Felsterrasse klettern [v]<br>
+<span class="hellblau">D =</span> Hier kann man mit viel Stärke und Mut zu Achronos Höhle auf dem [[<span class="hellblau">Drachenkopf</span>|Drachenkopf]] hochklettern<br>
+<font color=C0C0C0>f =</font> Felsplateau<br>
+<span class="gelb">K =</span> Ork-Kultstätte<br>
+<font color=C0C0C0>k =</font> Krater (man kann hier hochklettern [<])<br>
+<span class="gelb">L =</span> provisorisches Orklager (nach osten gehts in die [[<span class="hellblau">Orkhöhlen</span>|Orkhoehlen]])<br>
+<font color=00CC00>O =</font> verlassenes Orktal<br>
+<span class="hellblau">P =</span> Plateau neben einem Wasserfall (man kann hochklettern zum Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]])<br>
+<font color=C0C0C0>S =</font> enge Schlucht<br>
+<span class="hellblau">t =</span> Felsterasse (man kann runter in den Bach oder hoch zum Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]] klettern<br>
+<font color=blue>W =</font> Wasserfall (wenn man dieses Feld betritt fällt man ihn entlang der gepunkteten Linie runter [>] )<br>
+<font color=blue>w =</font> Hinter dem Wasserfall<br>
+<font color=008000>W =</font> Waldrand<br>
+</span>

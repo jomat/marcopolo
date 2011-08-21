@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp;<font color=C0C0C0>-</font>[[<font  color=00CCFF>K</font>|Tadmor]] r-g-w<br>
+&nbsp; &nbsp;<font color=C0C0C0>\</font>| | |<br>
+&nbsp; &nbsp; <font color=blue>s</font>-B-l<br>
+&nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; <span class="gelb">k</span>-n-b
+</span>
+
+<span class="legend">
+<font color=00CC00>b =</font> Braunbären<br>
+<font color=00CC00>B =</font> Bänke und Blumenbeete<br>
+<font color=00CC00>g =</font> Gnome<br>
+<span class="hellblau">K =</span> Eingang zum Kloster der Barmherzigen Magyrianerinnen (in [[<font  color=00CCFF>Tadmor</font>|Tadmor]])<br>
+<span class="gelb">k =</span> Karnickel und Feuerstelle<br>
+<font color=00CC00>l =</font> kleines Labyrinth<br>
+<font color=00CC00>n =</font> Nymphen<br>
+<font color=blue>s =</font> kleiner See<br>
+<font color=00CC00>r =</font> Abfallhaufen mit Ratten<br>
+<font color=00CC00>w =</font> Wölfe<br>
+</span>

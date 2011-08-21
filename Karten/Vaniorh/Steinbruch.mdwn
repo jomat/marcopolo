@@ -1,0 +1,19 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp;p<br>
+&nbsp; &nbsp; &nbsp; / \<br>
+&nbsp; &nbsp;p-p &nbsp; p<br>
+&nbsp; / &nbsp; &nbsp; &nbsp; \<br>
+&nbsp;[[<span class="hellblau">P</span>|Orkhoehlen]] &nbsp; &nbsp; &nbsp; &nbsp; p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Orkberge]]
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>P =</font> Plateau, von dem aus die Orks Lawinen auf den Weg durch die Berge auslösen (durch ein Loch gehts hier runter in die [[<span class="hellblau">Orkhöhlen</span>|Orkhoehlen]])<br>
+<font color=C0C0C0>p =</font> Bergpfad<br>
+<span class="hellblau">S =</span> Durch einen Spalt kann man hier zum Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]] runterklettern<br>
+<span class="gelb">S =</span> Steinbruch<br>
+</span>

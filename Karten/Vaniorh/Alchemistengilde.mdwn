@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">P</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">P</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<span class="orange">K</span> <span class="gelb">P</span> <span class="orange">D</span><br>
+&nbsp; &nbsp; &nbsp;|/ &nbsp;|<br>
+&nbsp;<span class="gelb">L</span>-<span class="gelb">S</span>-[[<span class="hellblau">H</span>|Borsippa]]---g-<span class="gelb">V</span><br>
+&nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;<span class="orange">k</span> &nbsp; <span class="gelb">B</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bibliothek<br>
+<span class="orange">D =</span> Jackys Destille<br>
+<font color=C0C0C0>g =</font> Gewölbe<br>
+<span class="hellblau">H =</span> Halle (hoch gehts zum Eingang der Gilde in [[<span class="hellblau">Borsippa</span>|Borsippa]], runter in die Alchemistengalerie)<br>
+<span class="orange">K =</span> Klaus (verkauft Werkzeug und Urmaterie)<br>
+<span class="orange">k =</span> Klärchen (kauft Urmaterie)<br>
+<span class="gelb">L =</span> Lagerraum<br>
+<span class="gelb">P =</span> Prüfungsräume<br>
+<span class="gelb">S =</span> Smix Schmiede<br>
+<span class="gelb">V =</span> Vortragsraum<br>
+</span>

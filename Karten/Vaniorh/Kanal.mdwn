@@ -1,0 +1,6 @@
+<span class="map">
+<font color=blue>a =</font> Abfluss-Kanal<br>
+<font color=blue>d =</font> Der Fluss Dijala (in  [[<span class="hellblau">Tadmor</span>|Tadmor]])<br>
+<font color=blue>k =</font> Kanal<br>
+<font color=blue>s =</font> Staubecken<br>
+</span>

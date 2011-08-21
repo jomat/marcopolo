@@ -1,0 +1,31 @@
+<span class="map">
+&nbsp; |<br>
+&nbsp;-[[<span class="hellblau">T</span>|Borsippa]] &nbsp; &nbsp; &nbsp; [[<span class="hellblau">W</span>|Wasserfall]]-w<br>
+&nbsp; &nbsp;\ &nbsp; &nbsp; / &nbsp; \<br>
+&nbsp; &nbsp; w &nbsp; [[<span class="hellblau">L</span>|Wasserfall]] &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp;\ &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; w-w-[[<span class="orange">S</span>|Orkhoehlen]] &nbsp; [[<span class="hellblau">S</span>|Steinbruch]] &nbsp; &nbsp; w &nbsp; &nbsp; <span class="gelb">W</span> &nbsp; [[<span class="hellblau">O</span>|Orkwald]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; / \ &nbsp; &nbsp;<font color=blue>|</font> &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-w &nbsp; w-<font color=blue>F-F-F</font><font color=008000>-W-W-<font color=00CC00>L</font>-W</font><font color=C0C0C0>-w-w-[[<span class="hellblau">T</span>|Tadmor]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font> &nbsp; &nbsp; &nbsp; <font color=008000>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>F</font> &nbsp; &nbsp; &nbsp; [[<span class="hellblau">B</span>|Buchenwald]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>/</font><font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">L</span> <font color=00CC00>u</font>
+</span>
+
+<span class="legend">
+<span class="hellblau">B =</span> [[<span class="hellblau">Buchenwald</span>|Buchenwald]]<br>
+<font color=blue>F =</font> Furt durch einen Fluss<br>
+<span class="hellblau">L =</span> Hier gehen öferts Lawinen runter. Ein Feld runter (klettern) ist ein Felshang über den man noch weiter runter zum [[<span class="hellblau">Bach & Wasserfall</span>|Wasserfall]] kommt<br>
+<span class="gelb">L =</span> Hier auf der Sandbank haben die Orks den Lehrer von Borsippa verbuddelt<br>
+<span class="hellblau">O =</span> Lichtung am Eingang zum [[<span class="hellblau">Orkwald</span>|Orkwald]]<br>
+<span class="hellblau">S =</span> Durch einen Spalt kann man hier zu einem [[<span class="hellblau">Gebirgspfad</span>|Steinbruch]] hochklettern<br>
+<span class="orange">S =</span> Schänke (durch eine Falltür am Boden gelangt man von hier aus in die [[<span class="hellblau">Orkhöhlen</span>|Orkhoehlen]]<br>
+<span class="hellblau">T =</span> Östlich: Stadttor von [[<span class="hellblau">Tadmor</span>|Tadmor]]<br>
+&nbsp; &nbsp; Westlich: Stadttor von [[<span class="hellblau">Borsippa</span>|Borsippa]]<br>
+<font color=00CC00>u =</font> Flussufer<br>
+<span class="gelb">W =</span> alter Planwagen<br>
+<span class="hellblau">W =</span> Von hier kann man runter zum [[<span class="hellblau">Wasserfall</span>|Wasserfall]] klettern<br>
+<font color=008000>W =</font> Wald<br>
+<font color=C0C0C0>w =</font> Handelsweg<br>
+</span>

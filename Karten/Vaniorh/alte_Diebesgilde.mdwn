@@ -1,0 +1,17 @@
+<span class="map">
+&nbsp;Erdgeschoss &nbsp; Keller<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">B</span><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; [[<span class="hellblau">E</span>|Tadmor]] &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span>-K<br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">B</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> ausgebrannte Bar<br>
+<span class="hellblau">E =</span> Eingangshalle (man kann durch ein Fenster nach [[<span class="hellblau">Tadmor</span>|Tadmor]] rausklettern; hier ist eine Treppe runter in den Keller)<br>
+<font color=C0C0C0>K =</font> Keller (hier ist eine Treppe hoch in die Eingangshalle)<br>
+<span class="gelb">R =</span> Ehemalige Rezeption<br>
+<span class="gelb">S =</span> In einem Schrank<br>
+</span>

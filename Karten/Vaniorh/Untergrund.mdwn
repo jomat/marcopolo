@@ -1,0 +1,28 @@
+<span class="map">
+&nbsp; 1.Ebene &nbsp; &nbsp; &nbsp;2.Ebene<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">T</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">M</span><br>
+&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;[[<span class="hellblau">k</span>|Borsippa]] &nbsp; g&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">L</span><br>
+&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">k</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; <span class="gelb">L</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">F</span>|Iljana]]-g-g-g
+</span>
+
+<span class="legend">
+<span class="hellblau">F =</span> Falltür hoch zu [[<span class="hellblau">Iljanas Haus</span>|Iljana]]<br>
+<span class="hellblau">k =</span> nach oben durch nen Kanaldeckel geht es nach [[<span class="hellblau">Borsippa</span>|Borsippa]], nach unten die Leiter runter tiefer in den Untergrund<br>
+<span class="gelb">k =</span> Kanaldeckel (verschlossen, unknackbar) und Leiter nach unten<br>
+<span class="gelb">L =</span> Leiter (hier gehts hoch)<br>
+<span class="gelb">M =</span> hier ist eine Goldkette vergraben (und ein Mistkäfer hockt obendrauf und bewacht das Ding)<br>
+<span class="gelb">S =</span> zwischen den beiden Feldern ist ein Schutthaufen denn man wegsprengen muss<br>
+<span class="gelb">T =</span> unter Tulkas Trainingshalle<br>
+</span>

@@ -1,0 +1,33 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;H-[[<span class="hellblau">H</span>|Gebirge_N]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>v</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;T<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">h</span>-p-<span class="gelb">a</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>v</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;p-a<br>
+&nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp;p<br>
+&nbsp; &nbsp; /<br>
+&nbsp;[[<span class="hellblau">k</span>|Ebene]]-P<br>
+&nbsp; &nbsp;<font color=008000>|</font><br>
+&nbsp; &nbsp;<span class="gelb">A</span>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Aussichtsfelsen (obendrauf hat man ne tolle Aussicht)<br>
+<span class="gelb">a =</span> Aussichtspunkt mit einer Bank<br>
+<font color=C0C0C0>a =</font> Abhang<br>
+<font color=C0C0C0>f =</font> Felsplateau (man kann hier runterklettern [<font color=808080>v</font>])<br>
+<font color=C0C0C0>H =</font> Hochebene (im westlichen Feld kann man wieder die Felstreppe runterklettern, im östlichen Feld kann man zum [[<span class="hellblau">nördlichen Teil des Gebirges</span>|Gebirge_N]] runterklettern<br>
+<span class="gelb">h =</span> Hohlweg (hier liegt eine Spitzhacke)<br>
+<span class="hellblau">k =</span> Bergkuppe (hier kann man wieder durch eine Klamm nach unten zur [[<span class="hellblau">Ebene</span>|Ebene]] hinabsteigen)<br>
+<font color=C0C0C0>P =</font> Plateau<br>
+<font color=C0C0C0>p =</font> Gebirgspfad<br>
+<font color=C0C0C0>s =</font> Felsspalte (man kann hier hochklettern [<font color=808080>v</font>])<br>
+<font color=C0C0C0>T =</font> Steintreppe (man kann hier hochklettern[<font color=808080>v</font>])<br>
+</span>

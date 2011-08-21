@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp;g-<span class="gelb">e</span>-g<br>
+&nbsp;|\ &nbsp;|<br>
+&nbsp;<span class="gelb">y T g</span>-g-[[<span class="hellblau">T</span>|Cosiran]]-<br>
+&nbsp;| &nbsp;\|<br>
+&nbsp;g-<span class="gelb">t</span>-g<br>
+&nbsp;
+</span>
+
+<span class="legend">
+<span class="gelb">e =</span> Esthn, der Troll<br>
+<span class="gelb">g =</span> Grd, der Troll<br>
+<font color=808080>g =</font> Dunkler Gang<br>
+<span class="hellblau">T =</span> Eingang zur Trollhöhle (in der Höhle des [[<span class="hellblau">Cosiran</span>|Cosiran]])<br>
+<span class="gelb">T =</span> Trainingsraum<br>
+<span class="gelb">t =</span> Tsorn, der Troll<br>
+<span class="gelb">y =</span> Ywol, der Troll<br>
+</span>

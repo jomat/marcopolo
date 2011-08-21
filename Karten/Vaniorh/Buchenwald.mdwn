@@ -1,0 +1,38 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="hellblau">L</span>|Orkberge]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">w</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;W-<span class="rot">F</span>-W-W-W-<font color=C0C0C0>m</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| | | | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| | | | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;W-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| | | | |<br>
+&nbsp;W-W-W-W-W-W-W-<span class="gelb">l</span><br>
+&nbsp;| | | | | | | |<br>
+&nbsp;W-W-W-W-W-W-W-W<br>
+&nbsp;| | | | |<br>
+&nbsp;W-W-<span class="gelb">Q</span>-W-W<br>
+&nbsp;| | | | |<br>
+&nbsp;W-W-W-W-W<br>
+&nbsp;| | | | |<br>
+&nbsp;W-<span class="gelb">H</span>-W-W-W<br>
+&nbsp;&nbsp; |<br>
+&nbsp;&nbsp; <span class="gelb">R</span>
+</span>
+
+<span class="legend">
+<span class="rot">F =</span> Falle (man hängt kopfüber am Baum bis man befreit wird) 
+[für erfahrenere Spieler werden noch ein paar mehr zufällig ausgelegt]<br>
+<span class="gelb">H =</span> Räuber Hotzenplotz<br>
+<span class="hellblau">L =</span> Lichtung auf dem Handelsweg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]]<br>
+<span class="gelb">l =</span> Hier ist ein Loch in dem man tasten kann<br>
+<font color=C0C0C0>m =</font> Stadtmauer von Tadmor<br>
+<span class="gelb">Q =</span> Steinquader (verschiesst ab und zu Blitze)<br>
+<span class="gelb">R =</span> Räuberhöhle<br>
+<font color=008000>W =</font> Wald<br>
+<span class="gelb">w =</span> Warnschild<br>
+</span>

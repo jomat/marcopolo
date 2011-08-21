@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S</span>|Magiergilde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-g-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; s g<br>
+&nbsp; &nbsp; &nbsp; |/<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">G</span><br>
+&nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; g<br>
+&nbsp; &nbsp;/<br>
+&nbsp; <span class="gelb">g</span><br>
+&nbsp;<span class="rot">/</span></font></TD>
+</span>
+
+<span class="legend">
+<span class="gelb">G =</span> Großes Gewölbe mit altem Altar<br>
+<span class="gelb">g =</span> Hier im Gang steht der Magierlehrling Gardrian<br>
+<font color=808080>g =</font> Finsterer Gang<br>
+<span class="hellblau">S =</span> Schacht mit Leiter hoch in den [[<span class="hellblau">Magierturm</span>|Magiergilde]]<br>
+<font color=808080>s =</font> Eingestürzter Stollen<br>
+</span>

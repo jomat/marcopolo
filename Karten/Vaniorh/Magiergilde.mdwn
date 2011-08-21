@@ -1,0 +1,40 @@
+<span class="map">
+&nbsp;Keller &nbsp; &nbsp;Erdgeschoss &nbsp; &nbsp;1.Stock &nbsp; &nbsp;2.Stock &nbsp; &nbsp; 3. Stock<br>
+&nbsp; &nbsp;T &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T<br>
+&nbsp; /|\&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;[[<span class="hellblau">l</span>|Magiertunnel]] <span class="gelb">h</span> r &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">M</span>-[[<span class="hellblau">E</span>|Tadmor]]-<span class="gelb">R</span>&nbsp; &nbsp; &nbsp; &nbsp; 
+<span class="gelb">I</span>-<span class="gelb">M</span>-<span class="orange">T</span> &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">D</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-w-<span class="gelb">A</span><br>
+&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<span class="gelb">H</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">G</span><br>
+&nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">L</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;L &nbsp; &nbsp; &nbsp; G<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\ &nbsp; &nbsp; /|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L-+-L &nbsp; G-+-G<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/ &nbsp; &nbsp; \|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L &nbsp; M &nbsp; G<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; /|\ &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L-M-+-M-G<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Aussichtsplattform<br>
+<span class="gelb">D =</span> Dreieckiger Raum (Eingang zur Bibliothek)<br>
+<span class="hellblau">E =</span> Eingangshalle (nach Süden geht es raus nach [[<span class="hellblau">Tadmor</span>|Tadmor]])<br>
+<span class="gelb">G =</span> Garfunkel, der oberste Magier<br>
+<font color=C0C0C0>G =</font> Bibliotheksteil für Gesellen<br>
+<span class="gelb">H =</span> Im Herz der Magiergilde<br>
+<span class="gelb">h =</span> Hochenergilabor<br>
+<span class="gelb">I =</span> Infobereich<br>
+<span class="gelb">L =</span> Lehrraum<br>
+<font color=C0C0C0>L =</font> Bibliotheksteil für Lehrlinge<br>
+<span class="hellblau">l =</span> Lager (unter einer Kiste die man zur Seite schieben kann gehts runter in die [[<span class="hellblau">Tunnel</span>|Magiertunnel]] unter der Magiergilde)<br>
+<span class="orange">M =</span> Magierladen<br>
+<span class="gelb">M =</span> Magystron<br>
+<font color=C0C0C0>G =</font> Bibliotheksteil für Magier<br>
+<span class="gelb">R =</span> Rezeption<br>
+<font color=C0C0C0>r =</font> Herungergekommener Raum<br>
+<span class="orange">T =</span> Taverna Magica<br>
+<font color=C0C0C0>T =</font> Treppe<br>
+</span>

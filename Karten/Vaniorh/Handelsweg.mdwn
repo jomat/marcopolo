@@ -1,0 +1,33 @@
+<span class="map">
+<font color=C0C0C0><br>
+<span class="gelb">a =</span> schwarzer Altar<br>
+<span class="gelb">B =</span> Blockhütte des Holzfällers<br>
+<font color=blue>b =</font> Bach<br>
+<font color=00CC00>d =</font> Dickicht/Gras<br>
+<span class="hellblau">d =</span> Durch einen Spalt zwischen einigen Dornenbüschen gelangt man hier tiefer in den dunklen Buchenwald durch den der [[<span class="hellblau">alte Handelsweg</span>|alter_Handelsweg]] führt<br>
+<span class="gelb">F =</span> Forsthaus von Förster Harald<br>
+<span class="hellblau">G =</span> Grenze des [[<span class="hellblau">Düsterwaldes</span>|Duesterwald]]<br>
+<font color=00CC00>g =</font> Stadtgraben<br>
+<span class="hellblau">H =</span> Eingang zu einer dunklen [[<span class="hellblau">Höhle</span>|Cosiran]]<br>
+<span class="gelb">h =</span> Stephanus der Holzfäller<br>
+<span class="gelb">K =</span> Kapelle der heiligen Anna<br>
+<span class="gelb">k =</span> Altarraum der Kapelle<br>
+<font color=C0C0C0>p =</font> Pfad<br>
+<span class="gelb">R =</span> Rastplatz (hier ist auch der Go-Spieler)<br>
+<span class="gelb">S =</span> Hütte  von Sara, der Cluedo-Spielerin<br>
+<span class="gelb">s =</span> Schuppen des Forsthauses<br>
+<font color=00CC00>S =</font> Storchennest<br>
+<font color=00CC00>s =</font> Storch-Spuren<br>
+<span class="hellblau">T =</span> Stadttor von [[<span class="hellblau">Tadmor</span>|Tadmor]]<br>
+<font color=blue>t =</font> Froschtümpel<br>
+<font color=008000>t =</font> Trampelpfad durch einen Buchenwald<br>
+<font color=C0C0C0>v =</font> Am Eingang der Kapelle<br>
+<font color=blue>W =</font> Hüfthohes Wasser (von hier aus kann man in den Dijala waten der hier auf seinem letzten Stück durch [[<span class="hellblau">Vaniorh</span>|../Vaniorh]] auf dem Weg zum Meer ist)<br>
+<font color=blue>w =</font> Flaches Wasser<br>
+<font color=008000>W =</font> Laubwald<br>
+<font color=008000>w =</font> Waldrand<br>
+<span class="orange">W =</span> Waldschänke<br>
+<font color=C0C0C0>w =</font> Handelsweg / Handelsstraße<br>
+<span class="hellblau">w =</span> kleiner Weg nach [[<span class="hellblau">Terqa</span>|Terqa]]<br>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+</span>

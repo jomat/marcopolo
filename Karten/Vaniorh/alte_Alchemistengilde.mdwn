@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp; &nbsp;k<br>
+&nbsp; &nbsp;|<br>
+&nbsp;v-g-L<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">V</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">K</span>-[[<span class="hellblau">T</span>|Tadmor]]-<span class="gelb">s</span>
+
+</span>
+
+<span class="legend">
+<font color=808080>g =</font> dunkler Gang (Vampirfledermäuse)<br>
+<span class="gelb">K =</span> Kasten mit Kastenteufel darin<br>
+<font color=808080>k =</font> eingestürzter Keller (Riesenkakerlake)<br>
+<font color=808080>L =</font> zerstörtes Labor (Skelett)<br>
+<span class="gelb">s =</span> beim Durchsuchen des Schuttes hier findet man einen Schlüssel für das Kästchen des Kastenteufel<br>
+<span class="hellblau">T =</span> Treppe hoch nach [[<span class="hellblau">Tadmor</span>|Tadmor]]<br>
+<span class="gelb">V =</span> in der Flüssigkeit hier schwimmt das Spiel 'Vier Gewinnt 3D'<br>
+<font color=808080>v =</font> Kammer der Versuchstiere (Laborratten)<br>
+</span>

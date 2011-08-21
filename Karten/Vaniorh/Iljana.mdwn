@@ -1,0 +1,37 @@
+<span class="map">
+&nbsp;1.Stock&nbsp; &nbsp;Erdgeschoss &nbsp;&nbsp;Keller<br>
+<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">s</span>|Borsippa]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">d</span>-<span class="gelb">G</span> &nbsp; &nbsp; &nbsp; <span class="gelb">B</span>-<span class="gelb">E</span><br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; <span class="gelb">l</span>-T-<span class="gelb">A</span> &nbsp; &nbsp; &nbsp; <span class="gelb">K</span>-T-<span class="gelb">S</span> &nbsp; &nbsp; &nbsp; [[<span class="hellblau">b</span>|Untergrund]]-k-<span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <font color=00CC00>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">a</span> g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-<font color=blue>b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">s</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Arbeitszimmer<br>
+<span class="gelb">a =</span> Abstellkammer<br>
+<span class="gelb">d =</span> hier im Flur ist eine Falltür an der Decke hoch auf den Speicher... und von da kann man durch eine Luke aufs Dach<br>
+<span class="gelb">B =</span> Bedienstetenkammer<br>
+<span class="hellblau">b =</span> Bierhöhler (durch die Falltür am Boden geht es in den [[<span class="hellblau">Untergrund</span>|Untergrund]])<br>
+<font color=blue>b =</font> Springbrunnen<br>
+<span class="gelb">E =</span> Eingangshalle (Iljana ist meist hier)<br>
+<span class="gelb">G =</span> Gästezimmer<br>
+<font color=00CC00>g =</font> Garten<br>
+<span class="gelb">K =</span> Küche (durch eine Falltür gehts runter in den Keller)<br>
+<font color=C0C0C0>k =</font> Keller (durch die Falltür an der Decke kommt man in die Küche)<br>
+<span class="gelb">l =</span> Salon<br>
+<span class="gelb">S =</span> Speisesaal<br>
+<span class="gelb">s =</span> hier steht ein Tisch auf dem man 'Wolf und Schafe' spielen kann (Spielsteine gibts bei Iljana)<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Borsippa</span>|Borsippa]]<br>
+<font color=C0C0C0>T =</font> Treppenhaus<br>
+<span class="gelb">W =</span> Weinkeller<br>
+</span>

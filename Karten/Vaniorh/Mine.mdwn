@@ -1,0 +1,35 @@
+<span class="map">
+&nbsp;1.Ebene &nbsp; &nbsp; &nbsp;2.Ebene &nbsp; &nbsp; &nbsp; 3.Ebene<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">h</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t-t-<span class="rot">D</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; <span class="gelb">H</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">G</span>-t-t-t-<span class="gelb">r</span>&nbsp; &nbsp;&nbsp;<span class="rot">F</span><br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; T &nbsp; &nbsp; <span class="gelb">U</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; t &nbsp; &nbsp; t &nbsp; &nbsp; &nbsp; <span class="gelb">s</span>-t<br>
+&nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">S</span> &nbsp; &nbsp; t-t-<span class="gelb">S</span>-t-t-<span class="gelb">Z</span><br>
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; t<br>
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; [[<span class="hellblau">M</span>|Ebene]]<br>
+&nbsp; &nbsp;/
+</span>
+
+<span class="legend">
+<span class="rot">D =</span> Höhlendrache<br>
+<span class="rot">F =</span> Feuerkobold (hier geht auch der Tunnel nach oben)<br>
+<span class="gelb">G =</span> man kann hier einen Goldklumpen ausgraben (vorsicht bissig)<br>
+<span class="gelb">H =</span> kleine Halle & ein Hobgoblin<br>
+<span class="gelb">h =</span> Halle (in der Ecke liegt eine Schaufel)<br>
+<span class="hellblau">M =</span> Mineneingang in der [[<span class="hellblau">nördlichen Ebene</span>|Ebene]]<br>
+<span class="gelb">r =</span> der Tunnel geht hier runter (zum Feuerkobold)<br>
+<span class="gelb">S =</span> hier hängt ein Seil an dem man runter- (1.Ebene) bzw. hochklettern (2.Ebene) kann<br>
+<span class="gelb">s =</span> hier ist eine kleine Scherbe verbuddelt<br>
+<font color=808080>T =</font> Steintisch<br>
+<font color=808080>t =</font> Tunnel<br>
+<span class="gelb">U =</span> verbuddelt in einem ausgetrockneten Tümpel wartet hier eine Unke darauf dass man sie füttert<br>
+<span class="gelb">Z =</span> Zwerg (lässt einen nicht nach Norden durch)<br>
+</span>

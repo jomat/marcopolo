@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp;I<br>
+&nbsp; &nbsp; \<br>
+&nbsp;w-<span class="gelb">g</span>-w I<br>
+&nbsp;| &nbsp;\|/<br>
+-[[<span class="hellblau">t</span>|Handelsweg]]-d-<font color=00CC00>L</font>-I<br>
+&nbsp;| &nbsp;/|\<br>
+&nbsp;w-<span class="gelb">g</span> w p<br>
+&nbsp; &nbsp; &nbsp;| &nbsp;\<br>
+&nbsp; &nbsp; &nbsp;U-p-p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">T</span>-<span class="gelb">F</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">w</span> &nbsp; p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>s</font>
+</span>
+
+<span class="legend">
+<font color=008000>d =</font> Hier kann man durch einen Spalt zwischen den Dornenbüschen zur Lichtung gelangen<br>
+<span class="gelb">F =</span> Friedhof<br>
+<span class="gelb">g =</span> In diesem Feld des Waldes sitzt ein flauschiger (aber überhaupt nicht süßer) Gremlin der einem das Leben schwer macht)<br>
+<font color=008000>I =</font> Irrweg im Wald<br>
+<font color=00CC00>L =</font> schöne kleine Lichtung<br>
+<font color=008000>p =</font> Alter Pfad durch den Wald<br>
+<font color=C0C0C0>s =</font> Der Weg endet an einer Schlucht, die den Weg nach Terqua blockiert<br>
+<span class="gelb">T =</span> Vor einem (verschlossenen) Tor zu einem kleinen Friedhof<br>
+<font color=008000>t =</font> Trampelpfad durch einen Buchenwald (man kommt von den Feldern im N und S hierher, aber nicht von hier in den Wald; im Westen geht es zurück zum [[<span class="hellblau">Handelsweg</span>|Handelsweg]]))<br>
+<font color=008000>U =</font> Unendlich langer Hohlweg (man läuft in einer Schleife immer wieder ins selbe Feld; der Weg von osten führt nur hierher - man kann nicht zurückgehen)<br>
+<font color=008000>w =</font> finsterer Buchenwald (Vorsicht: Spitze Dornen und aggressive Dornenvögel)<br>
+<span class="gelb">w =</span> Waldelfe<br>
+</span>

@@ -1,0 +1,42 @@
+<span class="map">
+&nbsp; Erdgeschoss &nbsp; &nbsp; 1. Stock<br>
+&nbsp; &nbsp; &nbsp; -[[<font  color=00CCFF>s</font>|Tadmor]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">V</span><br>
+&nbsp; &nbsp; &nbsp; <font color=00CC00>/</font>|<font color=00CC00>\</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>/</font> | <font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span><br>
+&nbsp; &nbsp; <font color=00CC00>/</font> &nbsp;| &nbsp;<font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<font color=00CC00>/</font> <span class="orange">C</span>-<span class="gelb">F</span> &nbsp; <font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">&nbsp; H</span><br>
+&nbsp; <font color=00CC00>/</font> &nbsp; &nbsp;| &nbsp; &nbsp;<font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<span class="gelb">s</span> &nbsp; &nbsp; <span class="gelb">Z</span>&nbsp; &nbsp;&nbsp;&nbsp;<font color=00CC00>o</font> &nbsp; &nbsp; &nbsp;<span class="gelb">P</span>-k-<span class="gelb">D</span><br>
+&nbsp; <font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>/</font> &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<font color=00CC00>\</font> <span class="gelb">r</span>-<span class="gelb">v</span>-<span class="gelb">S</span> <font color=00CC00>/</font> &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">C</span>-k-<span class="gelb">R</span><br>
+&nbsp; &nbsp; <font color=00CC00>\</font> &nbsp;| &nbsp;<font color=00CC00>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>\</font>&nbsp;| <font color=00CC00>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">E</span><br>
+&nbsp; &nbsp; &nbsp; <font color=00CC00>\</font>|<font color=00CC00>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;h<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; -[[<font  color=00CCFF>s</font>|Tadmor]]-
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Büro von Theaterdirektor Albert<br>
+<span class="orange">C =</span> Theatercafe<br>
+<span class="gelb">C =</span> Casimiros Zimmer<br>
+<span class="gelb">D =</span> Divinas Zimmer<br>
+<span class="gelb">E =</span> Egmonts Zimmer<br>
+<span class="gelb">F =</span> Foyer (hier ist eine Treppe in den 1. Stock)<br>
+<span class="gelb">H =</span> Hilde, Alberts Sekretärin<br>
+<font color=C0C0C0>h =</font> Hintereingang (runter gehts in den Theaterkeller)<br>
+<font color=C0C0C0>k =</font> Korridor (runter gehts im Norden ins Foyer, im Süden in den Vorbereitungsraum)<br>
+<font color=00CC00>o =</font> Ostseite des Theaters (hier steht ein Apfelbaum)<br>
+<span class="gelb">P =</span> Pyros Zimmer<br>
+<span class="gelb">R =</span> Roxanes Zimmer<br>
+<span class="gelb">r =</span> Atelier des Requisiteurs<br>
+<span class="gelb">S =</span> Schminkraum<br>
+<span class="gelb">s =</span> Serano di Mozzano<br>
+<span class="hellblau">s =</span> Straße in [[<font  color=00CCFF>Tadmor</font>|Tadmor]]<br>
+<span class="gelb">V =</span> Viktor, der Traumhändler<br>
+<span class="gelb">v =</span> Vorbereitungsraum (hier ist eine Treppe in den 1. Stock)<br>
+<span class="gelb">Z =</span> Zuschauerraum<br>
+</span>

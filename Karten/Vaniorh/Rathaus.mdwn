@@ -1,0 +1,30 @@
+<span class="map">
+&nbsp; &nbsp;<span class="gelb">M S d V &nbsp; R r r</span><br>
+&nbsp; &nbsp;| | | | &nbsp; | | |<br>
+&nbsp;f-g-g-g-<span class="gelb">I</span>-g-<span class="gelb">F</span>-g-g<br>
+&nbsp; &nbsp;| | | | | | | |<br>
+&nbsp; &nbsp;<span class="gelb">b B A H D</span> t <span class="gelb">r r</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="hellblau">K</span>|Tadmor]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font></TD>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Raum der Alchemistengilde<br>
+<span class="gelb">B =</span> Raum der Bardengilde<br>
+<span class="gelb">b =</span> Raum der Beschwörergilde<br>
+<span class="gelb">D =</span> Raum der Druidengilde<br>
+<span class="gelb">d =</span> Raum der Diebesgilde<br>
+<span class="gelb">F =</span> Foyer des Rathauses (hoch gehts zum Trägerkreis, runter zum Programmierwettbewerb)<br> 
+<font color=C0C0C0>f =</font> Fensternische<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">H =</span> Raum der Hexengilde<br>
+<span class="gelb">I =</span> Irrlicht der Magiergilde<br>
+<span class="hellblau">K =</span> Kartukultininurta-Platz im Zentrum [[<span class="hellblau">Tadmors</span>|Tadmor]]<br>
+<span class="gelb">M =</span> Raum der Metamorphergilde<br>
+<span class="gelb">R =</span> Halle der Reinkarnation (hier steht Leo und nach oben gehts in Pantheon)<br>
+<span class="gelb">r =</span> Räumlichkeiten des Spielerrates (nur für Mitglieder, also weiss ich nicht was drin ist)<br>
+<span class="gelb">S =</span> Raum der Sehergilde<br>
+<font color=C0C0C0>t =</font> Rathaustreppe (hier sitzt meist ein Bettler rum)<br>
+<span class="gelb">V =</span> Raum der Vampirgilde<br>
+</span>

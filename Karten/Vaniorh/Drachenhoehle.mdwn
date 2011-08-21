@@ -1,0 +1,28 @@
+<span class="map">
+&nbsp; &nbsp;<span class="gelb">r</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">L</span>-<span class="gelb">S</span>-<span class="gelb">s</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">h</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g-g-g<br>
+&nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp;<span class="rot">D</span> &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Stadtmauer]]
+
+</span>
+
+<span class="legend">
+<span class="rot">D =</span> gigantischer Höhlendrache (wenn man in seinem Blut badet kann man unbeschadet den Gang nach Norden entlang<br>
+<font color=808080>g =</font> unterirdische Grotte (die Wege die hier nicht eingezeichnet sind führen recht verwirrend im Kreis)<br>
+<span class="gelb">L =</span> Lesezimmer der Schlange<br>
+<span class="gelb">r =</span> Ruheraum der Schlange (man kann hier vergiftete Dornen abbrechen)<br>
+<span class="gelb">S =</span> Schlangennest<br>
+<span class="gelb">s =</span> Speisezimmer der Schlange<br>
+<span class="hellblau">T =</span> Treppe hoch auf die [[<span class="hellblau">Stadtmauer</span>|Stadtmauer]] von Tadmor<br>
+</span>

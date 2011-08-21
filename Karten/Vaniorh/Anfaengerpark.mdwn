@@ -1,0 +1,28 @@
+<span class="map">
+&nbsp;<font color=00CC00>Anfängerpark</font> &nbsp;Untergrund<br>
+&nbsp; &nbsp; <span class="gelb">B</span><font color=00CC00>-<span class="gelb">t</span>-O</font><font color=008000>-W</font> &nbsp; &nbsp; <span class="gelb">T</span> r-r r<br>
+&nbsp; &nbsp; <font color=00CC00>|X<span class="gelb">|</span>X|</font><font color=008000>X|</font> &nbsp; &nbsp; |/ &nbsp;|/<br>
+&nbsp; &nbsp; <font color=00CC00>O-<span class="gelb">t</span>-O</font><font color=008000>-W</font> &nbsp; &nbsp; r <span class="gelb">L</span> r-r<br>
+&nbsp; &nbsp; <font color=00CC00>|/ \|</font><font color=008000>X|</font> &nbsp; &nbsp; | &nbsp;\| |<br>
+&nbsp;-[[<font  color=00CCFF>a</font>|Tadmor]]<font color=00CC00>-O <span class="gelb">p</span>-O</font><font color=008000>-W</font> &nbsp; &nbsp; <span class="rot">R</span> r-r <span class="gelb">g</span><br>
+&nbsp; | &nbsp; &nbsp; &nbsp;<font color=00CC00>\</font><font color=008000>|</font> &nbsp; &nbsp; &nbsp;/ &nbsp; \<br>
+&nbsp; &nbsp; <font color=blue>t-t-t</font> <span class="gelb">r</span> &nbsp; &nbsp; r-r-<span class="orange">K</span> <span class="gelb">L</span>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">a =</span> Tor zum Anfängerpark (in [[<font  color=00CCFF>Tadmor</font>|Tadmor]])<br>
+<span class="gelb">B =</span> Bertram (Nimm 100-Spiel)<br>
+<span class="gelb">g =</span> unfreundlicher Gnom<br>
+<span class="orange">K =</span> Kneipe von Tarim, dem Barkeeper<br>
+<span class="gelb">L =</span> Leiter bzw. Weg nach oben<br>
+<font color=00CC00>O =</font> Park<br>
+<span class="gelb">p =</span> Pavillon<br>
+<span class="rot">R =</span> Räuber (für Neulinge recht hart)<br>
+<span class="gelb">r =</span> Röhre (Eingang in den Untergrund)<br>
+<font color=C0C0C0>r =</font> Röhren<br>
+<span class="gelb">T =</span> hier macht Tod öfters mal nen Gastauftritt<br>
+<font color=blue>t =</font> Teich<br>
+<span class="gelb">t =</span> Kletterturm (zwischen den Türmen ist ne Hängebrücke und im südlichen Turm gehts auch runter in den Untergrund)<br>
+<font color=008000>W =</font> Wald<br>
+</span>

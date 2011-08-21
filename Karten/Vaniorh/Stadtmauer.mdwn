@@ -1,0 +1,45 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;m-m-m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m-<span class="gelb">s</span>-m-[[<span class="hellblau">g</span>|Drachenhoehle]]-[[<span class="hellblau">A</span>|Tadmor]]-t-<span class="gelb">H</span>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">D</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">t</span> <font color=00CC00>B</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau">[[<font color=00CCFF>O</span>|Tadmor]]</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m<br>
+&nbsp; &nbsp;m<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">L</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="hellblau">[[<font color=00CCFF>D</span>|Tadmor]]</font><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<font color=C0C0C0>t</font><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m-m-[[<span class="hellblau">W</span>|Tadmor]]-m-m-m-m &nbsp; &nbsp; &nbsp; &nbsp; m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m-m-m-m</TD>
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> (Nordtor) Argl, der grimmige Wächter (hier geht es auch wieder von der Mauer [[<span class="hellblau">runter</span>|Tadmor]])<br>
+<font color=00CC00>B =</font> Baum<br>
+<span class="gelb">D =</span> trauriger Druide<br>
+<span class="hellblau">D =</span> (Westtor) Dong, der wache Wächter (hier geht es auch wieder von der Mauer [[<span class="hellblau">runter</span>|Tadmor]])<br>
+<span class="gelb">g =</span> In diesem Turm ist ein Gitter im Boden durch dass man zur [[<span class="hellblau">Drachenhöhle</span>|Drachenhoehle]] unter der Stadtmauer kommt<br>
+<span class="gelb">H =</span> alter, freundlicher Herr<br>
+<span class="gelb">L =</span> Oben in dem Turm hier sitzt Lichtenberg, der Philosoph<br>
+<font color=C0C0C0>m =</font> Stadtmauer<br>
+<span class="hellblau">O =</span> Über dem Osttor (hier kommt man wieder von der Mauer [[<span class="hellblau">runter</span>|Tadmor]])<br>
+<span class="gelb">S =</span> Spielraum (Solitaire)<br>
+<span class="gelb">s =</span> Hinter nem Stein in der Mauer steckt der Schlüssel für das Gitter östlich von hier<br>
+<span class="gelb">t =</span> Ostturm - man kann man aus dem Fenster in einen anliegenden Baum klettern<br>
+<font color=C0C0C0>t =</font> Turm der Stadtmauer<br>
+<span class="hellblau">W =</span> (Südtor) Würg, der tapfere Wächter (hier geht es auch wieder von der Mauer [[<span class="hellblau">runter</span>|Tadmor]])<br>
+<center><font color=C0C0C0 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=C0C0C0>zurück nach Vaniorh</font>|../Vaniorh]])</font></center>
+</span>

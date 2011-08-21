@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>\<br>
+&nbsp; &nbsp; &nbsp;S</font>><font color=C0C0C0>d</font>>[[<span class="hellblau">D</span>|Wasserfall]]-<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>|<br>
+&nbsp; &nbsp; &nbsp;E<br>
+&nbsp; &nbsp; /</font><br>
+&nbsp; &nbsp;g<br>
+&nbsp; / \<br>
+&nbsp;g &nbsp; g<br>
+&nbsp;| &nbsp; |<br>
+&nbsp;g &nbsp; s<br>
+&nbsp;| &nbsp;/<br>
+&nbsp;<span class="rot">A</span>-s
+
+</span>
+
+<span class="legend">
+<span class="rot">A =</span> Acronos Hort<br>
+<span class="hellblau">D =</span> Am Fuße des Drachenkopfes, beim [[<span class="hellblau">Wasserfall</span>|Wasserfall]]<br>
+<font color=C0C0C0>d =</font> Auf dem Weg zum Gipfel des Drachenkopfes<br>
+<font color=C0C0C0>E =</font> Eingang zur Drachenhöhle<br>
+<font color=808080>g =</font> Gang<br>
+<font color=C0C0C0>S =</font> Sims (hier kann man wieder runterklettern)<br>
+<font color=808080>s =</font> Spalte<br>
+</span>

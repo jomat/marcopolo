@@ -1,0 +1,26 @@
+<span class="map">
+<font color=808080>&nbsp;&nbsp; F-<span class="gelb">S</span><br>
+&nbsp; /&nbsp; .<br>
+&nbsp;G &nbsp; .<br>
+&nbsp;|</font> &nbsp; .<br>
+&nbsp;<span class="gelb">g</span> &nbsp; .<br>
+&nbsp; \&nbsp; .<br>
+&nbsp; &nbsp;B s---<span class="gelb">T</span> &nbsp; <font color=00CC00>B</font><br>
+&nbsp; &nbsp; \&nbsp; &nbsp; . &nbsp; <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp;v-g-[[<span class="hellblau">B</span>|Gebirge_S]]-f-f</TD>
+</span>
+
+<span class="legend">
+<span class="hellblau">B =</span> abgestorbener Baum, über den man zur Hochebene im [[<span class="hellblau">südlichen Teil des Gebirges</span>|Gebirge_S]] hochklettern kann<br>
+<font color=00CC00>B =</font> auf einer Bergwiese ist hier Bruno, der liebe Grizzlybär (man kann hier auch in seine Höhle gehen)<br>
+<font color=C0C0C0>B =</font> Felsenbrücke<br>
+<font color=808080>F =</font> Felshöhle (ob man nun nach osten oder unten geht, man kommt in dasselbe Feld)<br>
+<font color=808080>G =</font> finstere Grotte (den Weg tiefer rein muss man sich freisprengen)<br>
+<span class="gelb">g =</span> verletzte Gemse<br>
+<font color=C0C0C0>f =</font> riesiger Fußabdruck<br>
+<font color=C0C0C0>g =</font> schmaler Grat (wenn man nach Westen geht stürzt man ein Stück ab)<br>
+<span class="gelb">S =</span> Hier ist ein Schacht im Boden den man runterklettern kann (man kommt an den Grund der Schlucht - die gepunktete Linie entlang)<br>
+<font color=C0C0C0>s =</font> am Grund einer Schlucht<br>
+<span class="gelb">T =</span> Talkessel, in dem das Skelett eines vor urzeiten abgestürzten Alchemisten liegt (man kann hochklettern zu dem Feld mit dem Baum)<br>
+<font color=C0C0C0>v =</font> Felsvorsprung neben einer steinernen Brücke (um nach Osten zu kommen muss man hochklettern)<br>
+</span>

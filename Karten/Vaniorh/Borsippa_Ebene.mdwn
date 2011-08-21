@@ -1,0 +1,47 @@
+<span class="map">
+&nbsp;\<font color=CC6600>|</font>/<br>
+&nbsp;-<font color=CC6600>[[<font color=CC6600>p</font>|../Vaniorh]]-</font><br>
+&nbsp;/|\<br>
+&nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; <span class="gelb">G</span>-w<br>
+&nbsp; &nbsp; &nbsp;/ \<br>
+&nbsp; &nbsp; g &nbsp; <font color=008000>W</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=993300>|</font><br>
+&nbsp; &nbsp; <font color=blue>b-b-<font color=993300>b</font>-</font>[[<span class="hellblau">S</span>|Wasserfall]]<br>
+&nbsp; &nbsp;<font color=blue>/</font> &nbsp;| <font color=993300>|</font><br>
+&nbsp; <font color=blue>b</font> &nbsp; b-<font color=008000>W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |\<br>
+&nbsp; &nbsp; &nbsp; <font color=808080>P></font>W-L<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; W-W</font> W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |\|<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">S.m</span>-w-w-<span class="orange">W</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=993300>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; z<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">T</span>|Borsippa]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|</font>
+</span>
+
+<span class="legend">
+<font color=00CC00>b =</font> Blumenwiese<br>
+<font color=993300>b =</font> kleine Brücke (von Osten und Westen geht man unter der Brücke durch... da steht man im Bach)<br>
+<font color=blue>b =</font> Bach<br>
+<span class="gelb">G =</span> Garithax Turm<br>
+<font color=00CC00>g =</font> kleiner Garten<br>
+<font color=008000>L =</font> Wäldchen (in diesem Feld steht eine Linde auf die man klettern kann)<br>
+<span class="gelb">m =</span> Mate, der Hirtenjunge (hier kann man über den Zaun auf die Stierkoppel klettern)<br>
+<font color=808080>P =</font> Felsplateau, zu dem man aus dem Wäldchen hochklettern kann<br>
+<font color=CC6600>p =</font> Waldpfad im nördlichen Teil von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
+<span class="gelb">S =</span> Koppel mit einem recht aggressiven Stier<br>
+<span class="hellblau">S =</span> Hier kann man in eine Spalte kriechen und Richtung [[<span class="hellblau">Wasserfall</span>|Wasserfall]] unter dem Handelsweg rutschen<br>
+<span class="hellblau">T =</span> Stadttor von [[<span class="hellblau">Borsippa</span>|Borsippa]]<br>
+<span class="orange">W =</span> Winzer<br>
+<font color=008000>W =</font> Wäldchen<br>
+<font color=00CC00>W =</font> Weinberg<br>
+<font color=00CC00>w =</font> Weg/Feldweg<br>
+<font color=993300>z =</font> Zugbrücke<br>
+</span>

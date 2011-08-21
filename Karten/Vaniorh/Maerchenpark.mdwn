@@ -1,0 +1,29 @@
+<span class="map">
+&nbsp;<font color=blue>f-g</font> &nbsp; <span class="gelb">F</span><br>
+&nbsp;<font color=blue>|</font>/ &nbsp; &nbsp;|<br>
+&nbsp;<font color=blue>w</font> &nbsp; &nbsp; <font color=blue>t</font><br>
+&nbsp; \ &nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">k</span>-w-<span class="gelb">h</span> <span class="gelb">J</span><br>
+&nbsp; &nbsp; \ /<br>
+&nbsp;<span class="gelb">R</span>-<span class="gelb">L</span>-<span class="gelb">P</span>-<span class="gelb">H</span><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; <font color=C0C0C0>-[[<font  color=00CCFF>s</font>|Tadmor]]-<br>
+&nbsp; &nbsp; &nbsp;|</font>
+</span>
+
+<span class="legend">
+<span class="gelb">F =</span> Froschkönig<br>
+<font color=blue>f =</font> kleiner Fluss (wer hieraus trinkt wird ein Mittelding zwischen Gnom und Wolf)<br>
+<font color=blue>g =</font> kleiner Bach (wer daraus trinkt wird Gnom)<br>
+<span class="gelb">H =</span> Herzogschaukel<br>
+<span class="gelb">h =</span> kleine Hütte<br>
+<span class="gelb">J =</span> Jungtor<br>
+<span class="gelb">k =</span> Kabinett<br>
+<span class="gelb">L =</span> Lebkuchenhaus<br>
+<span class="gelb">P =</span> Picknickplatz<br>
+<span class="gelb">R =</span> Riesenburg<br>
+<span class="hellblau">s =</span> Straße in [[<font  color=00CCFF>Tadmor</font>|Tadmor]]<br>
+<font color=blue>t =</font> Tümpel<br>
+<font color=00CC00>w =</font> Weg<br>
+<font color=blue>w =</font> kleiner Bach (wer daraus trinkt wird Wolf)<br>
+</span>

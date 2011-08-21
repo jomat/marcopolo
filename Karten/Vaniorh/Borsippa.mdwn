@@ -1,0 +1,55 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Borsippa_Ebene]] &nbsp; <span class="orange">M</span> <span class="orange">T</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;s-s-s-m-<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; / &nbsp;| | |<br>
+&nbsp; &nbsp; &nbsp;s-<span class="orange">m</span> <span class="gelb">h k</span> |<br>
+&nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">v</span>-s &nbsp; &nbsp; &nbsp; <span class="orange">s</span> s-[[<span class="gelb">G</span>|Gertrud]]<br>
+&nbsp; / &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
+&nbsp;s-<span class="orange">w</span> &nbsp; &nbsp; &nbsp; s<br>
+&nbsp; &#9488; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &#9474;<span class="orange">S</span> &nbsp; &nbsp; <span class="hellblau">L</span>-s<br>
+&nbsp; &#9492;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;[[<span class="hellblau">A</span>|Alchemistengilde]]-P &nbsp; &nbsp; <span class="orange">B</span>-s-<span class="orange">K</span><br>
+&nbsp; &nbsp;|&#9488; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">B</span>&#9474; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &#9492; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="orange">G</span>-s <span class="hellblau">$ P</span> |<br>
+&nbsp; &nbsp; &nbsp; \| | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">u</span>|Untergrund]]-s-[[<span class="hellblau">T</span>|Orkberge]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">I</span>|Iljana]]
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="hellblau">A =</span> [[<span class="hellblau">Alchemistengilde</span>|Alchemistengilde]]<br>
+<span class="gelb">B =</span> Bürgermeisteramt<br>
+<span class="orange">B =</span> Bäcker<br>
+<span class="orange">G =</span> Gaststube<br>
+<span class="gelb">G =</span> [[<span class="hellblau">Gertruds Haus</span>|Gertrud]]<br>
+<span class="gelb">h =</span> Hinterhof<br>
+<span class="gelb">I =</span> [[<span class="hellblau">Iljanas Haus</span>|Iljana]]<br>
+<span class="orange">K =</span> Konditor<br>
+<span class="gelb">k =</span> Kinderspielplatz<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="orange">M =</span> Steinmetz<br>
+<span class="orange">m =</span> Schuhmacher<br>
+<font color=C0C0C0>m =</font> Marktplatz<br>
+<span class="hellblau">P =</span> Post<br>
+<font color=C0C0C0>P =</font> Platz des Heldentums (hier hats auch nen Brunnen)<br>
+<span class="gelb">S =</span> Singleclub<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="orange">s =</span> Schneider<br>
+<font color=C0C0C0>s =</font> Straße/Gasse<br>
+<span class="hellblau">T =</span> Stadttor<br>
+&nbsp; &nbsp; Südlich: Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]] (und hier steht Muskel rum)<br>
+&nbsp; &nbsp; Nördlich: [[<span class="hellblau">Borsippa-Ebene</span>|Borsippa_Ebene]] (hier steht Joseph)<br>
+<span class="orange">T =</span> Tulkas, der Trainer<br>
+<span class="hellblau">u =</span> hier kann man das Gitter im Boden aufsprengen und in den [[<span class="hellblau">Untergrund</span>|Untergrund]] von Borsippa runter<br>
+<span class="gelb">v =</span> verfallenes, altes Haus<br>
+<span class="orange">w =</span> Scherenschleifer<br>
+</span>

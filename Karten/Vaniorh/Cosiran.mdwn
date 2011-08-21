@@ -1,0 +1,46 @@
+<span class="map">
+&nbsp; <font color=C0C0C0>Oberer Teil &nbsp; Unterer Teil</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; g<&#9472;&#9472;&#9472;&#9472;&#9488; <font color=blue>W>w-h</font>-h-<span class="gelb">X</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &#9474; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; &nbsp; &#9474; <font color=blue>F-F</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &#9474; &nbsp; &nbsp;<font color=blue>\</font><br>
+&nbsp; &nbsp; &nbsp; g-<font color=C0C0C0>R</font>-w><span class="gelb">V</span> &#9474; &nbsp; &nbsp; <font color=blue>F</font><br>
+&nbsp; &nbsp; &nbsp; | ^ &nbsp; &nbsp; &#9474; &nbsp; &nbsp; |<br>
+&nbsp;<font color=008000>-</font>[[<span class="hellblau">H</span>|Handelsweg]] &nbsp; <span class="gelb">W</span> &#9474; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; g<br>
+&nbsp; v &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; |<br>
+&nbsp; t g>&#9472;&#9472;&#9496; &nbsp; &nbsp; &#9474; &nbsp;-[[<span class="hellblau">T</span>|Trollhoehle]]-g<br>
+&nbsp; v | &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; |<br>
+&nbsp; t-<span class="gelb">C</span> &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; g-g-g<br>
+&nbsp; v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; k &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp; &nbsp; g<br>
+&nbsp; v &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; <span class="gelb">S</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp;-[[<span class="hellblau">D</span>|Lab_Dorgal]]-<span class="gelb">G</span>-l-[[<span class="hellblau">E</span>|Lab_Eisgar]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474; &nbsp; &nbsp; &nbsp; &nbsp; v &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;<br>
+&nbsp;
+</span>
+
+<span class="legend">
+<font color=808080>(In Richtung der Pfeilspitze geht es nach unten [<] [>] [^] [v])</font><br>	
+<span class="gelb">C =</span> Statue von Cosiran<br>
+<span class="hellblau">D =</span> Eingang zu [[<span class="hellblau">Dorgals Labyrinth</span>|Lab_Dorgal]]<br>
+<span class="hellblau">E =</span> Eingang zu [[<span class="hellblau">Eisgars Labyrinth</span>|Lab_Eisgar]]<br>
+<font color=blue>F =</font> An einem unterirdischen Fluss<br>
+<span class="gelb">G =</span> Golgar, der Gnom<br>
+<font color=808080>g =</font> Dunkler Gang<br>
+<span class="hellblau">H =</span> Höhleneingang in der Nähe des [[<span class="hellblau">Handelsweges</span>|Handelsweg]] von Tadmor nach Terqa<br>
+<font color=blue>h =</font> Hinter dem Wasserfall<br>
+<font color=808080>h =</font> Höhle<br>
+<font color=808080>k =</font> Katakomben<br>
+<font color=808080>l =</font> In der Nähe eines Labyrinthes<br>
+<font color=C0C0C0>R =</font> Leuchtender Raum<br>
+<span class="gelb">S =</span> Schatzkammer<br>
+<span class="hellblau">T =</span> [[<span class="hellblau">Trollhöhle</span>|Trollhoehle]] (um da reinzukommen muss man recht ausgehungert sein - der Gang ist sehr schmal)<br>
+<font color=808080>t =</font> Tunnel<br>
+<span class="gelb">V =</span> Verlies<br>
+<font color=blue>W =</font> Oberhalb des Wasserfalls von Trostar<br>
+<font color=blue>w =</font> Unter dem Wasserfall<br>
+<span class="gelb">W =</span> Alte Waffenkammer<br>
+<font color=808080>w =</font> Wachraum<br>
+<span class="gelb">X =</span> Höhle von Xynia, der Prinzessin<br>
+</span>

@@ -1,0 +1,52 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;| &nbsp; <font color=00CC00>w &nbsp; o</font><br>
+&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; <font color=00CC00>\ / \</font><br>
+&nbsp; &nbsp;<span class="hellblau">$</span>-[[<span class="hellblau">w</span>|Handelsweg]]-w---h-<span class="gelb">B</span><font color=00CC00>-g</font><br>
+&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; /|\<br>
+&nbsp; &nbsp; &nbsp;w-<span class="gelb">D</span> <span class="gelb">S A s</span><br>
+&nbsp; &nbsp;&nbsp; |<br>
+&nbsp; &nbsp;<span class="gelb">P</span> | <span class="orange">H</span> &nbsp; <font color=00CC00>O</font> <span class="orange">B</span><br>
+&nbsp; &nbsp;| | |&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g-p-g---p-g<font color=00CC00>-s</font> <span class="gelb">W</span><br>
+&nbsp; &nbsp;| &nbsp; | &nbsp; | |<br>
+&nbsp; &nbsp;<span class="orange">K</span> &nbsp; <span class="orange">M</span> <span class="orange">l</span>-g&nbsp;<span class="orange">m</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">&nbsp; </span>g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w-<span class="gelb">L</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\</font> <font color=FFFF00>/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<font color=CC6600>s</font>|../Vaniorh]]-[[<font color=FFFF00>s</font>|../Vaniorh]]-[[<font color=FFFF00>s</font>|../Vaniorh]]</font><font color=C0C0C0>-<BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>/</font><font color=CC6600>|</font><font color=blue>X|X|\</font>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> (Ameisen-)Bank<br>
+<span class="gelb">A =</span> Acker<br>
+<span class="orange">B =</span> Bäckerei<br>
+<span class="gelb">B =</span> Bauernhaus<br>
+<span class="gelb">D =</span> Dichterhütte<br>
+<font color=00CC00>g =</font> Gemüsegarten<br>
+<font color=C0C0C0>g =</font> Gasse<br>
+<span class="orange">H =</span> Manohi, der Heiler<br>
+<font color=C0C0C0>h =</font> Hof<br>
+<span class="orange">K =</span> Kneipe 'zum glücklichen Kaninchen'<br>
+<span class="gelb">L =</span> Pfahlsitzen in der Lagune<br>
+<span class="orange">l =</span> kleiner Laden<br>
+<span class="orange">M =</span> Musikladen<br>
+<span class="orange">m =</span> Milchbar<br>
+<font color=00CC00>O =</font> Obstgarten (man muss über den Zaun im anliegenden Straßenfeld klettern)<br>
+<font color=00CC00>o =</font> Obstgarten<br>
+<span class="gelb">P =</span> Polizeirevier<br>
+<font color=C0C0C0>p =</font> kleiner Platz<br>
+<span class="gelb">S =</span> Stall<br>
+<span class="gelb">s =</span> Schweinepferch<br>
+<font color=00CC00>s =</font> Stadtpark (wenn man den Baum hochklettert und den Ast nach Osten langklettert landet man im Wunderhaus)<br>
+<font color=FFFF00>s =</font> Strand an der Südküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
+<font color=CC6600>s =</font> Steg an der Südküste von [[<span class="hellblau">Vaniorh</span>|../Vaniorh]]<br>
+<span class="gelb">W =</span> Wunderhaus<br>
+<font color=C0C0C0>w =</font> Weg<br>
+<font color=00CC00>w =</font> Wiese<br>
+<font color=008000>w =</font> schmaler Waldweg<br>
+<span class="hellblau">w =</span> kleiner Weg der von der [[<span class="hellblau">Handelsstraße</span>|Handelsweg]] im Norden nach Terqua führt<br>
+</span>

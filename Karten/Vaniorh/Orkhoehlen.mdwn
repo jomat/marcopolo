@@ -1,0 +1,59 @@
+<span class="map">
+&nbsp; [[<span class="hellblau">Z</span>|Orkberge]]<br>
+&nbsp; &nbsp;\<br>
+&nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; s-t-t-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">P</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">W</span><font color=C0C0C0>-b</font><font color=993300>-h-</font>[[<span class="hellblau">G</span>|Orkwald]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">E</span>-<span class="gelb">T</span>-<span class="gelb">d</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font>-t-t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ \ \&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t t-t-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span> &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ / &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X| &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; t t t-t t &nbsp; &nbsp; g-g-g-g &nbsp; &nbsp; &nbsp; <span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span> &nbsp; &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /&nbsp; | | |/ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;|X|X| &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t-t t t &nbsp; &nbsp; g &nbsp; g-g-g g &nbsp; <span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span>-<span class="rot">O</span> &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; /| | &nbsp; &nbsp; | &nbsp;/ &nbsp; &nbsp;| | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t-t t t &nbsp; &nbsp; g&nbsp;<span class="hellblau">D</span> g-g-g g &nbsp; &nbsp; <span class="rot">O</span>-h-<span class="rot">O</span> &nbsp; &nbsp; t &nbsp; <span class="rot">O</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \ / &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t-t-t-t &nbsp; &nbsp; &nbsp; &nbsp; g g-g-g t-t-t &nbsp; h &nbsp; &nbsp; t &nbsp; t t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; /| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; / \ &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;/ &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t t t &nbsp; &nbsp; <span class="rot">O</span> &nbsp; t-t-t-t &nbsp; t-t-t-t-t-t &nbsp; &nbsp; t t t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|/ \ &nbsp; &nbsp; / &nbsp; / &nbsp; &nbsp; &nbsp; \&nbsp; |\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/ &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> t-t t &nbsp; t-t-t-t-t &nbsp; &nbsp; &nbsp; &nbsp; t <span class="rot">O</span> t-t-<span class="rot">O</span> &nbsp; &nbsp; <span class="rot">O</span> &nbsp; t &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /| &nbsp; &nbsp;/ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ &nbsp;|\ \ &nbsp; &nbsp; &nbsp; \ /|\ &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> t t <font color=C0C0C0>e</font> <span class="rot">O</span> &nbsp; t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span> &nbsp; t <span class="rot">O</span> t <span class="rot">O</span> <span class="rot">O</span> &nbsp; &nbsp; t t t &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ / \ &nbsp; \ &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /| &nbsp;/ \ &nbsp;|\ / &nbsp; &nbsp; /| | | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> <font color=C0C0C0>e</font>-t t-<font color=C0C0C0>e</font> <font color=C0C0C0>e</font> t &nbsp; t &nbsp; &nbsp; &nbsp; <span class="gelb">S</span> t t &nbsp; t <span class="rot">O</span> t &nbsp; t-t t t t &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp;| &nbsp;\ \ &nbsp; \ \ / &nbsp; &nbsp; &nbsp; / /|\ &nbsp; &nbsp; &nbsp; / \ &nbsp; &nbsp; &nbsp; X &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; t-t t <font color=C0C0C0>e</font>-t t t-t-t t &nbsp; &nbsp; &nbsp; t <span class="gelb">S</span> <span class="gelb">S</span> t &nbsp; &nbsp; <span class="rot">O</span> &nbsp; <span class="rot">O</span> [[<span class="hellblau">S</span>|Steinbruch]]-t-t t t &nbsp; t<br>
+&nbsp; &nbsp; &nbsp;\ /|\ / \ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; /|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; X &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; t t t-<font color=C0C0C0>e</font> t-t-t &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">S</span> <span class="gelb">S</span> <span class="gelb">S</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t t-t<br>
+&nbsp; &nbsp; &nbsp;/ / \ &nbsp; &nbsp; \ &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp;-[[<span class="hellblau">L</span>|Wasserfall]]-<span class="rot">W</span> <font color=C0C0C0>e</font> &nbsp; <font color=C0C0C0>e</font>-<font color=C0C0C0>e</font>-<font color=C0C0C0>e</font> <font color=C0C0C0>e</font> <font color=C0C0C0>e</font>-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>e</font> <font color=C0C0C0>e</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h
+</TD>
+</span>
+
+<span class="legend">
+<font color=C0C0C0>b =</font> Irgendwo in den Orkbergen<br>
+<span class="hellblau">D =</span> Dämonenpforte (führt in ein Labyrinth)<br>
+<span class="gelb">d =</span> Domizil des Schamanen<br>
+<span class="gelb">E =</span> Schlafraum der Elite-Orks<br>
+<font color=C0C0C0>e =</font> Einsturzgefährdetes Gebiet (wenns mal wieder runtergekracht ist muss man mit 'räume erdrutsch im norden/süden/...' den Weg freimachen)<br>
+<span class="hellblau">G =</span> In diesem Feld kann man einem Gang folgen der zu einer versteckten Luke unter dem [[<span class="hellblau">Orkwald</span>|Orkwald]] führt<br>
+<font color=808080>g =</font> Gang<br>
+<font color=808080>h =</font> Höhle<br>
+<font color=993300>h =</font> Hängebrücke<br>
+<span class="hellblau">L =</span> Provisorisches Orklager am [[<span class="hellblau">Wasserfall</span>|Wasserfall]]<br>
+<span class="rot">O =</span> Orkhöhle (pro Raum 5 Orks)<br>
+<span class="gelb">P =</span> Privatgemächer des Orkbosses<br>
+<span class="hellblau">S =</span> Hier ist ein Schacht durch den man vom [[<span class="hellblau">Gebirgspfad</span>|Steinbruch]] runterspringen bzw. mit langem Seil runterklettern konnte (hoch gehts nur wenn das Seil aus mindestens 5 normalen Seilen zuammengeknotet war)<br>
+<span class="gelb">S =</span> Hier gibt es Riesenspinnen<br>
+<span class="gelb">T =</span> Thronsaal<br>
+<font color=808080>t =</font> Tunnel<br>
+<span class="rot">W =</span> Wachhöhle der Orks (pro Raum 5 Orks)<br>
+<span class="hellblau">Z =</span> Unter Zerjg's Kneipe in den [[<span class="hellblau">Orkbergen</span>|Orkberge]] (die Falltür an der Decke ist leider abgeschlossen)<br>
+</span>

@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; <span class="gelb">g</span><br>
+&nbsp; | &nbsp; |<br>
+&nbsp; [[<span class="hellblau">s</span>|Borsippa]]-<span class="gelb">G</span>-f-<span class="gelb">S</span><br>
+&nbsp;/ &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">K</span>
+</span>
+
+<span class="legend">
+<span class="gelb">f =</span> Flur<br>
+<span class="gelb">G =</span> Gertrud<br>
+<span class="gelb">g =</span> Gästezimmer<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Borsippa</span>|Borsippa]]<br>
+<span class="gelb">S =</span> Schlafgemach<br>
+</span>
