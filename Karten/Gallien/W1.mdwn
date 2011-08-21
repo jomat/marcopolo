@@ -1,5 +1,5 @@
 <span class="map">
-<p class="MsoPlainText">
+<font color="#008000">
 [[<font color=C0C0C0>4</font>|Gallien]]<font color=00CC00>---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]</font><br>
 <font color=00CC00>|</font> &nbsp;/| &nbsp; |\ &nbsp;<font color=00CC00>|</font><br>
 <font color=00CC00>|</font> / | &nbsp; | \ <font color=00CC00>|</font><br>
@@ -12,11 +12,12 @@
 <font color=00CC00>|</font>\ &nbsp;| | | &nbsp;/<font color=00CC00>|</font><br>
 <font color=00CC00>|</font> \ | W | / <font color=00CC00>|</font><br>
 <font color=00CC00>|</font> &nbsp;\| &nbsp; |/ &nbsp;<font color=00CC00>|</font><br>
-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]</p>
-</td>
-</tr>
-</table>
-4 = Römerstrasse 4 (im Nordwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
+<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]
+</font>
+</span>
+
+<span class="legend">
+4 = RÃ¶merstrasse 4 (im Nordwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
 <font color=00CC00>O =</font> Grasland von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
 <font color=008000>W =</font> Wald
 </span>
