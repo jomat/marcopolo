@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="#006600">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Stadt]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d-d<br>
@@ -60,6 +60,7 @@ r-<font color=00CC00>O-<font color=FF6600>w</font>-O-<font color=FF6600>w-w</fon
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>-[[<span class="hellblau">H</span>|Dschungelinsel]]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>/|\</font></TD>
+</font>
 </span>
 
 <span class="legend">
@@ -70,10 +71,10 @@ r-<font color=00CC00>O-<font color=FF6600>w</font>-O-<font color=FF6600>w-w</fon
 <span class="hellblau">G =</span> 5 Geier auf einem Baum<br>
 <span class="hellblau">H =</span> Hafen der [[<span class="hellblau">Dschungelinsel (Aussenansicht)</span>|Dschungelinsel]]<br>
 <span class="hellblau">h =</span> Kleines Haus in dem ein Einsiedler lebt (er hat Fleckfieber -> Seuche)<br>
-<font color=808080>h =</font> kleine Höhle in einem Felsbrocken<br>
+<font color=808080>h =</font> kleine HÃ¶hle in einem Felsbrocken<br>
 <font color=00CC00>i =</font> kleine Flussinsel<br>
 <span class="hellblau">K =</span> Die Schlange Kaa (durch ein Loch kommt man zum Blutaltar)<br>
-<font color=blue>k =</font> Der Fluss Koomtiwanda (die Strömung treibt einen langsam nach Südwesten - man kann aber auch schwimmen [schwimme nach xyz])<br>
+<font color=blue>k =</font> Der Fluss Koomtiwanda (die StrÃ¶mung treibt einen langsam nach SÃ¼dwesten - man kann aber auch schwimmen [schwimme nach xyz])<br>
 <font color=00CC00>O =</font> Weideland<br>
 <font color=FF6600>p =</font> Ausgetretener Pfad durch den Dschungel<br>
 <font color=006600>r =</font> Dschungelrand<br>
