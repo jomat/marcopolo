@@ -1,13 +1,13 @@
-<span class="map"><font color="003366">
+<span class="map">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;r-r-r-r <font color=008000>W-W-W-W</font> r-#-r-r-r-r-r-r-r-r-r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X|X|X|</font>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;\|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;r-r-r-r <font color=008000> W-W-W</font> . <font color=008000>W-W-W-W-</font><font color=gray>f&gt;</font><span class="hellblau">a</span> . . . . . . . . . . r-r-r-r-r <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|/ &nbsp; &nbsp; &nbsp;<font color=008000>| | | &nbsp; |X|X|X|font><font color=gray>|X|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;\|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|/ &nbsp; &nbsp; &nbsp;<font color=008000>| | | &nbsp; |X|X|X|X</font><font color=gray>|X|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;\|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; r-r-r . . [[<span class="violett">D</span>|Gallien]]<font color=008000>-W-W-W</font> . <font color=008000>W-W-W-W-</font><font color=gray>f-f</font> . . . . . . . . . . . . . . r-r-r<br>
-&nbsp; &nbsp; &nbsp; &nbsp; |/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>| |&nbsp; /|X|X|X|font><font color=gray>|X|font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>| |&nbsp; /|X|X|X|X</font><font color=gray>|X|\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; r . . . .&nbsp;<span class="hellblau">B</span>&nbsp;.&nbsp;<font color=008000>W W-W-<span class="hellblau">f</span>-<span class="hellblau">H</span>-W-W-</font><span class="hellblau">k</span><font color=00CC00>-O-O-O</font> . . . . . . . . . . . . . . r<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;/|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<font color=00CC00>|</font>&nbsp;&nbsp;&nbsp;&nbsp; <font color=008000>|</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=00CC00>&nbsp;\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|\<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;/|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<font color=00CC00>|</font>&nbsp;&nbsp;&nbsp;&nbsp; <font color=008000>|\|/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=00CC00>&nbsp;\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|\<br>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;r-r . <span class="gelb">V</span> . . <font color=00CC00> O-</font><font color=008000><span class="hellblau">w</span>-<span class="hellblau">s</span>-<span class="hellblau">F</span>-W</font> . . . . [[<span class="violett">D</span>|Jadepalast]] . . . <font color=00CC00> O</font> . . . . . . . . . . . . . r-r<br>
 &nbsp; &nbsp; &nbsp;&nbsp;|/ &nbsp; &nbsp;<span class="gelb">|</span> &nbsp; &nbsp; &nbsp;&nbsp;<font color=C0C0C0>|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font color=00CC00>/</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;\|<br>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;r . . <span class="gelb">m</span><font color=00CC00>-<font color=C0C0C0>a</font>-w-</font><font color=C0C0C0>s-s</font><font color=00CC00>-O-</font><span class="hellblau">A</span> . . . . . . . <font color=00CC00> O-O</font> . . . . . . . . . . . . . . . r<br>
@@ -17,7 +17,7 @@
 &nbsp; &nbsp; r . . . . O <span class="hellblau">g<font color=C0C0C0>-</span>t</font> . . . . . . . . . <font color=00CC00> O</font> . . . . . . . . . . . . . . . . . . r<br>
 &nbsp; &nbsp;/| &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;| &nbsp; <font color=C0C0C0>|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<font color=00CC00>|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; |\<br>
 &nbsp; r-r . . . . O <font color=008000>W-W</font> . . . . . . . .  # [[<span class="hellblau">h</span>|Drachenland/Hoehle]] # # # # . . . . . . . . . . . . . . r-r<br>
-&nbsp; |/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;\<font color=008000>| |</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/||X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;\|<br>
+&nbsp; |/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;\<font color=008000>| |</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\ /|X|X|X|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;\|<br>
 &nbsp; r . . . . . . <span class="hellblau">e<font color=008800>-</span>J</font> . . . . . . m m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;m-m . . . . . . . . . . . . . r<br>
 &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<font color=008000>|\|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;\|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;|<br>
 &nbsp; r . . . . . . <font color=008000>l </font><span class="hellblau">K</span> . . . . m-m-m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;m-m-m . . . . . . . . . . . r<br>
@@ -51,23 +51,23 @@
 &nbsp; r . . . . <font color=008000>W</font> . . . . . . . . . m-m-m-m-m-m-m-m-m-m . . . . . . . <font color=00CC00> O</font> . . . . . r<br>
 &nbsp; |\ &nbsp; &nbsp; &nbsp; &nbsp; <font color=008000>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00> /</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|<br>
 &nbsp; r-r . . . . <font color=008000><font color=00CC00>l</font>-W</font> . . . . . . . . . . . . . [[<span class="hellblau">W</span>|Drachenland/Wyvernhoehle]] . . . . . . . <font color=00CC00> O-O-O</font> . . . . . r-r<br>
-&nbsp; &nbsp;\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> /|font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
+&nbsp; &nbsp;\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> /|/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
 &nbsp; &nbsp; r . . . . . . <font color=00CC00> O</font> . . . . . . . . . . . . <font color=00CC00> O</font> . . . . . <font color=008000>W-W-W</font> . . . . . . . r<br>
 &nbsp; &nbsp; |\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=008000>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|<br>
 &nbsp; &nbsp; r-r . . . . . . <font color=00CC00> O-</font><font color=008000>W</font> . . . . . . . . . . . <font color=008000>W-W</font><font color=00CC00>-O-O-</font><font color=008000>l</font> . . . . . . . . . r-r<br>
-&nbsp; &nbsp; &nbsp;\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font> &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<font color=00CC00>\|font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
+&nbsp; &nbsp; &nbsp;\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font> &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<font color=00CC00>\|/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
 &nbsp; &nbsp; &nbsp; r . . . <font color=00CC00> O-</font><font color=008000>W</font><font color=00CC00>-O</font> . . <font color=00CC00> O</font> . . . . . . . . . . . . <font color=00CC00> O</font> . . . . . . . . . . . r<br>
 &nbsp; &nbsp; &nbsp; |\ &nbsp; &nbsp;<span class="rot"> /</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00> |</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|<br>
 &nbsp; &nbsp; &nbsp; r-r . O . . . . . . <font color=00CC00> O</font> . . . . . . . . . . . <font color=00CC00> O</font> . . . . . . . . . .-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp;\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |\ &nbsp; \<br>
 &nbsp; &nbsp; &nbsp; &nbsp; r . . . . . . . <font color=00CC00> O</font> . . <font color=00CC00> O-O</font> . . . . <font color=008000>W</font><font color=00CC00>-O</font> . . <font color=00CC00> O</font> O-O-O . . . . . . r<br>
-&nbsp; &nbsp; &nbsp; &nbsp; |\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> \</font> &nbsp;&nbsp;<font color=00CC00>/</font> &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; <font color=00CC00> /</font> &nbsp; <font color=00CC00> \</font> &nbsp; <font color=00CC00> /|font> &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> \</font> &nbsp;&nbsp;<font color=00CC00>/</font> &nbsp; <font color=00CC00> \</font> &nbsp; &nbsp; &nbsp; <font color=00CC00> /</font> &nbsp; <font color=00CC00> \</font> &nbsp; <font color=00CC00> /|\</font> &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; r-r-r . . . . . . <font color=008000>W-W</font> . . <font color=00CC00> O</font> . <font color=00CC00> O-O</font> . . <font color=008000>W-l-W</font><font color=00CC00>-O-</font>[[<span class="hellblau">T</span>|Drachenland/Tregyln]] O . . . . . r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; \|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> \</font> <font color=00CC00> /</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r-r-r-r-r . . . . . . . <font color=00CC00> O</font> . . . . . . . O-O-O . r-r-r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r</TD>
-</font></span>
+</span>
 
 <span class="legend">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
@@ -75,37 +75,37 @@
 <span class="hellblau">A =</span> Gute Stelle zum Angeln &amp; kleiner Elfenjunge mit Angel<br>
 <span class="hellblau">a =</span> Adlerhorst (hochklettern)<br>
 <span class="hellblau">B =</span> Aufstieg ins Nebelgebirge<br>
-<span class="violett">D =</span> Das westliche Dimensionstor fÃ¼hrt nach [[<span class="hellblau">Gallien</span>|Gallien]], das weiter im Osten (im See) gelegene Tor fÃ¼hrt zum [[<span class="hellblau">Jadepalast</span>|Jadepalast]]<br>
+<span class="violett">D =</span> Das westliche Dimensionstor führt nach [[<span class="hellblau">Gallien</span>|Gallien]], das weiter im Osten (im See) gelegene Tor führt zum [[<span class="hellblau">Jadepalast</span>|Jadepalast]]<br>
 <span class="hellblau">e =</span> Hochgewachsener Elf<br>
-<span class="orange">F =</span> Frieda, die ObstverkÃ¤uferin<br>
+<span class="orange">F =</span> Frieda, die Obstverkäuferin<br>
 <span class="hellblau">F =</span> Fette Frau<br>
 <span class="hellblau">f =</span> Der kleine Fraidil<br>
 <span class="hellblau">G =</span> Das kleine Dorf [[<span class="hellblau">Gnazelschist</span>|Drachenland/Gnazelschist]]<br>
-<span class="hellblau">g =</span> HÃ¼tte von Isoldiana und Illios <br>
-<span class="hellblau">H =</span> verfallene HÃ¼tte (hier kann man das KrÃ¤uterbestimmungsbuch einsammeln)<br>
-<span class="hellblau">h =</span> [[<span class="hellblau">HÃ¶hle im Monolith</span>|Drachenland/Hoehle]] (hochklettern)<br>
+<span class="hellblau">g =</span> Hütte von Isoldiana und Illios <br>
+<span class="hellblau">H =</span> verfallene Hütte (hier kann man das Kräuterbestimmungsbuch einsammeln)<br>
+<span class="hellblau">h =</span> [[<span class="hellblau">Höhle im Monolith</span>|Drachenland/Hoehle]] (hochklettern)<br>
 <span class="hellblau">i =</span> Wegweiser<br>
 <span class="hellblau">J =</span> Juan, der Ataxx-Spieler<br>
-<span class="hellblau">K =</span> KÃ¶nig der Elfen<br>
+<span class="hellblau">K =</span> König der Elfen<br>
 <span class="hellblau">k =</span> Die kleine Kasiliana &amp; Dimensionstor in den [[<span class="hellblau">Jadepalast</span>|Jadepalast]] (in den See sprigen)<br>
-<span class="orange">P =</span> Kneipe Â„Lachendes PferdÂ“<br>
+<span class="orange">P =</span> Kneipe „Lachendes Pferd“<br>
 <span class="hellblau">M =</span> Monolith (man kann mit einem Aufzug nach [[<span class="hellblau">Asia</span>|Asia]] hochfahren)<br>
 <span class="hellblau">O =</span> Der Weg zur alten Burg ([[<span class="hellblau">Ordensburg</span>|Drachenland/Ordensburg]])<br>
 <span class="hellblau">R =</span> Rand des Monolithen (man kann nach [[<span class="hellblau">Amerindia</span>|Amerindia]] runterklettern)<br>
 <span class="orange">S =</span> Sattler (erreichbar von no)<br>
 <span class="hellblau">s =</span> Warnschild<br>
-<span class="hellblau">T =</span> WestbrÃ¼cke der [[<span class="hellblau">Burg Tregyln</span>|Drachenland/Tregyln]]<br>
-<span class="hellblau">t =</span> TÃ¼r zu Rakoths Burg<br>
+<span class="hellblau">T =</span> Westbrücke der [[<span class="hellblau">Burg Tregyln</span>|Drachenland/Tregyln]]<br>
+<span class="hellblau">t =</span> Tür zu Rakoths Burg<br>
 <span class="gelb">V =</span> Vogelsscheuche auf dem Maisfeld<br>
-<span class="hellblau">W =</span> [[<span class="hellblau">WyvernhÃ¶hle</span>|Drachenland/Wyvernhoehle]]<br>
+<span class="hellblau">W =</span> [[<span class="hellblau">Wyvernhöhle</span>|Drachenland/Wyvernhoehle]]<br>
 <span class="hellblau">w =</span> betrunkener Mann und Wanderer<br>
 <span class="hellblau">Legende:</span><br>
 <font color=C0C0C0>a =</font> Abfallgraben<br>
 <font color=808080>f =</font> Felsen<br>
 <font color=00CC00>l =</font> kleine Lichtung<br>
 <span class="gelb">m =</span> Maisfeld<br>
-<font color=00CC00>O =</font> Ebene zwischen HÃ¼geln und WÃ¤ldern<br>
-<font color=C0C0C0>s =</font> StraÃŸen<br>
+<font color=00CC00>O =</font> Ebene zwischen Hügeln und Wäldern<br>
+<font color=C0C0C0>s =</font> Straßen<br>
 <font color=008000>W =</font> Wald<br>
 <font color=00CC00>w =</font> Wiese<br>
 Der Rest vom Drachenland ist leider nicht betretbar... (in dieser <font color=003366>Farbe</font> gekennzeichnet)<br>
