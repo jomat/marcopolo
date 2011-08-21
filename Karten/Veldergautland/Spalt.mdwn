@@ -1,4 +1,12 @@
 <span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g-g [[<span class="rot">F</span>|../OdF]]<font color=808080>-h</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; \ &nbsp;^<br>
+&nbsp;[[<span class="hellblau">G</span>|../Veldergautland]]&gt;g&gt;v&gt;g &nbsp; &nbsp; g&gt;g<br>
+&nbsp;| &nbsp;/<br>
+&nbsp; &nbsp;E
+</span>
+
+<span class="legend">
 <font color=FFFFFF>E =</font> Eishöhle<br>
 <span class="rot">F =</span> Flammentor zur [[<span class="hellblau">Beschwörergilde</span>|../OdF]]<br>
 <span class="hellblau">G =</span> Eingang in die Gletscherspalte (in [[<span class="hellblau">Veldergautland</span>|../Veldergautland]])<br>

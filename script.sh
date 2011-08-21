@@ -1,6 +1,6 @@
 #!/bin/sh
 sed -i 's|^ *||g' $1
-cat $1|awk '{if ($0=="</body>") ready=0; if (ready==1)print $0;if ($0=="<font color=FFFFFF FACE=\"Courier New\" STYLE=\"font-size: 8pt\">"||$0=="<font color=C0C0C0 face=\"Courier New\" style=\"font-size: 8pt\">"||"<TD WIDTH=\"100%\"><font color=FFFFFF FACE=\"Courier New\" STYLE=\"font-size: 8pt\">"==$0) ready=1;}' >$1.tmp
+cat $1|awk '{if ($0=="</body>") ready=0; if (ready==1)print $0;if ($0=="<font color=FFFFFF FACE=\"Courier New\" STYLE=\"font-size: 8pt\">"||$0=="<font color=C0C0C0 face=\"Courier New\" style=\"font-size: 8pt\">"||"<TD WIDTH=\"100%\"><font color=FFFFFF FACE=\"Courier New\" STYLE=\"font-size: 8pt\">"==$0||"<font color=FFFFFF face=\"Courier New\" style=\"font-size: 8pt\">"==$0) ready=1;}' >$1.tmp
 mv $1.tmp $1
 cat $1|perl -pe 's|<font color=00CCFF>(.*?)</font>|<span class="hellblau">\1</span>|g' >$1.tmp
 mv $1.tmp $1
