@@ -1,10 +1,10 @@
   <CENTER>
    <map name="Ebenen">
-   <area shape="rect" coords="214, 94, 368, 178" href="../Jadepalast" alt="Jadepalast">
-   <area shape="rect" coords="221, 202, 363, 292" href="../Asia" alt="Asia">
-   <area shape="rect" coords="167, 305, 425, 405" href="../Drachenland" alt="Drachenland">
-   <area shape="rect" coords="89, 416, 504, 521" href="../Amerindia" alt="Amerindia">
-   <area shape="rect" coords="74, 534, 522, 597" href="../Okeanos" alt="Okeanos">
+   <area shape="rect" coords="214, 94, 368, 178" href="Jadepalast" alt="Jadepalast">
+   <area shape="rect" coords="221, 202, 363, 292" href="Asia" alt="Asia">
+   <area shape="rect" coords="167, 305, 425, 405" href="Drachenland" alt="Drachenland">
+   <area shape="rect" coords="89, 416, 504, 521" href="Amerindia" alt="Amerindia">
+   <area shape="rect" coords="74, 534, 522, 597" href="Okeanos" alt="Okeanos">
    </map><p><img src="../Ebenen.gif" width="600" height="650" border="0" alt="Ebenen" usemap="#Ebenen"></p>
 
   </CENTER>
