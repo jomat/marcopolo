@@ -1,16 +1,16 @@
 <span class="map">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-<A TITLE="Kreta" A HREF="../Kreta.html"><span class="hellblau">r</span></A>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<span class="hellblau">r</span>|Kreta]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>H-H-<font color=blue>q</font>-H-H</font> &nbsp; &nbsp; W<br>
 &nbsp;<font color=00CC00>\|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|X<font color=blue>|</font>X|/</font> &nbsp; &nbsp; &nbsp;|<br>
-&nbsp;<font color=00CC00>-<A TITLE="Kreta" A HREF="../Kreta.html"><span class="hellblau">r</span></A></font> W-W-W-W-W-W <font color=00CC00>H-<font color=blue>b</font>-H</font>&nbsp;&nbsp; W-W-W-W<br>
+&nbsp;<font color=00CC00>-[[<span class="hellblau">r</span>|Kreta]]</font> W-W-W-W-W-W <font color=00CC00>H-<font color=blue>b</font>-H</font>&nbsp;&nbsp; W-W-W-W<br>
 &nbsp;<font color=00CC00>/|</font>\|\|/ &nbsp; /&nbsp; | | <font color=blue>|</font>&nbsp; \ /&nbsp; |<br>
 &nbsp; &nbsp; W W &nbsp; W-W-W-W-<font color=blue>b</font> &nbsp; W &nbsp; W<br>
 &nbsp; &nbsp; | &nbsp; &nbsp; |/&nbsp; |/&nbsp; <font color=blue>|</font> &nbsp; |&nbsp; &nbsp; \<br>
 &nbsp; &nbsp; W-W &nbsp; W W-W-W <font color=blue>b</font> &nbsp; W &nbsp; <span class="hellblau">h</span> W<br>
 &nbsp; &nbsp;/&nbsp; | &nbsp; |\|&nbsp; /|<font color=blue>/</font> \ /&nbsp; &nbsp; | |<br>
-&nbsp; [[<span class="hellblau">H</span>|OdF]] &nbsp; W-W-W W-W <font color=blue>b</font>-W W &nbsp; &nbsp; W W-W W-W-<A TITLE="Lab des Paion" A HREF="Lab.html"><span class="hellblau">M</span></A><br>
+&nbsp; [[<span class="hellblau">H</span>|OdF]] &nbsp; W-W-W W-W <font color=blue>b</font>-W W &nbsp; &nbsp; W W-W W-W-[[<span class="hellblau">M</span>|Lab]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp;\| | |&nbsp; <font color=blue>\</font>|&nbsp; \ \&nbsp; &nbsp; |/ &nbsp; \|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; W-<font color=009999>U-U-U-U</font>-W-W W-W-W-W-W-W-<span class="gelb">K-K</span><font color=C0C0C0>-</font>[[<span class="hellblau">T</span>|Knossos]]<span class="hellblau">-</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; <font color=009999>|</font> &nbsp; | | &nbsp; | &nbsp; | &nbsp; &nbsp;<font color=00CC00>/</font><br>
@@ -39,7 +39,7 @@
 <span class="hellblau">H =</span> Hier gehts runter in eine Höhle mit einem Flammentor in die [[<span class="hellblau">Beschwörergilde</span>|OdF]]<br>
 <span class="hellblau">h =</span> Lumberjacks Hütte<br>
 <span class="gelb">K =</span> Kornfeld (im östlichen Feld steht die kleine Trauerweide)<br>
-<span class="hellblau">M =</span> Mirakolos Höhle (von wo man Zauberstab holen ins <A TITLE="Lab des Paion" A HREF="Lab.html"><span class="hellblau">Labyrinth des Paion</span></A> geschickt wird)<br>
+<span class="hellblau">M =</span> Mirakolos Höhle (von wo man Zauberstab holen ins [[<span class="hellblau">Labyrinth des Paion</span>|Lab]] geschickt wird)<br>
 <span class="hellblau">O =</span> Ork-Höhle<br>
 <font color=blue>q =</font> Quelle<br>
 <span class="hellblau">r =</span> Waldrand (zurück nach [[<span class="hellblau">Kreta</span>|Kreta]])<br>

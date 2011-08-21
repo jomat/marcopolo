@@ -1,18 +1,18 @@
 <span class="map">
 <font color=blue>B =</font> Brunnen<br>
-<span class="hellblau">D =</span> Durch ein Loch and der Wand kann man in den Keller der <A TITLE="Keller der Druidengilde" A HREF="Druidengilde.html"><span class="hellblau">Druidengilde</span></A> klettern<br>
+<span class="hellblau">D =</span> Durch ein Loch and der Wand kann man in den Keller der [[<span class="hellblau">Druidengilde</span>|Druidengilde]] klettern<br>
 <span class="gelb">F =</span> Fäulnismonster<br>
 <font color=C0C0C0>g =</font> Gang<br>
-<font color=blue>h =</font> Unter Wasser im Hafenbecken von <A TITLE="Knossos" A HREF="Knossos.html"><span class="hellblau">Knossos</span></A><br>
-<font color=996600>k =</font> Kanalisation (es gibt ein paar Kanaldeckel durch die man hoch nach <A TITLE="Knossos" A HREF="Knossos.html"><span class="hellblau">Knossos</span></A> kommt und ganz im Süden und Norden kann man tauchen in Richtung .)<br>
-<span class="hellblau">L =</span> Leiter hoch nach <A TITLE="Kreta" A HREF="../Kreta.html"><span class="hellblau">Kreta</span></A> (vor den Stadtmauern von Knossos)<br>
+<font color=blue>h =</font> Unter Wasser im Hafenbecken von [[<span class="hellblau">Knossos</span>|Knossos]]<br>
+<font color=996600>k =</font> Kanalisation (es gibt ein paar Kanaldeckel durch die man hoch nach [[<span class="hellblau">Knossos</span>||Knossos]] kommt und ganz im Süden und Norden kann man tauchen in Richtung .)<br>
+<span class="hellblau">L =</span> Leiter hoch nach [[<span class="hellblau">Kreta</span>|Kreta]] (vor den Stadtmauern von Knossos)<br>
 <span class="gelb">O =</span> Lager eines einäugigen Orks<br>
-<span class="gelb">P =</span> Puddingmonster (hier ist ein Kanaldeckel durch den man hoch nach <A TITLE="Knossos" A HREF="Knossos.html"><span class="hellblau">Knossos</span></A> kommt)<br>
+<span class="gelb">P =</span> Puddingmonster (hier ist ein Kanaldeckel durch den man hoch nach [[<span class="hellblau">Knossos</span>|Knossos]] kommt)<br>
 <span class="gelb">p =</span> Pilzkolonie<br>
-<span class="hellblau">R =</span> Hier kann man durch einen Riss in der Wand ins <A TITLE="Lab des Paion" A HREF="Lab.html"><span class="hellblau">Labyrinth</span></A> des Paion klettern<br>
+<span class="hellblau">R =</span> Hier kann man durch einen Riss in der Wand ins [[<span class="hellblau">Labyrinth</span>|Lab]] des Paion klettern<br>
 <span class="gelb">T =</span> Bronzetür<br>
 <span class="gelb">t =</span> Höhlentroll<br>
-<span class="hellblau">t =</span> Treppe hoch zur Weinhandlung von Xeros (in <A TITLE="Knossos" A HREF="Knossos.html"><span class="hellblau">Knossos</span></A>)<br>
+<span class="hellblau">t =</span> Treppe hoch zur Weinhandlung von Xeros (in [[<span class="hellblau">Knossos</span>|Knossos]])<br>
 <span class="gelb">W =</span> Weinkeller (man kann ein Fass zur Seite rollen um den Weg nach Westen freizumachen)<br>
 <span class="gelb">X =</span> Keller der Weinstube von Xeros<br>
 </span>
