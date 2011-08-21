@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="#00CC00">
 &nbsp;&nbsp; &nbsp; &nbsp;U&nbsp; &nbsp; &nbsp;<span class="hellblau">l</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;|<br>
 &nbsp;&nbsp; &nbsp; &nbsp;<span class="hellblau">B&nbsp;<font color=CC6600>s</span>&nbsp;E</font>&nbsp;g-g-<font color=C0C0C0>w</font><br>
@@ -12,13 +12,14 @@
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>E</font><br>
 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|</font><br>
 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>E</font>
+</font>
 </span>
 
 <span class="legend">
-<span class="hellblau">B =</span> Über diesen Baum kann man über den Zaun klettern<br>
+<span class="hellblau">B =</span> Ãœber diesen Baum kann man Ã¼ber den Zaun klettern<br>
 <font color=C0C0C0>b =</font> An einem Bergrutsch<br>
 <span class="hellblau">E =</span> Hier auf nem Baum sind die Enkel von Hammond<br>
-<font color=808080>E =</font> Hochenergie-Halle (Stromversorgung für die Zäune)<br>
+<font color=808080>E =</font> Hochenergie-Halle (Stromversorgung fÃ¼r die ZÃ¤une)<br>
 <font color=00CC00>g =</font> Dinosauriergehege<br>
 <span class="hellblau">H =</span> Hafen (der Hafen ist die einzige Stelle wo man die [[<span class="hellblau">Isla Nublar</span>|Isla_Nublar]] betreten und wieder verlassen kann)<br>
 <span class="hellblau">K =</span> Kontrollraum (hier steht Molcolm, der Chaosforscher)<br>
