@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp; &nbsp;Gänge &nbsp; &nbsp; &nbsp; Mauer<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m-<span class="gelb">m</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; \<br>
+&nbsp; &nbsp; &nbsp; l <span class="gelb">I</span> &nbsp; &nbsp; m &nbsp; <span class="gelb">v</span>.[[<span class="violett">V</span>|../Okeanos]]<br>
+&nbsp;<font color=blue>\|/</font>&nbsp; | . &nbsp; &nbsp; |<br>
+&nbsp; [[<font color=00CC00>s</font>|../Nordische_Inseln]]-l-l-l &nbsp; &nbsp; t<br>
+&nbsp; <font color=00CC00>|\</font>&nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; l &nbsp; &nbsp; &nbsp; m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m-<span class="gelb">s</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">I =</span> Kleiner Innenhof (man kommt rein indem man im Labyrinth südlich durch die Lücke klettert)<br>
+<font color=C0C0C0>l =</font> Labyrinth<br>
+<span class="gelb">m =</span> Hier kommt man vom Innenhof aus auf die Mauer hoch<br>
+<font color=C0C0C0>m =</font> Auf der Mauer (man kann ins Labyrinth runterklettern)<br>
+<font color=00CC00>s =</font> Strand von [[<span class="hellblau">Vandras</span>|../Nordische_Inseln]]<br>
+<span class="gelb">s =</span> Hier hängt eine Schleuder an einem Vorsprung<br>
+<font color=C0C0C0>t =</font> Über dem Torbogen (man kann ins Labyrinth runterklettern)<br>
+<span class="violett">V =</span> Vorsprung mit Dimensionswirbel nach [[<span class="hellblau">Okeanos</span>|../Okeanos]]<br>
+<span class="gelb">v =</span> Von der Mauer hier aus kann man auf den Vorsprung im Osten draufspringen<br>
+</span>

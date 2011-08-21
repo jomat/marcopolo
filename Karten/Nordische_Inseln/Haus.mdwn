@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp; 1. Stock &nbsp; Erdgeschoss<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">k</span> &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;\|/<br>
+&nbsp; &nbsp; <span class="gelb">S</span>-F &nbsp; &nbsp; &nbsp; &nbsp; H---[[<span class="orange">M</span>|Phexcaer]]<br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">B</span> &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">K</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Fenris Arbeitszimmer<br>
+<span class="gelb">B =</span> Badezimmer<br>
+<font color=C0C0C0>F =</font> Flur (hier ist die Treppe nach unten)<br>
+<font color=C0C0C0>H =</font> Eingangshalle (hier ist die Treppe nach oben)<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">k =</span> Kinderzimmer<br>
+<span class="orange">M =</span> Mandel, der Händler (auf dem Marktplatz von [[<span class="hellblau">Phexcaer</span>|Phexcaer]])<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+</span>

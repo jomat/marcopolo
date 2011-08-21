@@ -1,0 +1,4 @@
+<span class="map">
+<font color=808080>h =</font> Mit Kristallen besetzte Höhle<br>
+<font color=008000>W =</font> Waldstück in einem [[<span class="hellblau">kleinen Tal</span>|Tal]]
+</span>

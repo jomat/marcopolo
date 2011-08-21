@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;S-[[<span class="hellblau">k</span>|Hexenhaus]]<br>
+&nbsp; &nbsp; / &nbsp;|<br>
+&nbsp; &nbsp;S<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;S<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;S &nbsp; S-S<br>
+&nbsp; &nbsp;| &nbsp;/ &nbsp; \<br>
+&nbsp; &nbsp;S-S &nbsp; &nbsp; S-S<br>
+&nbsp; / &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\ &nbsp;|<br>
+&nbsp;S &nbsp; &nbsp; &nbsp; &nbsp; S &nbsp; S-[[<span class="hellblau">P</span>|Hexenwald]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">L</span>
+</span>
+
+<span class="legend">
+<span class="hellblau">k =</span> Keller im [[<span class="hellblau">Hexenhaus</span>|Hexenhaus]]<br>
+<span class="gelb">L =</span> Leiter und eine verriegelte Falltür<br>
+<span class="hellblau">P =</span> Phosphorhöhle im [[<span class="hellblau">Hexenwald</span>|Hexenwald]]<br>
+<font color=808080>S =</font> Stollen<br>
+</span>

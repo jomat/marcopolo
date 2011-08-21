@@ -1,0 +1,19 @@
+<span class="map">
+&nbsp;Erdgeschoss &nbsp; Obergeschoss<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">T</span><br>
+&nbsp; &nbsp;<font color=blue>\|</font> &nbsp; |<br>
+&nbsp; &nbsp;<font color=00CC00>-</font>[[<font color=00CC00>b</font>|../Nordische_Inseln]]&lt;<span class="gelb">K</span>-<span class="gelb">H</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">L</span><br>
+&nbsp; &nbsp; <font color=00CC00>|</font> &nbsp; <font color=808080>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<font color=808080>a</font>|../Nordische_Inseln]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\</font>
+
+</span>
+
+<span class="legend">
+<font color=808080>a =</font> Burgauffahrt (auf [[<span class="hellblau">Vandras</span>|../Nordische_Inseln]])<br>
+<font color=00CC00>b =</font> Bei den Beerensträuchern (auf [[<span class="hellblau">Vandras</span>|../Nordische_Inseln]] - man kann durchs Fenster runterklettern)<br>
+<span class="gelb">H =</span> Große Halle der Burg (der Weg nach Norden ist hinter nem Vorhang versteckt den man zur Seite schieben muss; hier gehts hoch ins Labor)<br>
+<span class="gelb">K =</span> Küche (man kommt nur rein indem man durchs Fenster klettert - die Tür ist verrammelt)<br>
+<span class="gelb">L =</span> Salamans Labor (runter kommt man indem man in das Loch springt)<br>
+<span class="gelb">T =</span> Thronsaal<br>
+</span>

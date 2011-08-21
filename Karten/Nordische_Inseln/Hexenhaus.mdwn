@@ -1,0 +1,24 @@
+<span class="map">
+&nbsp; &nbsp;Keller &nbsp; Ergeschoss &nbsp; Dachboden<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp;[[<font color=808080>S</font>|Hexentunnel]]<font color=808080>-</font>k &nbsp; &nbsp; <font color=00CC00>-[[<font color=00CC00>K</font>|Hexenwald]]-</font><span class="gelb">K</span> <span class="gelb">B</span><br>
+&nbsp; &nbsp; <font color=808080>/</font> &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;| | <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">V</span>-t &nbsp; &nbsp; &nbsp;<span class="gelb">H</span>-t-<span class="gelb">F</span><font color=00CC00>-</font>[[<font color=00CC00>h</font>|Hexenwald]] &nbsp; &nbsp; &nbsp; &nbsp;t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | &nbsp; <font color=00CC00>.</font> &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">k</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">D</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bithra, die Oberhexe<br>
+<span class="gelb">D =</span> Dachbodenkammer (mit Wahlurne und Schrank)<br>
+<span class="gelb">F =</span> Flur (mit einer Wächterin die Nichthexen nur nach Westen durchlässt wenn diese mit 'xy ist mein Gast und ist in unserem Haus gerne gesehen' von ner Hexe eingeladen wurden)<br>
+<span class="gelb">H =</span> Kammer des Hexenmeisters<br>
+<font color=00CC00>h =</font> Vor dem Hexenhaus (im [[<span class="hellblau">Hexenwald</span>|Hexenwald]])<br>
+<span class="gelb">K =</span> Hexenküche<br>
+<span class="gelb">k =</span> Kristallzimmer<br>
+<font color=00CC00>K =</font> Kräutergarten im [[<span class="hellblau">Hexenwald</span>|Hexenwald]] (nach Osten traut man sich nur wenn man eingeladen wurde - siehe feld F)<br>
+<font color=808080>S =</font> [[<span class="hellblau">Stollen</span>|Hexentunnel]] unter dem Hexenwald<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="gelb">V =</span> Vorratskeller<br>
+</span>
