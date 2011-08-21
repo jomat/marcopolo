@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|<br>
 M-m-m-m-m-m-m-M<br>
@@ -14,9 +14,10 @@ M-m-m [[<font color=808080>s</font>|Dschungelinsel/Innenansicht_Dschungelinsel]]
 M-m-m-<span class="hellblau">H</span>-m-m-m-M<br>
 |X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M</p>
-</td>
-</tr>
-</table>
+</font>
+</span>
+
+<span class="legend">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="hellblau">H =</span> Hafen<BR>
 <font color=blue>M =</font> Meer<BR>
