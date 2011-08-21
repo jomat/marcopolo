@@ -1,34 +1,28 @@
-<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+<span class="map">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">h</span>|S-Bahn]]<font color=808080>-t-</font>b-[[<span class="hellblau">g</span>|Cannstatt]]-a<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau">B</span><br>
 &nbsp; &nbsp; &nbsp; / \<br>
-
 &nbsp;[[<span class="hellblau">K</span>|S-Bahn]]&lt;H&lt;H &nbsp; <span class="gelb">T</span><br>
 &nbsp; &nbsp; /<br>
-&nbsp; &nbsp;S</FONT></TD>
-</TR>
+&nbsp; &nbsp;S</FONT>
+</span>
 
-</TABLE>
-
+<span class="legend">
 </CENTER>
 </DIV>
 <br>
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <span class="hellblau">B =</span> Bahnsteig, von dem aus eine Regionalbahn nach [[<span class="hellblau">Erlangen</span>|Erlangen]] und ein EuroCity über [[<span class="hellblau">Mannheim</span>|Mannheim]] und [[<span class="hellblau">Saarbrücken</span>|Saarbruecken]] nach [[<span class="hellblau">Paris</span>|Paris]] fährt<br>
-
 <font color=C0C0C0>b =</font> Brücke über den Neckar<br>
 <span class="hellblau">g =</span> Bahnsteig von [[<span class="hellblau">Bad Cannstatt</span>|Cannstatt]] (runter gehts Richtung Rummel)<br>
 <font color=C0C0C0>H =</font> Obere und Untere Bahnhofshalle<br>
 <span class="hellblau">h =</span> Gelände des Hauptbahnhofes (runter gehts in die [[<span class="hellblau">S-Bahn-Tunnel</span>|S-Bahn]])<br>
-
 <span class="hellblau">K =</span> Klett-Passage (runter gehts in die [[<span class="hellblau">S-Bahn-Tunnel</span>|S-Bahn]])<br>
 <font color=C0C0C0>S =</font> Schalterhalle<br>
 <span class="gelb">T =</span> Bahnhofsturm<br>
 <font color=808080>t =</font> Cannstatter Tunnel<br>
-
+</span>
