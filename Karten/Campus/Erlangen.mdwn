@@ -1,57 +1,42 @@
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=red>|</font><br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s-s-s<font color=red>-</font><br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; s<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; m<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; m-<font color=blue>B</font>-m<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; m<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; s<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; s<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-s-p-p-p<font color=red>-</font><br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | | |<br>
-
-    &nbsp; &nbsp;g g <A TITLE="Zug nach Stuttgart Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>g</font></A>-H-<font color=FFCC00>p</font> &nbsp; | | |<br>
-    &nbsp; &nbsp;| | | &nbsp; | &nbsp; | | |<br>
-
-    &nbsp;P-d-d-<font color=FF9900>S</font> &nbsp; p-s-p-p-p<font color=red>-</font><br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; s<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; <font color=00CCFF>$</font><br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
-
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-p-p-p<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=red>| &nbsp; &nbsp; |</font></FONT></TD>
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">|</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s-s-s<span class="rot">-</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; m-<font color=blue>B</font>-m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; m<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-s-p-p-p<span class="rot">-</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | | |<br>
+&nbsp; &nbsp;g g [[<span class="hellblau">g</span>|Hauptbahnhof]]-H-<span class="gelb">p</span> &nbsp; | | |<br>
+&nbsp; &nbsp;| | | &nbsp; | &nbsp; | | |<br>
+&nbsp;P-d-d-<span class="orange">S</span> &nbsp; p-s-p-p-p<span class="rot">-</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; <span class="hellblau">$</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p-p-p-p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">| &nbsp; &nbsp; |</span></FONT></TD>
 </span>
-
 <span class="legend">
-
-<font color=00CCFF>$ =</font> Hier kann man die Bank betreten<br>
+<span class="hellblau">$ =</span> Hier kann man die Bank betreten<br>
 <font color=C0C0C0>d =</font> Durchgang unter den Gleisen<br>
-
 <font color=blue>B =</font> Brunnen auf dem Marktplatz<br>
-<font color=00CCFF>g =</font> Gleis 4, 3/2, 1 (von Links nach Rechts - an Gleis 1 fährt die Regionalbahn nach <A TITLE="Zug nach Stuttgart Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Stuttgart</font></A> ab)<br>
+<span class="hellblau">g =</span> Gleis 4, 3/2, 1 (von Links nach Rechts - an Gleis 1 fährt die Regionalbahn nach [[<span class="hellblau">Stuttgart</span>|Hauptbahnhof]] ab)<br>
 <font color=C0C0C0>H =</font> Bahnhofshalle<br>
 <font color=C0C0C0>m =</font> Marktplatz<br>
-
 <font color=C0C0C0>P =</font> Parkplatz<br>
-<font color=FFCC00>p =</font> Der Punk (das einzige Lebewesen in Erlangen)<br>
+<span class="gelb">p =</span> Der Punk (das einzige Lebewesen in Erlangen)<br>
 <font color=C0C0C0>p =</font> Platz<br>
-<font color=FF9900>S =</font> Snackautomat<br>
+<span class="orange">S =</span> Snackautomat<br>
 <font color=C0C0C0>s =</font> Straße/Gasse<br>
+</span>
