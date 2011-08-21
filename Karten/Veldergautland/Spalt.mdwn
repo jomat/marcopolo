@@ -1,0 +1,8 @@
+<span class="map">
+<font color=FFFFFF>E =</font> Eishöhle<br>
+<span class="rot">F =</span> Flammentor zur [[<span class="hellblau">Beschwörergilde</span>|../OdF]]<br>
+<span class="hellblau">G =</span> Eingang in die Gletscherspalte (in [[<span class="hellblau">Veldergautland</span>|../Veldergautland]])<br>
+<font color=FFFFFF>g =</font> Gang<br>
+<font color=808080>h =</font> Düstere Höhle<br>
+<font color=FFFFFF>v =</font> Vorsprung (hier kann man runterklettern)<br>
+</span>

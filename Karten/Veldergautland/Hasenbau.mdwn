@@ -1,0 +1,7 @@
+<span class="map">
+<font color=FFFFFF>g =</font> Gang im Schnee (muss man erst mit &quot;grabe nach [Richtung]&quot; verbreitern - oder man hat ne Schaufel und buddelt ganz neue Gänge...)<br>
+<span class="hellblau">H =</span> Schneehase (der steckt in einer der Sackgassen im Bau - meistens da wo man zuletzt sucht)<br>
+<font color=FFFFFF>h =</font> Gang nach oben (verbreitern s.o.)<br>
+<font color=FFFFFF>r =</font> Gang nach unten (verbreitern s.o.)<br>
+<span class="hellblau">S =</span> Schneemann auf dem [[<span class="hellblau">Schneeweg</span>|Schneeweg]]<br>
+</span>
