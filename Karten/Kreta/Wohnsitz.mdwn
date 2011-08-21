@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp;Erdgeschoss&nbsp; &nbsp;Untergeschoss<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="gelb">&nbsp; I</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; |<br>
+&nbsp; &nbsp;<span class="gelb">k</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font color=FFCC00>&nbsp;G<BR>
+</font>&nbsp;&nbsp; | &nbsp; <font color=00CC00>|/</font>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp; <span class="gelb">&nbsp;E</span>-t-[[<font color=00CC00>D</font>|Kreta]]<font color=00CC00>-</font>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="gelb">J</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; <font color=00CC00>|\</font>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <span class="gelb">&nbsp;K</span>
+</span>
+
+<span class="legend">
+<font color=00CC00>D =</font> Dünenlandschaft an der Küste von [[<span class="hellblau">Kreta</span>|Kreta]]<br>
+<span class="gelb">E =</span> Deianeiras Empfangshalle (hier gehts auch runter ins Untergeschoss)<br>
+<span class="gelb">G =</span> Gästezimmer (Geheimtür nach Norden...)<br>
+<span class="gelb">I =</span> Innenhof & Altar der Hera<br>
+<span class="gelb">J =</span> Jagdtzimmer<br>
+<span class="gelb">K =</span> Küche / Gesindezimmer<br>
+<span class="gelb">k =</span> Kinderzimmer<br>
+<font color=C0C0C0>t =</font> Torweg der Villa & 2 Wächter ['will zu deianeira' um reinzukommen]<br>
+</span>

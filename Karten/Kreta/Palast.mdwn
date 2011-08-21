@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp;g-<span class="gelb">P</span><br>
+&nbsp;|<br>
+&nbsp;<span class="gelb">p</span>-[[<span class="hellblau">t</span>|altes_Troja]]<br>
+&nbsp;|<br>
+&nbsp;g-<span class="gelb">H</span>
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">H =</span> Helena<br>
+<span class="gelb">P =</span> König Priamos<br>
+<span class="gelb">p =</span> Paris<br>
+<span class="hellblau">t =</span> Treppe runter zum [[<span class="hellblau">alten Troja</span>|altes_Troja]]<br>
+</span>

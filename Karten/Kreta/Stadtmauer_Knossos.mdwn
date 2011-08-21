@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp;[[<span class="gelb">T</span>|Knossos]]-m-m-m-m-m-m-[[<span class="gelb">T</span>|Knossos]]<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;[[<span class="gelb">T</span>|Knossos]]-m-m-m-m-m-m-[[<span class="gelb">T</span>|Knossos]]<br>
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>m =</font> Stadtmauer (auf der Westmauer steht auch noch Illias, der Straﬂenjunge rum - wobei der sich wahrscheinlich bewegt)<br>
+<span class="gelb">T =</span> Turm (runter gehts nach [[<span class="hellblau">Knossos</span>|Knossos]], hoch auf die Spitze des jeweiligen Turmes)<br>
+</span>

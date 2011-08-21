@@ -1,0 +1,26 @@
+<span class="map">
+&nbsp;&nbsp; Ruinen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
+Obergeschoss<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g-v&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; m<br>
+&nbsp;<font color=00CC00>\|</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; |<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Kreta]]</font>-r-r-r-r-t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; r-t<br>
+&nbsp;<font color=00CC00>/|</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g-s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m-[[<span class="hellblau">S</span>|altes_Troja]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; g
+</span>
+
+<span class="legend">
+<font color=808080>g =</font> verfallener Gang<br>
+<font color=808080>h =</font> Schutthalde<br>
+<font color=00CC00>O =</font> Vor der Ruine von Troja (auf [[<span class="hellblau">Phygria</span>|Kreta]])<br>
+<font color=808080>r =</font> Ruinen<br>
+<span class="hellblau">S =</span> Spiegeltor in die Zeit des [[<span class="hellblau">alten Troja</span>|altes_Troja]]<br>
+<font color=808080>s =</font> Überreste eines Salons<br>
+<font color=808080>t =</font> Treppe<br>
+<font color=808080>v =</font> alte Vorratskammer<br>
+</span>

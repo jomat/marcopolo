@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp;<font color=00CC00>-[[<font color=00CC00>v</font>|altes_Troja]]</font>-----f<br>
+&nbsp; &nbsp;<font color=00CC00>\</font>&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t-<span class="gelb">K</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; V-S<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<font color=C0C0C0>z</font>|altes_Troja]]
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="gelb">K =</span> Küche (hier steht ne Werkezugkiste)<br>
+<font color=C0C0C0>S =</font> Spülküche<br>
+<font color=C0C0C0>t =</font> Treppe hoch zum Schlafzimmer<br>
+<font color=C0C0C0>V =</font> Verschlag<br>
+<font color=00CC00>v =</font> Hinter einem kleinen Haus (im [[<span class="hellblau">alten Troja</span>|altes_Troja]])<br>
+<font color=C0C0C0>z =</font> Ziegengehege (man kann über den Zaun zurück in die Wälder des [[<span class="hellblau">alten Troja</span>|altes_Troja]] klettern<br>
+</span>

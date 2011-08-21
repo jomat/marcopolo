@@ -1,0 +1,28 @@
+<span class="map">
+&nbsp; <font color=00CC00>\|/<br>
+&nbsp; -[[<font color=00CC00>S</font>|Cyprus_Wald]]-<br>
+&nbsp; /</font><font color=C0C0C0>v<br>
+&nbsp; &nbsp;p<br>
+&nbsp; &nbsp;v<br>
+&nbsp; &nbsp;v</font><br>
+&nbsp;<font color=00CC00>T-T-T</font><br>
+&nbsp; &nbsp; &nbsp;|<font color=00CC00>\</font><br>
+&nbsp;<span class="gelb">H</span> B.E <font color=00CC00>T</font><br>
+&nbsp;| |<br>
+&nbsp;u-u-u<br>
+&nbsp;<font color=blue>|X|X|</font><br>
+&nbsp;<font color=blue>s-s-w</font><br>
+</TD>
+</span>
+
+<span class="legend">
+<font color=008000>B =</font> Eiche (über einen Ast kann man zur Eiche rüberklettern)<br>
+<font color=008000>E =</font> Eiche (durch einen Spalt kommt man in den hohlen Baum, kann dann innen hoch und über einen Ast zur Birke rüberklettern)<br>
+<span class="gelb">H =</span> Helos Hütte<br>
+<font color=C0C0C0>p =</font> Pfad ins Tal<br>
+<font color=00CC00>S =</font> Ein Hügel (in einem [[<span class="hellblau">Wald</span>|Cyprus_Wald]] auf Cyprus)<br>
+<font color=blue>s =</font> See<br>
+<font color=00CC00>T =</font> Tal<br>
+<font color=008000>u =</font> Am Ufer eines kleinen Sees<br>
+<font color=blue>w =</font> Wasserfall<br>
+</span>

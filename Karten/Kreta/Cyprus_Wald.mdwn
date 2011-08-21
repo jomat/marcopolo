@@ -1,0 +1,34 @@
+<span class="map">
+&nbsp;<font color=blue>\|/</font><br>
+&nbsp; [[<font color=FFFF00>s</font>|Cyprus]]<font color=FFFF00>-</font><br>
+&nbsp; |<br>
+&nbsp; W<br>
+&nbsp; |<br>
+&nbsp; W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>\</font><font color=blue>|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>H-S</font> &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFFF00>-</font>[[<font color=FFFF00>s</font>|Cyprus]]<font color=C0C0C0>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/|X|\</font> &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; W-<font color=00CC00>H-S-H-H</font> &nbsp; &nbsp; &nbsp; W<br>
+&nbsp;<font color=FFFF00>\|</font> &nbsp; | <font color=00CC00>|X|X|X|</font> &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<font color=blue>-</font>[[<font color=FFFF00>s</font>|Cyprus]]-W-W <font color=00CC00>H-S-S-H</font>-W-W-W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|/</font><font color=C0C0C0>v</font><br>
+&nbsp; &nbsp; &nbsp; <font color=C0C0C0>p<</font><font color=008000>F</font><font color=C0C0C0>.</font><font color=00CC00>H</font> [[<font color=00CC00>Tal</font>|Cyprus_Tal]]<br>
+&nbsp; &nbsp; &nbsp; <font color=C0C0C0>v</font><br>
+&nbsp; &nbsp; &nbsp; <font color=C0C0C0>f</font><br>
+&nbsp; &nbsp; &nbsp; <font color=C0C0C0>v</font><br>
+&nbsp; &nbsp; &nbsp; [[<font color=C0C0C0>s</font>|Cyprus]]<br>
+&nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
+</TD>
+</span>
+
+<span class="legend">
+<font color=008000>F =</font> Flammenbaum (man kann an ner Liane zum Huegel runterklettern, oder den Baum runter Richtung Steinstrand)<br>
+<font color=C0C0C0>f =</font> Felssims<br>
+<font color=00CC00>H =</font> Hügel<br>
+<font color=C0C0C0>p =</font> Plateau<br>
+<font color=00CC00>S =</font> Schnabelfruchtbaum<br>
+<font color=FFFF00>s =</font> Sandstrand (auf [[<span class="hellblau">Cyprus</span>|Cyprus]])<br>
+<font color=C0C0C0>s =</font> Steiniger Strand (auf [[<span class="hellblau">Cyprus</span>|Cyprus]])<br>
+<font color=blue>u =</font> Kueste vor einer Insel<br>
+<font color=008000>W =</font> Wald<br>
+</span>

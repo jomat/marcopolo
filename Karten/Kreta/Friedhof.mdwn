@@ -1,0 +1,19 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">C G</span><br>
+&nbsp;<font color=C0C0C0>|</font> &nbsp; | |<br>
+&nbsp;[[<span class="hellblau">s</span>|Knossos]]-[[<span class="hellblau">G</span>|Gruft]]-v-<span class="gelb">A</span>-<span class="gelb">S</span><br>
+&nbsp;<font color=C0C0C0>|</font> &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;<font color=008000>B</font>-<span class="gelb">z</span>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Altarraum<br>
+<font color=008000>B =</font> großer Baum (man kann draufklettern)<br>
+<span class="gelb">C =</span> Grab des Chaosritters (Nachts kann man hier einen Grabräuber auf frischer Tat erwischen)<br>
+<span class="gelb">G =</span> Glockenturm (hoch gehts zu den Glocken)<br>
+<span class="hellblau">G =</span> Hier kann man ein [[<span class="hellblau">Familiengrab</span>|Gruft]] betreten<br>
+<span class="gelb">S =</span> Sakristei<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Knossos</span>|Knossos]]<br>
+<font color=00CC00>v =</font> vor einer Kirche<br>
+<span class="gelb">z =</span> hier spielt ein Zigeunerjunge auf einer grünen Wiese<br>
+</span>

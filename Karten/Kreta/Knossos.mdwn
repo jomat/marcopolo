@@ -1,0 +1,95 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="gelb">M</span>|Stadtmauer_Knossos]]-g &nbsp; &nbsp; [[<span class="hellblau">T</span>|Kreta]] &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="gelb">M</span>|Stadtmauer_Knossos]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">L</span>-s-s-s-s-s-s-s-<span class="gelb">b-[[<font color=FFCC00>b</span>|Vulkanien]]</font>-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <font color=00CC00>/</font> &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>p-p</font> &nbsp; <span class="gelb">H</span> <span class="gelb">p</span>-[[<font color=C0C0C0>k</font>|Kanalisation_Knossos]]-<span class="orange">R</span>&nbsp;<span class="gelb">e</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>|X|</font> &nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>p-p</font> &nbsp; <span class="hellblau">$ P</span> s-[[<span class="gelb">F</span>|Friedhof]] s &nbsp; &nbsp; &nbsp; <span class="orange">C</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00> |</font> &nbsp; | | | &nbsp; | &nbsp; &nbsp; &nbsp;<font color=00CC00> |</font><br>
+&nbsp; &nbsp; &nbsp; <span class="orange">I</span><font color=00CC00>-k-p</font> &nbsp; [[<font color=C0C0C0>k</font>|Kanalisation_Knossos]]-s-s-s-[[<font color=C0C0C0>k</font>|Kanalisation_Knossos]]-<span class="orange">d</span> &nbsp; <font color=blue>f-s</font><font color=00CC00>-w&nbsp;<span class="gelb">r</span>-G</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>|</font> &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; <font color=blue>|</font><font color=00CC00> &nbsp; &nbsp;/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">L</span> [[<span class="hellblau">w</span>|Wolkenstadt]] <span class="orange">D</span>-s &nbsp; <span class="gelb">A</span> &nbsp; s <span class="orange">F</span> &nbsp; <font color=blue>f</font><font color=00CC00> g-g</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | | &nbsp; | &nbsp; | &nbsp; | | &nbsp; <font color=blue>|</font> <font color=00CC00>|</font><br>
+<span class="hellblau">&nbsp; &nbsp; &nbsp;-</FONT>[[<font color=00CCFF>T</span>|Orkwald]]-s-s-[[<font color=C0C0C0>k</font>|Kanalisation_Knossos]]-s <span class="gelb">S</span>-t-[[<span class="hellblau">D</span>|Druidengilde]] s-s-s-<font color=blue>f</font><font color=00CC00>-g</font><font color=FFFFFF>-s-i-K</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; | | &nbsp; | &nbsp; | &nbsp; | | &nbsp; <font color=blue>|</font> <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<span class="violett">E</span>|E-Haus]] <span class="gelb">k</span> &nbsp; s &nbsp; s &nbsp; s <span class="orange">B</span> &nbsp; <font color=blue>B</font><font color=00CC00> g-g</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/&nbsp; &nbsp; | &nbsp; | &nbsp; | &nbsp; &nbsp; <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">h</span> &nbsp; <span class="orange">S</span>-s-s-<font color=blue>B</font>-[[<font color=C0C0C0>k</font>|Kanalisation_Knossos]]-s-[[<span class="orange">W</span>|Kanalisation_Knossos]] &nbsp; <font color=00CC00>w-w-w</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">s N</span>-s <span class="gelb">W</span> <span class="gelb">B</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s-<span class="gelb">l</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">K</span> |&nbsp;<span class="gelb">P Y</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">R</span>-<span class="hellblau">H</span>-H-w-w-<span class="gelb">a</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<font color=blue> | | | |</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-H<font color=blue>-[[<font color=blue>h</font>|Kanalisation_Knossos]]-[[<font color=blue>h</font>|Kanalisation_Knossos]]-[[<font color=blue>h</font>|Kanalisation_Knossos]]-</font>[[<font color=blue>h</font>|Kanalisation_Knossos]]-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; <font color=blue>|</font> &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="gelb">M</span>|Stadtmauer_Knossos]] &nbsp; &nbsp; [[<font color=blue>M</font>|Kreta]] &nbsp; &nbsp; [[<span class="gelb">M</span>|Stadtmauer_Knossos]]</TD>
+</tr>
+</table>
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">A =</span> Aphrodite-Tempel<br>
+<span class="gelb">a =</span> Argentos, der Hafenmeister<br>
+<span class="gelb">B =</span> Bibliothek<br>
+<span class="gelb">b =</span> Ballonlandeplatz <br>
+&nbsp; &nbsp; .Linie 1 nach [[<span class="hellblau">Tadmor</span>|Vaniorh/Tadmor]] (westliches Feld)<br>
+&nbsp; &nbsp; .Zeppelin nach [[<span class="hellblau">Phexcaer</span>|Nordische_Inseln/Phexcaer]] (westliches Feld)<br>
+&nbsp; &nbsp; .Linie 2 nach [[<span class="hellblau">Vulkania</span>|Vulkanien]] (östliches Feld)<br>
+<span class="orange">B =</span> Bäckerei<br>
+<font color=blue>B =</font> brunnen<br>
+<span class="orange">C =</span> Cafe Seegarten<br>
+<span class="hellblau">D =</span> [[<span class="hellblau">Druidengilde</span>|Druidengilde]]<br>
+<span class="orange">D =</span> Laden für Damenbekleidung<br>
+<span class="orange">d =</span> Dzifar, der Ramschhändler<br>
+<span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]]<br>
+<span class="gelb">e =</span> Eisschloss<br>
+<span class="orange">F =</span> Blumenladen<br>
+<span class="gelb">F =</span> [[<span class="hellblau">Friedhof</span>|Friedhof]]<br>
+<font color=blue>f =</font> kleiner Fluss<br>
+<font color=00CC00>G =</font> Gewächshaus<br>
+<font color=00CC00>g =</font> Hängende Gärten<br>
+<font color=C0C0C0>g =</font> Gang in der Stadtmauer<br>
+<span class="hellblau">H =</span> Hafen (am blauen Feld ist die Kurstafel)<br>
+<span class="gelb">H =</span> Armenhaus<br>
+<span class="gelb">h =</span> Platz der Hehler<br>
+<font color=blue>h =</font> Hafenbecken (man kann hier zum [[<span class="hellblau">Grund</span>|Kanalisation_Knossos]] tauchen)<br>
+<span class="orange">I =</span> Isabella's Kräuterladen<br>
+<font color=FFFFFF>i =</font> kleine Insel im zugefrorenen See<br>
+<span class="orange">K =</span> Hafenkeller von Knossos (Kneipe)<br>
+<font color=FFFFFF>K =</font> Hochzeitskapelle von Knossos<br>
+<span class="gelb">k =</span> Tiuri, der Leierkastenkobold<br>
+<font color=00CC00>k =</font> Kräutergarten<br>
+<font color=C0C0C0>k =</font> Hier ist ein Kanaldeckel auf der Straße durch den man in die [[<span class="hellblau">Kanalisation</span>|Kanalisation_Knossos]] kommt<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="gelb">L =</span> Labyrinth des Daedalus<br>
+<span class="gelb">l =</span> Lagerhaus<br>
+<font color=blue>M =</font> Meer<br>
+<span class="gelb">M =</span> Hier gehts hoch auf die [[<span class="hellblau">Stadtmauer</span>|Stadtmauer_Knossos]] von Knossos<br>
+<span class="orange">N =</span> Nautischer Zubehörladen<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="gelb">P =</span> Pharos, Herr der Schiffe<br>
+<span class="gelb">p =</span> Podstranos, der Mathemagier<br>
+<font color=00CC00>p =</font> Park<br>
+<span class="orange">R =</span> Ronja, die Heilerin<br>
+<span class="gelb">R =</span> Regatta-Büro<br>
+<span class="gelb">r =</span> Robbie, der Roboter<br>
+<span class="gelb">S =</span> Stadthalle<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<font color=FFFFFF>s =</font> zugefrorener See<br>
+<span class="orange">S =</span> Sokrates' Gasthof<br>
+<span class="orange">s =</span> Agenor, der Schmied<br>
+<font color=blue>s =</font> kleiner See (hinter dem Wasserfall hier ist eine 
+kleine Höhle)<br>
+<span class="hellblau">T =</span> Stadttore (durch das nördliche Tor geht es nach [[<span class="hellblau">Kreta</span>|Kreta]], im Westen in den [[<span class="hellblau">Orkwald</span>|Orkwald]]<br>
+<font color=C0C0C0>t =</font> Platz des Talos<br>
+<span class="gelb">W =</span> Halle der Ewigen Worte<br>
+<span class="orange">W =</span> Weinhandlung von Xeros (im Keller ist ein Eingang zur [[<span class="hellblau">Kanalisation</span>|Kanalisation_Knossos]])<br>
+<span class="hellblau">w =</span> Hier kann man den Aufzug hoch zur [[<span class="hellblau">Wolkenstadt</span>|Wolkenstadt]] herbeirufen (den Aufzug hoch oder runter bewegen kostet 1 Gulden)<br>
+<font color=00CC00>w =</font> Liegewiese (&amp; Badesee im Südlichen Teil der Hängenden Gärten)<br>
+<font color=C0C0C0>w =</font> Werftgelände<br>
+<span class="gelb">Y =</span> Yachthafen von Knossos<br>
+</span>

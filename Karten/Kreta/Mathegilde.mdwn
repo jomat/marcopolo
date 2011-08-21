@@ -1,0 +1,54 @@
+<span class="map">
+&nbsp; Erdgeschoss &nbsp;&nbsp;&nbsp;1.Untergeschoss&nbsp;&nbsp; 
+2.Untergeschoss<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;a-<span class="gelb">M</span> 
+r-f-f s-w&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="hellblau">L</span>-h-g<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |<br>
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;T&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;a t-t f-f s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;g<br>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;| |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+|/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|/&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp; &nbsp;<span class="gelb">a</span>-<span class="gelb">G</span>-<span class="gelb">b</span>-<span class="gelb">B</span>&nbsp;&nbsp;&nbsp; 
+&nbsp;T-k-a-a-a-a-f&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;g-g-g<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;|\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-<span class="gelb">I</span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;z&nbsp;g-r&nbsp;p-p-p <span class="gelb">D</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+h-g<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=00CC00>|</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;| | | | |<br>
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<font color=00CC00>v</font>|Ephesos]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;z-<span class="gelb">h</span>&nbsp;<span class="gelb">A</span>-p&nbsp;p&nbsp;p-<span class="gelb">T</span><br>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<font color=00CC00>|</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| | |<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+p-p-p
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Achras, der Polyederforscher<br>
+<span class="gelb">a =</span> Aufenthaltsraum<br>
+<font color=C0C0C0>a =</font> Algebra / Analysis<br>
+<span class="gelb">B =</span> Bibiliothek<br>
+<span class="gelb">b =</span> Vorzimmer zur Bibiliothek<br>
+<span class="gelb">D =</span> Vierdimensionaler Würfel<br>
+<font color=C0C0C0>E =</font> Eingangshalle<br>
+<font color=C0C0C0>f =</font> Funktionsräume (runter gehts in eine unendliche Ebene)<br>
+<span class="gelb">G =</span> Gildenhalle<br>
+<font color=C0C0C0>g =</font> Geometrie (1. Untergeschoss), Geheimgang (2. Untergeschoss)<br>
+<span class="gelb">h =</span> Die Klassenzahl h<br>
+<font color=C0C0C0>h =</font> hier kann man nach oben<br>
+<span class="gelb">I =</span> Informationsraum<br>
+<font color=C0C0C0>k =</font> Katakomben<br>
+<span class="hellblau">L =</span> Laden<br>
+<font color=C0C0C0>L =</font> großer Lehrsaal<br>
+<span class="gelb">M =</span> Die Menge M<br>
+<font color=C0C0C0>p =</font> Polyederräume<br>
+<font color=C0C0C0>r =</font> hier gehts runter<br>
+<font color=C0C0C0>s =</font> Stochastik (die Gänge hier haben gewisse Aufenthaltswahrscheinlichkeiten in verschiedene Richtungen)<br>
+<span class="gelb">T =</span> Tapeziermeister<br>
+<font color=C0C0C0>T =</font> Treppenhaus<br>
+<font color=C0C0C0>t =</font> Topologie<br>
+<font color=00CC00>v =</font> Vorgarten der Mathegilde (in [[<span class="hellblau">Ephesos</span>|Ephesos]])<br>
+<font color=C0C0C0>v =</font> Vektorraum<br>
+<font color=C0C0C0>z =</font> Zahlentheorie<br>
+</span>

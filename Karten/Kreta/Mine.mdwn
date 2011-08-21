@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp; &nbsp; \|<br>
+&nbsp; &nbsp; -<A TITLE="Kreta" A HREF="../Kreta.html"><span class="hellblau">M</span></A><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">E</span> &nbsp; h<br>
+&nbsp; <font color=FFFFFF>\</font> &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">W</span> s<br>
+&nbsp; &nbsp;<font color=FFFFFF>v</font> &nbsp;\<br>
+&nbsp;<font color=FFFFFF>H-E-</font><span class="gelb">a</span>&lt;A.<A TITLE="raus nach Kreta" A HREF="../Kreta.html"><span class="hellblau">T</span></A></TD>
+</FONT>
+</span>
+
+<span class="legend">
+<font color=808080>A =</font> an einem Abgrunde (man kann hier runterklettern [<])<br>
+<span class="gelb">a =</span> am Fuße eines Abgrundes (hier liegt ein Skelett mit nem Seil und man kann hochklettern [<])<br>
+<span class="gelb">E =</span> Elrincs Zuhause<br>
+<font color=FFFFFF>E =</font> Eiswelt (man kann den Wasserfall hochklettern [v])<br>
+<font color=FFFFFF>H =</font> Hinter dem Wasserfall<br>
+<span class="hellblau">M =</span> vor der Mine, in den Bergen auf <A TITLE="Kreta" A HREF="../Kreta.html"><span class="hellblau">Kreta</span></A><br>
+<font color=808080>s =</font> niedriger Stollen (in und aus diesem Feld kann man nur kriechen)<br>
+<span class="hellblau">T =</span> Höhlentempel (hier kann man rausgehen zu einem Feld in den Bergen von <A TITLE="Kreta" A HREF="../Kreta.html"><span class="hellblau">Kreta</span></A> oder in ein Loch runterspringen zum Abgrund A)<br>
+<span class="gelb">W =</span> überm Wasserfall - hier sitzt Elrinc mit seinem Schatz (vorsicht beim runterklettern [v] - man stürzt glaube ich immer ab und tut sich dabei recht weh)<br>
+</span>

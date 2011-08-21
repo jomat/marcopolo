@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-<span class="orange">e</span>-p&nbsp; &nbsp;<span class="orange">B</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ /<br>
+&nbsp; &nbsp; &nbsp;g-<span class="gelb">G</span> &nbsp; &nbsp; s-s-[[<span class="gelb">E</span>|Stratos-Arkaden]]<br>
+&nbsp; &nbsp; ..&nbsp;|&nbsp; &nbsp; / &nbsp;|<br>
+&nbsp; &nbsp; .<span class="gelb">L</span> <font color=00CC00>v</font>&nbsp; &nbsp;p &nbsp; <span class="orange">M</span><br>
+&nbsp; &nbsp; ..&nbsp; \ &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;.&nbsp; &nbsp;<span class="gelb">H</span>-p<br>
+&nbsp; &nbsp; &nbsp;.&nbsp; &nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">a</span> &nbsp; . &nbsp; &nbsp; p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>w</font><br>
+&nbsp; <font color=808080>\</font> &nbsp;.&nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>/</font><br>
+&nbsp; &nbsp;<font color=00CC00>w-w-w-</font>p &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>w-</font><span class="hellblau">F</span><br>
+&nbsp; &nbsp;<font color=00CC00>|X|X|X</font>| &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>|X|</font><br>
+&nbsp; &nbsp;<font color=00CC00>w-w-w-</font>p-<span class="gelb">h</span>&nbsp;p-[[<span class="hellblau">K</span>|Knossos]]&nbsp; &nbsp;<font color=00CC00>w-w</font><br>
+&nbsp; &nbsp;<font color=00CC00>|X|X|X</font>| &nbsp;/ &nbsp; \ <font color=00CC00>/</font><br>
+&nbsp;&nbsp; <font color=00CC00>w-w-w-</font>p-p &nbsp; &nbsp; p-<span class="orange">M</span>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Amphitheater von Stratos<br>
+<span class="gelb">a =</span> Finstere Höhle mit Opferaltar<br>
+<span class="orange">B =</span> Bezalels Schnellrestaurant (für Golems)<br>
+<span class="gelb">E =</span> Eingang der [[<span class="hellblau">Stratos-Arkaden</span>|Stratos-Arkaden]]<br>
+<span class="orange">e =</span> Eingang zum Amphitheater (man muss sich ne Karte kaufen)<br>
+<span class="hellblau">F =</span> Hier gehts nach Levitanis (auf den Felsen klettern... solange die Wolke über einem ist)<br>
+<span class="gelb">G =</span> Gnollhöhle<br>
+<font color=C0C0C0>g =</font> Gang (man muss über das Loch im Boden springen um in das Lager der Gnolle zu kommen, ansonsten fällt man durch den Schacht bis zur Wiese im Süden)<br>
+<span class="gelb">H =</span> Gnoll-Hinterhalt<br>
+<span class="gelb">h =</span> Alte Hirtenhütte<br>
+<span class="hellblau">K =</span> Hier gehts wieder runter nach [[<span class="hellblau">Knossos</span>|Knossos]]  mit dem Aufzug (eine Fahrt kostet 1 Gulden)<br>
+<span class="gelb">L =</span> Lager der Gnollhöhle (man muss über das Loch im Boden springen um in den Gang zu kommen, ansonsten fällt man durch den Schacht bis zur Wiese im Süden)<br>
+<span class="orange">M =</span> Maultiervermietung (die Maultiere bringen einen zum jeweils anderen Stall)<br>
+<font color=C0C0C0>p =</font> Bergpfad<br>
+<font color=00CC00>v =</font> Vorgarten<br>
+<font color=00CC00>w =</font> Wiese (mit Schafen)<br>
+</span>

@@ -1,0 +1,24 @@
+<span class="map">
+&nbsp;<font color=00CC00>Erdgeschoss &nbsp; Keller</font><br>
+&nbsp; &nbsp; <span class="orange">C S</span> <span class="gelb">F W</span><br>
+&nbsp; | <font color=00CC00>|&nbsp; \|/</font><br>
+&nbsp;-[[<span class="hellblau">t</span>|Knossos]]-<span class="gelb">E</span><font color=00CC00>---<font color=008000>E</font>-</font><span class="gelb">K</span> &nbsp; &nbsp; &nbsp; &nbsp;<font color=CC6600>w-</font><span class="gelb">k</span><br>
+&nbsp; | <font color=00CC00>| &nbsp; |</font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=CC6600>/</font><br>
+&nbsp; &nbsp; <span class="gelb">I</span> &nbsp; <font color=00CC00>K-</font><span class="gelb">S</span> &nbsp; &nbsp;[[<span class="hellblau">K</span>|Kanalisation_Knossos]]<font color=CC6600>-g</font>
+</span>
+
+<span class="legend">
+<span class="orange">C =</span> Cafe Teutates<br>
+<font color=008000>E =</font> Druideneiche (oben ist ein Baumhaus drauf)<br>
+<span class="gelb">E =</span> Eingangshalle<br>
+<span class="gelb">F =</span> Forum<br>
+<span class="gelb">I =</span> Informationsraum<br>
+<font color=00CC00>K =</font> Kräutergarten<br>
+<span class="hellblau">K =</span> Kanalisation von [[<span class="hellblau">Knossos</span>|Kanalisation_Knossos]]<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">k =</span> Druidenkeller<br>
+<span class="orange">S =</span> Sardors Refugium (Gildenladen)<br>
+<span class="gelb">S =</span> Steinkreis (Teleporter zu den anderen Kreisen bei den [[<span class="hellblau">Sehern</span>|Gallien/Sehergilde]], [[<span class="hellblau">Bardengilde</span>|Kreta]] und im [[<span class="hellblau">Karnutenwald</span>|Gallien/Karnutenwald]] - wobei man auch mal ein paar Felder nebendran rauskommt... oder auch manchmal in Erlangen)<br>
+<span class="hellblau">t =</span> Platz des Talos in [[<span class="hellblau">Knossos</span>|Knossos]]<br>
+<span class="gelb">W =</span> Raum der Weihe<br>
+</span>

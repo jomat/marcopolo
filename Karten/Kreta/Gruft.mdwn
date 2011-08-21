@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">G</span><br>
+	&nbsp; &nbsp; &nbsp;|<br>
+	&nbsp;<span class="gelb">G</span>-v <span class="gelb">S E</span>-g<br>
+	&nbsp; &nbsp;|/..|<br>
+	&nbsp; &nbsp;g [[<span class="hellblau">A</span>|Friedhof]] g-<span class="gelb">s</span><br>
+	&nbsp; &nbsp; \ /|<br>
+&nbsp; &nbsp; &nbsp;g <span class="gelb">s</span><br>
+&nbsp; &nbsp; &nbsp;|<br>
+	&nbsp; &nbsp; &nbsp;<span class="gelb">W</span>
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> Andachtsraum (hier kann man die 1. Nische [Spieler] bzw. 2. Nische [Engel] betreten und auch wieder raus auf den [[<span class="hellblau">Friedhof</span>|Friedhof]] von Knossos)<br>
+<span class="gelb">E =</span> Eingang für Engel (durch die 2. Nische im Andachtsraum kommt man über dieses Feld)<br>
+<span class="gelb">G =</span> Grabkammer<br>
+<font color=808080>g =</font> unterirdischer Gang<br>
+<span class="gelb">S =</span> Eingang für Spieler (durch die 1. Nische im Andachtsraum kommt man über dieses Feld)<br>
+<span class="gelb">s =</span> Sackgasse<br>
+<font color=808080>v =</font> Vorraum zu einer Grabkammer<br>
+<span class="gelb">W =</span> Wachraum<br>
+</span>

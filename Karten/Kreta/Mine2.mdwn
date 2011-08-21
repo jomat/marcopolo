@@ -1,0 +1,33 @@
+<span class="map">
+&nbsp; &nbsp;L<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;L &nbsp; &nbsp; M<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;g &nbsp; <span class="gelb">R</span>-T-<span class="gelb">A</span> g<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp;g &nbsp; &nbsp; M &nbsp; L<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp;L-M-M-M-L-g<br>
+&nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;M &nbsp; <span class="gelb">S</span> &nbsp; F<br>
+&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;[[<font color=C0C0C0>C</font>|Cyprus]].<span class="gelb">M</span>.M &nbsp; &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;W<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;L
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Die Kammer von Audrus, dem Alchemisten<br>
+<font color=C0C0C0>C =</font> Auf [[<span class="hellblau">Cyprus</span>|Cyprus]], an einer Felsspitze (man kann in eine Spalte rein nach drinnen kriechen)<br>
+<font color=808080>F =</font> Hier liegt ein großer Felsblock (mit einem Hohlraum dahinter)<br>
+<font color=808080>g =</font> Gang mit Goldvorkommen<br>
+<font color=808080>L =</font> Hier ist ein Loch in der Wand<br>
+<span class="gelb">M =</span> Verfallene Höhle in der Mellvin lebt (durch den Spalt kommt man raus, durch das Loch wo Mellvin anfangs drinsteckt in die Mine)<br>
+<font color=808080>M =</font> Alte Mine<br>
+<span class="gelb">R =</span> Rastplatz<br>
+<span class="gelb">S =</span> Zugenagelter Schacht (man kann die Bretter abreissen und mit nem Seil runterklettern)<br>
+<font color=808080>T =</font> Hier führt eine Tür nach Osten<br>
+<font color=808080>W =</font> Hier liegt ein rostiger Wagen<br>
+</span>
