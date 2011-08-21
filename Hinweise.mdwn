@@ -17,4 +17,4 @@ Häufig ist das Meer weiss statt blau, das ist per Hand einfach behoben, einfach
 Um Formatierungen etc. zu testen gibt es die [[Sandbox]].
 
 # Technsche Details
-Die verwendete Wiki-Software ist [ikiwiki](http://ikiwiki.info/) mit einem git-Repo als Backend, welches auf [https://github.com/jomat/marcopolo] liegt.
+Die verwendete Wiki-Software ist [ikiwiki](http://ikiwiki.info/) mit einem git-Repo als Backend, welches auf [Github](https://github.com/jomat/marcopolo) liegt.
