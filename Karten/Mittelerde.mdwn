@@ -189,12 +189,12 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 </div>
 <font style="font-size: 8pt;" color="#c0c0c0" face="Courier New">
 <font color="#00ccff">Sehenswertes:</font><br>
-<font color="#00ccff">A =</font> Am Fusse der Wetterspitze (hoch gehts nach <a title="Amon Sul" href="Mittelerde/Amon_Sul.html"><font color="#00ccff">Amon Sul</font></a>)<br>
+<font color="#00ccff">A =</font> Am Fusse der Wetterspitze (hoch gehts nach [[<font color="#00ccff">Amon Sul</font>|Mittelerde/Amon_Sul]])<br>
 <font color="#00ccff">Ä =</font> Alter Anlegesteg (Hafen) von Fornost<br>
-<font color="#00ccff">ä =</font> Spalte, durch die man in einen Geheimgang zum Verlies von <a title="Amon Sul" href="Mittelerde/Amon_Sul.html"><font color="#00ccff">Amon Sul</font></a> kommt<br>
+<font color="#00ccff">ä =</font> Spalte, durch die man in einen Geheimgang zum Verlies von [[<font color="#00ccff">Amon Sul</font>|Mittelerde/Amon_Sul]] kommt<br>
 <font color="#00ccff">a =</font> Archet (eigentlich nur ne Schmiede hier)<br>
-<font color="#00ccff">B =</font> <a title="Bockland" href="Mittelerde/Bockland.html"><font color="#00ccff">Bockland</font></a><br>
-<font color="#00ccff">b =</font> <a title="Michelbinge" href="Mittelerde/Michelbinge.html"><font color="#00ccff">Michelbinge</font></a><br>
+<font color="#00ccff">B =</font> [[<font color="#00ccff">Bockland</font>|Mittelerde/Bockland]]<br>
+<font color="#00ccff">b =</font> [[<font color="#00ccff">Michelbinge</font>|Mittelerde/Michelbinge]]<br>
 <font color="#00ccff">C =</font> Schmiede von Celebrimbor<br>
 <font color="#00ccff">c =</font> Hier ist ein kleiner Spalt im Boden (mit ner Fackel drin)<br>
 <font color="#00ccff">d =</font> Dilgars Hütte<br>
@@ -202,34 +202,34 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <font color="#00ccff">e =</font> Erdbeerplantage (auf der östlich des Weges gelegenen Plantage wächtst noch was)<br>
 <font color="#00ccff">F =</font> Flinkbaum, ein junger Ent (vor der Wohnhöhle der Ents)<br>
 <font color="#00ccff">f =</font> Feuerstelle<br>
-<font color="#00ccff">G =</font> <a title="Hügelgräber" href="Mittelerde/Huegelgraeber.html"><font color="#00ccff">Hügelgräber</font></a><br>
+<font color="#00ccff">G =</font> [[<font color="#00ccff">Hügelgräber</font>|Mittelerde/Huegelgraeber]]<br>
 <font color="#00ccff">g =</font> Golfplatz<br>
-<font color="#00ccff">H =</font> <a title="Hobbingen" href="Mittelerde/Hobbingen.html"><font color="#00ccff">Hobbingen</font></a><br>
-<font color="#00ccff">h =</font> Heinrich, der Torwächter von <a title="Bree" href="Mittelerde/Bree.html"><font color="#00ccff">Bree</font></a><br>
-<font color="#00ccff">I =</font> Imladris (<a title="Elronds Haus" href="Mittelerde/Imladris.html"><font color="#00ccff">Elronds Haus</font></a>)<br>
-<font color="#00ccff">k =</font> Tropfsteinhöhlen von <a title="Höhlen von Aglarond" href="Mittelerde/Aglarond.html"><font color="#00ccff">Aglarond</font></a><br>
-<font color="#00ccff">L =</font> <a title="Lond Daer" href="Mittelerde/Lond_Daer.html"><font color="#00ccff">Lond Daer</font></a><br>
+<font color="#00ccff">H =</font> [[<font color="#00ccff">Hobbingen</font>|Mittelerde/Hobbingen]]<br>
+<font color="#00ccff">h =</font> Heinrich, der Torwächter von [[<font color="#00ccff">Bree</font>|Mittelerde/Bree]]<br>
+<font color="#00ccff">I =</font> Imladris ([[<font color="#00ccff">Elronds Haus</font>|Mittelerde/Imladris]])<br>
+<font color="#00ccff">k =</font> Tropfsteinhöhlen von [[<font color="#00ccff">Aglarond</font>|Mittelerde/Aglarond]]<br>
+<font color="#00ccff">L =</font> [[<font color="#00ccff">Lond Daer</font>|Mittelerde/Lond_Daer]]<br>
 <font color="#00ccff">l =</font> Hafen von Forlond<br>
 <font color="#00ccff">m =</font> Mündung des Flusses Gelion (Hier hats eine Höhle, in der an einer Wand merkwürdige Erhebungen zufinden sind)<br>
 <font color="#00ccff">N =</font> Adler-Landeplatz<br>
 <font color="#00ccff">n =</font> Ameisenhaufen<br>
-<font color="#00ccff">o =</font> <a title="Orkhöhle" href="Mittelerde/Orkhoehle.html"><font color="#00ccff">Orkhöhle</font></a><br>
+<font color="#00ccff">o =</font> [[<font color="#00ccff">Orkhöhle</font>|Mittelerde/Orkhoehle]]<br>
 <font color="#00ccff">P =</font> Bergpass<br>
 <font color="#00ccff">p =</font> Pancho Stolzfuss<br>
 <font color="#00ccff">Q =</font> Quelle des Silberlauf (hier steht auch der Ellcrys)<br>
-<font color="#00ccff">R =</font> <a title="Ruinen von Annuminas" href="Mittelerde/Annuminas.html"><font color="#00ccff">Ruinen von Annuminas</font></a>(in den Spalt am grossen Turm kann man reinklettern)<br>
-<font color="#00ccff">r =</font> Ruinen einer Burg ('kletter durch Lücke' um rein zum <a title="Exorzist" href="Mittelerde/Exorzist.html"><font color="#00ccff">Exorzist</font></a> zu kommen)<br>
-<font color="#00ccff">S =</font> Seilbrücke über den Wassergraben (nach <a title="Lorien" href="Mittelerde/Lorien.html"><font color="#00ccff">Lorien</font></a>)<br>
+<font color="#00ccff">R =</font> [[<font color="#00ccff">Ruinen von Annuminas</font>|Mittelerde/Annuminas]](in den Spalt am grossen Turm kann man reinklettern)<br>
+<font color="#00ccff">r =</font> Ruinen einer Burg ('kletter durch Lücke' um rein zum [[<font color="#00ccff">Exorzist</font>|Mittelerde/Exorzist]] zu kommen)<br>
+<font color="#00ccff">S =</font> Seilbrücke über den Wassergraben (nach [[<font color="#00ccff">Lorien</font>|Mittelerde/Lorien]])<br>
 <font color="#00ccff">s =</font> Schiffs-Hügel auf dem ein Baum wächst<br>
-<font color="#00ccff">T =</font> <a title="Tharbad" href="Mittelerde/Tharbad.html"><font color="#00ccff">Tharbad</font></a><br>
+<font color="#00ccff">T =</font> [[<font color="#00ccff">Tharbad</font>|Mittelerde/Tharbad]]<br>
 <font color="#00ccff">t =</font> Die 3 Elbentürme<br>
 <font color="#00ccff">u =</font> Baumbart, der Älteste der Ents<br>
 <font color="#00ccff">ü =</font> kleine Hütte<br>
 <font color="#00ccff">V =</font> Grab von Varas Thaluk<br>
-<font color="#00ccff">v =</font> verfallenes Haus von <a title="Haus des Hobbitvampirs" href="Mittelerde/Vampirhaus.html"><font color="#00ccff">Alucard</font></a><br>
+<font color="#00ccff">v =</font> verfallenes Haus von [[<font color="#00ccff">Alucard</font>|Mittelerde/Vampirhaus]]<br>
 <font color="#00ccff">W =</font> Drei Grosse Weissbirken (Versammlungsort der Ents)<br>
 <font color="#00ccff">w =</font> Alter Wachturm mit einem Geschenkeladen drin<br>
-<font color="#00ccff">Z =</font> Die Zwergenstadt <a title="Belegost" href="Mittelerde/Belegost.html"><font color="#00ccff">Belegost</font></a> (hier geht eine laange Treppe nach unten)<br>
+<font color="#00ccff">Z =</font> Die Zwergenstadt [[<font color="#00ccff">Belegost</font>|Mittelerde/Belegost]] (hier geht eine laange Treppe nach unten)<br>
 <font color="#00ccff">z =</font> Nimzwo, das kleine Knochentrollkind (Troll-Nim-Spiel)<br> 
 Legende:<br>
 <font color="blue">B =</font> Brunnen<br>
