@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 	M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
 	|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-<span class="rot">L-L</span>-M-M<br>
@@ -40,16 +40,18 @@ M-M-M-M-M-<font color=C0C0C0>s-s-s-O-O-O-s</font>-M-M-M<br>
 M-M-M-M-M-M-M-M-<font color=C0C0C0>s-s-s</font>-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</td></font>
-</tr>
-</table>
+</font>
+</span>
+
+<span vlass="legend">
 <span class="gelb">a =</span> Abstellkammer<br>
-<span class="gelb">B =</span> Landeplatz für den Ballon nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]]<br>
-<span class="gelb">b =</span> Büro mit einem verzweifelten Student<br>
+<span class="gelb">B =</span> Landeplatz fÃ¼r den Ballon nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]]<br>
+<span class="gelb">b =</span> BÃ¼ro mit einem verzweifelten Student<br>
 <span class="orange">E =</span> Ede-Ka's Laden<br>
-<span class="gelb">F =</span> Fischerhütte<br>
+<span class="gelb">F =</span> FischerhÃ¼tte<br>
 <span class="hellblau">H =</span> Hafen (im blauen Feld steht die Kurstafel)<br>
 <span class="gelb">h =</span> Haus eines alten Mannes<br>
-<span class="rot">K =</span> Vulkankrater (im Südlichen verbirgt sich hinter der Spalte ein Flammentor in die [[<span class="hellblau">Beschwörergilde</span>|OdF]], im Nördlichen ist der Eingang zu einem [[<span class="hellblau">Höhlensystem</span>|Vulkanien/Hoehle]])<br>
+<span class="rot">K =</span> Vulkankrater (im SÃ¼dlichen verbirgt sich hinter der Spalte ein Flammentor in die [[<span class="hellblau">BeschwÃ¶rergilde</span>|OdF]], im NÃ¶rdlichen ist der Eingang zu einem [[<span class="hellblau">HÃ¶hlensystem</span>|Vulkanien/Hoehle]])<br>
 <font color=808080>k =</font> Kraterrand<br>
 <span class="hellblau">L =</span> Laden<br>
 <span class="rot">L =</span> Lava<br>
@@ -59,5 +61,5 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</td></font>
 <font color=00CC99>q =</font> Heisse Quellen und Geysire<br>
 <span class="gelb">S =</span> Seismologisches Institut<br>
 <span class="gelb">s =</span> Hinterhof des Institutes<br>
-<font color=C0C0C0>s =</font> Strand / Küste<br>
+<font color=C0C0C0>s =</font> Strand / KÃ¼ste<br>
 </span>
