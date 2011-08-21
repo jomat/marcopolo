@@ -1,0 +1,32 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">G</span> &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">F</span>-w-w &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; \ /&nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; w &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; w &nbsp;<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; w-<span class="hellblau">Z</span>-w <br>
+&nbsp; &nbsp; &nbsp; &nbsp;/ \ &nbsp; <br>
+&nbsp; &nbsp; <span class="gelb">t</span>-w &nbsp; w <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">T</span> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp;
+</span>
+
+<span class="legend">
+<span class="gelb">F =</span> Fireddl<br>
+<span class="gelb">G =</span> Goldie<br>
+<span class="gelb">T =</span> Tiberian<br>
+<span class="gelb">t =</span> Taxus<br>
+<font color=FFFFFF>w =</font> Wolke<br>
+<span class="hellblau">Z =</span> Zentrum von Levitanis (hier gehts runter...)<br>
+</span>
