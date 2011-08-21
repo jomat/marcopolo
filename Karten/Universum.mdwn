@@ -1,0 +1,23 @@
+<font color=808080 face="Courier New" style="font-size: 8pt">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Totenschiff" HREF="Amerindia/Gruft.html"><font color=00CCFF>Barke</font></A> &nbsp; &nbsp; <A TITLE="Nekromantengilde" HREF="Doerrland/Nekromantengilde.html"><font color=00CCFF>Sonne</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. &nbsp; &nbsp; .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .&nbsp; &nbsp;.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. .<br>
+&nbsp;<A TITLE="Barovia" HREF="Doerrland/Barovia.html"><font color=00CCFF>Nebelfelder</font></A>....<font color=FFCC00>W</font>....<A TITLE="Kammer der Chimäre" HREF="Doerrland/Chimaere.html"><font color=00CCFF>Chimäre</font></A><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; . &nbsp; .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;. &nbsp; &nbsp; .<br>
+&nbsp; &nbsp; <A TITLE="Friedhof von Mompracem" HREF="Mompracem.html"><font color=00CCFF>Doppelstern</font></A> &nbsp; <A TITLE="Vor der Drizzthöhle in der Unterwelt" HREF="Drachenland/U2.html"><font color=00CCFF>Schwarzes Loch</font></A>
+</font>
+</span>
+
+<span class="legend">
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+<font color=FFCC00>W =</font> Weltraum (unendliche Weiten... aber man kann zu den eingezeichneten Zielen 'fliegen':<br>
+- <A TITLE="Barovia" HREF="Doerrland/Barovia.html"><font color=00CCFF>Barovia</font></A> (Nebelfelder)<br>
+- <A TITLE="Vor der Drizzthöhle in der Unterwelt" HREF="Drachenland/U2.html"><font color=00CCFF>Eingang zur Unterwelt</font></A> (Schwarzes Loch)<br>
+- <A TITLE="Kammer der Chimäre" HREF="Doerrland/Chimaere.html"><font color=00CCFF>Kammer der Chimäre</font></A> (Chimäre)<br>
+- <A TITLE="Friedhof von Mompracem" HREF="Mompracem.html"><font color=00CCFF>Mompracem</font></A> (Doppelstern)<br>
+- <A TITLE="Nekromantengilde" HREF="Doerrland/Nekromantengilde.html"><font color=00CCFF>Nekromantengilde</font></A> (Sonne)<br>
+- <A TITLE="Totenschiff" HREF="Amerindia/Gruft.html"><font color=00CCFF>Totenschiff in Amerindia</font></A> (Barke)<br>
+</span>
