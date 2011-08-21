@@ -3,7 +3,10 @@
 .orange { color:#FF9900; }
 .violett { color:#9900CC; }
 .rot { color:red; }
-.map { color:#ffffff; }
+.map {
+  color:#ffffff;
+  white-space:nowrap;
+}
 .legend { color:#ffffff; }
 /* ikiwiki style sheet */
 
