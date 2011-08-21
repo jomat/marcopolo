@@ -1,2 +1,1 @@
-<span class="map">
-</span>
+![Kratergebiet](Kratergebiet.jpg)
