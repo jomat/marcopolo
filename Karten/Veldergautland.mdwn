@@ -123,14 +123,23 @@ A =</font> Forschungsstation<br>
 <span class="hellblau">V =</span> Erkletterbare Stelle am Vulkan<Br>
 <span class="hellblau">W =</span> Hütte des Weihnachtsorks<br>
 <span class="hellblau">w =</span> Vor der Hütte des Weihnachtsorks<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Legende:</span><br>
 <font color=FFFFFF>K =</font> Küste<br>
 <FONT COLOR=blue>M =</font> Meer (Veldermeer um genau zu sein)<br>
 <font color=FFFFFF>O =</font> Eiswüste<br>
 <font color=FFFFFF>V =</font> Rund um den Vulkankrater<br>
 <font color=FFFFFF>v =</font> Vor einem Felsmassiv<br>
+</span>
+
+<span class="legend">
 <span class="rot">Monster:</span><br>
 Schneewürmer<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Friedliche Bewohner</span><br>
 Eisbären<br>
 Flüffel<br>
