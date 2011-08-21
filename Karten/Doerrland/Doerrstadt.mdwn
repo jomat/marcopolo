@@ -13,7 +13,7 @@
 &nbsp; &nbsp;|X| &nbsp; | | &nbsp; | &nbsp; |<br>
 &nbsp;a-<span class="gelb">T</span>-a-s-p-s-s-s [[<span class="violett">E</span>|E-Haus]]-s-<span class="hellblau">L</span><br>
 &nbsp;|\| &nbsp; &nbsp;/| &nbsp; &nbsp; | &nbsp; |<br>
-&nbsp;a-a &nbsp; <span class="gelb">B</span> <span class="hellblau">$</span> &nbsp; &nbsp; [[<span class="violett">D</span>|Asia]]-s-s-<span class="orange">P</span>-[[<span class="gelb">S</span>|Steinlab]]<br>
+&nbsp;a-a &nbsp; <span class="gelb">B</span> <span class="hellblau">$</span> &nbsp; &nbsp; [[<span class="violett">D</span>|Ebenen/Asia]]-s-s-<span class="orange">P</span>-[[<span class="gelb">S</span>|Steinlab]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="orange">H</span>|Hamam]]-s <span class="orange">b</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
@@ -29,42 +29,46 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">J</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">g</span>|Tunnel]]</TR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">g</span>|Tunnel]]
+</font>
+</span>
+
+<span class="legend">
 <span class="hellblau">$ =</span> Bank<br>
-<span class="hellblau">a =</span> Aufstieg die Schlucht hinauf nach [[<span class="hellblau">Dörrland</span>|Doerrland]]<br>
+<span class="hellblau">a =</span> Aufstieg die Schlucht hinauf nach [[<span class="hellblau">DÃ¶rrland</span>|Doerrland]]<br>
 <font color=C0C0C0>a =</font> Arena<br>
 <span class="gelb">a =</span> In diesem Feld der Arena ist ein Eingang (Gitter am Boden) in die [[<span class="hellblau">Kanalisaion</span>|Kanaele]])<br>
 <span class="orange">B =</span> Barry Nights Bar<br>
-<span class="orange">b =</span> Barbier von Dörrstadt<br>
-<span class="gelb">B =</span> Turm der Bürgerwehr<br>
-<span class="gelb">b =</span> [[<span class="hellblau">Bergwerk</span>|Kanaele]] bzw. auf umwegen Weg in die Kanalisation (hier ist das Feld mit den Wüstenranken)<br>
-<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Asia</span>|Asia]]<br>
+<span class="orange">b =</span> Barbier von DÃ¶rrstadt<br>
+<span class="gelb">B =</span> Turm der BÃ¼rgerwehr<br>
+<span class="gelb">b =</span> [[<span class="hellblau">Bergwerk</span>|Kanaele]] bzw. auf umwegen Weg in die Kanalisation (hier ist das Feld mit den WÃ¼stenranken)<br>
+<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Asia</span>|Ebenen/Asia]]<br>
 <span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]]<br>
 <span class="gelb">E =</span> Einsiedlerin<br>
 <span class="orange">G =</span> Grumbl Goldfinger, der Schmiedegeselle (man kann in nen [[<span class="hellblau">Luftschacht</span>|Luftschacht]] an der Wand klettern)<br>
 <span class="hellblau">G =</span> Laden & Eingang der Diebesgilde<br>
-<span class="hellblau">g =</span> Gang ins [[<span class="hellblau">Tunnelsystem</span>|Tunnel]] unter Dörrland (runter)<br>
+<span class="hellblau">g =</span> Gang ins [[<span class="hellblau">Tunnelsystem</span>|Tunnel]] unter DÃ¶rrland (runter)<br>
 <span class="orange">H =</span> [[<span class="hellblau">Hamam</span>|Hamam]] (Badehaus)<br>
 <span class="gelb">H =</span> Hotel Barrizone<br>
 <span class="gelb">h =</span> Altes Herrenhaus<br>
-<span class="gelb">J =</span> Jokaste, die Mutter von Ödipus<br>
+<span class="gelb">J =</span> Jokaste, die Mutter von Ã–dipus<br>
 <span class="gelb">K =</span> Alte Kaschemme (man muss durchs Fenster reinklettern - und wenn man drin in den Keller klettert landet man im [[<span class="hellblau">Fightclub</span>|Club]])<br>
 <span class="gelb">k =</span> Gilde der Kanalreiniger (ne Leiter runter gehts in die [[<span class="hellblau">Kanalisaion</span>|Kanaele]])<br>
 <span class="hellblau">L =</span> Laden<br>
 <span class="gelb">l =</span> Lagerschuppen<br>
-<span class="orange">M =</span> McGregors, das neue Pub in Dörrstadt<br>
-<span class="orange">m =</span> Murad, der Händler<br>
+<span class="orange">M =</span> McGregors, das neue Pub in DÃ¶rrstadt<br>
+<span class="orange">m =</span> Murad, der HÃ¤ndler<br>
 <span class="gelb">m =</span> Gilde der Minenarbeiter<br>
-<span class="gelb">N =</span> Redaktionsbüro der Magyra-Nachrichten<br>
+<span class="gelb">N =</span> RedaktionsbÃ¼ro der Magyra-Nachrichten<br>
 <span class="orange">P =</span> Petrow, der Hehler<br>
 <font color=C0C0C0>p =</font> Labplatz / Sandplatz / Altstadtplatz<br>
-<span class="gelb">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus]] von Dörrstadt<br>
+<span class="gelb">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus]] von DÃ¶rrstadt<br>
 <span class="gelb">r =</span> Rotlichtbezirk (Soraia & Lude Achmet)<br>
 <span class="orange">S =</span> Restaurant Schad<br>
 <span class="gelb">S =</span> Das [[<span class="hellblau">Steinerne Labyrinth</span>|Steinlab]]<br>
-<span class="gelb">s =</span> Ruine einer alten Schmiede (im Keller geht es in die [[<span class="hellblau">Vulkanhöhlen</span>|Vulkanhoehlen]])<br>
-<font color=C0C0C0>s =</font> Straße<br>
+<span class="gelb">s =</span> Ruine einer alten Schmiede (im Keller geht es in die [[<span class="hellblau">VulkanhÃ¶hlen</span>|Vulkanhoehlen]])<br>
+<font color=C0C0C0>s =</font> StraÃŸe<br>
 <span class="gelb">T =</span> Schwarze Steintafel (Spiel)<br>
-<span class="gelb">Z =</span> Altes Zöllnerhäuschen (man kann durchs Fenster von Osten her reinklettern - und drin mit ner Leiter weiter hoch ins [[<span class="hellblau">Obergschoss</span>|Zoll]])<br>
-<center><font color=FFFF00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=FFFF00>zurück nach Dörrland</font>|Doerrland]])</font></center>
+<span class="gelb">Z =</span> Altes ZÃ¶llnerhÃ¤uschen (man kann durchs Fenster von Osten her reinklettern - und drin mit ner Leiter weiter hoch ins [[<span class="hellblau">Obergschoss</span>|Zoll]])<br>
+<center><font color=FFFF00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=FFFF00>zurÃ¼ck nach DÃ¶rrland</font>|Doerrland]])</font></center>
 </span>
