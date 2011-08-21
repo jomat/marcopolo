@@ -1,0 +1,4 @@
+# Was ist das?
+An dieser Stelle entsteht eine Kopie der Unitopia-Karten-Seite von Marcopolo.
+Da die Karten nur von einer Person mit viel Aufwand von Hand gepflegt wurden und länger keine Aktualisierung mehr gesehen haben,  entstand die Idee, die ursprüngliche Seite [https://marcopolo.copete.de] in die Wikiform zu übertragen, so dass jeder mitmachen kann.
+Die originalen Karten von Marcopolo wird es weiter an der alten Stelle geben, im Zweifel sollte das Wiki mit ihnen verglichen werden, da viele der Karten per Script ins Wiki kopiert werden, und das ab und zu schief geht.
