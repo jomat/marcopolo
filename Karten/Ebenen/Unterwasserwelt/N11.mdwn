@@ -1,3 +1,6 @@
+Ebenenauswahl:
+[[N01]] [[N02]] [[N03]] [[N04]] [[N05]] [[N06]] [[N07]] [[N08]] [[N09]] [[N10]] [[N11]] [[N12]] [[N13]] [[N14]] [[N15]] [[N16]] [[N17]] [[N18]] [[N19]] [[N20]]
+
 <span class="map"><font color="blue">
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
@@ -14,11 +17,11 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-|X|X|X|X|X|X|X|X| &nbsp; \|X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|X|/ &nbsp; \|X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m-<span class="hellblau">n <font color=C0C0C0>h-</span>P</font> m-m-m-m-m-m-m-m<br>
-|X|X|X|X|X|X|X| <font color=C0C0C0>/ \</font>&nbsp; |X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|X|X|/ <font color=C0C0C0>/ \</font>&nbsp; |X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m-m-m <font color=C0C0C0>s &nbsp; s</font> m-m-m-m-m-m-m-m<br>
-|X|X|X|X|X| &nbsp; &nbsp;<font color=C0C0C0>| &nbsp; |</font> |X|X|X|X|X|X|X|<br>
+|X|X|X|X|X|X|/ &nbsp; &nbsp;<font color=C0C0C0>| &nbsp; |</font> |X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m <span class="hellblau">H</span><font color=C0C0C0>-s-r<span class="rot">- &nbsp;r</span></font> m-m-m-m-m-m-m-m<br>
 |X|X|X|X|X|X| &nbsp; &nbsp; <font color=C0C0C0>| &nbsp; |</font> |X|X|X|X|X|X|X|<br>
 m-m-m-m-m-m-m &nbsp;<span class="rot">-</span><font color=00CC00>p</font> <font color=C0C0C0>s-r s</font> m-m-m-m-m-m-m-m<br>
@@ -51,7 +54,7 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 <span class="hellblau">P =</span> Post<br>
 <font color=00CC00>p =</font> Stadtpark<br>
 <font color=C0C0C0>r =</font> Hier geht ein Gang nach unten weiter<br>
-<span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
-<span class="hellblau">s =</span> Am Rande einer warmen Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
-<font color=C0C0C0>s =</font> Straße / Durchgang<br>
+<span class="hellblau">S =</span> Warme StrÃ¶mung (man kann die StrÃ¶mung betreten und sich an die OberflÃ¤che nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
+<span class="hellblau">s =</span> Am Rande einer warmen StrÃ¶mung (man kann die StrÃ¶mung betreten und sich an die OberflÃ¤che nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
+<font color=C0C0C0>s =</font> StraÃŸe / Durchgang<br>
 </span>
