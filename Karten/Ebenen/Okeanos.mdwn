@@ -1,0 +1,48 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p&lt;p&lt;p&lt;a&lt;a<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;p &nbsp; &nbsp; &nbsp; <span class="gelb">r</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<font color=blue>[[<span class="hellblau">s</span>|Unterwasserwelt/N11]]-[[<span class="hellblau">s</span>|Unterwasserwelt/N11]]-</font><span class="gelb">w</span>&nbsp;<font color=blue>w&lt;w&lt;w&lt;w&lt;<span class="gelb">a</span>&lt;</font><span class="gelb">b</span><br>
+&nbsp;<font color=blue>| | |</font> &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<font color=blue>| | |</font> <span class="gelb">n</span>&lt;p &nbsp; &nbsp; &nbsp; <span class="gelb">r</span><br>
+&nbsp;<font color=blue>| | |</font> &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<font color=blue>| | |</font> &nbsp; P-[[<span class="hellblau">S</span>|Drachenland/Harpienhoehle]] <span class="gelb">u</span>&lt;b&lt;[[<span class="hellblau">M</span>|Amerindia]]<br>
+&nbsp;<font color=blue>| | |</font> &nbsp; | . .<br>
+&nbsp;<font color=blue>[[<span class="hellblau">s</span>|Unterwasserwelt/N11]]-[[<span class="hellblau">s</span>|Unterwasserwelt/N11]]-</font><span class="gelb">H</span>&lt;p&lt;p <span class="gelb">S</span>&lt;<span class="gelb">k</span><br>
+&nbsp; &nbsp; <font color=blue>&#9488;|</font> &nbsp; |<br>
+&nbsp; &nbsp; <font color=blue>&#9474;|</font> &nbsp; p [[<span class="violett">E</span>|Nordische_Inseln/Labyrinth]]<br>
+&nbsp; &nbsp; <font color=blue>&#9474;|</font> &nbsp; | |<br>
+&nbsp; &nbsp; <font color=blue>&#9474;|</font> &nbsp; p&lt;<span class="gelb">f</span><br>
+&nbsp; &nbsp; <font color=blue>&#9492;|</font> &nbsp; &nbsp; .<br>
+&nbsp; &nbsp; &nbsp;<font color=blue>b</font>&lt;<span class="gelb">s</span>&lt;f&lt;<span class="gelb">f</span><br>
+&nbsp; &nbsp; &nbsp; ..<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">N</span>
+</span>
+
+<span class="legend">
+<span class="gelb">a =</span> Hinter dem Wasserfall (nach Westen gehts zur Statue eines alten Mannes)<br>
+<font color=C0C0C0>a =</font> Felsenabsatz<br>
+<font color=blue>b =</font> Brandung<br>
+<span class="gelb">b =</span> Reste einer Brücke mit Reliefgeländer<br>
+<font color=C0C0C0>b =</font> Felsbogen<br>
+<span class="violett">E =</span> Alte Eiche (in einer Verwerfung im Stamm ist ein Dimensionstor in das [[<span class="hellblau">Labyrinth</span>|Nordische_Inseln/Labyrinth]] auf Vandras)<br>
+<span class="gelb">f =</span> Felskamm (um ins andere Feld zu gelangen kann man sich entweder an den Ästen der Eiche entlanghangeln oder über den Einschnitt springen)<br>
+<font color=C0C0C0>f =</font> Am Fuß des Monolithen<br>
+<span class="gelb">H =</span> Fischerhütte<br>
+<span class="gelb">k =</span> Schuttkegel (man kann sich an den Ranken zum Überhang rüberhangeln)<br>
+<span class="hellblau">M =</span> Hier am Rand des Monolithen kann man nach [[<span class="hellblau">Amerindia</span>|Amerindia]] hoch<br>
+<span class="gelb">N =</span> Felsnadel (auf die man von unten hochklettern oder von Norden draufspringen kann)<br>
+<span class="gelb">n =</span> Schlangennest<br>
+<font color=C0C0C0>P =</font> Plateau mit Mauerresten<br>
+<font color=C0C0C0>p =</font> Pfad/Weg<br>
+<span class="gelb">r =</span> Ruinen einer alten Straße mit einigen Statuen<br>
+<span class="hellblau">S =</span> Schmale Schlucht (man kann hier auf ne Plattform vor [[<span class="hellblau">Podarges Höhle</span>|Drachenland/Harpienhoehle]] klettern, sonstige Beschreibung siehe unten)<br>
+<span class="gelb">S =</span> Schmale Schlucht (über die man drüber- oder reinspringen kann - falls man das reinspringen überlebt kann man vom Grund der Schlucht nach Südwesten zu Feld s gehen)<br>
+<span class="gelb">s =</span> Hier kann man nach Nordosten auf Bodenhöhe in die Schlucht hineingehen (man gelangt in das Feld in dem man Aufschlägt wenn man weiter oben in die Schlucht fällt)<br>
+<span class="hellblau">s =</span> Am Rand eines kleinen Strudels (wenn man reinschwimmt landet man in der [[<span class="hellblau">Unterwasserwelt</span>|Unterwasserwelt/N11]] in der Stadt der Nixen)<br>
+<span class="gelb">u =</span> Überhang (man kann sich an den Ranken zum Schuttkegel rüberhangeln)<br>
+<font color=blue>w =</font> Hinter dem Wasserfall<br>
+<span class="gelb">w =</span> Am Fuße des Wasserfalls (hier kommt man raus wenn man in den Höhlen in den unterirdischen Fluss springt)<br>
+<span class="hellblau">Anmerkung:</span> In Okeanos muss man ständig irgendwo hoch und runter - ich schreib nun nicht in jedem einzelnen Feld dran ob man klettern muss oder einfach laufen kann - wenn da also ein < steht und im Feld kein Ausgang hoch oder runter zu sehen ist dann muss man klettern<br>
+</span>
