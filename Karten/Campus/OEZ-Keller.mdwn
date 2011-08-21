@@ -2,9 +2,9 @@
 &nbsp; &nbsp;[[<span class="hellblau">T</span>|OEZ]]<br>
 &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;g-T---T<br>
-&nbsp; &nbsp;| ||<br>
+&nbsp; &nbsp;| |\ /|<br>
 &nbsp; &nbsp;g | X |<br>
-&nbsp; &nbsp;| \|<br>
+&nbsp; &nbsp;| |/ \|<br>
 &nbsp; &nbsp;g T---<span class="rot">T</span><br>
 &nbsp; &nbsp;| | &nbsp; |<br>
 &nbsp;<span class="gelb">B</span>-g [[<span class="hellblau">p</span>|Campus]] L-[[<span class="hellblau">T</span>|OEZ]]<br>

@@ -6,7 +6,7 @@
 &nbsp;k &nbsp; k p \ [[<span class="hellblau">F</span>|OEZ-Keller]]-[[<span class="hellblau">T</span>|OEZ-Dach]]-V-[[<span class="hellblau">p</span>|Campus]]-<br>
 &nbsp; \ / &nbsp; &nbsp; \| | | |\<br>
 &nbsp; &nbsp;<span class="gelb">H</span>-v-----v <span class="gelb">M C</span><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;/|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;/| |/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">c</span>-G-<span class="gelb">S</span>-[[<span class="hellblau">C</span>|OEZ-Dach]]-[[<span class="hellblau">t</span>|Campus]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp;.| .<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | . <span class="gelb">K</span> &nbsp;.<br>
