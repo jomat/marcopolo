@@ -1,0 +1,29 @@
+<span class="map">
+&nbsp;<font color=C0C0C0>Erdgeschoss &nbsp; Dachgeschoss</font><br>
+&nbsp; &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; h-<font color=CC6600>J</font><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">S</span><font color=C0C0C0>-f-t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">k</span>-t<br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">W</span>-f-</font><span class="gelb">K</span><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">H</span>-h-<span class="gelb">s</span><br>
+&nbsp; &nbsp; &nbsp; <font color=008000>|<br>
+&nbsp; &nbsp; &nbsp; [[<span class="hellblau">W</span>|Wurzelwald]]<br>
+&nbsp; &nbsp; &nbsp; |</font>
+</span>
+
+<span class="legend">
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="gelb">H =</span> Hühnerstall<br>
+<font color=00CC00>h =</font> Hof<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">k =</span> Kinderzimmer<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<span class="gelb">s =</span> Scheune<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="hellblau">W =</span> [[<span class="hellblau">Wurzelwald</span>|Wurzelwald]]<br>
+<span class="gelb">W =</span> Wohnzimmer<br>
+<font color=00CC00>w =</font> Weide<br>
+</span>

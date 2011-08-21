@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">t</span> h-h<br>
+&nbsp;| &nbsp; | |<br>
+&nbsp;[[<span class="hellblau">g</span>|Nankea]]-<span class="gelb">T</span>-k-k-<span class="gelb">A</span><br>
+&nbsp;| &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">t</span> |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; -[[<span class="hellblau">M</span>|Nankea]]-<br>
+&nbsp; &nbsp; &nbsp; /|
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Altar (hier gehts runter zu einer Krypta)<br>
+<span class="hellblau">g =</span> Gasse in [[<span class="hellblau">Nankea</span>|Nankea]]<br>
+<font color=C0C0C0>h =</font> Kirchhof<br>
+<font color=C0C0C0>k =</font> In der Kathedrale<br>
+<span class="hellblau">M =</span> Marktplatz von [[<span class="hellblau">Nankea</span>|Nankea]]<br>
+<span class="gelb">T =</span> Glockenturm<br>
+<span class="gelb">t =</span> Turm<br>
+</span>

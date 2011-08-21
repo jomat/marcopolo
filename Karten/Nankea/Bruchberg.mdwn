@@ -1,0 +1,32 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; k<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">s</span>-<span class="gelb">a</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<font color=00CC00>-[[<span class="hellblau">e</span>|Wurzelwald]]-</font>v-<span class="gelb">T</span>-w-p-p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<font color=blue>B</font>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">H</span>-p-p<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">T</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; v<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=008000>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">W</span>|Wurzelwald]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\
+</span>
+
+<span class="legend">
+<span class="gelb">s =</span> Aufenthaltsraum<br>
+<font color=blue>B =</font> brunnen (man kann nicht reingehen wie in den von Tadmor, aber hier steht er und man kann aus allen Platz-Feldern draus trinken)<br>
+<span class="hellblau">e =</span> Ebene von Hanro, westlich des [[<span class="hellblau">Wurzelwaldes</span>|Wurzelwald]]<br>
+<span class="gelb">H =</span> Halle des Herrn von bruchberg<br>
+<font color=C0C0C0>k =</font> Küche<br>
+<font color=C0C0C0>p =</font> großer Platz<br>
+<span class="orange">s =</span> Schänke<br>
+<span class="gelb">T =</span> Burgtor<br>
+<font color=C0C0C0>v =</font> vor den Toren von Bruchberg<br>
+<span class="hellblau">W =</span> [[<span class="hellblau">Wurzelwald</span>|Wurzelwald]]<br>
+<font color=C0C0C0>w =</font> Weg<br>
+</span>

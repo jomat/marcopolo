@@ -1,0 +1,90 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">C</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">|</span> |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r-r-r<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">P</span>-r <span class="gelb">R</span>-r<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | &nbsp; <span class="rot">| &nbsp; &nbsp; &nbsp; |</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">k</span> | &nbsp; | &nbsp; p-p-g-g-g-g-<span class="gelb">T</span><font color=CC6600>-z-</font><font color=00CC00>w-w-w-w-<font color=008000>E</font>-w</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">|</span> &nbsp;  | | &nbsp; | &nbsp; | | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\</font><br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">D &nbsp; W</span> <span class="hellblau">$</span>-K-M-g-r-<span class="orange">R</span>-r-g-p-p-<span class="orange">S K</span>-g-<span class="gelb">S</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>w-w</font><span class="rot">-</span><br>
+&nbsp;<font color=008000>\</font> &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; |<font color=blue>B</font>| &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">|</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font><br>
+&nbsp; [[<span class="hellblau">W</span>|Wurzelwald]]<font color=CC6600>-b-b-</font><span class="gelb">T</span>-g-g-g-g-M-M &nbsp; &nbsp; &nbsp; g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">t</span><br>
+&nbsp; <font color=008000>|</font> &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp;  &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font><br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; &nbsp; &nbsp; &nbsp;  g&nbsp; &nbsp; &nbsp;g-<span class="gelb">H</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">t</span><br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp;|<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">Z</span>-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">\</span>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;/ \ &nbsp;|<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <span class="orange">s</span> &nbsp; g g-[[<span class="gelb">K</span>|Kathedrale]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; \| |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">Q</span>-M-M-<span class="hellblau">L</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>M-M</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <span class="orange">B</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">r</span>-<span class="orange">C</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">T</span><br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>P</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; \<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; /<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">H</span><br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <font color=blue>|<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F-F<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; \<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F &nbsp; &nbsp; &nbsp; &nbsp; F-F-F-F &nbsp; &nbsp; F<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; /&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |/<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F-F-F-F &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F &nbsp; &nbsp; &nbsp; M-<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;/|X<br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F &nbsp; &nbsp; F-M-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; / \|X<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F-F &nbsp; M-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |\</TD> 
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="orange">B =</span> Bäckerei<br>
+<font color=blue>B =</font> Brunnen (man kann nicht reingehen wie in den von Tadmor, aber hier steht er und man kann aus allen Platz-Feldern draus trinken)<br>
+<font color=CC6600>b =</font> Brücke<br>
+<span class="orange">C =</span> Sarottis Chocolaterie<br>
+<span class="orange">c =</span> Cambrios Wechselsube<br>
+<span class="orange">D =</span> Kneipe 'Zum Roten Drachen'<br>
+<font color=blue>F =</font> Der Fluss Forjangel<br>
+<font color=C0C0C0>g =</font> Gasse<br>
+<span class="hellblau">H =</span> Hafen<br>
+<span class="gelb">H =</span> Hochgebirgsverein<br>
+<span class="orange">K =</span> Käseladen<br>
+<span class="orange">k =</span> Knarfs Abenteurerladen<br>
+<span class="gelb">K =</span> [[<span class="hellblau">Kathedrale</span>|Kathedrale]]<br>
+<span class="hellblau">L =</span> Laden<br>
+<font color=C0C0C0>M =</font> Marktplatz<br>
+<span class="hellblau">P =</span> Post<br>
+<font color=C0C0C0>P =</font> Hafenpromenade<br>
+<font color=C0C0C0>p =</font> Platz<br>
+<span class="orange">Q =</span> Apotheke<br>
+<span class="orange">R =</span> Ratskeller (Kneipe)<br>
+<span class="gelb">R =</span> Rathaus<br>
+<span class="gelb">r =</span> hier gehts hoch zur Tür in den Turm (Rolfin wohnt da drin)<br>
+<font color=C0C0C0>r =</font> Ring(straße)<br>
+<span class="orange">S =</span> Charsis Schmiede<br>
+<span class="orange">s =</span> Godehards Waffenschmiede<br>
+<span class="gelb">S =</span> Stall<br>
+<span class="gelb">T =</span> Stadttor (am südlichen steht Rolfin, am östlichen Soldur, am westlichen Hingar)<br>
+<span class="gelb">t =</span> Torfstich (im südlichen Feld findet man einen Torfstecher, im nördlichen kann man Torf stechen)<br>
+<span class="hellblau">W =</span> [[<span class="hellblau">Wurzelwald</span>|Wurzelwald]]<br>
+<span class="orange">W =</span> Waffenmeister Moffel<br>
+<font color=C0C0C0>w =</font> Weg<br>
+<font color=00CC00>w =</font> Weg im Torfmoos<br>
+<span class="orange">Z =</span> Laden für Zauberbedarf<br>
+</html>
+</span>
