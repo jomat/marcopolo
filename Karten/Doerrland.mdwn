@@ -245,6 +245,9 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
 <span class="hellblau">w =</span> Wasserfall (hinter dem sich im Norden die [[<span class="hellblau">Piratenhöhle</span>|Doerrland/Piratenhoehle]] verbirgt)<br>
 <span class="hellblau">Z =</span> Zwergengruft<br>
 <span class="hellblau">z =</span> Stelle zusammengetretener Sand<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Legende:</span><br>
 Die normalen Kakteen (anschneiden -> Wasserquelle), Sträucher, Dornenbüsche (essbare Beeren), und Bäume (Äste als Prügel benutzbar) sind nicht an feste Orte gebunden und daher nicht in diese Karte eingetragen. Scheinbar werden sie immer wieder neu an andere Orte gesetzt.<br>
 <font color=C0C0C0>B =</font> Am Felsen der Druidenburg<br>
@@ -285,6 +288,9 @@ P<font color=C0C0C0> =</font> Rand der Ramoth-Pyramide<br>
 <font color=blue>u =</font> Ufer<br>
 <font color=FFBB00>v =</font> Am Kraterrand<br>
 <font color=C0C0C0>w =</font> Aussenwand der Sphinx<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Friedliche NPCs:</span> Wüstenspringmäuse, Kamele, Hyänen, Panzertiere,Satyre, Gargylen<br>
 <span class="rot">Feindliche NPCs:</span> Ankhegs, Guhle, Löwen, Mantikore, Nachtheuler, Sandwürmer, Schlangen, Skorpione, Ziegen<br>
 </FONT>
