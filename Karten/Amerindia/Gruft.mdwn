@@ -4,7 +4,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp; &nbsp;t-[[<span class="violett">M</span>|../Maerchenland/Ruine]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">s</span><br>
+&nbsp; &nbsp;t-[[<span class="violett">M</span>|Maerchenland/Ruine]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">s</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;G &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g-g-g<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
@@ -25,19 +25,19 @@
 <span class="violett">D =</span> Dimensionstor zum unterirdischen [[<span class="hellblau">Tempel</span>|Tempel]]<br>
 <span class="gelb">F =</span> Kammer mit den Riesenfalken (die greifen an wenn man an dem Seil zum Altar [Ebene 2] hochklettern will)<BR>
 <font color=808080>f =</font> Gang<br>
-<font color=808080>G =</font> Zwischen diesen beiden Feldern ist eine Geheimt¸r (Stein dr¸cken)<br>
+<font color=808080>G =</font> Zwischen diesen beiden Feldern ist eine Geheimt√ºr (Stein dr√ºcken)<br>
 <font color=808080>g =</font> Grabkammer<br>
-<font color=808080>h =</font> Groﬂe Halle (man kann hier die Rampe auf Ebene 1 betreten)<br>
+<font color=808080>h =</font> Gro√üe Halle (man kann hier die Rampe auf Ebene 1 betreten)<br>
 <font color=808080>K =</font> Kapelle<br>
 <font color=808080>k =</font> Reinigungskammer<br>
-<span class="violett">M =</span> Verstecktes Dimensionstor zur [[<span class="hellblau">Schlossruine</span>|../Maerchenland/Ruine]] im M‰rchenland ('rumpelstilzchen' sagen, danach einfach nach Osten gehen oder die Ostwand betreten)<br>
+<span class="violett">M =</span> Verstecktes Dimensionstor zur [[<span class="hellblau">Schlossruine</span>|../Maerchenland/Ruine]] im M√§rchenland ('rumpelstilzchen' sagen, danach einfach nach Osten gehen oder die Ostwand betreten)<br>
 <font color=808080>M =</font> Kammer mit Mumien (und einer Schriftrolle)<br>
 <span class="gelb">N =</span> Grabkammer von Nephyr<br>
-<font color=808080>r =</font> Rampe (nach Norden landet man eine Ebene tiefer in der groﬂen Halle)<br>
+<font color=808080>r =</font> Rampe (nach Norden landet man eine Ebene tiefer in der gro√üen Halle)<br>
 <font color=808080>S =</font> Kammer mit Skeletten<br>
 <span class="gelb">S =</span> Totenschiff (betretbar)<br>
 <span class="gelb">s =</span> Sarkophag mit dem Push-Spiel und eine versteckte Treppe nach unten<br>
-<span class="gelb">T =</span> Grabkammer & Geist von Thutepot (hierher f¸hrt die Treppe von unten)<br>
+<span class="gelb">T =</span> Grabkammer & Geist von Thutepot (hierher f√ºhrt die Treppe von unten)<br>
 <font color=808080>T =</font> Thron &amp; Treppe nach oben<br>
 <font color=808080>t =</font> Treppe (von Ebene -1 hoch zu Feld s, auf Ebene 1 
 hoch/runter zu den T-Feldern auf Ebene 0 und 2)<br>
