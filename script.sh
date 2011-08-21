@@ -11,4 +11,8 @@ mv $1.tmp $1
 cat $1|perl -pe 's|<font color=red>(.*?)</font>|<span class="rot">\1</span>|g' >$1.tmp
 mv $1.tmp $1
 cat $1|perl -pe 's|<A TITLE="(.*?)" HREF="(.*?).html">(.*?)</A>|[[\3\|\2]]|g' >$1.tmp
-mv $1.tmp $1
+echo '<span class="map">' > $1
+cat $1.tmp >>$1
+echo '</span>' >>$1
+sed -i '/^$/d' $1
+rm $1.tmp
