@@ -1,0 +1,48 @@
+<span class="map">
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<span class="hellblau">|X|X|</span>X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-S-s</span>-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<span class="hellblau">|X|X|</span>X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+
+</span>
+
+<span class="legend">
+<font color=blue>m =</font> Meer<br>
+<span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] tragen lassen)<br>
+<span class="hellblau">s =</span> Am Rande einer warmen Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] tragen lassen)<br>
+</span>

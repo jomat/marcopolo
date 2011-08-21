@@ -1,0 +1,57 @@
+<span class="map">
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="gelb">K</span><br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| |<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="gelb">B</span>-<span class="gelb">S</span><br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|/ \|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m <span class="orange">S</span> <span class="hellblau">o-o</span>-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X| <font color=C0C0C0>|</font> <span class="hellblau">|X|</span>X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m <font color=C0C0C0>s</font> <span class="hellblau">o-o</span>-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X| <font color=C0C0C0>|</font> <span class="hellblau">|/</span> \|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-<span class="hellblau">o-u <font color=C0C0C0>b</span> o L</font> m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X<span class="hellblau">|/ &nbsp;<font color=C0C0C0>|</span> &nbsp;\</font> /|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-<span class="hellblau">o <span class="gelb">G<font color=C0C0C0>-s</span> P</span> o</font>-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X<span class="hellblau">|\ &nbsp;<font color=C0C0C0>|</span> &nbsp;/|</font>X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-<span class="hellblau">o-o-o-o-o</span>-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<span class="hellblau">|X|X|</span>X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-S-s</span>-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<span class="hellblau">|X|X|</span>X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Büro von Nixerich<br>
+<font color=C0C0C0>b =</font> Von hier geht ein Gang in beide Richtungen (hoch und runter) weiter<br>
+<span class="gelb">K =</span> Koppel des Seepferdchengestüts<br>
+<font color=blue>m =</font> Meer<br>
+<span class="hellblau">o =</span> Unter der Stadt der Nixen (es geht nicht nach oben, weil da die Korallen der Stadt sind)<br>
+<span class="gelb">P =</span> Hier gehts nach Osten in den Palast<br>
+<span class="orange">S =</span> Schmied<br>
+<span class="gelb">S =</span> Stall des Seepferdchengestüts<br>
+<span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] tragen lassen)<br>
+<span class="hellblau">s =</span> Am Rande einer warmen Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] tragen lassen)<br>
+<font color=C0C0C0>s =</font> Straße / Durchgang<br>
+<span class="hellblau">u =</span> Zwischen den Korallen der Stadt der Nixen (es geht nicht nach unten oder unten, weil da die Korallen der Stadt sind)<br>
+</span>
