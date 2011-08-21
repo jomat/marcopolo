@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="#C0C0C0">
 &nbsp;&nbsp; &nbsp; &nbsp; <font color=00CC00>\|/</font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=CC6600>-[[<font color=CC6600>E</font>|Gallien]]-</font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
@@ -23,26 +23,27 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;z<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font color=CC6600>-[[<font color=CC6600>E</font>|Gallien]]-</font><br>
-&nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00>/|\</font></td>
-</tr>
-</table>
+&nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00>/|\</font>
+</span>
+
+<span class="legend">
 <font color=blue>B =</font> Brunnen<br>
 <font color=CC6600>E =</font> Eingang zum Gallischen Dorf (im Nordwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
 <span class="orange">G =</span> Gasthaus 'zur frischen Brise'<br>
-<span class="gelb">H =</span> Historix Hütte<br>
-<span class="gelb">h =</span> Hühnerstall<br>
-<span class="gelb">J =</span> Majestix Hütte<br>
-<span class="gelb">J =</span> Nebenzimmer von Majestix Hütte<br>
+<span class="gelb">H =</span> Historix HÃ¼tte<br>
+<span class="gelb">h =</span> HÃ¼hnerstall<br>
+<span class="gelb">J =</span> Majestix HÃ¼tte<br>
+<span class="gelb">J =</span> Nebenzimmer von Majestix HÃ¼tte<br>
 <span class="gelb">l =</span> Leerstehendes Haus<br>
-<span class="gelb">M =</span> Miraculix Hütte<br>
-<span class="gelb">m =</span> Methusailix, der Dorfälteste<br>
+<span class="gelb">M =</span> Miraculix HÃ¼tte<br>
+<span class="gelb">m =</span> Methusailix, der DorfÃ¤lteste<br>
 <span class="orange">P =</span> Dorfplatz (man kann sich bei Gyrix Braten kaufen oder hoch auf den Baum zu Troubadix Baumhaus)<br>
 <span class="hellblau">P =</span> Post<br>
 <span class="orange">S =</span> Schmiede<br>
 <span class="gelb">s =</span> Hinterzimmer der Schmiede<br>
-<font color=C0C0C0>s =</font> Straße<br>
+<font color=C0C0C0>s =</font> StraÃŸe<br>
 <span class="orange">V =</span> Verleihnix<br>
-<span class="gelb">W =</span> Würfelfix Hütte<br>
-<font color=C0C0C0>z =</font> Zwischen den Palisadenwänden<br>
-<center><font color=00CC00>([[<font color=00CC00>zurück nach Gallien</font>|Gallien]])</font></center>
+<span class="gelb">W =</span> WÃ¼rfelfix HÃ¼tte<br>
+<font color=C0C0C0>z =</font> Zwischen den PalisadenwÃ¤nden<br>
+<center><font color=00CC00>([[<font color=00CC00>zurÃ¼ck nach Gallien</font>|Gallien]])</font></center>
 </span>
