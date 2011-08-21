@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#00CC66">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">V</span> &nbsp; <span class="hellblau">M</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp;&nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">L</span>-f-f-<span class="gelb">N</span><br>
@@ -16,7 +17,7 @@
 &nbsp; &nbsp;[[<span class="hellblau">A</span>|Asia]] <font color=00CC00>g</font>-J-f<br>
 &nbsp; &nbsp;<font color=C0C0C0>|</font><span class="gelb">p</span> &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;<font color=C0C0C0>v-v</font> &nbsp; <font color=blue>B</font>
-</TD>
+</font>
 </span>
 
 <span class="legend">
@@ -24,31 +25,31 @@
 <span class="hellblau">A =</span> Abstieg - mit 3 Seilen und etwas Mut kann man hier den Abstieg nach [[<span class="hellblau">Asia</span>|Asia]] wagen...<br>
 <font color=blue>B =</font> Schwimmbad (hier kommen die Wachen nicht rein und man regeneriert besser wenn man auf ner Liane schaukelt)<br>
 <span class="violett">D =</span> Raum mit 3 Dimensionstoren:<BR>
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Tor (südlich) führt in den See im Norden des [[<span class="hellblau">Drachenlandes</span>|Drachenland]]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 2. Tor (nördlich) führt in die Vogelvoliere im Nordteil des Jadepalastes<BR>
-&nbsp;&nbsp;&nbsp;&nbsp; 3. Tor (östlich) führt auf den Grund des (sehr) tiefen Teiches im Garten - Vorsicht, es besteht Gefahr zu ertrinken<BR>
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Tor (sÃ¼dlich) fÃ¼hrt in den See im Norden des [[<span class="hellblau">Drachenlandes</span>|Drachenland]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; 2. Tor (nÃ¶rdlich) fÃ¼hrt in die Vogelvoliere im Nordteil des Jadepalastes<BR>
+&nbsp;&nbsp;&nbsp;&nbsp; 3. Tor (Ã¶stlich) fÃ¼hrt auf den Grund des (sehr) tiefen Teiches im Garten - Vorsicht, es besteht Gefahr zu ertrinken<BR>
 <span class="violett">E =</span> Gangende mit 2 Dimensionstoren:<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Tor (rechts) führt an die Decke des Wachraums <br>
-&nbsp;&nbsp;&nbsp;&nbsp; 2. Tor (links) führt ins Gefängnis des Jadepalastes<BR>
-<span class="rot">F =</span> Feuerfalle - zum Ausschalten muss man im Südlichen Feld den Kelch an der Wand drücken und im Nördlichen Feld in die Augen einer Figur im Relief greifen<br>
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Tor (rechts) fÃ¼hrt an die Decke des Wachraums <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 2. Tor (links) fÃ¼hrt ins GefÃ¤ngnis des Jadepalastes<BR>
+<span class="rot">F =</span> Feuerfalle - zum Ausschalten muss man im SÃ¼dlichen Feld den Kelch an der Wand drÃ¼cken und im NÃ¶rdlichen Feld in die Augen einer Figur im Relief greifen<br>
 <font color=00CC66>f =</font> Flur<br>
-<span class="violett">f =</span> Den Flur entlang nach Westen ist ein verstecktes Dimensionstor zum Grund des Gartenteichs (vorsicht, man kann ertrinken ! ) - Dolch an der Wand drücken zum ausschalten<br>
-<span class="gelb">G =</span> Gefängnis (wenn man eingesperrt wurde kann man das Dimensionstor zurück zu Raum E nicht benutzen - man muss sich dann auf den Tisch sezten um in die Küche zu teleportieren)<br>
+<span class="violett">f =</span> Den Flur entlang nach Westen ist ein verstecktes Dimensionstor zum Grund des Gartenteichs (vorsicht, man kann ertrinken ! ) - Dolch an der Wand drÃ¼cken zum ausschalten<br>
+<span class="gelb">G =</span> GefÃ¤ngnis (wenn man eingesperrt wurde kann man das Dimensionstor zurÃ¼ck zu Raum E nicht benutzen - man muss sich dann auf den Tisch sezten um in die KÃ¼che zu teleportieren)<br>
 <font color=00CC00>g =</font> Garten<br>
 <font color=00CC66>J =</font> In ner Nische hier findet man den Jadeschneider<br>
-<span class="violett">K =</span> Küche (hier hat es: Ein Dimensionstor zu den [[<span class="hellblau">Pyramiden</span>|Amerindia/Pyramiden]] nach Amerindia, einen Aufzug runter in den [[<span class="hellblau">Keller</span>|Jadepalast/Keller]])<br>
-<font color=blue>k =</font> Diese Kammer füllt sich periodisch mit Wasser (die Tür geht wieder auf wenn das Wasser wieder sinkt... und von der Luke lässt man besser die Finger wenn man kein Krokodilcatchen machen will)<br>
-<span class="gelb">L =</span> Bio-Labor (hier können Hexen ihre von Igor entführten Vertrauten befreien bevor sie Bestandteil einer der neuen Kreaturen werden...)<br>
-<span class="gelb">l =</span> Hier in einer Nische steht eine Lampe aus Gold - und man lässt sie auch lieber stehen wenn man nicht unter wegnahme aller Waffen und Rüstungen im Gefängnis von Arwoor landen will<br>
+<span class="violett">K =</span> KÃ¼che (hier hat es: Ein Dimensionstor zu den [[<span class="hellblau">Pyramiden</span>|Amerindia/Pyramiden]] nach Amerindia, einen Aufzug runter in den [[<span class="hellblau">Keller</span>|Jadepalast/Keller]])<br>
+<font color=blue>k =</font> Diese Kammer fÃ¼llt sich periodisch mit Wasser (die TÃ¼r geht wieder auf wenn das Wasser wieder sinkt... und von der Luke lÃ¤sst man besser die Finger wenn man kein Krokodilcatchen machen will)<br>
+<span class="gelb">L =</span> Bio-Labor (hier kÃ¶nnen Hexen ihre von Igor entfÃ¼hrten Vertrauten befreien bevor sie Bestandteil einer der neuen Kreaturen werden...)<br>
+<span class="gelb">l =</span> Hier in einer Nische steht eine Lampe aus Gold - und man lÃ¤sst sie auch lieber stehen wenn man nicht unter wegnahme aller Waffen und RÃ¼stungen im GefÃ¤ngnis von Arwoor landen will<br>
 <span class="hellblau">M =</span> Metamorphergilde<br>
-<span class="gelb">M =</span> In diesem Raum sitzt am unteren Ende eines langen Schachtes der Dämon Maxwell<br>
-<span class="gelb">N =</span> Nebenzimmer am Ende des Ganges (durch den Spiegel an der Wand (Norden) gelangt man in die Räume der Metamorpher)<br>
-<span class="gelb">p =</span> Gartenpforte (sw nach no also '/') - wenn man vom Garten aus kommt kann man einfach durchgehen, von der Aussenseite muss man sie aufziehen oder -stoßen... wenn man stößt gelangt man nicht in den Garten sondern zum Wachhund Arwoors - einer aggresiven Scheibe mit Zähnen<br>
+<span class="gelb">M =</span> In diesem Raum sitzt am unteren Ende eines langen Schachtes der DÃ¤mon Maxwell<br>
+<span class="gelb">N =</span> Nebenzimmer am Ende des Ganges (durch den Spiegel an der Wand (Norden) gelangt man in die RÃ¤ume der Metamorpher)<br>
+<span class="gelb">p =</span> Gartenpforte (sw nach no also '/') - wenn man vom Garten aus kommt kann man einfach durchgehen, von der Aussenseite muss man sie aufziehen oder -stoÃŸen... wenn man stÃ¶ÃŸt gelangt man nicht in den Garten sondern zum Wachhund Arwoors - einer aggresiven Scheibe mit ZÃ¤hnen<br>
 <span class="gelb">S =</span> Schatzkammer<br>
 <span class="violett">s =</span> Das Bild an der Nordwand ist ein Dimensionstor zu ner 1 Feld kleinen Insel am grossen Strudel im Meer von Magyra [Koordinaten 315 Grad 1298 sm]<br>
-<font color=00CC66>S =</font> Durch Drücken der Statue in diesem Gangstück öffnet man den Weg nach Norden in die Schatzkammer<br>
-<font color=00CC66>s =</font> Wenn man den Kleinen Stab drückt der hier im Flur aus der Wand ragt landet man in der Wasserkammer k<br>
-<span class="gelb">V =</span> Treppe hoch zur Vogelvoliere - man kommt von dieser Seite nicht durch die Tür, aber kann einen Raben herauslocken wenn man klopft<br>
+<font color=00CC66>S =</font> Durch DrÃ¼cken der Statue in diesem GangstÃ¼ck Ã¶ffnet man den Weg nach Norden in die Schatzkammer<br>
+<font color=00CC66>s =</font> Wenn man den Kleinen Stab drÃ¼ckt der hier im Flur aus der Wand ragt landet man in der Wasserkammer k<br>
+<span class="gelb">V =</span> Treppe hoch zur Vogelvoliere - man kommt von dieser Seite nicht durch die TÃ¼r, aber kann einen Raben herauslocken wenn man klopft<br>
 <font color=C0C0C0>v =</font> Vor dem Palast Arwoors<br>
 <span class="gelb">W =</span> Aufenthaltsraum der Palastwachen<br>
 <font color=008000>w =</font> Zimmer mit Wald-Deko<br>
