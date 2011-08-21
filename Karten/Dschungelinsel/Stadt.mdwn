@@ -1,0 +1,32 @@
+<span class="map">
+&nbsp;l l l l l<br>
+&nbsp; \|\|/|/<br>
+&nbsp;l-<font color=C0C0C0>p-p-p</font>-l<br>
+&nbsp; \<font color=C0C0C0>| &nbsp; |</font>/<br>
+&nbsp;l-<font color=C0C0C0>p &nbsp; p</font>-l<br>
+&nbsp; /<font color=C0C0C0>| <span class="rot">|</span> |</font>\<br>
+&nbsp;l-<font color=C0C0C0>p-p-p</font>-l<br>
+&nbsp; /|/<font color=C0C0C0>|</font>\|\<br>
+&nbsp;l l <font color=C0C0C0>|</font> l l<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font><br>
+&nbsp; &nbsp;s-<font color=C0C0C0>t</font>-s<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>v</font><br>
+&nbsp; &nbsp;s-<font color=C0C0C0>t</font>-s<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>v</font><br>
+&nbsp; &nbsp;s-<font color=C0C0C0>t</font>-s<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>v</font><br>
+&nbsp; &nbsp;s-<font color=C0C0C0>t</font>-s<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>v</font><br>
+&nbsp; &nbsp;s-<font color=C0C0C0>t</font>-s<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>v</font><br>
+&nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Innenansicht_Dschungelinsel]]<br>
+&nbsp; &nbsp; <font color=808080>/</font>
+</span>
+
+<span class="legend">
+<font color=006666>l =</font> Mitten in der Luft - und man darf sich auf nen recht schmerzhaften Aufschlag auf dem weit unten liegenden Boden freuen (es ist nicht sonderlich ratsam diese Felder zu betreten)<br>
+<font color=C0C0C0>p =</font> Tempelvorplatz<br>
+<span class="hellblau">S =</span> Eingang zur Stadt (auf der [[<span class="hellblau">Dschungelinsel</span>|Innenansicht_Dschungelinsel]])<br>
+<font color=006666>s =</font> Auf glatten Steinplatten - die man herunterrutscht wodurch man mit etwas Schaden am Fuﬂ der Treppe aufkommt<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+</span>

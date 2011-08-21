@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-b-b-b-b-b-b-b-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
@@ -14,15 +14,15 @@ M-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-M-M-M-d-d-<font color=00CC00>K-K
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>/|X|X|X|X|X|X<font color=C0C0C0>|</font>\</font>|X|<font color=00CC00>/|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>/|X|X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-M-M-M-d-d-d-d-<span class="hellblau">f</span><font color=00CC00>-K-K-O-O-O-O-<span class="hellblau">D</span>-K-K-O-O-K-K-K-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-K-K-K-K-O-O-O-O-O-O-O-K-[[<span class="hellblau">B</span>|Kreta/Hackbart]]-K-K-K-K-K-K-K</font>-u-u-u-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>/|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-M-M-<font color=00CC00>K-K-K-<span class="hellblau">P</span>-K-K-K-O-O-O-O-<font color=800000>µ-µ-</font><font color=C0C0C0>S</font>-O-O-O-O-O-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-O-O-O-O-O-D-D-D-O-O-O-O-O-O-K-K-K-K-K-K</font>-u-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-<br>
+M-M-M-M-M-M-M-M-M-<font color=00CC00>K-K-K-<span class="hellblau">P</span>-K-K-K-O-O-O-O-<font color=800000>Âµ-Âµ-</font><font color=C0C0C0>S</font>-O-O-O-O-O-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-O-O-O-O-O-D-D-D-O-O-O-O-O-O-K-K-K-K-K-K</font>-u-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X<font color=00CC00>|/ \|X|X|X|X|X|X|X|X|<font color=800000>X|X|</font><font color=C0C0C0>X</font><font color=800000>|</font><font color=C0C0C0>X</font>|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-M-u-<font color=00CC00>K  [[<span class="hellblau">W</span>|Kreta/Wohnsitz]]-D-D-D-D-D-O-<font color=800000>µ-µ-µ-µ-</font><font color=C0C0C0>S</font><font color=800000>-µ-</font><font color=C0C0C0>S-S-S-S-S-S-S-S-S<font color=brown>-B-B-B-B-B-B-B-B-B-B-B-B-B-</font>S-S-S-S-S-S-S-S-S-S-S-S-S</font>-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K-K</font>-u-u-M-M-M-M-M-M-M-M-M-M-<br>
+M-M-M-M-M-M-M-M-u-<font color=00CC00>K  [[<span class="hellblau">W</span>|Kreta/Wohnsitz]]-D-D-D-D-D-O-<font color=800000>Âµ-Âµ-Âµ-Âµ-</font><font color=C0C0C0>S</font><font color=800000>-Âµ-</font><font color=C0C0C0>S-S-S-S-S-S-S-S-S<font color=brown>-B-B-B-B-B-B-B-B-B-B-B-B-B-</font>S-S-S-S-S-S-S-S-S-S-S-S-S</font>-O-O-O-O-O-O-O-O-O-O-O-O-O-K-K-K-K</font>-u-u-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|<font color=00CC00>/|\ /|X|X|X|X|X|<font color=800000>X|X|X|X|X</font><font color=C0C0C0>|</font><font color=800000>X|X|X|X</font>|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>\|X|X|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>X</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-u-<font color=00CC00>K-D-D-D-O-O-O-O-<font color=800000>µ-µ-µ-µ-µ-</font><font color=C0C0C0>S</font><font color=800000>-µ-µ-µ-µ</font>-O-O-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-O-O-O-<font color=808080>B-B-B-B</font>-O-O-O-O-O-O-O-O-O-K-K</font>-u-M-M-M-M-M-M-M-M-M-<br>
+M-M-M-M-M-M-M-u-<font color=00CC00>K-D-D-D-O-O-O-O-<font color=800000>Âµ-Âµ-Âµ-Âµ-Âµ-</font><font color=C0C0C0>S</font><font color=800000>-Âµ-Âµ-Âµ-Âµ</font>-O-O-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-O-O-O-<font color=808080>B-B-B-B</font>-O-O-O-O-O-O-O-O-O-K-K</font>-u-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X<font color=00CC00>|X|X|X|X|X|X|X|<font color=800000>X|X|X|X|X|X</font><font color=C0C0C0>|</font><font color=800000>X|X|X|X|X</font>|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>\|X|&nbsp;&nbsp; |X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|<font color=808080>X|X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-<font color=800000>µ-µ-µ-µ-µ-µ-</font><font color=C0C0C0>S</font><font color=800000>-µ-µ-µ-µ-µ</font>-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-[[<span class="hellblau">R</span>|Kreta/Troja]] O-O-O-O-K-K-O-O-<font color=C0C0C0>S</font>-O-<font color=808080>B-B-B-B-B-B-B</font>-O-O-O-O-O-O-O-O-O-K-K</font>-u-M-M-M-M-M-M-M-M-<br>
+M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-<font color=800000>Âµ-Âµ-Âµ-Âµ-Âµ-Âµ-</font><font color=C0C0C0>S</font><font color=800000>-Âµ-Âµ-Âµ-Âµ-Âµ</font>-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-[[<span class="hellblau">R</span>|Kreta/Troja]] O-O-O-O-K-K-O-O-<font color=C0C0C0>S</font>-O-<font color=808080>B-B-B-B-B-B-B</font>-O-O-O-O-O-O-O-O-O-K-K</font>-u-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|<font color=00CC00>\|X|X|X|X|X|X|<font color=800000>X|X|X</font>|X|X|X<font color=C0C0C0>|</font>X|X|<font color=800000>X|X|X|X</font>|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|X|&nbsp;&nbsp; |X|X|X|/</font>|X|<font color=00CC00>\|X|X|<font color=C0C0C0>X</font>|X|<font color=808080>X|X|X|X|X|X|X</font>|X|X|X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-<font color=800000>µ-µ</font>-O-<span class="hellblau">I</span>-O-<font color=C0C0C0>S</font>-O-O-<font color=800000>µ-µ-µ-µ</font>-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-K-K</font>-u-u-<font color=00CC00>K-O-O-<font color=C0C0C0>S-S-S-S-S-S</font><font color=808080>-B-B-B-B</font>-O-O-O-O-O-O-K</font>-u-u-M-M-M-M-M-M-M-M-M-<br>
+M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-<font color=800000>Âµ-Âµ</font>-O-<span class="hellblau">I</span>-O-<font color=C0C0C0>S</font>-O-O-<font color=800000>Âµ-Âµ-Âµ-Âµ</font>-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-K-K</font>-u-u-<font color=00CC00>K-O-O-<font color=C0C0C0>S-S-S-S-S-S</font><font color=808080>-B-B-B-B</font>-O-O-O-O-O-O-K</font>-u-u-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|<font color=00CC00>/|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|X|X|X|X|/</font>|X|X|X|X|<font color=00CC00>\|X|X|X|X|X|<font color=808080>X|X|<font color=C0C0C0>X</font>|X|X|X|X</font>|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-<font color=00CC00>K-O-O-O-<font color=006600>K</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-O-O-O-O-O-O-O-O-K</font>-u-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-K-K-K-K</font>-u-u-M-M-u-<font color=00CC00>K-O-O-O-O-O-<font color=808080>B-B-<font color=C0C0C0>S</font>-B-B-B-B</font>-O-O-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X<font color=00CC00>|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>\|X|X|X|X|X|X|X<font color=C0C0C0>|</font><font color=808080>X|X|X|X|</font>X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
@@ -31,7 +31,7 @@ M-M-M-M-M-M-M-u-<font color=00CC00>K-<font color=808080>B-B</font>-O-O-O-O-O-O-O
 M-M-M-M-M-M-M-u-<font color=00CC00>K-<font color=808080><span class="hellblau">z</span>-<span class="hellblau">G</span>-<span class="hellblau">h</span>-B</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-O-O-O-O-O-O-K-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=00CC00>H&nbsp; <font color=C0C0C0>-[[<span class="hellblau">T</span>|Kreta/Ephesos]]-S-S-S-S</font>-O-O-<font color=808080>B-B-</font><span class="hellblau">Z</span><font color=808080>-B</font>-O-O-O-K</font>-u-u-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|<font color=00CC00>/|<font color=808080>X|X|&nbsp; \|</font>X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|[[<span class="hellblau">Ephes</span>|Kreta/Ephesos]]|X|X|X|X|X|<font color=808080>X|X|X|X</font>|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-u-<font color=00CC00>K-<font color=808080>B-B-</font>[[<span class="hellblau">M</span>|Kreta/Mine]]<font color=808080>&nbsp;&nbsp; B</font>-O-O-O-O-O-O-O-O-<span class="hellblau">p</span>-O-O-O-O-K-K</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-u-<span class="hellblau">H</span><font color=C0C0C0>-[[<span class="hellblau">T</span>|Kreta/Ephesos]]-</font><font color=00CC00>&nbsp; O-O-O-O-O-<font color=808080>B-B-B</font>-O-O-O-O-O-O-K-K</font>-u-M-M-M-M-M-M-M-M-M-<br>
-|X|X|X|X|X|X|<font color=00CC00>/<font color=808080> \|/ &nbsp; &nbsp; /|</font>X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|\&nbsp;&nbsp; 
+|X|X|X|X|X|X|<font color=00CC00>/<font color=808080> \|/ &nbsp; &nbsp; /|</font>X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|\&nbsp;&nbsp;
 /|X|X|X|X|<font color=808080>X|X|X</font>|X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X<br>M-M-M-M-M-u-<font color=00CC00>K<font color=808080> &nbsp; B &nbsp; &nbsp; [[<span class="hellblau">A</span>|Kreta/Mine]]-B</font>-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-O-O-O-K</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-K-H-O-O-O-O-O-O-<font color=808080>B-B</font>-O-O-O-<span class="hellblau">d</span>-O-K-K-K</font>-u-u-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|<font color=00CC00>/|&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <font color=808080>|X</font>|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>\|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-u-<font color=00CC00>K-O<font color=808080>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B</font>-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-O-O-K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-K-O-O-O-O-O-O-O-O-K-K-K-K-K</font>-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-<br>
@@ -48,7 +48,7 @@ M-M-M-M-M-u-<font color=00CC00>K-O-O-O-<font color=808080>B-B-B</font>-O-O-O-O-O
 |X|X|X|X|X|<font color=00CC00>/|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font></font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-u-<font color=00CC00>K-O-O-<font color=FFFF00>W-W-W</font>-O-O-O-O-O-O-O-O-O-O-<font color=C0C0C0>S</font></font>-u-M-M-M-u-u-M-M-M-M-M-M-M-M-M-M-M-u-u-<font color=C0C0C0>A-A-A-A</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X<font color=00CC00>|X|X|<font color=FFFF00>X|X|X|X</font>|X|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>/|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-u-<font color=00CC00>K-<font color=FFFF00>W-W-W-W-W-W-W-W</font>-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-K</font>-u-u-u-<font color=00CC00>K-K</font>-u-u-u-M-M-M-M-M-M-M-u-<font color=C0C0C0>A-A-A-A-A</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>    
+M-M-M-M-u-<font color=00CC00>K-<font color=FFFF00>W-W-W-W-W-W-W-W</font>-O-O-O-O-O-O-O-<font color=C0C0C0>S</font>-K</font>-u-u-u-<font color=00CC00>K-K</font>-u-u-u-M-M-M-M-M-M-M-u-<font color=C0C0C0>A-A-A-A-A</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|<font color=00CC00>\|<font color=FFFF00>X|X|X|X|X|X|X|X</font>|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|\</font>|X|X|<font color=00CC00>/|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>\|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-u-<font color=00CC00>K-<font color=FFFF00>W-W-W-W-W-W-W-W-W</font>-O-O-O-O-O-<font color=C0C0C0>S</font>-O-K-K-K-O-O-K-K-K</font>-u-u-M-M-M-M-M-M-u-u-<font color=C0C0C0>A-A</font>-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|<font color=00CC00>\|<font color=FFFF00>X|X|X|X|X|X|X|X|X</font>|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|X|X|X|X|X|\</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
@@ -66,38 +66,40 @@ M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-O-O-O-O-O-O-O-O-<font color=C0C0C0>
 |X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>/|X|X|X|X|X|X|X|X|X<font color=C0C0C0>|</font>X|X|X|X|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| &nbsp; | &nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-K-K-<font color=008000>R-R-[[<span class="hellblau">r</span>|Kreta/Orkwald]]-R-R</font>-O-O-<span class="hellblau">s</span>-[[<span class="hellblau">C</span>|Kreta/Kanalisation_Knossos]]-K-K-K</font>-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-u-u-u-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|<font color=00CC00>\|X<font color=008000>| &nbsp; |</font>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  <font color=C0C0C0>|</font>\|/</font>|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-M-M-M-M-u-u-<font color=00CC00>K-[[<span class="hellblau">r</span>|Kreta/Orkwald]] [[<span class="hellblau">Orkwald</span>|Kreta/Orkwald]]&nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Kreta/Knossos]] K</font>-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
+M-M-M-M-M-M-M-M-M-M-M-u-u-<font color=00CC00>K-[[<span class="hellblau">r</span>|Kreta/Orkwald]] [[<span class="hellblau">Orkwald</span>|Kreta/Orkwald]]&nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Knossos]] K</font>-u-u-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|X<font color=008000>|\</font>&nbsp; &nbsp; &nbsp;[[<span class="hellblau">Knossos</span>|Kreta/Knossos]]&nbsp; |</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-u-<font color=00CC00>K-</font><font color=008000>R</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">H</span>-H <font color=00CC00>K</font>-u-M-M-M-M-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>    
+M-M-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-u-<font color=00CC00>K-</font><font color=008000>R</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">H</span>-H <font color=00CC00>K</font>-u-M-M-M-M-M-M-M-M-M-<font color=C0C0C0>I</font>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CC00>|X<font color=008000>|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font> | <font color=00CC00>|</font>X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-M-M-M-M-u-<font color=00CC00>K-</font><font color=008000>R-R-R-R</font>&nbsp; &nbsp;&nbsp; &nbsp; H <font color=00CC00>K</font>-u-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|&nbsp; &nbsp;&nbsp; &nbsp; | |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-M-M-M-M-u-u-u-u-u-u-u-u-u-e-<span class="hellblau">t</span>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<BR>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font></td>
-</tr>
-</table>
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>
+</font>
+</span>
+
+<span class="legend">
 <span class="hellblau">Sehenswertes:</span><br>
-<span class="hellblau">A =</span> [[<span class="hellblau">Höhlentempel</span>|Kreta/Mine]] (man muss die Treppe hochklettern um reinzukommen)<br>
+<span class="hellblau">A =</span> [[<span class="hellblau">HÃ¶hlentempel</span>|Kreta/Mine]] (man muss die Treppe hochklettern um reinzukommen)<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Hackbarts Haus</span>|Kreta/Hackbart]]<br>
-<span class="hellblau">b =</span> Berghütte<br>
+<span class="hellblau">b =</span> BerghÃ¼tte<br>
 <span class="hellblau">C =</span> Alter Planwagen (wenn man ihn betritt landet man in der [[<span class="hellblau">Kanalisation von Knossos</span>|Kreta/Kanalisation_Knossos]])<br>
-<span class="hellblau">D =</span> Rätselturm<br>
+<span class="hellblau">D =</span> RÃ¤tselturm<br>
 <span class="hellblau">d =</span> Tempel des Diskus<br>
 <span class="hellblau">E =</span> [[<span class="hellblau">Heilige Eiche</span>|Kreta/Eiche]]<br>
 <span class="hellblau">F =</span> Felsspitze (durch einen Spalt kann man in eine alte [[<span class="hellblau">Mine</span>|Kreta/Mine2]] kriechen)<br>
 <span class="hellblau">f =</span> Fischer<br>
-<span class="hellblau">G =</span> Garenthor, der abtrünnige Magier<br>
-<span class="hellblau">H =</span> Häfen (das Feld mit der Kurstafel ist blau)<br>
-<span class="hellblau">h =</span> Berghütte (Vorsicht, einem knallt sonstwas an den Kopf wenn man die Tür aufmacht)<br>
-<span class="hellblau">I =</span> Irres Männlein (Tanzt um eine Fallgrube herum)<br>
+<span class="hellblau">G =</span> Garenthor, der abtrÃ¼nnige Magier<br>
+<span class="hellblau">H =</span> HÃ¤fen (das Feld mit der Kurstafel ist blau)<br>
+<span class="hellblau">h =</span> BerghÃ¼tte (Vorsicht, einem knallt sonstwas an den Kopf wenn man die TÃ¼r aufmacht)<br>
+<span class="hellblau">I =</span> Irres MÃ¤nnlein (Tanzt um eine Fallgrube herum)<br>
 <span class="hellblau">K =</span> Lemming-Klippe<br>
 <span class="hellblau">k =</span> Auf dem Weg zur Lemming-Klippe<br>
 <span class="hellblau">L =</span> [[<span class="hellblau">Landhaus von Aeolos</span>|Kreta/Landhaus]]<br>
-<span class="hellblau">M =</span> [[<span class="hellblau">verlassene Mine</span>|Kreta/Mine]] (wenn man die Tür eintritt gehts nach Süden weiter)<br>
+<span class="hellblau">M =</span> [[<span class="hellblau">verlassene Mine</span>|Kreta/Mine]] (wenn man die TÃ¼r eintritt gehts nach SÃ¼den weiter)<br>
 <span class="hellblau">m =</span> Steinkreis von Monolithen (Teleporter der Druidengilden - zu den [[<span class="hellblau">Sehern</span>|Gallien/Sehergilde]], [[<span class="hellblau">Druiden</span>|Kreta/Druidengilde]] und in den [[<span class="hellblau">Karnutenwald</span>|Gallien/Karnutenwald]])<br>
 <span class="hellblau">O =</span> Klippe auf deren Spitze Orm Embar, der HerrScher der Drachen mit Seiner Brut Sitzt<br>
-<span class="hellblau">P =</span> Peirothoos, der berühmte Ringer<br>
+<span class="hellblau">P =</span> Peirothoos, der berÃ¼hmte Ringer<br>
 <span class="hellblau">p =</span> Kinyras und Sipylos, die beiden Pilger<br>
 <span class="hellblau">Q =</span> tote Quelle in der eine Steintafel liegt <br>
 <span class="hellblau">R =</span> Ruinen von [[<span class="hellblau">Troja</span>|Kreta/Troja]]<br>
@@ -106,43 +108,42 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <span class="hellblau">s =</span> Sklett mit Brustpanzer<br>
 <span class="hellblau">T =</span> Stadttore von [[<span class="hellblau">Knossos</span>|Kreta/Knossos]] und [[<span class="hellblau">Ephesos</span>|Kreta/Ephesos]]<BR>
 <span class="hellblau">t =</span> Leuchtturm von Knossos<BR>
-<span class="hellblau">U =</span> [[<span class="hellblau">Tritons Unterwasserwelt</span>|Kreta/Triton]] (der Eingang ist unter nem großen Stein versteckt... [schiebe stein])<br>
+<span class="hellblau">U =</span> [[<span class="hellblau">Tritons Unterwasserwelt</span>|Kreta/Triton]] (der Eingang ist unter nem groÃŸen Stein versteckt... [schiebe stein])<br>
 <span class="hellblau">W =</span> [[<span class="hellblau">Heracles Landhaus</span>|Kreta/Wohnsitz]]<br>
-<span class="hellblau">Z =</span> Zyklopen-Höhle<br>
+<span class="hellblau">Z =</span> Zyklopen-HÃ¶hle<br>
 <span class="hellblau">z =</span> Zip-Rune <br>
 <span class="hellblau">Landschaft:</span><br>
 <font color=C0C0C0>A =</font> Avalon<br>
 <font color=808080>B =</font> Berge<br>
 <font color=blue>b =</font> Brandung<br>
 <font color=C0C0C0>C =</font> Cyprus<br>
-<font color=00CC00>D =</font> Düne<br>
+<font color=00CC00>D =</font> DÃ¼ne<br>
 <font color=blue>d =</font> In Sichtweite der Dracheninseln<br>
 <font color=blue>e =</font> Hafeneinfahrt<br>
 <font color=C0C0C0>I =</font> Kleine (Schatz-)Inseln<br>
 <font color=800000>i =</font> Kleine Insel im Sumpf<br>
-<font color=00CC00>K =</font> Küste<br>
+<font color=00CC00>K =</font> KÃ¼ste<br>
 <font color=006600>K =</font> Kirschbaum<br>
 <font color=blue>M =</font> Meer<br>
 <font color=00CC00>O =</font> Normale Ebene<br>
 <font color=00CC00>R =</font> Waldrand<br>
-<font color=C0C0C0>S =</font> Straße<br>
+<font color=C0C0C0>S =</font> StraÃŸe<br>
 <font color=blue>u =</font> Am Ufer<br>
-<font color=FFFF00>W =</font> Wüste<br>
-<font color=800000>µ =</font> Sumpf<br>
+<font color=FFFF00>W =</font> WÃ¼ste<br>
+<font color=800000>Âµ =</font> Sumpf<br>
 <span class="rot">Monster:</span><br>
-Löwen<br>
+LÃ¶wen<br>
 Panzerechsen<br>
-Räuber<br>
+RÃ¤uber<br>
 Schlangen<br>
 Skorpione<br>
 Stiere<br>
 Sumpfratten<br>
 Wildeber<br>
-Wölfe<br>
+WÃ¶lfe<br>
 Zyklopen<br>
 <span class="hellblau">Friedliche Bewohner:</span><br>
 Gorillas<br>
 Zentauren<br>
-Kühe<br>
-</html>
+KÃ¼he<br>
 </span>

@@ -1,0 +1,86 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Stadt]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d-d<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d d <font color=FF6600>p</font>-d-d<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>/</font>  \|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d <font color=FF6600>p</font> d d &nbsp; &nbsp; <font color=blue>w</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <font color=FF6600>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d <font color=FF6600>p</font> d d d <font color=blue>k k</font><BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d d <font color=FF6600>p</font> d d <font color=FF6600>p-p</font> <font color=blue>k k</font> d <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>/</font> <font color=FF6600>\ &nbsp; /</font> &nbsp; <font color=blue>\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d d d <font color=FF6600>p</font> d <font color=FF6600>p-p</font> d <font color=blue>k f</font> d d d d<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>/</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d d&nbsp;d d <font color=FF6600>p</font> d d d d <font color=blue>k k</font> <font color=FF6600>p</font> d d d d d r<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>/|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FF6600>\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;d d d d <font color=FF6600>p-p-p</font> d d d <font color=blue>k f</font> d d <font color=FF6600>p</font> d d d d r<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>\</font> &nbsp; /</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=FF6600>p</font> d d d d <font color=FF6600>p</font> d d d d d <font color=blue>k k</font> d <font color=FF6600>p-p</font> d d d d r<br>
+&nbsp; &nbsp; &nbsp; <font color=FF6600>/ \ &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \</font><br> &nbsp; &nbsp; &nbsp;<font color=FF6600>p</font>  d <span class="hellblau">K</span> d d <font color=FF6600>p</font> d d d d <font color=blue>k k k</font> d d d r <font color=FF6600>p</font> r r r<br>
+&nbsp; &nbsp; &nbsp;<font color=FF6600>|</font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>|\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<font color=FF6600>|</font>X|X|X|\<br>
+&nbsp; &nbsp;d <font color=FF6600>p</font>  d d d d <font color=FF6600>p-p-p-p</font> <font color=blue>k k <font color=FF6600>p</font> k</font> d d r r-<font color=00CC00><font color=FF6600>w</font>-O-O-O-O</font><br>
+&nbsp; &nbsp; &nbsp; <font color=FF6600>\</font>&nbsp; &nbsp;&nbsp; &nbsp; <font color=FF6600>/</font> &nbsp; &nbsp; &nbsp; <font color=blue>\</font> &nbsp; <font color=FF6600>/</font> &nbsp; &nbsp; &nbsp; &nbsp; \|<font color=00CC00><font color=FF6600>X</font>|<font color=FF6600>X</font>|X|X|X|\</font><br>
+&nbsp; &nbsp;r r <font color=FF6600>p-p</font> d <font color=FF6600>p</font>  d d d <font color=blue>k f-</font><font color=FF6600>p</font>  <font color=blue>k k</font> 
+d d r-<font color=00CC00><font color=FF6600>w</font>-O-<font color=FF6600>w-w</font>-O-O-O</font><br>
+&nbsp; &nbsp;|/ &nbsp; &nbsp; <font color=FF6600>\</font> <font color=FF6600>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; X<font color=00CC00><font color=FF6600>|</font>X|X|X|<font color=FF6600>X</font>|X|X|\</font><br>
+&nbsp;<span class="hellblau">G</span><font color=FF6600>-w</font>-r r d <font color=FF6600>p</font>  d d d <font color=blue>k k</font> <font color=00CC00>i</font> <font color=blue>k k</font> d d <font color=FF6600>p</font> 
+r-<font color=00CC00><font color=FF6600>w</font>-O-O-O-<font color=FF6600>w</font>-O-O-O-</font><font color=yellow>s</font><br>
+&nbsp; &nbsp;<font color=00CC00>|</font><font color=FF6600>X</font>|/ &nbsp; &nbsp;<font color=FF6600>|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>/ \</font>&nbsp; &nbsp;&nbsp; &nbsp; <font color=FF6600>/</font> <font color=FF6600>\</font> <font color=FF6600>/</font>|<font color=00CC00>X|/ \|X|<font color=FF6600>X</font>|X|X|X</font><font color=yellow>|\</font><br>
+&nbsp; &nbsp;<font color=00CC00>e-</font><font color=FF6600>w</font>-r r <font color=FF6600>p</font>  d d <font color=blue>k k <font color=FF6600>p</font>-f-</font><font color=FF6600>p</font>  d d <font color=FF6600>p</font>  d <font color=FF6600>p</font> 
+r-<font color=00CC00>O <font color=808080>h</font> O-O-<font color=FF6600>w</font>-O-O-</font><font color=yellow>s-s</font><br>
+&nbsp; &nbsp;<font color=00CC00>|X<font color=FF6600>|</font>X</font>|/ &nbsp; <font color=FF6600>\</font> &nbsp; &nbsp; &nbsp; <font color=FF6600>/</font>&nbsp; &nbsp; &nbsp;<font color=FF6600>\</font> &nbsp; <font color=FF6600>/</font>&nbsp; &nbsp; <font color=FF6600>|</font> &nbsp;X<font color=00CC00>|<font color=FF6600>X</font> /|X|<font color=FF6600>X</font>|X|X|X</font><font color=yellow>|X|</font><br>
+&nbsp; &nbsp;<font color=00CC00>e-<font color=FF6600>w</font>-e</font>-r r <font color=FF6600>p</font>  d <font color=blue>k</font> <font color=FF6600>p</font>  <font color=blue>k k</font> d <font color=FF6600>p-p</font> d d <font color=FF6600>p</font> r-<font color=00CC00><font color=FF6600>w</font>-O-O-<font color=FF6600>w</font>-O-O-O-</font><font color=yellow>s-s</font><br>
+&nbsp; &nbsp;<font color=00CC00>|X|<font color=FF6600>X</font>|X</font>|/ &nbsp; <font color=FF6600>\</font>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>\</font>|<font color=00CC00><font color=FF6600>X</font>|X|X|X<font color=FF6600>|</font>X|X|X|</font><font color=yellow>X|X|\</font><font color=blue>|/</font><br>
+&nbsp; &nbsp;<font color=00CC00>e-e-<font color=FF6600>w</font>-e</font>-r &nbsp; <font color=FF6600>p</font>  <font color=blue>k k k</font> d d d d d r r-<font color=00CC00><font color=FF6600>w</font>-O-O-O-<font color=FF6600>w</font>-O-O-</font><font color=yellow>s-s-s-[[<font color=yellow>S</font>|Dschungelinsel]]</font><font color=blue>-</font><br>
+&nbsp; <font color=00CC00>/|X|X<font color=FF6600>|</font>/</font> &nbsp; &nbsp; &nbsp; <font color=blue>\</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; \|<font color=00CC00>X<font color=FF6600>|</font>X|X|X|<font color=FF6600>X</font>|X|X|</font><font color=yellow>X|X|/</font> <font color=blue>/|\</font><br>
+&nbsp;<font color=00CC00>e-e-e-</font><font color=FF6600>w</font>&nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>k f-</font><font color=FF6600>p-p</font> d d d d r 
+r-<font color=00CC00>O-<font color=FF6600>w</font>-O-<font color=FF6600>w-w</font>-O-O-</font><font color=yellow>s-s-s</font><br>
+&nbsp; <font color=00CC00>&nbsp; \|</font><font color=FF6600>/</font> <font color=808080>\</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <font color=FF6600>\</font>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; \|<font color=00CC00>X|X|<font color=FF6600>X</font>|<font color=FF6600>X</font>|X|X|X|</font><font color=yellow>X|/</font><br>
+&nbsp; &nbsp;<span class="hellblau">h</span><font color=00CC00>-</font><font color=FF6600>w</font>&nbsp; &nbsp;<font color=808080>a</font>&nbsp; &nbsp;<font color=blue>k k</font>&nbsp; &nbsp;d d <font color=FF6600>p</font> d d r r-<font color=00CC00>O-O-O-<font color=FF6600>w</font>-O-O-O-</font><font color=yellow>s-s</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>\</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FF6600>/</font> &nbsp; &nbsp; &nbsp; \|<font color=00CC00>X|X|X|<font color=FF6600>X</font>|X|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>f k</font> &nbsp; &nbsp; d <font color=FF6600>p</font> d d r r-<font color=00CC00>O-O-<font color=FF6600>w-w</font>-O-O</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>\</font>&nbsp; &nbsp; &nbsp; &nbsp; <font color=FF6600>|</font>&nbsp; &nbsp; &nbsp; \|<font color=00CC00>X|X|<font color=FF6600>X</font>|X|X|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>k k</font> <font color=808080>s</font>&nbsp; &nbsp; &nbsp;d <font color=FF6600>p</font> d r r-<font color=00CC00>O-<font color=FF6600>w-w</font>-O-O-O</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>\</font>&nbsp; &nbsp; &nbsp; &nbsp;<font color=FF6600>\</font> /|X|<font color=00CC00>X|<font color=FF6600>X</font>|X|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>s-</font><font color=00CC0>t-</font><span class="hellblau">D</span> &nbsp; <font color=00CC00><font color=FF6600>w-w-w-w</font>-O-O</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>-[[<span class="hellblau">H</span>|Dschungelinsel]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>/|\</font></TD>
+</span>
+
+<span class="legend">
+<span class="hellblau">D =</span> Dorf [wohl auch im Bau...]<br>
+<font color=006600>d =</font> Dschungel (entweder man folgt dem Pfad oder man muss sich mit Lianen durch den Dschungel schwingen [schwinge nach xyz])<br>
+<font color=00CC00>e =</font> Hochebene<br>
+<font color=blue>f =</font> Furt durch den Koomtiwanda<br>
+<span class="hellblau">G =</span> 5 Geier auf einem Baum<br>
+<span class="hellblau">H =</span> Hafen der [[<span class="hellblau">Dschungelinsel (Aussenansicht)</span>|Dschungelinsel]]<br>
+<span class="hellblau">h =</span> Kleines Haus in dem ein Einsiedler lebt (er hat Fleckfieber -> Seuche)<br>
+<font color=808080>h =</font> kleine Höhle in einem Felsbrocken<br>
+<font color=00CC00>i =</font> kleine Flussinsel<br>
+<span class="hellblau">K =</span> Die Schlange Kaa (durch ein Loch kommt man zum Blutaltar)<br>
+<font color=blue>k =</font> Der Fluss Koomtiwanda (die Strömung treibt einen langsam nach Südwesten - man kann aber auch schwimmen [schwimme nach xyz])<br>
+<font color=00CC00>O =</font> Weideland<br>
+<font color=FF6600>p =</font> Ausgetretener Pfad durch den Dschungel<br>
+<font color=006600>r =</font> Dschungelrand<br>
+<span class="hellblau">S =</span> Eingang zur [[<span class="hellblau">vergessenen Stadt</span>|Stadt]]<br>
+<font color=yellow>S =</font> Steintafel am Strand (und zugleich das einzige Feld Strand der [[<span class="hellblau">Dschungelinsel (Aussenansicht)</span>|Dschungelinsel]] an dem das Wasser ruhig genug ist um schwimmen zu gehen)<br>
+<font color=yellow>s =</font> Strand<br>
+<font color=808080>s =</font> Schlucht<br>
+<font color=00CC00>t =</font> Talkessel<br>
+<font color=FF6600>w =</font> Weg<br>
+</span>

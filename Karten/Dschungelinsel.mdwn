@@ -1,0 +1,26 @@
+<span class="map">
+M-M-M-M-M-M-M-M<br>
+|X|X|X|X|X|X|X|<br>
+M-m-m-m-m-m-m-M<br>
+|X|X|X|/ \|X|X|<br>
+M-m-m-m&nbsp;&nbsp; m-m-M<br>
+|X|/&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; \|X|<br>
+M-m  [[<font color=00CC00>Innen-</font>|Dschungelinsel/Innenansicht_Dschungelinsel]]&nbsp; m-M<br>
+|X| [[<font color=00CC00>Ansicht</font>|Dschungelinsel/Innenansicht_Dschungelinsel]]<font color=yellow>\</font>|X|<br>
+M-m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=yellow>-[[<font color=yellow>S</font>|Dschungelinsel/Innenansicht_Dschungelinsel]]</font>-M<br>
+|X|\&nbsp;<font color=808080>\</font>&nbsp;&nbsp;&nbsp;&nbsp; /|X|<br>
+M-m-m [[<font color=808080>s</font>|Dschungelinsel/Innenansicht_Dschungelinsel]] &nbsp; m-m-M<br>
+|X|X| <font color=808080>|</font>&nbsp; /|X|X|<br>
+M-m-m-<span class="hellblau">H</span>-m-m-m-M<br>
+|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M</p>
+</td>
+</tr>
+</table>
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
+<span class="hellblau">H =</span> Hafen<BR>
+<font color=blue>M =</font> Meer<BR>
+<font color=blue>m =</font> Meer vor einer Insel<br>
+<font color=808080>s =</font> Schlucht (Zugang zum [[<span class="hellblau">Inneren der Insel</span>|Dschungelinsel/Innenansicht_Dschungelinsel]])<BR>
+<font color=yellow>S =</font> Stein mit Inschriften an einem Strand (Zugang zum [[<span class="hellblau">Inneren der Insel</span>|Dschungelinsel/Innenansicht_Dschungelinsel]])
+</span>
