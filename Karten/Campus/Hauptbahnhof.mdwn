@@ -1,34 +1,34 @@
-    <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a<br>
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a<br>
 
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="runter in die S-Bahn-Tunnel" HREF="S-Bahn.html"><font color=00CCFF>h</font></A><font color=808080>-t-</font>b-<A TITLE="Bad Cannstatt" HREF="Cannstatt.html"><font color=00CCFF>g</font></A>-a<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">h</span>|S-Bahn]]<font color=808080>-t-</font>b-[[<span class="hellblau">g</span>|Cannstatt]]-a<br>
 
-    &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-    &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CCFF>B</font><br>
-    &nbsp; &nbsp; &nbsp; / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau">B</span><br>
+&nbsp; &nbsp; &nbsp; / \<br>
 
-    &nbsp;<A TITLE="runter in die S-Bahn-Tunnel" HREF="S-Bahn.html"><font color=00CCFF>K</font></A>&lt;H&lt;H &nbsp; <font color=FFCC00>T</font><br>
-    &nbsp; &nbsp; /<br>
-    &nbsp; &nbsp;S</FONT></TD>
-  </TR>
+&nbsp;[[<span class="hellblau">K</span>|S-Bahn]]&lt;H&lt;H &nbsp; <span class="gelb">T</span><br>
+&nbsp; &nbsp; /<br>
+&nbsp; &nbsp;S</FONT></TD>
+</TR>
 
 </TABLE>
 
-  </CENTER>
+</CENTER>
 </DIV>
 <br>
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
 <font color=C0C0C0>a =</font> Abstellgleis<br>
-<font color=00CCFF>B =</font> Bahnsteig, von dem aus eine Regionalbahn nach <A TITLE="Zug nach Erlangen" HREF="Erlangen.html"><font color=00CCFF>Erlangen</font></A> und ein EuroCity über <A TITLE="Zug nach Mannheim" HREF="Mannheim.html"><font color=00CCFF>Mannheim</font></A> und <A TITLE="Zug nach Saarbrücken" HREF="Saarbruecken.html"><font color=00CCFF>Saarbrücken</font></A> nach <A TITLE="Zug nach Paris" HREF="Paris.html"><font color=00CCFF>Paris</font></A> fährt<br>
+<span class="hellblau">B =</span> Bahnsteig, von dem aus eine Regionalbahn nach [[<span class="hellblau">Erlangen</span>|Erlangen]] und ein EuroCity über [[<span class="hellblau">Mannheim</span>|Mannheim]] und [[<span class="hellblau">Saarbrücken</span>|Saarbruecken]] nach [[<span class="hellblau">Paris</span>|Paris]] fährt<br>
 
 <font color=C0C0C0>b =</font> Brücke über den Neckar<br>
-<font color=00CCFF>g =</font> Bahnsteig von <A TITLE="Bad Cannstatt" HREF="Cannstatt.html"><font color=00CCFF>Bad Cannstatt</font></A> (runter gehts Richtung Rummel)<br>
+<span class="hellblau">g =</span> Bahnsteig von [[<span class="hellblau">Bad Cannstatt</span>|Cannstatt]] (runter gehts Richtung Rummel)<br>
 <font color=C0C0C0>H =</font> Obere und Untere Bahnhofshalle<br>
-<font color=00CCFF>h =</font> Gelände des Hauptbahnhofes (runter gehts in die <A TITLE="runter in die S-Bahn-Tunnel" HREF="S-Bahn.html"><font color=00CCFF>S-Bahn-Tunnel</font></A>)<br>
+<span class="hellblau">h =</span> Gelände des Hauptbahnhofes (runter gehts in die [[<span class="hellblau">S-Bahn-Tunnel</span>|S-Bahn]])<br>
 
-<font color=00CCFF>K =</font> Klett-Passage (runter gehts in die <A TITLE="runter in die S-Bahn-Tunnel" HREF="S-Bahn.html"><font color=00CCFF>S-Bahn-Tunnel</font></A>)<br>
+<span class="hellblau">K =</span> Klett-Passage (runter gehts in die [[<span class="hellblau">S-Bahn-Tunnel</span>|S-Bahn]])<br>
 <font color=C0C0C0>S =</font> Schalterhalle<br>
-<font color=FFCC00>T =</font> Bahnhofsturm<br>
+<span class="gelb">T =</span> Bahnhofsturm<br>
 <font color=808080>t =</font> Cannstatter Tunnel<br>
 
