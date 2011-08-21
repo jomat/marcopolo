@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|<br>
 M-m-m-m-m-m-M<br>
@@ -11,10 +11,12 @@ M-m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m-M<br>
 |X|\&nbsp;&nbsp;&nbsp;&nbsp; /|X|<br>
 M-m-m-m-m-m-M<br>
 |X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M</td>
-</tr>
-</table>
+M-M-M-M-M-M-M
+</font>
+</span>
+
+<span class="legend>
 <span class="hellblau">H =</span> Hafen<BR>
-<font color=blue>M = </font>Ägäisches Meer<BR>
+<font color=blue>M = </font>Ã„gÃ¤isches Meer<BR>
 <font color=blue>m = </font>Meer vor einer Insel</FONT></P>
 </span>
