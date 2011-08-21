@@ -11,10 +11,7 @@
 </span>
 
 <span class="legend">
-</CENTER>
-</DIV>
 <br>
-<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <span class="hellblau">B =</span> Bahnsteig, von dem aus eine Regionalbahn nach [[<span class="hellblau">Erlangen</span>|Erlangen]] und ein EuroCity über [[<span class="hellblau">Mannheim</span>|Mannheim]] und [[<span class="hellblau">Saarbrücken</span>|Saarbruecken]] nach [[<span class="hellblau">Paris</span>|Paris]] fährt<br>
 <font color=C0C0C0>b =</font> Brücke über den Neckar<br>
