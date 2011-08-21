@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="blue">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/ &nbsp; &nbsp; &nbsp; \|X|X|X|X|X|X|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;r-r-r-r-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s <font color=00CC00>P-<span class="hellblau">f</span>-<span class="hellblau">I</span>-P</font> s-s-s-s-s-s-r-r-r-r<br>
@@ -102,12 +102,13 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;r-r-r-r-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-r-r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r-r</TD>
+</font>
 </span>
 
 <span class="legend">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="hellblau">Sehenswertes:</span><br>
-<span class="hellblau">B =</span> Büffelherde<br>
+<span class="hellblau">B =</span> BÃ¼ffelherde<br>
 <span class="hellblau">F =</span> Eingang zum Handelsfort<br>
 <span class="hellblau">f =</span> Kartoffelfeld<br>
 <span class="hellblau">I =</span> Igno, der Steppenschrat<br>
