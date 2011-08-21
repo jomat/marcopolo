@@ -1,0 +1,16 @@
+<span class="map">
+&nbsp;&nbsp; &nbsp;t-<font color=00CC00>g-g-g</font><br>
+&nbsp;&nbsp; &nbsp;| <font color=00CC00>| &nbsp; |</font><br>
+&nbsp;<font color=00CC00>-[[<span class="hellblau">B</span>|../Asia]]-<span class="gelb">A</span> g<font color=CC6600>-b-</font>g</font>-<span class="gelb">R</span>-<span class="gelb">l</span><br>
+&nbsp;&nbsp; &nbsp;| <font color=00CC00>| &nbsp; |</font><br>
+&nbsp;&nbsp; &nbsp;v-<font color=00CC00>g-g-g</font>-<span class="gelb">s</span></TR>
+<span class="gelb">A =</span> Altarraum<br>
+<span class="hellblau">B =</span> Babbastatue vor dem Kloster (auf der Ebene [[<span class="hellblau">Asia</span>|../Asia]])<br>
+<font color=00CC00>b =</font> Kleine Holzbrücke<br>
+<font color=00CC00>g =</font> Garten<br>
+<span class="gelb">l =</span> Lagerraum<br>
+<span class="gelb">R =</span> Aufenthaltsreum der Mönche<br>
+<span class="gelb">s =</span> Gartenschuppen<br>
+<font color=C0C0C0>t =</font> Leiter hoch zum Turm<br>
+<font color=C0C0C0>v =</font> Verbindungsgang zum Garten<br>
+</span>

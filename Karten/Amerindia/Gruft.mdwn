@@ -30,7 +30,7 @@
 <font color=808080>h =</font> Große Halle (man kann hier die Rampe auf Ebene 1 betreten)<br>
 <font color=808080>K =</font> Kapelle<br>
 <font color=808080>k =</font> Reinigungskammer<br>
-<span class="violett">M =</span> Verstecktes Dimensionstor zur [[<span class="hellblau">Schlossruine</span>|../Maerchenland/Ruine]] im Märchenland ('rumpelstilzchen' sagen, danach einfach nach Osten gehen oder die Ostwand betreten)<br>
+<span class="violett">M =</span> Verstecktes Dimensionstor zur [[<span class="hellblau">Schlossruine</span>|Maerchenland/Ruine]] im Märchenland ('rumpelstilzchen' sagen, danach einfach nach Osten gehen oder die Ostwand betreten)<br>
 <font color=808080>M =</font> Kammer mit Mumien (und einer Schriftrolle)<br>
 <span class="gelb">N =</span> Grabkammer von Nephyr<br>
 <font color=808080>r =</font> Rampe (nach Norden landet man eine Ebene tiefer in der großen Halle)<br>

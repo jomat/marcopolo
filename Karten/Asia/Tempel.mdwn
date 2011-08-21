@@ -1,0 +1,13 @@
+<span class="map">
+<font color=blue>b =</font> kleiner Brunnen<br>
+<span class="gelb">D =</span> Dojo des Tempels<br>
+<font color=C0C0C0>k =</font> Kiesweg<br>
+<span class="gelb">N =</span> Nuriko, die Tempelbewohnerin<br>
+<font color=C0C0C0>n =</font> Im Nurkikomoon-Tempel<br>
+<span class="gelb">S =</span> Schrein des Nurikomoon-Tempels<br>
+<span class="gelb">s =</span> Raum mit einer großen Statue (und einer Falltür nach unten in die Tempelgewölbe)<br>
+<font color=C0C0C0>s =</font> Steingarten<br>
+<span class="hellblau">T =</span> Vor dem Tor des alten Tempels in [[<span class="hellblau">Asia</span>|../Asia]]<br>
+<font color=00CC00>w =</font> Wiese mit blühenden Kirschbäumen<br>
+<font color=C0C0C0>z =</font> Zentrum des Gartens<br>
+</span>

@@ -1,0 +1,42 @@
+<span class="map">
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">F</span>|../Asia]]<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">T</span><br>
+&nbsp; <span class="rot">\|</span> &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;<span class="orange">S</span>-h &nbsp; &nbsp; &nbsp; s-s-s<br>
+&nbsp;&nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;\<br>
+&nbsp;&nbsp; <span class="gelb">T A</span> <span class="orange">D</span> &nbsp;&nbsp;s&nbsp; &nbsp;&nbsp; s <br>
+&nbsp;&nbsp; |/ &nbsp; \&nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;&nbsp; s&nbsp;&nbsp; <span class="hellblau">L</span> s-s <span class="hellblau">$</span>&nbsp;&nbsp; s <br>
+&nbsp; &nbsp; \&nbsp; |&nbsp;&nbsp; | |&nbsp;&nbsp; |<br>
+&nbsp;&nbsp; &nbsp; s-s---m-s-s-p<br>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;|&nbsp;&nbsp; | |&nbsp;&nbsp; <font color=00CC00>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; <span class="orange">R</span>&nbsp;&nbsp; | <span class="hellblau">P</span>&nbsp;&nbsp; <span class="gelb">J</span><font color=00CC00>-g</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp;&nbsp; <font color=00CC00>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s-<span class="orange">H&nbsp;&nbsp; T</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">h</span>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">A =</span> Akademie<br>
+<span class="orange">D =</span> Dschingis, der Schmied<br>
+<span class="hellblau">F =</span> Weg nach Foo-Ling-Yoo (von [[<span class="hellblau">Asia</span>|../Asia]] aus) und Willkommens-Schild<br>
+<span class="orange">f =</span> Foyer des Teehauses<br>
+<font color=00CC00>g =</font> Garten &amp; MaoTseTung, ein kleiner roter Schmetterling<br>
+<span class="orange">H =</span> Ho-bel-glatt, der Schreiner<br>
+<span class="orange">h =</span> Hiothos Sushi-Bar<br>
+<font color=C0C0C0>h =</font> Palasthof<br>
+<span class="gelb">J =</span> Jassem, der Gärtner von Foo-Ling-Yoo<br>
+<span class="hellblau">L =</span> Gemischtwarenladen<br>
+<span class="gelb">m =</span> Marktplatz von Foo-Ling-Yoo (Eine Alte Frau sitzt auf der Bank)<br>
+<span class="hellblau">P =</span> Post<br>
+<font color=C0C0C0>p =</font> Platz des Himmlischen Friedens<br>
+<span class="orange">R =</span> Restaurant 'Zum lustigen Samurai'<br>
+<span class="orange">S =</span> Kaiserlicher Schmied<br>
+<span class="gelb">T =</span> Tor mit Samurai-Wächter<br>
+<span class="orange">T =</span> Teehaus
+</span>
