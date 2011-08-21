@@ -14,4 +14,7 @@ Ein anderer von mir häufig beobachteter Fehler sind kaputte Links, obwohl die Z
 Häufig ist das Meer weiss statt blau, das ist per Hand einfach behoben, einfach auf einer funktionierenden Seite spicken ;-)
 
 # Wiki testen
-Um Formatierungen etc. zu testen gibt es die [[Sandbox]]
+Um Formatierungen etc. zu testen gibt es die [[Sandbox]].
+
+# Technsche Details
+Die verwendete Wiki-Software ist [ikiwiki](http://ikiwiki.info/) mit einem git-Repo als Backend, welches auf [https://github.com/jomat/marcopolo] liegt.
