@@ -71,6 +71,5 @@
 <span class="gelb">w = </span>Hinterhof von Wiliam Grants &amp; Kob. Ltd.<br>
 <font color=00CC00>w =</font> Wiese<br>
 <span class="orange">Z =</span> Gasthaus &quot;Zum schwarzen Gesellen&quot;<br>
-<font color=#FFCC00>Z =</font> Eingangsbereich des [[<span class="hellblau">Tierpark</span>|Zoo]] (hier steht Zooloo der Buschmann)<br>
-<center><font color=00CC00>([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück ins Märchenland</font>|Maerchenland]])</font></center>
+<font color=#FFCC00>Z =</font> Eingangsbereich des [[<span class="hellblau">Tierpark</span>|Zoo]] (hier steht Zooloo der Buschmann)
 </span>
