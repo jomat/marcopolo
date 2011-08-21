@@ -1,0 +1,70 @@
+<span class="map">
+
+    <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+    &nbsp; &nbsp; &nbsp; &nbsp;<font color=red>|</font><br>
+
+    &nbsp; &nbsp;g&gt;t&gt;B-<font color=00CCFF>$</font><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+    &nbsp; &nbsp;<A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>g</font></A>&gt;t&gt;u<br>
+
+    &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;<font color=FF9900>a</font>-<font color=00CCFF>P</font><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+
+    &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+    &nbsp; &nbsp;b &nbsp; u<br>
+
+    &nbsp; / \ &nbsp;|<br>
+    &nbsp;b-<font color=FFCC00>B</font> b r<br>
+    &nbsp; \ / &nbsp;|<br>
+    &nbsp;<font color=FF9900>k</font>-b---r-r-<font color=FFCC00>F</font><br>
+
+    &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;r-<font color=FF9900>G</font><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+
+    &nbsp; &nbsp; &nbsp;<font color=FFCC00>Z</font> <font color=FF9900>K</font>-<font color=FF9900>S</font><br>
+    &nbsp; &nbsp; &nbsp;| | |<br>
+    &nbsp; &nbsp; &nbsp;<font color=FF9900>Z</font>-r-<font color=FF9900>W</font><br>
+
+    &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+    &nbsp; &nbsp; &nbsp;b-r-r<br>
+    &nbsp; &nbsp; &nbsp;<font color=red>|</font> |<br>
+
+    &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+
+    &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;w
+    </FONT>
+</span>
+
+<span class="legend">
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
+<font color=FF9900>a =</font> Fahrkartenautomat<br>
+<font color=FFCC00>B =</font> Bungeeturm<br>
+<font color=C0C0C0>B =</font> Bahnhofshalle<br>
+<font color=C0C0C0>b =</font> Baustelle<br>
+
+<font color=C0C0C0>b =</font> Am Bungeeturm<br>
+<font color=FFCC00>F =</font> Fernseh-Zelt<br>
+<font color=FF9900>G =</font> Geisterbahn<br>
+<font color=00CCFF>g =</font> Bahnsteig (von hier kann man zu Fuß entlang der Gleise zum <A TITLE="Hauptbahnhof" HREF="Hauptbahnhof.html"><font color=00CCFF>Hauptbahnhof</font></A> gehen<br>
+
+<font color=C0C0C0>g =</font> Bahnsteig<br>
+<font color=FF9900>K =</font> Karussell<br>
+<font color=FF9900>k =</font> Kiosk vom Bungeeturm<br>
+<font color=00CCFF>P =</font> Post<br>
+<font color=C0C0C0>r =</font> Rummel<br>
+
+<font color=FF9900>S =</font> Süßwarenbude<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<font color=C0C0C0>u =</font> Unterführung<br>
+<font color=FF9900>W =</font> Wasserbobbahn<br>
+<font color=C0C0C0>w =</font> Weg<br>
+
+<font color=FFCC00>Z =</font> Bierzelt<br>
+<font color=FF9900>Z =</font> Bierzelt (hier verkauft Zenzi Bier)<br>
+</span>
