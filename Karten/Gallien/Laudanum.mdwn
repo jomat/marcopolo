@@ -1,0 +1,24 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; <span class="gelb">W</span>-w-w-w-<span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; w-m <span class="gelb">C</span> <span class="orange">M</span> w<br>
+&nbsp;<font color=00CC00>\|/</font>&nbsp; | | | | |<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]---</font><span class="gelb">E</span>-w-w-w-w<br>
+&nbsp;<font color=00CC00>/|\</font>&nbsp; | | | | |<br>
+&nbsp; &nbsp; &nbsp; w-m&nbsp;<span class="gelb">T K</span> w<br>
+&nbsp; &nbsp; &nbsp; | |&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">W</span>-w-w-w-<span class="gelb">W</span>
+</span>
+
+<span class="legend">
+<span class="gelb">C =</span> Quartier der Centurionen<br>
+<span class="gelb">E =</span> Eingangsbereich<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="orange">M =</span> Mannschaftsheim (Glücksspiel und Bier)<br>
+<font color=C0C0C0>m =</font> Mannschaftszelte<br>
+<font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<span class="gelb">T =</span> Tiberius, der Lagerkommandant<br>
+<span class="gelb">W =</span> Wachturm<br>
+<font color=C0C0C0>w =</font> Weg im Römerlager<br>
+&nbsp;</body></html>
+</span>

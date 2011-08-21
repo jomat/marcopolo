@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Gallien]]<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;s &nbsp; S<br>
+&nbsp; &nbsp; / \ /<br>
+&nbsp; &nbsp;s-M-M<br>
+&nbsp; &nbsp;| | |<br>
+&nbsp; &nbsp;s p s-s<br>
+&nbsp; &nbsp;| |<br>
+&nbsp; &nbsp;s <span class="gelb">R</span>
+
+</span>
+
+<span class="legend">
+<font color=FFFFFF>M =</font> Alter Marktplatz<br>
+<span class="gelb">R =</span> Rathaus<br>
+<span class="gelb">S =</span> alte Schmiede (man muss sich durch den Schnee buddeln um hinzukommen)<br>
+<font color=FFFFFF>s =</font> eingeschneite Straﬂe<br>
+<span class="hellblau">T =</span> Stadttor (hier raus gehts wieder zu den [[<span class="hellblau">Gallischen Alpen</span>|Gallien]])
+</span>

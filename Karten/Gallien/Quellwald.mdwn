@@ -1,0 +1,21 @@
+<span class="map">
+<p class="MsoPlainText">
+[[<font color=blue>m</font>|Gallien]]<font color=00CC00>---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]</font><br>
+<font color=00CC00>|</font><font color=blue>\</font>//|\\/<font color=00CC00>|</font><br>
+<font color=00CC00>|</font>/<font color=blue>m</font>-u-r\<font color=00CC00>|</font><br>
+<font color=00CC00>|</font>/|<font color=blue>X</font>|X|\<font color=00CC00>|</font><br>
+[[<font color=00CC00>O</font>|Gallien]]-u-<span class="hellblau">Q</span>-u-[[<font color=00CC00>O</font>|Gallien]]<br>
+<font color=00CC00>|</font>\|X|/ <font color=00CC00>&#711;|</font><br>
+<font color=00CC00>|</font>\r-u <font color=808080>F</font> <font color=00CC00>|</font><br>
+<font color=00CC00>|</font>/\\|) &nbsp;<font color=00CC00>|</font><br>
+<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]</p>
+</td>
+</tr>
+</table>
+<font color=808080>F =</font> Felsen (man kann von den umliegenden Feldern draufklettern)<br>
+<font color=blue>m =</font> Der Fluss Maas (flieﬂt in die Ebene im Nordosten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
+<font color=00CC00>O =</font> Grasland von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<span class="hellblau">Q =</span> Quellteich der Maas<br>
+<font color=008000>r =</font> Waldrand<br>
+<font color=008000>u =</font> Unterholz
+</span>

@@ -1,0 +1,17 @@
+<span class="map">
+&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;-[[<font color=C0C0C0>s</font>|Lutetia]]-<br>
+&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;<span class="gelb">W</span>-E-<span class="gelb">A</span><br>
+&nbsp;| |<br>
+&nbsp;<span class="gelb">w G</span>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Arrestzellte<br>
+<span class="gelb">E =</span> Eingangshalle<br>
+<span class="gelb">G =</span> Guillotine<br>
+<font color=C0C0C0>s =</font> Straﬂe in [[<span class="hellblau">Lutetia</span>|Lutetia]]<br>
+<span class="gelb">W =</span> Wachstube<br>
+<span class="gelb">w =</span> Waffenkammer<br>
+</span>

@@ -1,0 +1,28 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; <font color=blue>&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;</font><BR>
+&nbsp; &nbsp; &nbsp; <font color=blue>&#9474;</font>&nbsp; W &nbsp;<font color=blue>&#9474;</font><br>
+&nbsp; &nbsp; &nbsp; <font color=blue>&#9474;</font>&nbsp; |<font color=blue>&nbsp; &#9474;</font><br>
+&nbsp; &nbsp; &nbsp; <font color=blue>&#9474;</font>W-W-W<font color=blue>&#9474;</font><br>
+&nbsp; &nbsp; &nbsp; <font color=blue>&#9492;&#9472;&#9488;</font>|<font color=blue>&#9484;&#9472;&#9496;</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<font color=blue>&#9474;</font>|<font color=blue>&#9474;</font>|<br>
+&nbsp; &nbsp; &nbsp; <font color=blue>-[[<font color=blue>S</font>|Gallien]]&#9496;</font>|<font color=blue>&#9492;[[<font color=blue>S</font>|Gallien]]</font>-<br>
+&nbsp; &nbsp; &nbsp;<font color=blue>|/</font>| | |<font color=blue>\</font>| &nbsp; |<br>
+&nbsp; &nbsp; <font color=blue>-[[<font color=blue>S</font>|Gallien]]</font>-W-W-W-<font color=blue>[[<font color=blue>S</font>|Gallien]]---[[<font color=blue>S</font>|Gallien]]</font>-<br>
+&nbsp; &nbsp; &nbsp;| | &nbsp; | | &nbsp; |<font color=blue>\</font>|<br>
+&nbsp; &nbsp;W-W-W W-W-W&nbsp;W-W-[[<font color=blue>S</font>|Gallien]]-<br>
+&nbsp; &nbsp;| &nbsp; | | &nbsp; | | &nbsp; <font color=blue>|</font><br>
+&nbsp;W-W &nbsp; W-W &nbsp; W-W-W <font color=blue>|</font><br>
+&nbsp; &nbsp;| &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp;W &nbsp; W-W-W W-W-W-[[<font color=blue>S</font>|Gallien]]-<br>
+&nbsp; &nbsp;| &nbsp; | | | | &nbsp; |/<font color=blue>|</font>\<br>
+&nbsp; &nbsp;W &nbsp; | W | |<font color=00CC00>&#9484;&#9472;&#9472;[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | |<font color=00CC00>&#9474; /|\</font><br>
+&nbsp; &nbsp; &nbsp; <font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]-[[<font color=00CC00>O</font>|Gallien]]&#9496;</font><br>
+&nbsp; &nbsp; &nbsp; <font color=00CC00>/|\ /|X|\</font>
+</span>
+
+<span class="legend">
+<font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<font color=blue>S =</font> Seine (Fluss) (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
+<font color=008000>W =</font> Wald
+</span>

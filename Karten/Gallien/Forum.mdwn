@@ -1,0 +1,36 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">B</span> [[<span class="hellblau">Curia</span>|Curia]] <span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | |<br>
+&nbsp; &nbsp;<span class="gelb">J</span>-p-f-f-f-f-f-[[<font color=C0C0C0>s</font>|Lutetia]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp;<span class="orange">W</span>-f-f-<span class="gelb">M</span>-f-f&nbsp;<span class="gelb">Z</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X| |<br>
+&nbsp; &nbsp;<span class="gelb">U</span>-<span class="gelb">p</span>-f-f-<span class="gelb">r</span>-f-f-<span class="gelb">G L</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;<span class="orange">V</span>-f-f-f-f-f---E-<span class="gelb">R</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>s</font>|Lutetia]] &nbsp; &nbsp; <span class="hellblau">P</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+</span>
+
+<span class="legend">
+<span class="orange">B =</span> Balbulus Galbas Verkaufsstand für Nahrung<br>
+<font color=C0C0C0>E =</font> Eingangshalle der Bibliothek<br>
+<font color=C0C0C0>f =</font> Irgendwo im Forum<br>
+<span class="gelb">G =</span> Gefängnis<br>
+<span class="gelb">J =</span> Jupitertempel<br>
+<span class="gelb">L =</span> Lesesaal<br>
+<span class="gelb">M =</span> Monument<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="gelb">p =</span> Präfektur<br>
+<font color=C0C0C0>p =</font> Podium<br>
+<span class="gelb">R =</span> Rezeption der Bibliothek<br>
+<span class="gelb">r =</span> Rostra<br>
+<span class="gelb">S =</span> Saturntempel<br>
+<font color=C0C0C0>s =</font> Straße in [[<span class="hellblau">Lutetia</span>|Lutetia]]<br>
+<span class="gelb">U =</span> Überdrus, der Präfekt<br>
+<span class="orange">V =</span> Taberna Vinaria (Weinhandlung)<br>
+<span class="orange">W =</span> Waffenschieber<br>
+<span class="gelb">Z =</span> Zelle<br>
+&nbsp;</body></html>
+</span>

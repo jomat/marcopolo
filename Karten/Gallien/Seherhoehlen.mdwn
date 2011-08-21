@@ -1,0 +1,35 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>\|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>-</font>[[<span class="hellblau">H</span>|Gallien]]<font color=00CC00>-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; /</font> <font color=blue>\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;G-G</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h &nbsp; h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; / \ /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;h &nbsp; h<br>
+&nbsp; &nbsp; &nbsp; / \<br>
+&nbsp; &nbsp; &nbsp;h &nbsp; h &nbsp; &nbsp; h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h-h &nbsp; h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; \ /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;h &nbsp; &nbsp; h<br>
+&nbsp; &nbsp; &nbsp; / \ &nbsp; &nbsp; \<br>
+&nbsp; &nbsp; &nbsp;h &nbsp; h-<span class="gelb">M</span> &nbsp; h<br>
+&nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;h &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ \<br>
+&nbsp; &nbsp;h &nbsp; &nbsp; <font color=blue>[[<font color=blue>s</font>|Sehergilde]]-[[<font color=blue>s</font>|Sehergilde]]-[[<font color=blue>s</font>|Sehergilde]]</font> &nbsp; h<br>
+&nbsp; / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp;h &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h
+
+</span>
+
+<span class="legend">
+<font color=blue>G =</font> riesige Meeresgrotte, in die man sogar mit Schiffen hineinfahren kann<br>
+<span class="hellblau">H =</span> Hafen Sehavre an der Nordküste von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<font color=808080>h =</font> Höhlensystem<br>
+<span class="gelb">K =</span> Kristallmonster<br>
+<font color=blue>s =</font> See, durch den man in den [[<span class="hellblau">Sehervulkan</span>|Sehergilde]] tauchen kann<br>
+</span>

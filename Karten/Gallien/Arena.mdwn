@@ -1,0 +1,32 @@
+<span class="map">
+&nbsp;&nbsp;&nbsp;&nbsp; Katakomben<br>
+&nbsp; Ebene 2&nbsp; Ebene 1&nbsp;&nbsp;&nbsp;Arena &nbsp;&nbsp;Tribüne<br>
+&nbsp;&nbsp;&nbsp;<span class="gelb">r r r r</span><br>
+&nbsp;&nbsp;&nbsp;| | | |<br>
+&nbsp;<span class="gelb">h g</span>-k-k-t&nbsp;&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gelb">T</span><br>
+&nbsp;|&nbsp;| | | |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+&nbsp;[[<font color=996600>K</font>|Kanalisation]]&nbsp;<span class="gelb">r r r r</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=FF0000>A</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">T</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gelb">H</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="orange">L</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[[<font color=C0C0C0>s</font>|Lutetia]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+</span>
+
+<span class="legend">
+<font color=FF0000>A =</font> Kampfarena<br>
+<span class="gelb">g =</span> Gang in den Katakomben (wenn man den Stein an der Wand drückt rutscht man durch eine Falltür in die kleine Höhle nebenan)<br>
+<font color=C0C0C0>g =</font> Gang zur Arena (nach oben gehts auf die Tribüne)<br>
+<span class="gelb">H =</span> Hier steht Hasewnfus auf der Tribüne (und man kommt wieder runter in den Gang)<br>
+<span class="gelb">h =</span> kleine Höhle<br>
+<font color=996600>K =</font> [[<span class="hellblau">Kanalisation</span>|Kanalisation]] von Lutetia (man kommt nicht mehr zurück wenn man reingeht)<br>
+<font color=C0C0C0>k =</font> Gang in den Katakomben<br>
+<span class="orange">L =</span> Ladenschlus, der Ticketverkäufer<br>
+<span class="gelb">r =</span> Raubtierkäfig<br>
+<font color=C0C0C0>s =</font> Straße in [[<span class="hellblau">Lutetia</span>|Lutetia]]<br>
+<span class="orange">T =</span> Tribüne mit Snackverkäufer und Zuschauern<br>
+<span class="gelb">T =</span> Tribüne (im Bau; mit Treppe hinter die Arena)<br>
+<font color=C0C0C0>t =</font> Hintertreppe<br>
+</span>

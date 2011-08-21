@@ -1,0 +1,27 @@
+<span class="map">
+&nbsp;<font color=808080>\|/</font><br>
+&nbsp;<font color=808080>-[[<font color=808080>P</font>|Gallien]]-</font><span class="gelb">P</span>-p-p-<span class="gelb">S</span> <font color=00CC00>s</font><br>
+&nbsp;<font color=808080>/|\</font>&nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<font color=00CC00>w-</font><span class="gelb">L</span>-l-l<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\&nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; <span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; <span class="gelb">g</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\&nbsp;&nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;l-<span class="gelb">Z</span>
+</TD>
+</span>
+
+<span class="legend">
+<font color=008000>g =</font> Grillplatz<br>
+<span class="gelb">L =</span> Pfadfinderlager<br>
+<font color=008000>l =</font> Naturlehrpfad<br>
+<font color=008000>p =</font> Pfad durch den Wald<br>
+<span class="gelb">P =</span> Baumhaus oben in einer Pinie<br>
+<font color=808080>P =</font> Pyrenäen (im Südwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
+<span class="gelb">S =</span> See (hier kann man die Herrin des Sees rufen)<br>
+<font color=00CC00>s =</font> lauschiges Plätzchen am See<br>
+<span class="gelb">W =</span> Wergemüse-Nest (durch die Spalte)<br>
+<font color=00CC00>w =</font> Weg am See<br>
+<span class="gelb">Z =</span> Kampfzwiebel
+</span>

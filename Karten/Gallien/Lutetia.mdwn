@@ -1,0 +1,64 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">Curia</span>|Curia]] [[<span class="gelb">U</span>|Uni]] &nbsp; [[<span class="gelb">A</span>|Arena]] s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; |/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">Forum</span>|Forum]]-s-s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">Romanum</span>|Forum]] &nbsp; &nbsp; \ &nbsp; <font color=blue>\|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; ..s&nbsp; <font color=blue>-[[<font color=blue>S</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;. &nbsp; \ <font color=blue> \|X|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| <span class="gelb">R</span> &nbsp; . &nbsp; &nbsp; s-<span class="hellblau">H</span><font color=blue>-[[<font color=blue>S</font>|Gallien]]-</font><br>
+&nbsp; <font color=blue>\</font> &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp;. &nbsp; &nbsp; &nbsp;| &nbsp;\<font color=blue>|X|/</font><br>
+&nbsp; <font color=blue>-[[<font color=blue>S</font>|Gallien]]-----</font><span class="gelb">f t</span> s-<font color=blue>b</font> &nbsp; &nbsp; <span class="gelb">s</span> [[<span class="gelb">I</span>|Insula]] &nbsp; <span class="hellblau">H</span><font color=blue>-[[<font color=blue>S</font>|Gallien]]-</font><br>
+&nbsp;<font color=blue>|/&#9492;&#9472;&#9488;</font> &nbsp; |\|/ &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp; |  <font color=blue>|</font><font color=00CC00>\</font>|<br>
+-[[<font color=C0C0C0>T</font>|Gallien]]<font color=993300>---b---</font>s-<font color=00CC00>P</font>---------s-s---s<font color=993300>-b-</font>[[<font color=C0C0C0>T</font>|Gallien]]<font color=008000>-</font><br>
+<font color=00CC00>/|\</font> &nbsp;<font color=blue>|</font> &#9484;&#9472;&#9472;&#9496;|&#9492;&#9472;&#9488;&nbsp; &nbsp;&nbsp; &nbsp;| |&nbsp; &nbsp;|&nbsp; <font color=00CC00>/|</font><font color=008000>\</font><br>
+&nbsp; &nbsp;<font color=00CC00>\</font>&nbsp;<font color=blue>|</font> U <span class="hellblau">L</span>-s-<span class="hellblau">$</span> s-<span class="orange">G F</span>&nbsp;<span class="orange">a</span>-s-<span class="gelb">L</span>&nbsp;u<br>
+&nbsp; &nbsp; <font color=00CC00>\</font><font color=blue>|</font>/| &nbsp; | &nbsp; |\ / &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; <font color=00CC00>-</font>[[<font color=blue>S</font>|Gallien]]-U-<span class="orange">l</span> | &nbsp; <span class="orange">D</span>&nbsp;s&nbsp; &nbsp;<span class="orange">A</span>-s-<span class="gelb">T</span>     <font color=00CC00>J</font><br>
+&nbsp; &nbsp; <font color=00CC00>/</font><font color=blue>|</font>\|&#9488;&nbsp; | &nbsp; &nbsp;/| &nbsp; &nbsp; |&nbsp; &nbsp;<font color=00CC00>|</font><br>
+&nbsp; &nbsp;&nbsp; &nbsp; U&#9474;<span class="orange">R</span>-s-<span class="orange">S</span> <span class="orange">C</span> s-<span class="orange">L</span> <span class="hellblau">A</span> | s-<font color=00CC00>J</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &#9474;&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | |/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &#9474;<span class="gelb">F</span>-s---------s-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &#9492;&#9472;&#9496; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">S</span>|Wache]] &nbsp; <span class="orange">B</span>
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="hellblau">A =</span> Gildenhaus der Alchemisten (Zweitniederlassung)<br>
+<span class="orange">A =</span> Schänke "Zum fröhlichen Arverner"<br>
+<span class="orange">a =</span> Abenteurerladen<br>
+<span class="gelb">A =</span> [[<span class="hellblau">Arena</span>|Arena]]<br>
+<span class="orange">B =</span> Bäckerei<br>
+<font color=993300>b =</font> Brücke (man kann auch drunter durchschwimmen)<br>
+<font color=blue>b =</font> Brunnen (die Punkte zeigen an wo man landet wenn man die Treppe runtergeht)<br>
+<span class="orange">C =</span> Schneiderei von Carlus Lagerfeldus<br>
+<span class="orange">D =</span> Deichmanus, der roemische Schuhverkaeufer<br>
+<span class="orange">F =</span> Flechtfix, der Korbmacher<br>
+<span class="gelb">F =</span> Fremdenverkehrsbüro<br>
+<span class="gelb">f =</span> Fischnix, der Angler (am Westufer der Seine)<br>
+<span class="orange">G =</span> Gravix, der Graveur<br>
+<span class="hellblau">H =</span> Hafen (Kurstafel im Feld rechts unten)<br>
+<span class="gelb">I =</span> [[<span class="hellblau">Insula</span>|Insula]] (römisches Mietshaus) bzw. von Süden aus kommt man erst in eine billige Absteige und kann dann durch eine Spielhölle und nen Hinterhof in die Insula<br>
+<font color=00CC00>J =</font> Parkanlage "Jardin de Plantes"<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="gelb">L =</span> Lernverdrus Häuschen<br>
+<span class="orange">L =</span> Cuirix Laden für Pelz- und Lederwaren<br>
+<span class="orange">l =</span> Lederboutique<br>
+<font color=00CC00>P =</font> Karl von Gallien Sternplatz (mit einem großen Ahornbaum in der Mitte)<br>
+<span class="orange">R =</span> Ramschladen<br>
+<span class="gelb">R =</span> Radix Häuschen<br>
+<font color=blue>S =</font> Seine (Fluss) ([[<span class="hellblau">Nördliches Gallien</span>|Gallien]])<br>
+<span class="gelb">S =</span> [[<span class="hellblau">Stadtwache</span>|Wache]]<br>
+<span class="gelb">s =</span> Haus des Schiffers<br>
+<font color=C0C0C0>s =</font> Straße / Gasse / Weg<br>
+<span class="gelb">T =</span> Talentix Sichelschmiede<br>
+<span class="gelb">t =</span> Triumphbogen<br>
+<font color=C0C0C0>T =</font> Stadttor ([[<span class="hellblau">Nördliches Gallien</span>|Gallien]])<br>
+<span class="gelb">U =</span> [[<span class="hellblau">Universität</span>|Uni]]<br>
+<font color=C0C0C0>U =</font> Uferpromenade<br>
+<font color=C0C0C0>u =</font> Seineufer (man kann hier in den Fluss springen)<br>
+<span class="gelb">W =</span> Wagenrennbahn<br>
+<center><font color=00CC00>([[<font color=00CC00>zurück nach Gallien</font>|Gallien]])</font>
+</span>

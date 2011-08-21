@@ -1,0 +1,24 @@
+<span class="map">
+&nbsp;z-<span class="gelb">g</span><br>
+&nbsp;|<br>
+&nbsp;z<font color=FFFFFF>-e-</font>g-<span class="gelb">A</span><br>
+&nbsp;| <font color=FFFFFF>| &nbsp; |</font><br>
+&nbsp;z-v---<span class="orange">G</span><br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<font color=808080>/</font><br>
+&nbsp;<span class="gelb">S</span>-<span class="gelb">U</span>-<span class="orange">E</span>---[[<font color=C0C0C0>p</font>|Gallien]]<font color=808080>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<font color=808080>\</font>
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Aufenthaltsraum der Eiskunstläufer<br>
+<span class="orange">E =</span> Eingang &amp; Kasse<br>
+<font color=FFFFFF>e =</font> Eisfläche<br>
+<span class="orange">G =</span> Gasthof<br>
+<span class="gelb">g =</span> Geräteschuppen<br>
+<font color=C0C0C0>g =</font> Verbindungsgang<br>
+<font color=C0C0C0>p =</font> Pfad in den Alpen ([[<span class="hellblau">südl. Gallien</span>|Gallien]])<br>
+<span class="gelb">U =</span> Umkleideraum<br>
+<span class="gelb">S =</span> Schlittschuhverleih<br>
+<font color=C0C0C0>z =</font> Zuschauerterrasse
+</font>
+</span>

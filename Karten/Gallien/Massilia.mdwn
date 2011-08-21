@@ -1,0 +1,48 @@
+<span class="map">
+&nbsp; <font color=339966>\</font>|<font color=339966>/</font><br>
+&nbsp; <font color=339966>-</font>[[<span class="hellblau">V</span>|Gallien]]-<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;s<br>
+&nbsp; &nbsp;|<br>
+&nbsp; <span class="rot">-</span>s<br>
+&nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">T</span> | &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">P</span><br>
+&nbsp;| | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;|<font color=339966>/</font><br>
+&nbsp;s-s-<span class="orange">p</span> &nbsp; &nbsp; <span class="hellblau">P</span> s-s----[[<span class="hellblau">V</span>|Gallien]]-<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |/&nbsp;&#9492;&#9472;&#9488; &nbsp;<font color=00CC00>/|\</font><br>
+&nbsp;<span class="orange">S</span> | &nbsp; &nbsp; &nbsp; s <span class="orange">G</span> <span class="orange">M</span>&#9474;<span class="orange">J</span><br>
+&nbsp; \| &nbsp; &nbsp; &nbsp;/ &nbsp;| |&#9492;|<br>
+&nbsp;<span class="hellblau">$</span>-<font color=00CC00>M</font>-----J---s-s-s<br>
+&nbsp; / \ &nbsp; &nbsp;|<br>
+&nbsp;<span class="orange">g</span> &nbsp; \ <span class="hellblau">L</span> s<br>
+&nbsp; &nbsp;<span class="rot">|</span> &nbsp;\| |<br>
+&nbsp;s-[[<span class="hellblau">s</span>|Kanalisation_M]]-s-s s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">Y</span>-<span class="hellblau">H</span>-<span class="orange">s</span>-<span class="orange">m</span>-<span class="gelb">p</span><br>
+&nbsp; &nbsp; &nbsp; <font color=blue>\| |<br>
+&nbsp; &nbsp; &nbsp; -[[<font color=blue>M</font>|Gallien]]-[[<font color=blue>M</font>|Gallien]]-<br>
+&nbsp; &nbsp; &nbsp; /|X|\</font>
+</span>
+
+<span class="legend">
+<span class="orange">G =</span> Griechisches Handelskontor<br>
+<span class="orange">g =</span> Gasthaus 'Zum Wildschwein in Weinsosse'<br>
+<span class="hellblau">H =</span> Hafen<br>
+<span class="orange">J =</span> Jüdisches Handelskontor<br>
+<font color=C0C0C0>J =</font> Julius-Cäsar-Platz<br>
+<span class="hellblau">L =</span> Laden<br>
+<font color=00CC00>M =</font> Marktplatz (hier steht ein Brunnen und eine Eiche)<br>
+<span class="orange">M =</span> Maurisches Handelskontor<br>
+<font color=blue>M =</font> Meer an der Südküste von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<span class="orange">m =</span> Mediterranix (verkauft Suppe)<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="orange">P =</span> Taverne 'Poseidon'<br>
+<span class="orange">p =</span> Parfümerie Odores<br>
+<span class="gelb">p =</span> Hafenpromenade<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="orange">s =</span> Sardine, die Fischverkäuferin<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="gelb">T =</span> Tempel<br>
+<span class="hellblau">V =</span> Vor den Toren von Massilia (in [[<span class="hellblau">Gallien</span>|Gallien]])<br>
+<span class="gelb">Y =</span> Yachthafen<br>
+</span>

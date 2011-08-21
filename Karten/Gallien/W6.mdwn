@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="hellblau">S</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p<br> 
+&nbsp;&nbsp;&nbsp;&nbsp; /<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;p<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;|<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;p<br> 
+&nbsp;&nbsp;&nbsp;/<br> 
+&nbsp;&nbsp;p<br> 
+&nbsp;&nbsp;|<font color=C0C0C0>/<br> 
+&nbsp;<font color=C0C0C0>-[[<font color=C0C0C0>w</font>|Gallien]]</font><font color=00CC00>-<br> 
+&nbsp;/|\</font></td>
+</tr>
+</table>
+<font color=008000>p =</font> Waldpfad <br>
+<span class="hellblau">S =</span> Der Heilige Stuhl<br>
+<font color=C0C0C0>w =</font> Weg im Süden von [[<span class="hellblau">Gallien</span>|Gallien]]
+</span>

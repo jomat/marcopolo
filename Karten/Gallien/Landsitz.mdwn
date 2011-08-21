@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp;Erdgeschoss&nbsp; 1.Stock<br>
+&nbsp; &nbsp; &nbsp; t &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span>-t-<span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; <span class="gelb">M</span>-E-<span class="gelb">M</span> &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; [[<font color=00CC00>v</font>|Gallien]]
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Arbeitsraum<br>
+<font color=C0C0C0>E =</font> Eingangshalle<br>
+<span class="gelb">M =</span> Mannschaftsquartier<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<font color=C0C0C0>t =</font> Treppenhaus<br>
+<font color=00CC00>v =</font> Vor einem römischen Landsitz (hier kommt man wieder nach [[<span class="hellblau">Zentral-Gallien</span>|Gallien]] raus)<br>
+<span class="gelb">W =</span> Wohnraum<br>
+</span>

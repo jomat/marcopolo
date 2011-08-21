@@ -1,0 +1,56 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;</font> <font color=00CC00>&#9484;&#9472;&#9472;&#9472;&#9488;</font><BR>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>&nbsp; &#9474;</font>&nbsp; W &nbsp;<font color=00CC00>&#9474;</font> <font color=00CC00>&#9474;</font>&nbsp; W<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>&#9474;</font>&nbsp; |<font color=00CC00>&nbsp; &#9474;</font> <font color=00CC00>&#9474;</font>&nbsp; |<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>&#9474;</font>W-W-W<font color=00CC00>&#9474;</font> <font color=00CC00>&#9474;</font>W-W<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>&#9492;&#9472;&#9488;</font>|<font color=00CC00>&#9484;&#9472;&#9496;</font> <font color=00CC00> &#9492;&#9488; </font>|<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|X|&#9474;</font>|<font color=00CC00>&#9474;|X|X&#9474;</font> |<font color=00CC00>&#9474;|X|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>-</font><font color=C0C0C0>[[<font color=C0C0C0>i</font>|Gallien]]-[[<font color=C0C0C0>i</font>|Gallien]]</font><font color=00CC00>&#9496;</font>|<font color=00CC00>&#9492;[[<font color=00CC00>O</font>|Gallien]]-[[<font color=00CC00>O</font>|Gallien]]-&#9496;</font> |<font color=00CC00>&#9492;[[<font color=00CC00>O</font>|Gallien]]-[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>\|</font><font color=C0C0C0>&#9484;&#9472;&#9496;</font>| | | | | &nbsp; | | |<font color=00CC00>&#9492;&#9472;&#9488;|X|/</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>-</font>[[<font color=C0C0C0>i</font>|Gallien]]---W W-W-W W---W-W W---<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]-[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>&#9484;</font>| &nbsp; | | | | | &nbsp; &nbsp; | | &nbsp; | |<font color=00CC00>&#9488;</font><br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>&#9474;</font>| W | | W | | &nbsp; W-W-W &nbsp; | |<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>\|</font><font color=C0C0C0>&#9496;</font>| | | | &nbsp; | | &nbsp; | &nbsp; | &nbsp; | |<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>-</font>[[<font color=C0C0C0>6</font>|Gallien]]-W W-W-W W-W-W &nbsp; | &nbsp; | W | |<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>/</font><font color=C0C0C0>|</font> | | &nbsp; | | &nbsp; | &nbsp; | &nbsp; | | | |<font color=00CC00>&#9492;|/</font><br>
+&nbsp; &nbsp; <font color=C0C0C0>|</font> W-W &nbsp; W-W-W | &nbsp; | &nbsp; | W-W-W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp;<font color=00CC00>\</font><font color=C0C0C0>|</font> &nbsp; | &nbsp; &nbsp; | &nbsp; | &nbsp; | &nbsp; | | &nbsp; | <font color=00CC00>&#9474;\ &#9484;&#9472;&#9472;&#9472;&#9488;</font><br>
+&nbsp; &nbsp;<font color=00CC00>-</font>[[<font color=C0C0C0>6</font>|Gallien]]-W-W-W &nbsp; | W-W---W &nbsp; W-W-W | <font color=00CC00>&#9492;&#9472;&#9472;&#9496;</font>W&nbsp; <font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=C0C0C0>&#9484;</font>| | &nbsp; | &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; | &nbsp; &nbsp; | &nbsp;<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=C0C0C0>&#9474;</font>| | W | W-W-W W---W-W W-W-W W-----W-W<font color=00CC00>&#9474;</font><br>
+&nbsp;<font color=00CC00>\|</font><font color=C0C0C0>&#9496;</font>| | | | | &nbsp; | | &nbsp; &nbsp; | | &nbsp; | &nbsp; <font color=00CC00>&#9484;&#9472;&#9472;&#9488;</font>| &nbsp;<font color=00CC00>&#9474;</font><br>
+&nbsp;<font color=00CC00>-</font>[[<font color=C0C0C0>6</font>|Gallien]]-W-W W-W-W W-W-W&nbsp;W &nbsp; | | &nbsp; | W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]- &#9474;</font>W &nbsp;<font color=00CC00>&#9474;</font><br>
+&nbsp;<font color=00CC00>/</font><font color=C0C0C0>|</font> &nbsp; | | &nbsp; | | &nbsp; | | &nbsp; | | &nbsp; | |<font color=00CC00>/|\ &#9474;</font>|&nbsp; <font color=00CC00>&#9474;</font><br>
+&nbsp; <font color=C0C0C0>|</font> &nbsp; W-W-W W-W &nbsp; | W---W-W &nbsp; W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]- &nbsp; &#9474;</font>W&nbsp; <font color=00CC00>&#9474;</font><br>
+&nbsp;<font color=00CC00>\</font><font color=C0C0C0>|</font> &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; | | &nbsp; &nbsp; | &nbsp; |<font color=00CC00>&#9484;|\ &nbsp; &#9492;&#9472;&#9472;&#9472;&#9496;</font><br>
+&nbsp;<font color=C0C0C0>-[[<font color=C0C0C0>T</font>|Gallien]]</font>-W-W-W-W &nbsp; | W-W-W &nbsp; &nbsp; | &nbsp; |<font color=00CC00>&#9474; &nbsp; &#9484;&#9472;&#9472;&#9472;&#9488;</font><br>
+&nbsp;<font color=00CC00>/|&#9488;</font>| | &nbsp; | &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; |<font color=00CC00>&#9496; &nbsp; &#9474;</font> &nbsp;W<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>&#9474;</font>| | &nbsp; | W-W-W W-W---W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]---[[<font color=00CC00>O</font>|Gallien]]- &nbsp; &#9474;&nbsp; </font>|<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>&#9492;</font>| | &nbsp; | | &nbsp; | | &nbsp; &nbsp; | | &nbsp; |<font color=00CC00>&#9492;&#9488; &nbsp;&#9474;</font>W-W<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]-[[<font color=00CC00>O</font>|Gallien]]</font>---W-W W | |&nbsp;W &nbsp; | | &nbsp; | <font color=00CC00>&#9492;&#9472;&#9488;&#9492;&#9472;&#9488;</font>|<font color=00CC00>&#9474;</font><br>
+&nbsp; &nbsp;<font color=00CC00>/|&#9488;|</font>&nbsp; &nbsp;&nbsp; | | | | |&nbsp; &nbsp;| | &nbsp; | &nbsp; <font color=00CC00>&#9492;&#9488;|&#9474;</font>|<font color=00CC00>&#9474;|/</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>&#9474;|</font> &nbsp; &nbsp; | W-W-W W---W-W W-W-----<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]&#9496;</font>|<font color=00CC00>&#9492;[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>&#9474;|</font> &nbsp; &nbsp; | | &nbsp; | | &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | | |<font color=00CC00>\|/</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>&#9474;|</font> &nbsp; &nbsp; W-W &nbsp; W-W &nbsp; &nbsp; W-W &nbsp; &nbsp; &nbsp; W-W-W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>&#9492;|</font> &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; | <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]</font>---W W-W-W W-W-W W---W---W &nbsp; | W | <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>X|</font> &nbsp; | | &nbsp; | | &nbsp; | | &nbsp; | &nbsp; | &nbsp; | | | <font color=00CC00>|/</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]</font>---W-W---<font color=blue>[[<font color=blue>S</font>|Gallien]]-[[<font color=blue>S</font>|Gallien]]---[[<font color=blue>S</font>|Gallien]]</font>-W &nbsp; W W-W---W W-W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp;<font color=00CC00>/|</font>&#9492;&#9472;&#9488;| |<font color=blue>&#9484;&#9472;&#9496;|/</font>| &nbsp; |<font color=blue>&#9488;</font>| &nbsp; &nbsp; | | &nbsp; | | &nbsp; <font color=00CC00>|\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>-[[<font color=blue>S</font>|Gallien]]-[[<font color=blue>S</font>|Gallien]]- &nbsp; &nbsp; &nbsp; &nbsp; &#9474;</font>| W-W-W | W-W-W &nbsp; <font color=00CC00>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>&#9492;</font>| &nbsp; &nbsp; | | &nbsp; &nbsp; | &nbsp; <font color=00CC00>|/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-<font color=blue>[[<font color=blue>S</font>|Gallien]]&#9488;</font> &nbsp; &nbsp;W<font color=blue>&#9484;[[<font color=blue>S</font>|Gallien]]</font>---W-W-W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<font color=blue>&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;</font>|<font color=blue>&#9492;&#9472;&#9488;</font>| &nbsp; | <font color=00CC00>|\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<font color=blue>S</font>|Gallien]]---W-<font color=00CC00>[[<font color=00CC00>O</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font> &nbsp; &nbsp; <font color=00CC00>|\</font>
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>6 =</font> Römerstrasse 6 (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
+<font color=C0C0C0>i =</font> Wegweiser / Hinweisschild (Eurodisnix)<br>
+<font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<font color=blue>S =</font> Seine (Fluss) (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
+<font color=C0C0C0>T =</font> Stadttor von Lutetia (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
+<font color=008000>W =</font> Wald
+</span>

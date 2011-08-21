@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp;Erdgeschoss &nbsp; &nbsp;1. Stock<br>
+&nbsp;<span class="gelb">A E W &nbsp; I D &nbsp; L B S &nbsp; s-R</span><br>
+&nbsp;| | | &nbsp; | | &nbsp; | | | &nbsp; | |<br>
+&nbsp;f-f-f-[[<span class="gelb">e</span>|Kanalisation]]-f-f &nbsp; f-f-f-t-f-f<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;[[<span class="hellblau">Forum</span>|Forum]]
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Anwerbebüro der Legion (Tallius Messalla)<br>
+<span class="gelb">B =</span> Amt für brot und Spiele (Felix Circus)<br>
+<span class="gelb">D =</span> Amt für Denkmalwesen (Lapideus Gravis)<br>
+<span class="gelb">E =</span> Einwohnermeldeamt (Antonius Decula)<br>
+<span class="gelb">e =</span> Eingangshalle (hier geht ne Treppe hoch in den 1. Stock als auch runter zur [[<span class="hellblau">Kanalisation</span>|Kanalisation]])<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="gelb">I =</span> Informationsbüro (Titus Annius)<br>
+<span class="gelb">L =</span> Amtsleiter (Claudius Bonbonus)<br>
+<span class="gelb">R =</span> Amt für Rätsel (Tikila Rapida, Sputus Minutus)<br>
+<span class="gelb">S =</span> Standesamt (Claudius Matrimonius)<br>
+<span class="gelb">s =</span> Amt für Spiele<br>
+<font color=C0C0C0>t =</font> Treppe (man kann runter ins Erdgeschoss oder aufs Dach)<br>
+<span class="gelb">W =</span> Amt für Wiedergeburt (Leus, Deorum Nuntius)</font><br>
+</span>

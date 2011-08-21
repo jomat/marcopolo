@@ -1,0 +1,37 @@
+<span class="map">
+&nbsp; <font color=808080>Untergrund</font> &nbsp; Erdgeschoss &nbsp; &nbsp;1. Stock &nbsp; 2. Stock &nbsp; Dachboden<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>s</font>|Lutetia]]-<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e &nbsp; &nbsp; &nbsp; &nbsp; <font color=993300>t---t</font> <span class="orange">R</span> m &nbsp; &nbsp; &nbsp;<font color=993300>t---t</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=993300>|</font>&#9492;&#9472;&#9488;&nbsp; &nbsp;&nbsp; &nbsp;<font color=993300>| &nbsp; |</font> | | &nbsp; &nbsp; &nbsp;<font color=993300>| &nbsp; |</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>u</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=993300>T&lt;</font> d-u&nbsp; &nbsp; <font color=993300> T&lt; &lt;t</font>-f-f-f &nbsp; &nbsp;<font color=993300>T&lt; &lt;t&nbsp; &nbsp; &nbsp; &lt;t</font>-<span class="gelb">D</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>l</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m &nbsp; <span class="gelb">V</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; <font color=808080>/ \</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp;<font color=808080>g &nbsp; g</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
+&nbsp;&nbsp; &nbsp; <font color=808080>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&nbsp;[[<font color=996600>K</font>|Kanalisation]]<font color=808080>-g</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">A</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<font color=C0C0C0>s</font>|Lutetia]]-<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+</span>
+
+<span class="legend">
+<span class="orange">A =</span> Billige Absteige<br>
+<span class="gelb">D =</span> Dachboden<br>
+<font color=C0C0C0>d =</font> Durchgang<br>
+<font color=C0C0C0>e =</font> Eingang<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<font color=C0C0C0>h =</font> Hinterhof<br>
+<font color=996600>K =</font> [[<span class="hellblau">Kanalisation</span>|Kanalisation]] von Lutetia (man kommt nicht mehr in den Untergrund zurück wenn man reingeht)<br>
+<font color=C0C0C0>l =</font> Lagerraum (entweihtes Heiligtum)<br>
+<span class="orange">R =</span> Rizinus, der Quacksalber<br>
+<span class="gelb">S =</span> Spielhölle<br>
+<font color=C0C0C0>s =</font> Straße in [[<span class="hellblau">Lutetia</span>|Lutetia]]<br>
+<font color=993300>T =</font> Treppenhaus (von den großen T&lt; kann man jeweils nach Osten ein Stock höher gehen bzw. bei &lt;t nach Westen runter)<br>
+<font color=C0C0C0>u =</font> Treppe in den Untergrund<br>
+<span class="gelb">V =</span> Verspielte Mietswohnung (Aresix und Wolfrix spielen hier "Hol's der Geier")<br>
+</span>

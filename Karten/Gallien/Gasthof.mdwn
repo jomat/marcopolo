@@ -1,0 +1,19 @@
+<span class="map">
+&nbsp; <font color=00CC00>\|/</font><br>
+&nbsp; -[[<font color=C0C0C0>5</font>|Gallien]]<font color=00CC00>-</font><br>
+&nbsp; <font color=00CC00>/|</font>\<br>
+&nbsp; &nbsp;<font color=00CC00>|</font><br>
+&nbsp;<span class="gelb">S</span><font color=00CC00>-H-</font><font color=blue>F</font><br>
+&nbsp; &nbsp;<font color=00CC00>| |</font><br>
+&nbsp;<span class="gelb">K</span>-<span class="orange">G</span> <font color=00CC00>K</font>
+</span>
+
+<span class="legend">
+<font color=C0C0C0>5 =</font> Römerstraße 5 ([[<span class="hellblau">Zentral-Gallien</span>|Gallien]])<br>
+<font color=blue>F =</font> Forellenteich<br>
+<span class="orange">G =</span> Gaststube<br>
+<font color=00CC00>H =</font> Hof des Gallischen Gasthofes<br>
+<font color=00CC00>K =</font> Pferdekoppel<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">S =</span> Stall<br>
+</span>

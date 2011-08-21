@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">K</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;h-a &nbsp; &nbsp; <span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;h &nbsp; h h &nbsp; &nbsp; <span class="gelb">A</span><br>
+&nbsp; &nbsp;| &nbsp; | | &nbsp; &nbsp;/<br>
+&nbsp;<span class="gelb">b</span>-K-K-h-h-H-H<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>E</font>|Gallien]]
+
+</span>
+
+<span class="legend">
+<span class="gelb">A =</span> Am Rand eines Abgrundes (um vom südlichen in das nördliche Feld zu kommen muss man ein Brett über den Abgrund legen... im nördlichen Feld liegt eine Steintafel)<BR>
+<font color=808080>a =</font> Am Boden des Abgrundes<BR>
+<span class="gelb">b =</span> Hier liegt das Brett mit dem man über den Abgrund kommt<br>
+<font color=C0C0C0>E =</font> Eingangsbereich (draußen sind die [[<span class="hellblau">Gallischen Alpen</span>|Gallien]])<br>
+<font color=808080>H =</font> Hier ist ein Hebel der die Tür zum 2. Hebelfeld öffnet<br>
+<font color=808080>h =</font> Höhle<br>
+<span class="gelb">K =</span> Ein alter Kelte<br>
+<font color=808080>K =</font> Hier ist ein Knopf der die Tür zum 2. Knopffeld öffnet<BR>
+</span>

@@ -1,0 +1,30 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; w-m <span class="gelb">l</span>---<span class="gelb">K</span> [[<span class="gelb">M</span>|Gallien]]<br>
+&nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">W</span> m-e---w-w<br>
+&nbsp;<font color=00CC00>\|/</font>&nbsp; &nbsp; | | &nbsp; |<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]---</font><span class="gelb">E</span>-w-e---w-<span class="gelb">C</span><br>
+&nbsp;<font color=00CC00>/|\</font>&nbsp; &nbsp; | | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">W</span> m-e &nbsp; <span class="gelb">G</span><br>
+&nbsp; &nbsp; &nbsp; | | | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; w-m <span class="gelb">L</span> <span class="gelb">Z</span>-g-<span class="gelb">Z</span>
+
+</span>
+
+<span class="legend">
+<span class="gelb">C =</span> Claudius Brutus, Lagerkommandant<br>
+<span class="gelb">E =</span> Eingangsbereich (2 Legionäre stehen Wache und lassen einen nicht durch)<br>
+<font color=C0C0C0>e =</font> Exercierplatz<br>
+<span class="gelb">G =</span> Raum der Gefängniswache<br>
+<font color=C0C0C0>g =</font> Gefängnisgang<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">L =</span> Löwenkäfig<br>
+<span class="gelb">l =</span> Lager<br>
+<span class="gelb">M =</span> Müllplatz (durch ein Loch in der Palisade kommt man hier rein und wieder raus ins nordöstliche [[<span class="hellblau">Gallien</span>|Gallien]])<br>
+<font color=C0C0C0>m =</font> Mannschaftszelte<br>
+<font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<span class="gelb">W =</span> Wachturm<br>
+<font color=C0C0C0>w =</font> Weg im Römerlager<br>
+<span class="gelb">Z =</span> Zelle (westliche leer, in der östlichen ist 
+Miraculix)<br>
+</span>

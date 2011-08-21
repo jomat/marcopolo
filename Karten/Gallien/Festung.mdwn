@@ -1,0 +1,17 @@
+<span class="map">
+&nbsp;I-T-E-[[<font color=C0C0C0>p</font>|Gallien]]<br>
+&nbsp;| &nbsp; |<br>
+&nbsp;| [[<span class="gelb">S</span>|OdF]] |<br>
+&nbsp;| | |<br>
+&nbsp;<span class="gelb">I</span>-<span class="gelb">R</span>-<span class="gelb">W</span>
+</span>
+
+<span class="legend">
+<font color=C0C0C0>E =</font> Eingang der Felsenfestung<br>
+<span class="gelb">I =</span> Innenhof (im markierten Feld ist eine Feuerstelle)<br>
+<font color=C0C0C0>p =</font> Felsplateau (runter gehts in die Carmargue im [[<span class="hellblau">südlichen Gallien</span>|Gallien]])<br>
+<span class="gelb">R =</span> Rittersaal (bzw. nach unten der Keller, durch den man in den Wachraum kommt)<br>
+<span class="gelb">S =</span> Sicherungsraum (hier rein kommt man durch eine Geheimtür aus dem Rittersaal [-&gt; drehe Kopf], eine Wendeltreppe runter gehts zu einem Portal in die [[<span class="hellblau">Beschwörergilde</span>|OdF]])<br>
+<font color=C0C0C0>T =</font> Unter dem Torbogen<br>
+<span class="gelb">W =</span> Wachraum<br>
+</span>

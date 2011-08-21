@@ -1,0 +1,48 @@
+<span class="map">
+&nbsp;&nbsp; &nbsp; &nbsp; <font color=00CC00>\|/</font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=CC6600>-[[<font color=CC6600>E</font>|Gallien]]-</font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;z<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="gelb">l</span>-s-<span class="orange">V</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp; &nbsp; &nbsp;<span class="gelb">h</span> |<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \|<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; s-<span class="orange">G</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="gelb">W</span>-s&nbsp; &nbsp;<span class="gelb">H</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp; s-<span class="gelb">m</span>-<span class="orange">P</span>-s-s-<span class="orange">D</span><br>
+&nbsp;&nbsp; &nbsp;|&nbsp; &nbsp;|&nbsp;|&nbsp; \<br>
+&nbsp;&nbsp; &nbsp;<span class="orange">S</span>&nbsp; &nbsp;|&nbsp;<span class="gelb">M</span>&nbsp; &nbsp;<font color=blue>B</font>-<span class="hellblau">P</span><br>
+&nbsp;&nbsp; &nbsp;|&nbsp; &nbsp;|<br>
+&nbsp;&nbsp; &nbsp;<span class="gelb">s</span>&nbsp; &nbsp;s-<span class="gelb">J</span><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;s <span class="gelb">j</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;z<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font color=CC6600>-[[<font color=CC6600>E</font>|Gallien]]-</font><br>
+&nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00>/|\</font></td>
+</tr>
+</table>
+<font color=blue>B =</font> Brunnen<br>
+<font color=CC6600>E =</font> Eingang zum Gallischen Dorf (im Nordwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
+<span class="orange">G =</span> Gasthaus 'zur frischen Brise'<br>
+<span class="gelb">H =</span> Historix Hütte<br>
+<span class="gelb">h =</span> Hühnerstall<br>
+<span class="gelb">J =</span> Majestix Hütte<br>
+<span class="gelb">J =</span> Nebenzimmer von Majestix Hütte<br>
+<span class="gelb">l =</span> Leerstehendes Haus<br>
+<span class="gelb">M =</span> Miraculix Hütte<br>
+<span class="gelb">m =</span> Methusailix, der Dorfälteste<br>
+<span class="orange">P =</span> Dorfplatz (man kann sich bei Gyrix Braten kaufen oder hoch auf den Baum zu Troubadix Baumhaus)<br>
+<span class="hellblau">P =</span> Post<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="gelb">s =</span> Hinterzimmer der Schmiede<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="orange">V =</span> Verleihnix<br>
+<span class="gelb">W =</span> Würfelfix Hütte<br>
+<font color=C0C0C0>z =</font> Zwischen den Palisadenwänden<br>
+<center><font color=00CC00>([[<font color=00CC00>zurück nach Gallien</font>|Gallien]])</font></center>
+</span>

@@ -1,0 +1,25 @@
+<span class="map">
+&nbsp;<span class="gelb">Z</span>-f---f-<span class="gelb">K</span><br>
+&nbsp; &nbsp;| &nbsp; &nbsp;\|<br>
+&nbsp;<span class="gelb">z</span>-f &nbsp; &nbsp; <span class="gelb">S</span><br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;f &nbsp; <font color=808080>h-</font><span class="gelb">g</span><br>
+&nbsp; &nbsp;| &nbsp; <font color=808080>|</font><br>
+&nbsp; &nbsp;<span class="gelb">G</span><font color=808080>-h-h</font><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>E</font>|Gallien]]
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>E =</font> Höhleneingang (im Mittelteil [[<span class="hellblau">Galliens</span>|Gallien]])<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="gelb">G =</span> Geheimtür nach Norden (-&gt;drehe knauf - aber Vorsicht: man dann die Tür von Innen nicht mehr öffnen)<br>
+<span class="gelb">g =</span> geheimer Ausgang aus Sadors Höhle (man bekommt die Tür nur von 
+innen auf)<br>
+<font color=808080>h =</font> Finstere, nasse, kalte Höhle<br>
+<span class="gelb">K =</span> Küche (hier ist Tomba, die Räuberfrau)<br> 
+<span class="gelb">S =</span> Sador, der Räuberhautmann (durch die Falltür unter dem Teppich gehts in die Schatzkammer und wenn man die Klinke in der Nische drückt öffnet sich die Tür nach Süden)<br>
+<span class="gelb">Z =</span> Kinderzimmer von Akie und Azrim<br> 
+<span class="gelb">z =</span> Kinderzimmer von Bubu<br> 
+</span>

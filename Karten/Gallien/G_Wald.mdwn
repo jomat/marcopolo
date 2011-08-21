@@ -1,0 +1,81 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|/ &nbsp; &nbsp;&nbsp; &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; -[[<font color=008000>W</font>|Gallien]]- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<font color=008000>W</font>|Gallien]]-&nbsp; &nbsp;&nbsp; &nbsp; <font color=blue>-[[<font color=blue>h</font>|Gallien]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; W-W-W &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W-W-W-W &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; W-W-W-W-W-W-W-W &nbsp; <font color=blue>b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W-W-W-W-W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; <span class="gelb">C</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; <font color=blue>|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; <font color=blue>b</font> &nbsp; W-W-W-W-[[<font color=008000>W</font>|Gallien]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; <font color=blue>|</font> &nbsp; | &nbsp; &nbsp; &nbsp; |\<br>
+&nbsp; &nbsp; &nbsp; W-W-W &nbsp; &nbsp; &nbsp; W &nbsp; <span class="gelb">P</span> &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp;&nbsp;<font color=blue>b</font> &nbsp; W<br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp;\&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; <font color=blue>|</font> &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; <span class="orange">G</span> &nbsp; W-W-W &nbsp; p W-W-W-W-W-<font color=blue>b</font>-W-W<br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;\&nbsp; | | | &nbsp;/&nbsp; | &nbsp; &nbsp; | | <font color=blue>|</font><br>
+&nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; <font color=00CC00>L-L-L-L-L</font> &nbsp; <span class="gelb">M</span> &nbsp; &nbsp; <font color=blue>b-b-b</font><br>
+&nbsp;\| &nbsp; | &nbsp; &nbsp; &nbsp; <font color=00CC00>| | | | |</font> &nbsp; | &nbsp; &nbsp; <font color=blue>|</font><br>
+&nbsp;-[[<font color=008000>W</font>|Gallien]]-W-W-W-W-W-<font color=00CC00>L-<span class="gelb">F</span>-L-L-L</font>-W-W &nbsp; &nbsp; <font color=blue>b</font><br>
+&nbsp;/| | &nbsp; &nbsp; &nbsp; | <font color=00CC00>| | | | |</font> | | &nbsp; &nbsp;<font color=blue>/</font><br>
+&nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; W-<font color=00CC00>L-L-L-</font><span class="hellblau">Q</span><font color=blue>-b-b-b-b-b</font><br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>| | | | |</font> | | | |<br>
+&nbsp; &nbsp; W &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<font color=00CC00>L-L-L-L-L</font>-W-W-W-W-W<br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W-W-W &nbsp; &nbsp; W &nbsp; &nbsp; W-W<br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; W &nbsp; W-W-W-W-W-W-W-W-W-W-W &nbsp; &nbsp; W<br>
+&nbsp; &nbsp; | &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; W &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; W<br>
+&nbsp;\| | &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |/<br>
+&nbsp;-[[<font color=008000>W</font>|Gallien]]-W-W-W-W-W-<span class="gelb">B</span>-W-W-W-W-W-W-W-W-W-W &nbsp; &nbsp; &nbsp; &nbsp; W-W-[[<font color=008000>W</font>|Gallien]]-<br>
+&nbsp;/| &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; |\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; W-W-W &nbsp; W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; W-W-<span class="gelb">w</span> &nbsp; &nbsp; W &nbsp; &nbsp; W-W-W-W-W-W-W-W-W &nbsp; W-W-W<br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; W &nbsp; <span class="gelb">H</span><br>
+&nbsp;\| | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp;/<br>
+&nbsp;-[[<font color=008000>W</font>|Gallien]]-W &nbsp; &nbsp; W-W-W-W-W-[[<span class="hellblau">t</span>|Trabantenstadt]] &nbsp; &nbsp; &nbsp; W-W<br>
+&nbsp;X| | &nbsp; &nbsp; | &nbsp; | &nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;-[[<font color=008000>W</font>|Gallien]]-W &nbsp; &nbsp; W &nbsp; W &nbsp; W-[[<span class="hellblau">t</span>|Trabantenstadt]]-W &nbsp; &nbsp; &nbsp; W<br>
+&nbsp;X| | &nbsp; &nbsp; | &nbsp; | &nbsp; | | | &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;-[[<font color=008000>W</font>|Gallien]]-W-W-W-W &nbsp; W &nbsp; W-W-W-W-W-W-W-W-W-W-W-W-W-W<br>
+&nbsp;/| &nbsp; &nbsp; &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; |/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; W &nbsp;&nbsp;<span class="gelb">W</span>&nbsp;&nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W-W-[[<font color=008000>W</font>|Gallien]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W-W-W &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; W-W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W-W-W-W-W-W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<font color=008000>W</font>|Gallien]]-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;     -[[<font color=008000>W</font>|Gallien]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Erkletterbarer Baum (Aussichtsplatform & Mistel-Sammelstelle)<br>
+<font color=blue>b =</font> Bach<br>
+<span class="gelb">C =</span> An der Ostseite der Schlucht kann man zu der Stelle hochklettern wo die Champignons wachsen<br>
+<span class="gelb">F =</span> Feuerstelle<br>
+<span class="orange">G =</span> Hütte von Glühfix, dem Glühweinverkäufer<br>
+<span class="gelb">H =</span> Haus des Waldarbeiters Waldwegwienix<br>
+<font color=blue>h =</font> Halbinsel (man kommt von hier ins Meer vor [[<span class="hellblau">Gallien</span>|Gallien]], aber nicht zurück)<br>
+<font color=00CC00>L =</font> Lichtung<br>
+<span class="gelb">M =</span> Hier wurde Miraculix von den Römern überfallen<br>
+<span class="gelb">P =</span> Schöne kleine Lichtung, wo ein kranker Pilz steht<br>
+<font color=008000>p =</font> Ein kleiner Pfad im Wald<br>
+<span class="hellblau">Q =</span> Quelle<br>
+<span class="hellblau">t =</span> Hier kann man die [[<span class="hellblau">Ruinen der Trabantenstadt</span>|Trabantenstadt]] betreten<br>
+<font color=008000>W =</font> Gallischer Wald (die äußeren Felder sind schon wieder normaler Wald in [[<span class="hellblau">Gallien</span>|Gallien]] (Keine Wege...)<br>
+<span class="gelb">W =</span> Kleine Lichtung auf der Würfelfix sitzt<br>
+<span class="gelb">w =</span> Ein doch nicht ganz so netter Wichtel<br>
+<center><font color=00CC00>([[<font color=00CC00>zurück nach Gallien</font>|Gallien]])</font>
+</span>

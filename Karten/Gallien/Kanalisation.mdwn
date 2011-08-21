@@ -1,0 +1,11 @@
+<span class="map">
+<font color=996600>a =</font> Hier kommt man raus wenn man in den Katakomben der Arena nach Süden geht (zurück gehts nicht)<br>
+<font color=C0C0C0>C =</font> Keller der [[<span class="hellblau">Curia</span>|Curia]]<br>
+<font color=996600>k =</font> Abasserkanal<br>
+<font color=996600>L =</font> Hier ist ein kleines Loch in der Wand durch das man sich mit einiger Mühe in ein kleines [[<span class="hellblau">Labyrinth</span>|Campus/Paris_Lab]] unter Paris durchzwängen kann<br>
+<font color=808080>n =</font> Nische<br>
+<font color=996600>P =</font> Unter der Post im [[<span class="hellblau">Forum</span>|Forum]] (durch ne Luke in der Decke kommt man mit ner Leiter hoch, hier kommt man raus wenn man in [[<span class="hellblau">Paris</span>|Campus/Paris]] in die Metro geht)<br>
+<font color=blue>S =</font> Seine (Fluss) im [[<span class="hellblau">Norden Galliens</span>|Gallien]]<br>
+<font color=996600>u =</font> Hier kommt man raus wenn man im Untergrund unter der Insula nach Westen geht (zurück gehts nicht)<br>
+</font><br>
+</span>

@@ -1,0 +1,17 @@
+<span class="map">
+&nbsp; &nbsp;[[<span class="violett">E</span>|E-Haus]]<br>
+&nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">H</span>-g-[[<span class="gelb">K</span>|G_Wald]]<br>
+&nbsp; &nbsp;| |<br>
+&nbsp; &nbsp;t [[<span class="gelb">S</span>|G_Wald]]
+
+</span>
+
+<span class="legend">
+<span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]]<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">H =</span> Horexa, die alte Wahrsagerin<br>
+<span class="gelb">K =</span> Wohnküche [durch das Fenster in der Wand kann man aus der Ruine rausklettern (in den [[<span class="hellblau">Gallischen Wald</span>|G_Wald]])]<br>
+<font color=C0C0C0>t =</font> verfallenes Treppenhaus<br>
+<span class="gelb">S =</span> Schlafzimmer [durch das Fenster in der Wand kann man aus der Ruine rausklettern (in den [[<span class="hellblau">Gallischen Wald</span>|G_Wald]])]<br>
+</span>

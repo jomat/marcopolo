@@ -1,0 +1,22 @@
+<span class="map">
+<span class="gelb">A =</span> Arasnia und Arasnias Haus<br>
+<font color=C0C0C0>b =</font> Bergpfad<br>
+<span class="orange">C =</span> Sehercafe<br>
+<span class="gelb">D =</span> Das Dampfmonster<br>
+<font color=C0C0C0>e =</font> Eingang einer Grotte<br>
+<font color=808080>G =</font> Grotte am Rand eines Sees<br>
+<font color=808080>g =</font> Gewölbe (hier gehts hoch bzw. runter [>])<br>
+<span class="gelb">K =</span> Garten, mit einem riesigen Bergkristall der die Gildengeschichte zeigt<br>
+<font color=C0C0C0>L =</font> an einem Lavasee (überqueren des Steges ist nicht-Sehern nicht zu empfehlen)<br>
+<span class="gelb">M =</span> Monakia, die alles wissende Seherin<br>
+<span class="gelb">O =</span> Orakel von Krax<br>
+<span class="orange">P =</span> Pokus, der Scharlatan<br>
+<font color=C0C0C0>p =</font> kleiner Pfad im nördlichen Teil von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
+<font color=blue>S =</font> See (im nördlichen Feld kann man tauchen und in die [[<span class="hellblau">Seherhöhlen</span>|Seherhoehlen]] schwimmen)<br>
+<span class="gelb">S =</span> Steinkreis (Teleporter zum [[<span class="hellblau">Karnutenwald</span>|Karnutenwald]] und der [[<span class="hellblau">Druiden</span>|Kreta/Druidengilde]]- und [[<span class="hellblau">Bardengilde</span>|Kreta]])<br>
+<font color=C0C0C0>v =</font> an einem Vulkan<br>
+<font color=00CC00>w =</font> Kraterwand (bewachsen)<br>
+<font color=008000>w =</font> Wald<br>
+<font color=008000>w =</font> lichter Waldrand<br>
+<span class="gelb">w =</span> Wäscheleine hinter Arasnias Haus<br>
+</span>

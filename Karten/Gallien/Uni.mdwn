@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp;<span class="gelb">D</span>-g <span class="gelb">P</span><br>
+&nbsp;&nbsp;&nbsp;| |<br>
+&nbsp;<span class="gelb">V</span>-g <span class="gelb">S</span>-<span class="gelb">Ü</span><br>
+&nbsp;&nbsp;&nbsp;| |<br>
+&nbsp;<span class="gelb">B</span>-g-E-<span class="gelb">b</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp; -[[<font color=C0C0C0>s</font>|Lutetia]]-
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bibiliothek (im Bau)<br>
+<span class="gelb">b =</span> Besenkammer<br>
+<span class="gelb">D =</span> Dekanat<br>
+<font color=C0C0C0>E =</font> Eingangshalle<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">P =</span> Prüfungszimmer<br>
+<span class="gelb">S =</span> Schreibstube<br>
+<font color=C0C0C0>s =</font> Straße in [[<span class="hellblau">Lutetia</span>|Lutetia]]<br>
+<span class="gelb">Ü =</span> Übungsraum<br>
+<span class="gelb">V =</span> Universitätsverwaltung<br>
+</span>
