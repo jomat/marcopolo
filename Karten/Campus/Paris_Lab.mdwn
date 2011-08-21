@@ -1,42 +1,17 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<title>Labyrinth unter Paris</title>
-</head>
+<span class="map">
+&nbsp;Ebene1 &nbsp;Ebene2 &nbsp;Ebene3&nbsp; Metro<br>
+&nbsp;&nbsp;l-l-<span class="gelb">^</span> &nbsp; l-l-<span class="gelb">^</span> &nbsp; l-l-<span class="gelb">^</span>&nbsp; &nbsp;[[<span class="hellblau">P</span>|Paris]]-[[<span class="hellblau">P</span>|Paris]]<br>
+&nbsp; | | | &nbsp; | | | &nbsp; | | | &nbsp; | &#8593;<br>
+&nbsp; l l-l &nbsp; l l-l &nbsp; l <span class="gelb">v</span>-l &nbsp; [[<span class="hellblau">M</span>|../Gallien/Kanalisation]] <span class="gelb">v</span><br>
+&nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; [[<span class="hellblau">L</span>|../Gallien/Kanalisation]]-l-l &nbsp; <span class="gelb">v</span>-l-l &nbsp; l-l-l
+</span>
 
-<body text=FFFFFF bgcolor=000000>
-
-<DIV ALIGN="center">
-  <CENTER>
-   <font face="Forte" size="6" color=00CC00>Labyrinth unter Paris</font><br>
-   <font color=00CC00 face="Courier New" style="font-Size: 8pt">(<A TITLE="Weltkarte" HREF="../../Index.html"><font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück zur Weltkarte</font></A>)</font>
-   <br>
-   <br>
-
-<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse" BORDERCOLOR="#111111" WIDTH="211" ID="AutoNumber2">
-  <TR>
-    <TD WIDTH="211">
-    <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
-    &nbsp;Ebene1 &nbsp;Ebene2 &nbsp;Ebene3&nbsp; Metro<br>
-    <br>
-    &nbsp;&nbsp;l-l-<font color=FFCC00>^</font> &nbsp; l-l-<font color=FFCC00>^</font> &nbsp; l-l-<font color=FFCC00>^</font>&nbsp; &nbsp;<A TITLE="Rolltreppe hoch nach Paris" HREF="Paris.html"><font color=00CCFF>P</font></A>-<A TITLE="Rolltreppe hoch nach Paris" HREF="Paris.html"><font color=00CCFF>P</font></A><br>
-    &nbsp; | | | &nbsp; | | | &nbsp; | | | &nbsp; | &#8593;<br>
-    &nbsp; l l-l &nbsp; l l-l &nbsp; l <font color=FFCC00>v</font>-l &nbsp; <A TITLE="Kanalisation von Lutetia" HREF="../Gallien/Kanalisation.html"><font color=00CCFF>M</font></A> <font color=FFCC00>v</font><br>
-    &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |<br>
-    &nbsp; <A TITLE="Kanalisation von Lutetia" HREF="../Gallien/Kanalisation.html"><font color=00CCFF>L</font></A>-l-l &nbsp; <font color=FFCC00>v</font>-l-l &nbsp; l-l-l</FONT></TD>
-  </TR>
-</TABLE>
-
-  </CENTER>
-</DIV>
-<br>
-<font color=C0C0C0 face="Courier New" style="font-size: 8pt">
-<font color=FFCC00>^ =</font> Rolltreppe nach oben<br>
-<font color=00CCFF>L =</font> Hier kommt man raus wenn man in der <A TITLE="Kanalisation von Lutetia" HREF="../Gallien/Kanalisation.html"><font color=00CCFF>Kanalisation von Lutetia</font></A> durch das Loch schlüpft<br>
+<span class="legend">
+<span class="gelb">^ =</span> Rolltreppe nach oben<br>
+<span class="hellblau">L =</span> Hier kommt man raus wenn man in der [[<span class="hellblau">Kanalisation von Lutetia</span>|../Gallien/Kanalisation]] durch das Loch schlüpft<br>
 <font color=C0C0C0>l =</font> Labyrinth<br>
-<font color=00CCFF>M =</font> Rolltreppe runter zur Metro (man gerät in eine grüne Nebelwolke die einen in der <A TITLE="Kanalisation von Lutetia" HREF="../Gallien/Kanalisation.html"><font color=00CCFF>Kanalisation von Lutetia</font></A> ausspuckt)<br>
-<font color=00CCFF>P =</font> Hier geht eine Rolltreppe hoch nach <A TITLE="Rolltreppe hoch nach Paris" HREF="Paris.html"><font color=00CCFF>Paris</font></A><br>
-<font color=FFCC00>v =</font> Hier kommt die Rolltreppe von der letzten Ebene hoch<BR>
-
-</body>
-</
+<span class="hellblau">M =</span> Rolltreppe runter zur Metro (man gerät in eine grüne Nebelwolke die einen in der [[<span class="hellblau">Kanalisation von Lutetia</span>|../Gallien/Kanalisation]] ausspuckt)<br>
+<span class="hellblau">P =</span> Hier geht eine Rolltreppe hoch nach [[<span class="hellblau">Paris</span>|Paris]]<br>
+<span class="gelb">v =</span> Hier kommt die Rolltreppe von der letzten Ebene hoch<BR>
+</span>
