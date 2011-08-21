@@ -226,7 +226,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=00CC00>K-K-<span class="
 <span class="rot">B =</span> Hier ist der bluuutroote Mond<br>
 <span class="hellblau">B =</span> Felsen zwischen einigen Büschen (Eingang zur [[<span class="hellblau">Räuberhöhle</span>|Gallien/R-Hoehle]] -&gt; betrete Spalt)<br>
 <span class="hellblau">b =</span> Sandburgenwettbewerb<br>
-<span class="violett">D =</span> Dimensionstor ins [[<span class="hellblau">Drachenland</span>|Drachenland]]<br>
+<span class="violett">D =</span> Dimensionstor ins [[<span class="hellblau">Drachenland</span>|Ebenen/Drachenland]]<br>
 <span class="orange">d =</span> Eurodisnix (vom Dach aus Startet Dumbo auf seinem Flug zum [[<span class="hellblau">Tierpark von Koboldingen</span>|Maerchenland/Zoo]])<br>
 <span class="hellblau">d =</span> Kleine Dorf mit einer Bar und einer verfallenen Holzhütte deren Feuerstelle benutzbar ist<br>
 <font color=CC6600>E =</font> Eingang des [[<span class="hellblau">Gallischen Dorfes</span>|Gallien/Dorf]]<br>
