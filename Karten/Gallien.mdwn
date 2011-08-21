@@ -302,15 +302,15 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=00CC00>K-K-<span class="
 <font color=C0C0C0>T =</font> Stadttor von Lutetia<br>
 <font color=blue>t =</font> Tümpel<br>
 <font color=008000>W =</font> Wald:<br>
-&nbsp; &nbsp; - <A TITLE="Gallischer Wald" HREF="Gallien/G_Wald.html"><span class="hellblau">gallischer Wald</span><A><br>
-&nbsp; &nbsp; - <A TITLE="Pfadfinderwald" HREF="Gallien/Pfadfinder.html"><span class="hellblau">Pfadfinderwald</span><A><br>
-&nbsp; &nbsp; - <A TITLE="Karnutenwald" HREF="Gallien/Karnutenwald.html"><span class="hellblau">Karnutenwald</span><A><br>
-&nbsp; &nbsp; - <A TITLE="kleines Waldstück" HREF="Gallien/W1.html"><span class="hellblau">Wald 1</span><A> (im nw Galliens)<br>
-&nbsp; &nbsp; - <A TITLE="Wald" HREF="Gallien/W2.html"><span class="hellblau">Wald 2</span><A> (im n Galliens)<br>
-&nbsp; &nbsp; - <A TITLE="Wald" HREF="Gallien/W3.html"><span class="hellblau">Wald 3</span><A> (im n Galliens)<br>
-&nbsp; &nbsp; - <A TITLE="Waldstück" HREF="Gallien/W4.html"><span class="hellblau">Wald 4</span><A> (im no Galliens)<br>
-&nbsp; &nbsp; - <A TITLE="Waldstück" HREF="Gallien/W5.html"><span class="hellblau">Wald 5</span><A> (im no Galliens)<br>
-&nbsp; &nbsp; - <A TITLE="kleiner Wald" HREF="Gallien/W6.html"><span class="hellblau">Wald 6</span><A> (im so Galliens)<br>
+&nbsp; &nbsp; - [[<span class="hellblau">gallischer Wald</span>|G_Wald]]<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Pfadfinderwald</span>|Pfadfinder]]<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Karnutenwald</span>|Karnutenwald]]<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Wald 1</span>|W1]] (im nw Galliens)<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Wald 2</span>|W2]] (im n Galliens)<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Wald 3</span>|W3]] (im n Galliens)<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Wald 4</span>|W4]] (im no Galliens)<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Wald 5</span>|W5]] (im no Galliens)<br>
+&nbsp; &nbsp; - [[<span class="hellblau">Wald 6</span>|W6]] (im so Galliens)<br>
 <font color=00CC00>w =</font> Wiese<br>
 <font color=C0C0C0>w =</font> (meist un-)befestigte Wege<br>
 <font color=339966>w =</font> Weinberg<br>
