@@ -40,7 +40,7 @@
 <span class="violett">E =</span> Eingangsbereich zu Unitopia (hier auch der Teleporter zum [[<span class="hellblau">Anfängerpraktikum</span>|Anfängerpraktikum]])<br>
 <span class="gelb">F =</span> Haltestelle Feuersee<br>
 <span class="hellblau">H =</span> Hier gehts hoch zum [[<span class="hellblau">Hauptbahnhof</span>|Hauptbahnhof]] Stuttgart<br>
-<span class="hellblau">M =</span> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von [[<span class="hellblau">Tadmor</span>|Tadmor]] raus)<br>
+<span class="hellblau">M =</span> Weg in die Fantasywelt Magyra (man kommt beim hochgehen in der Kathedrale von [[<span class="hellblau">Tadmor</span>|Vaniorh/Tadmor]] raus)<br>
 <span class="gelb">O =</span> Haltestelle Oesterfeld<br>
 <span class="gelb">S =</span> Haltestelle Stadtmitte<br>
 <span class="gelb">s =</span> Haltestelle Schwabstrasse<br>
