@@ -1,0 +1,49 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">F</span>-t-t-<span class="gelb">S</span>-t<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;n-g &nbsp; &nbsp; &nbsp; E<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<span class="rot">F</span>-g-<span class="rot">F</span> &nbsp; M-v-M-v-M<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; v &nbsp; v &nbsp; v<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g-n M-v-M-v-M<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; v &nbsp; V &nbsp; v<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; M-v-M-v-M<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">F</span> &nbsp; &nbsp; &nbsp; A<br>
+&nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<span class="gelb">P</span>-g &nbsp; &nbsp; <span class="gelb">t</span>.<span class="gelb">T</span>-V-<span class="gelb">B</span><br>
+&nbsp; &nbsp; &nbsp;. &nbsp; &nbsp; &nbsp; . &nbsp; |<br>
+&nbsp;.&#8594;<span class="gelb">K</span>&gt;<span class="gelb">s</span>&gt;<span class="gelb">b</span> &nbsp; &nbsp; <span class="gelb">W</span> <span class="gelb">C</span>-c<br>
+&nbsp;. | &nbsp; .<br>
+&nbsp;. [[<span class="hellblau">k</span>|E-Haus]] &nbsp; .<br>
+&nbsp;. &nbsp; &nbsp; .<br>
+&nbsp;.......
+</span>
+
+<span class="legend">
+<font color=C0C0C0>A =</font> Ausgang der Marmorhöhlen (hier ist ne Tür mit speziellem Schliessmechanismus)<br>
+<span class="gelb">B =</span> Bastelecke von Erad-Nair<br>
+<span class="gelb">b =</span> Boden des Schachtes (nach Süden gehts in ein Treppenhaus was einen wieder hoch zu Raum K führt)<br>
+<span class="gelb">C =</span> Chronolith<br>
+<span class="gelb">c =</span> Ostteil des Raumes mit dem Chronolith<br>
+<font color=C0C0C0>E =</font> Eingang zu den Marmorhöhlen<br>
+<span class="rot">F =</span> Pfeil-Falle (solange man sich im Gang bewegt schiessen immer mal wieder vergiftete Pfeile den Gang entlang)<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">K =</span> Kellerraum (man kann hier eine Stange in einen Schacht runterrutschen; von Westen kommt man durch eine versteckte Tür die Treppe aus raum b hoch)<br>
+<span class="hellblau">k =</span> Keller von Erad Nairs [[<span class="hellblau">Haus</span>|E-Haus]] (hier steht die alte Kiste rum)<br>
+<font color=C0C0C0>M =</font> Marmorauge<br>
+<font color=C0C0C0>n =</font> Nische (hier kann man abwarten und hört wenn Pfeile vorbeifliegen)<br>
+<span class="gelb">P =</span> Plattform (man muss vom Schacht aus draufspringen)<br>
+<span class="gelb">S =</span> Saschlig, der faltige Grubengnom<br>
+<span class="gelb">s =</span> Schacht (man kann von hier aus auf die Plattform springen)<br>
+<span class="gelb">T =</span> Teleporterraum<br>
+<span class="gelb">t =</span> Im Teleporter<br>
+<font color=C0C0C0>t =</font> Tunnel<br>
+<font color=C0C0C0>V =</font> Vorraum<br>
+<font color=C0C0C0>v =</font> Verbindungsröhre<br>
+<span class="gelb">W =</span> Weltall<br>
+</span>

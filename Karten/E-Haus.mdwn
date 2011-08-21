@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;Erdgeschoss &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Keller<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">s</span>-<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [[<font color=00CC00>Knossos</font>|Kreta/Knossos]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=00CC00>Bree</font>|Mittelerde/Rathaus]] [[<span class="violett">Keller</span>|E-Haus_Keller]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp;[[<font color=00CC00>Tadmor</font>|Vaniorh/Tadmor]]-<span class="gelb">E</span>-f-<span class="gelb">Z</span>-[[<font color=FFFF00>Sarasande</font>|Doerrland/Sarasande]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">Phexcaer</span>|Nordische_Inseln/Haupthaus]]-k-k-[[<font color=FFFF00>Doerrstadt</font>|Doerrland/Doerrstadt]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=008000>Gallischer Wald</font>|Gallien/Trabantenstadt]]
+</span>
+
+<span class="legend">
+<font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
+<span class="gelb">A =</span> Raum-Zeit Anomalie<br>
+<span class="gelb">E =</span> Eingangshalle (hier gehts auch runter in den Keller)<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<font color=C0C0C0>k =</font> Keller (im rechten Feld geht es hoch in die Eingangshalle)<br>
+<span class="gelb">S =</span> Spiegelkabinett (Schlafzimmer)<br>
+<span class="gelb">s =</span> Stube<br>
+<span class="gelb">Z =</span> Zeitlabor (Stella und das Perpetuum Mobile)<br>
+</span>
