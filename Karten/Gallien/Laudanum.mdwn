@@ -20,5 +20,4 @@
 <span class="gelb">T =</span> Tiberius, der Lagerkommandant<br>
 <span class="gelb">W =</span> Wachturm<br>
 <font color=C0C0C0>w =</font> Weg im Römerlager<br>
-&nbsp;</body></html>
 </span>

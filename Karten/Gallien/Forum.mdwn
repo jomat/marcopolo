@@ -32,5 +32,4 @@
 <span class="orange">V =</span> Taberna Vinaria (Weinhandlung)<br>
 <span class="orange">W =</span> Waffenschieber<br>
 <span class="gelb">Z =</span> Zelle<br>
-&nbsp;</body></html>
 </span>
