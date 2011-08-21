@@ -1,60 +1,4 @@
-<span class="map"><font color="blue">
-M-M-M-M-M-M-M-M-M-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-r-r-r-<font color=C0C0C0>r-r</font>-p-<font color=C0C0C0>r-r</font>-r-r-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|<font color=C0C0C0>/|font>|X|X|X|<font color=C0C0C0>/</font> \|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-r-r-<font color=C0C0C0>r-r-r</font>-l-l-l-l <font color=808080>G</font> r-r-r-r-r-M-M-M-M<br>
-|X|X|X|X|X|X|X|<font color=C0C0C0>/|font>|X|X|X|X|X| <font color=808080>|font> \|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-r-r-<font color=C0C0C0>r-r</font>-l-l-l-l-l-l <font color=808080>G-G</font> <font color=C0C0C0>r-r-r</font>-r-M-M-M-M<br>
-|X|X|X|X| <font color=C0C0C0>\</font>|X|X|X|X|X|X|X| <font color=808080>|font> <font color=FFFF00>/</font>|X|<font color=C0C0C0>\|</font>X|X|X|X|X|<br>
-M-M-M-M-r-r <font color=808080>G</font> l-l-l-l-l-l-l-<font color=FFFF00>s <font color=808080>G</font> s</font>-l-l-<font color=C0C0C0>r</font>-r-r-M-M-M<br>
-|X|X|X| <font color=808080>/|</font> |X|X|X|X|X|X|<font color=FFFF00>/| <font color=808080>|</font> |</font>X|X|X<font color=C0C0C0>|font>|X|X|X|X|<br>
-M-M-M-M-r <font color=808080>G-G</font> l-<font color=FFFF00>s-s-s-s-s-s-s-<font color=808080>G</font> s</font>-l-l-<font color=C0C0C0>r-r</font>-r-M-M-M<br>
-|X|X|X|X| <font color=008000>|X||X|X|X|X|X|X|font><font color=808080>|</font> <font color=FFFF00>|</font>X|X|X|<font color=C0C0C0>\|</font>X|X|X|X|<br>
-M-M-M-M-r <font color=008000>W-<font color=CC6600>p-p</font>-W-W-<font color=CC6600>p-p-p</font>-W-W-</font><font color=808080>G</font> <span class="hellblau">a</span>-l-l-l-<font color=C0C0C0>r</font>-r-M-M-M<br>
-|X|X|X|X| <font color=008000>|X|X<font color=CC6600>|</font>X|X|<font color=CC6600>X</font>|X|X<font color=CC6600>|</font>X|X|font><font color=808080>|</font>&nbsp; /|X|X|X<font color=C0C0C0>|</font>X|X|X|X|<br>
-M-M-M-r-r <font color=008000>W-W-<font color=CC6600>p</font>-W-<font color=CC6600>p</font>-W-W-<font color=CC6600>p</font>-W-W-</font><font color=808080>G</font> &nbsp;&nbsp;[[<font color=FFFF00>s</font>|Vaniorh/Ebene]]-l-l-<font color=C0C0C0>r</font>-r-M-M-M<br>
-|X|X| <font color=008000>/|X|X<font color=CC6600>|</font>X|<font color=CC6600>X</font>|X|X|X<font color=CC6600>|</font>X|X|font><font color=808080>|</font> &nbsp; &nbsp;&nbsp; &nbsp; \|X|X|X|X|<br>
-M-M-M-r <font color=008000>W-W-W-<font color=CC6600>p-p</font>-W-W-W-<font color=CC6600>p</font>-W-W-</font><font color=808080>G-G-G-G-G</font> r-M-r-r-M<br>
-|X|X|X| <font color=008000>|X|X|X|<font color=CC6600>\</font> &nbsp; \|X|X|<font color=CC6600>X</font>|X|</font><font color=00CC00>X|</font> <font color=808080>\|font> <font color=C0C0C0>/</font>|X|X|X|X|<br>
-M-M-r-r <font color=008000>W-W-W-W &nbsp; &nbsp; W-W-W-</font><font color=CC6600>p-p-p</font><font color=00CC00>-E</font> &nbsp; <font color=808080>G</font>&nbsp;<span class="gelb">W</span><font color=C0C0C0>-r-r-r</font>-r-M<br>
-|X| <font color=008000>/|X|X|X|[[<font color=00CC00>Ebene</font>|Vaniorh/Borsippa_Ebene]]|X|X|X|font><font color=00CC00>|</font> &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font>X|X|<font color=C0C0C0>\|</font>X|X|<br>
-M-M-r <font color=008000>W-<font color=CC6600>p</font>-W-W-W&nbsp;&nbsp; &nbsp; W-W-W-W</font><font color=00CC00>-E-E</font> [[<font color=00CC00>Ebene</font>|Vaniorh/Ebene]] <font color=C0C0C0>k</font>-b-b-<span class="hellblau">L</span>-r-M<br>
-|X|X| <font color=008000>|X|<font color=CC6600>X</font>|X|X|</font> [[<span class="hellblau">Borsippa</span>|Vaniorh/Borsippa]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font>X|X|X|X|X|<br>
-M-M-r <font color=008000>W-W-<font color=CC6600>p</font>-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">Tadmor</span>|Vaniorh/Tadmor]] &nbsp;<font color=C0C0C0>-</font><font color=CC6600>s-</font>[[<span class="hellblau">H</span>|Vaniorh/Ebene]]-l-p-r-M<br>
-|X|X| <font color=008000>|X|X<font color=CC6600>|</font>X|X|</font> &nbsp; &nbsp; [[<font color=808080>Orkberge</font>|Vaniorh/Orkberge]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFFF00>|</font>X|X|X|X|X|<br>
-M-M-r <font color=008000>W-W-<font color=CC6600>p</font>-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="gelb">S</span>|Vaniorh/Ebene]]-b-b-<font color=C0C0C0>r</font>-r-M<br>
-|X|X|\ <font color=008000>\|X<font color=CC6600>|</font>X|X|font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=CC6600>/</font> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; |X|X|X<font color=C0C0C0>|</font>X|X|<br>
-M-M-r-r <font color=008000>W-<font color=CC6600>p</font>-W-W-W-W-<font color=CC6600>p-p-p</font></font> &nbsp;-<span class="hellblau">D</span>-D-D &nbsp; D-D-l-l-<font color=C0C0C0>r</font>-r-M<br>
-|X|X|X| <font color=008000>|X|<font color=CC6600>X</font>|X|X|X|<font color=CC6600>X</font>|X|X|</font> &nbsp; &nbsp; &nbsp; &nbsp;\ / &nbsp; &nbsp; &nbsp; <font color=C0C0C0>\</font>|X|X|<br>
-M-M-M-r <font color=008000>W-W-<font color=CC6600>p-p-p-p</font>-W-W-W</font> &nbsp; &nbsp; &nbsp; &nbsp; D &nbsp; &nbsp; &nbsp; &nbsp; r-M-M<br>
-|X|X|X|<font color=C0C0C0>\</font> &nbsp; &nbsp; <font color=008000>\|X|X<font color=CC6600>|</font>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>/</font>|X|X|<br>
-M-M-r-<font color=C0C0C0>r</font>-l-<font color=FFFF00>s-s-s</font><font color=008000>-W-<font color=CC6600>p</font> [[<font color=008000>DÃ¼ster-</font>|Vaniorh/Duesterwald]]</font>&nbsp; &nbsp;&nbsp; <font color=FFFF00>s-s</font>-l-l-l-<font color=C0C0C0>r-r</font>-r-M<br>
-|X|X|X<font color=C0C0C0>|</font>X|X|X|<font color=FFFF00>\|</font><font color=008000>X|X<font color=CC6600>|</font> [[<font color=008000>Wald</font>|Vaniorh/Duesterwald]]</font>&nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>|font>|X|X|X|<font color=C0C0C0>/|font>|X|X|<br>
-M-M-r-<font color=C0C0C0>r</font>-l-l-l-<font color=008000>W-W-<font color=CC6600>p</font></font> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=FFFF00>s</font>-l-l-l-<font color=C0C0C0>r-r</font>-r-r-M<br>
-|X|X|X<font color=C0C0C0>|</font>X|X|X|X<font color=FFFF00>|</font><font color=008000>X|X|<font color=CC6600>\</font></font> &nbsp; [[<font color=C0C0C0>Handels-</font>|Vaniorh/Handelsweg]] <font color=FFFF00>|</font>X|X|X|X<font color=C0C0C0>|X|</font>X|X|X|<br>
-M-M-r-<font color=C0C0C0>r</font>-l-l-l-<font color=FFFF00>s</font><font color=008000>-W-W-<font color=CC6600>p</font>-W&nbsp; [[<font color=C0C0C0>weg</font>|Vaniorh/Handelsweg]]&nbsp;&nbsp;&nbsp; s</font>-l-l-l-<font color=C0C0C0>r-r</font>-r-r-M<br>
-|X|X|X|X|X|X|X<font color=FFFF00>|font><font color=008000>|X|X|<font color=CC6600>X</font>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |font>|X|X|X|X|X|X|X|<br>
-M-r-r-p-<font color=C0C0C0>r</font>-l-l-<font color=FFFF00>s-s-s</font><font color=008000>-W-<font color=CC6600>p </font></font>&nbsp;[[<span class="hellblau">Terqa</span>|Vaniorh/Terqa]]&nbsp; <font color=FFFF00>s-</font><font color=C0C0C0>r-r-r</font>-r-r-M-M-M<br>
-|X|X|X|X<font color=C0C0C0>|font>|X|X|X|<font color=FFFF00>\|</font><font color=008000>X|X<font color=CC6600>|</font></font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>|</font><font color=C0C0C0>X|font>|X|X|X|X|X|X|<br>
-M-M-r-r-<font color=C0C0C0>r-r</font>-l-l-l-<font color=FFFF00>s</font><font color=008000>-W-<font color=CC6600>p</font></font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>s</font><font color=C0C0C0>-r</font>-r-r-r-M-M-M-M<br>
-|X|X|X|X|<font color=C0C0C0>\|font>|X|X|X<font color=FFFF00>|font><font color=008000>|X|font>&nbsp; <font color=C0C0C0>|</font>&nbsp; <font color=008000>\</font> <font color=FFFF00>/</font><font color=C0C0C0>|font>|X|X|X|X|X|X|X|<br>
-M-M-M-r-r-<font color=C0C0C0>r-r-r</font>-l-<font color=FFFF00>s-s-s-s-<font color=CC6600>s</font>-s-s</font><font color=C0C0C0>-r</font>-r-r-M-M-M-M-M-M<br>
-|X|X|X|X|X|<font color=C0C0C0>\|X|font>|<font color=C0C0C0>/|X|X|font><font color=FFFF00>|font><font color=CC6600>|</font>X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-r-r-r-<font color=C0C0C0>r-r-r-r-r-r-r</font>-<span class="hellblau">H</span>-r-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-r-r-r-r-r-r-r-r-M-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<span class="hellblau">J</span>-M<br>
-|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
-</font></span>
-
-<span class="legend">
+<span class="map">
 <span class="hellblau">Legende:</span><br>
 <font color=blue>b =</font> Bucht<br>
 <span class="hellblau">D =</span> In diesem Feld des Dijala kann man entfeder weiter nach Westen nach [[<span class="hellblau">Tadmor</span>|Vaniorh/Tadmor]] reinschwimmen oder an das linke ([[<span class="hellblau">Handelsweg</span>|Vaniorh/Handelsweg]]) oder rechte ([[<span class="hellblau">Ebene</span>|Vaniorh/Ebene]]) Flussufer waten<br>
@@ -70,9 +14,9 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
 <font color=blue>p =</font> Passage<br>
 <font color=C0C0C0>r =</font> Riff<br>
 <font color=blue>r =</font> In der brandung vor einem Riff<br>
-<span class="gelb">S =</span> Strand / Fischereihafen (es liegen mehrere Felder hier die ich aus PlatzgrÃ¼nden nur in der Detailkarte der Ebene genauer zeige)<br>
+<span class="gelb">S =</span> Strand / Fischereihafen (es liegen mehrere Felder hier die ich aus Platzgründen nur in der Detailkarte der Ebene genauer zeige)<br>
 <font color=FFFF00>s =</font> Strand<br>
 <font color=CC6600>s =</font> Steg<br>
 <font color=008000>W =</font> Wald<br>
-<span class="gelb">W =</span> Ehemaliges Werft-GelÃ¤nde<br>
+<span class="gelb">W =</span> Ehemaliges Werft-Gelände<br>
 </span>
