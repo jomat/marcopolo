@@ -1,0 +1,63 @@
+<span class="map">
+	M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
+	|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M-M-M-M-<span class="rot">L-L</span>-M-M<br>
+|X|X|X|X|X|X|X|X|X|X|<span class="rot">/|X|\</span>|X|<br>
+M-M-M-M-M-M-M-M-M-<span class="rot">L<font color=C0C0C0>-</span><font color =808080>k-k-k</font>-L</font>-M<br>
+|X|X|X|X|X|X|X|X|<font color=C0C0C0>/<span class="rot">|</span>X<font color =808080>|X|X|</font><span class="rot">/</span></font>|X|<br>
+M-M-M-M-M-M-M-M-<font color=C0C0C0><font color=00CC99>q</font>-<span class="rot">L</span>-<font color =808080>k-[[<span class="rot">K</span>|Vulkanien/Hoehle]]-k</font></font>-M-M<br>
+|X|X|X|X|X|X|X|<font color=C0C0C0>/|X<span class="rot">|</span>X<font color =808080>|X|X|</font></font>X|X|<br>
+M-M-M-M-M-M-<font color=C0C0C0>O-O-O-<span class="rot">L-</span><font color =808080>k-k-k</font></font>-M-M<br>
+|X|X|X|X|X|<font color=C0C0C0>/|X|X|X|X<span class="rot">|/</span></font>|X|X|X|<br>
+M-M-M-K-<font color=C0C0C0><font color=00CC99>q-q</font>-O-<span class="rot">L</span>-O-O-<span class="rot">L</span></font>-M-M-M-M<br>
+|X|X|X|X<font color=C0C0C0><font color=00CC99>|X|</font>X|X|<span class="rot">X</span>|X|X<span class="rot">|</span></font>X|X|X|X|<br>
+M-M-M-M-<font color=C0C0C0><font color=00CC99>q-q</font>-O-O-<span class="rot">L-L-L</span></font>-M-M-M-M<br>
+|X|X|X|X<font color=C0C0C0>|X|X|X|X|X|/</font>|X|X|X|X|<br>
+M-M-M-M-<font color =808080>m-m-m-m</font><font color=C0C0C0>-</font><font color=00CC99>q-q</font>-M-M-M-M-M<br>
+|X|X|X|<font color=808080>/|</font> &nbsp; <font color=C0C0C0>| |X|X|\</font>|X|X|X|X|<br>
+M-M-M-<font color =808080>m-m<span class="gelb"> a</span><font color=C0C0C0> <span class="gelb">s</span> T</font>-m-m-m</font>-M-M-M-M<br>
+|X|X|X<font color =808080>|/&nbsp;<font color=C0C0C0> | &nbsp; |</font> &nbsp; &nbsp;\|</font>X|X|X|X|<br>
+M-M-M-<font color =808080>m <span class="orange">E</span><span class="gelb"> S<font color=C0C0C0>-</span>b</font> <font color=C0C0C0>|</font> &nbsp; <span class="hellblau">L</span> m</font>-M-M-M-M<br>
+|X|X|X<font color =808080>|<font color=C0C0C0> | | &nbsp; | &nbsp; | </font>|</font>X|X|X|X|<br>
+M-M-M-<font color=00DDFF>H</font><font color=C0C0C0>-w-w-w-w-w-w-b</font>-M-M-M-M<br>
+|X|X|X<font color=C0C0C0>| | &nbsp; | | |</font> &nbsp; <font color=808080>|</font>X|X|X|X|<br>
+M-M-M-<font color=C0C0C0>H</font> <span class="orange">P</span> [[<span class="gelb">B</span>|Kreta/Knossos]]<font color=C0C0C0>-w </font><span class="gelb">h</span> <span class="gelb">F</span> <font color =808080>m-m</font>-M-M-M-M<br>
+|X|X|X<font color=C0C0C0><font color=808080>|</font>&nbsp; &nbsp; &nbsp;|</font> &nbsp;<font color =808080>&nbsp; /|/</font>|X|X|X|X|<br>
+M-M-M-<font color =808080>m-m-m-<font color=C0C0C0>T</font>-m-m-m</font>-M-M-M-M-M<br>
+|X|X|X|<font color=C0C0C0>\|X|X|X|X|/</font>|X|X|X|X|X|<br>
+M-M-M-M-<font color=C0C0C0>O-O-O-O-O</font>-M-M-M-M-M-M<br>
+|X|X|X|X|X|<font color=C0C0C0>\|X|X|</font>X|X|X|X|X|X|<br>
+M-M-M-M-M-M-<font color=00CC99>q-q</font><font color=C0C0C0>-O</font>-M-M-M-M-M-M<br>
+|X|X|X|X|X|<font color=C0C0C0>/|X|X|</font>X|X|X|X|X|X|<br>
+M-M-M-M-M-<font color=C0C0C0>s-<font color =808080>k-k-k</font></font>-M-M-M-M-M-M<br>
+|X|X|X|X|<font color=C0C0C0>/|X<font color =808080>|X|X|</font></font>X|X|X|X|X|X|<br>
+M-M-M-M-<font color=C0C0C0>s-O-<font color =808080>k-[[<span class="rot">K</span>|OdF]]-k</font></font>-M-M-M-M-M-M<br>
+|X|X|X|X<font color=C0C0C0>|X|X<font color =808080>|X|X|</font>\</font>|X|X|X|X|X|<br>
+M-M-M-M-<font color=C0C0C0>s-O-<font color =808080>k-k-k</font>-O-s</font>-M-M-M-M<br>
+|X|X|X|X|<font color=C0C0C0>\|X|X|X|X|X|\</font>|X|X|X|<br>
+M-M-M-M-M-<font color=C0C0C0>s-s-s-O-O-O-s</font>-M-M-M<br>
+|X|X|X|X|X|X|X|<font color=C0C0C0>\|X|X|/</font>|X|X|X|<br>
+M-M-M-M-M-M-M-M-<font color=C0C0C0>s-s-s</font>-M-M-M-M<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</td></font>
+</tr>
+</table>
+<span class="gelb">a =</span> Abstellkammer<br>
+<span class="gelb">B =</span> Landeplatz für den Ballon nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]]<br>
+<span class="gelb">b =</span> Büro mit einem verzweifelten Student<br>
+<span class="orange">E =</span> Ede-Ka's Laden<br>
+<span class="gelb">F =</span> Fischerhütte<br>
+<span class="hellblau">H =</span> Hafen (im blauen Feld steht die Kurstafel)<br>
+<span class="gelb">h =</span> Haus eines alten Mannes<br>
+<span class="rot">K =</span> Vulkankrater (im Südlichen verbirgt sich hinter der Spalte ein Flammentor in die [[<span class="hellblau">Beschwörergilde</span>|OdF]], im Nördlichen ist der Eingang zu einem [[<span class="hellblau">Höhlensystem</span>|Vulkanien/Hoehle]])<br>
+<font color=808080>k =</font> Kraterrand<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="rot">L =</span> Lava<br>
+<font color=blue>M =</font> Meer<br>
+<font color=C0C0C0>O =</font> Auf der Insel Vulkania<br>
+<span class="orange">P =</span> Pinatubo (Kneipe)<br>
+<font color=00CC99>q =</font> Heisse Quellen und Geysire<br>
+<span class="gelb">S =</span> Seismologisches Institut<br>
+<span class="gelb">s =</span> Hinterhof des Institutes<br>
+<font color=C0C0C0>s =</font> Strand / Küste<br>
+</span>
