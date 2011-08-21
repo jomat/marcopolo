@@ -1,4 +1,36 @@
 <span class="map">
+<font color=C0C0C0>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau"> \|/</span><br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Maerchenland]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=00CC00>O</font>|Maerchenland]]<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font><br>
+	&nbsp; &nbsp; &nbsp;<span class="orange">k</span> &nbsp; <span class="gelb">b</span><font color=00CC00>-w-</font>s-<span class="orange">K&nbsp;&nbsp; </span>w-<span class="orange">W</span>-s<font color=00CC00>-</font>[[<font color=00CC00>O</font>|Maerchenland]]<br>
+	&nbsp; &nbsp; &nbsp;| &nbsp; <font color=00CC00>|</font> &nbsp; | &nbsp; &nbsp; | &nbsp; |<font color=00CC00>X</font><br>
+	&nbsp; &nbsp; &nbsp;s-[[<span class="gelb">L</span>|Doerrland/Sarasande]]&nbsp;<font color=00CC00>w</font>&nbsp;<span class="hellblau">P</span>-s&nbsp;<span class="orange">Z D</span> w-w s<font color=00CC00>-</font>[[<font color=00CC00>O</font>|Maerchenland]]<br>
+	&nbsp; &nbsp; &nbsp;| &nbsp; <font color=00CC00>|</font> &nbsp; | | | &nbsp; &nbsp; |<font color=00CC00>X</font><br>
+	&nbsp; &nbsp; &nbsp;s<font color=00CC00>-p-w </font> [[<span class="gelb">R</span>|Rathaus]]-M-M-s-s-s-s<font color=00CC00>-</font>[[<font color=00CC00>O</font>|Maerchenland]]<br>
+	&nbsp;<span class="hellblau"> \ </span>&nbsp;| <font color=00CC00>| |</font> &nbsp; |<font color=blue>o</font>| &nbsp; | | |<br>
+	&nbsp;<span class="hellblau"> -[[<font color=00CCFF>T</span>|Maerchenland]]</font>-s-s-s-s-M-M-<span class="hellblau">L</span> <span class="gelb">O</span> <span class="orange">T</span> s-<span class="orange">G</span><br>
+	&nbsp;<span class="hellblau"> /</span> &nbsp;| | | &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+	&nbsp; &nbsp; &nbsp;s <span class="orange">H S F</span>-h-<span class="hellblau">$</span><font color=008000> l-g-g</font>&nbsp;s-<span class="orange">N</span><br>
+	&nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp | &nbsp; &nbsp; &nbsp; <font color=008000>|</font> |<br>
+	&nbsp; &nbsp; &nbsp;[[<span class="gelb">Z</span>|Zoo]] &nbsp;<span class="hellblau">-</span><font color=00CC00>[[<font color=00CC00>s</font>|Zoo]]-s</font>-s <span class="gelb">k</span>-<span class="gelb">k</span><font color=008000> g-g</font> s<BR>
+	&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> &nbsp;| |</font> | | |<font color=008000>\|</font> <font color=008000>|</font> |<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00> &nbsp;G-s</font> s <span class="gelb">k</span>-<span class="gelb">k</span> <font color=008000>g g</font> s-[[<span class="gelb">H</span>|Koboldhaus]]<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | | &nbsp; &nbsp; |<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">J</span>-s-s-<span class="gelb">K</span>-s-s-s<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">p</span>-s-<span class="orange">s&nbsp; &nbsp; &nbsp; &nbsp;I</span><br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">B</span>-s <span class="gelb">h</span><br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">b</span>-s-<span class="orange">P</span><br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Maerchenland]]<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau"> /|\</span>
+</font></TD>
+</span>
+
+<span class="legend">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">B =</span> Blumenladen<br>
 <span class="orange">b =</span> Pralinerie &quot;Blümchen&quot;<br>
