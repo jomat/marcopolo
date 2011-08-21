@@ -1,4 +1,6 @@
 #!/bin/sh
+# um alle Dateien zu konvertieren:
+#ls *.html|while read i;do i=`echo $i|cut -d. -f1`;mv $i.html $i.mdwn;../../script.sh $i.mdwn;done
 sed -i 's|^ *||g' $1
 cat $1|awk '{if ($0=="</body>") ready=0; if (ready==1)print $0;if ($0=="<font color=FFFFFF FACE=\"Courier New\" STYLE=\"font-size: 8pt\">"||$0=="<font color=C0C0C0 face=\"Courier New\" style=\"font-size: 8pt\">"||"<TD WIDTH=\"100%\"><font color=FFFFFF FACE=\"Courier New\" STYLE=\"font-size: 8pt\">"==$0||"<font color=FFFFFF face=\"Courier New\" style=\"font-size: 8pt\">"==$0||$0=="<font color=003366 FACE=\"Courier New\" STYLE=\"font-size: 8pt\">") ready=1;}' >$1.tmp
 mv $1.tmp $1
