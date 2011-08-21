@@ -13,20 +13,20 @@ h-h h-h-h-h<br>
 &nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp; | |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;|&nbsp;|<br>
 &nbsp;&nbsp; h-h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h-h-h h-h-<span class="gelb">I</span>&nbsp;&nbsp; 
-&nbsp;<span class="gelb">ö</span>&nbsp;|<br>
+&nbsp;<span class="gelb">Ã¶</span>&nbsp;|<br>
 &nbsp;&nbsp; |X|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 &nbsp;&nbsp; h-h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; h-h-h-h-h&nbsp;&nbsp;&nbsp; 
 [[<span class="hellblau">b</span>|Vulkanien]]-g
 </span>
 
 <span class="legend">
-<span class="hellblau">b =</span> kleine Bucht und Ruderboot mit dem man zurück nach [[<span class="hellblau">Vulkanien</span>|Vulkanien]] rudern kann<br>
-<font color=808080>g =</font> Gang voller giftiger Dämpfe<br>
-<font color=808080>h =</font> Höhle<br>
+<span class="hellblau">b =</span> kleine Bucht und Ruderboot mit dem man zurÃ¼ck nach [[<span class="hellblau">Vulkanien</span>|Vulkanien]] rudern kann<br>
+<font color=808080>g =</font> Gang voller giftiger DÃ¤mpfe<br>
+<font color=808080>h =</font> HÃ¶hle<br>
 <font color=808080>i =</font> auf einer Insel<br>
-<span class="rot">K =</span> Nördlicher Vulkankraterauf auf [[<span class="hellblau">Vulkanien</span>|Vulkanien]]<br>
+<span class="rot">K =</span> NÃ¶rdlicher Vulkankraterauf auf [[<span class="hellblau">Vulkanien</span>|Vulkanien]]<br>
 <span class="gelb">I =</span> Nach oben kommt man zu einer kleinen Insel<br>
-<span class="gelb">ö =</span> Öffnung ins Höhlensystem<br>
+<span class="gelb">Ã¶ =</span> Ã–ffnung ins HÃ¶hlensystem<br>
 <span class="gelb">S =</span> Spalt [runter- bzw. hochklettern]<br>
-<span class="hellblau">U =</span> Professor Ungrün<br>
+<span class="hellblau">U =</span> Professor UngrÃ¼n<br>
 </span>

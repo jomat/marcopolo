@@ -1,0 +1,38 @@
+<span class="map">
+&nbsp;&nbsp; &nbsp; &nbsp;U&nbsp; &nbsp; &nbsp;<span class="hellblau">l</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;|<br>
+&nbsp;&nbsp; &nbsp; &nbsp;<span class="hellblau">B&nbsp;<font color=CC6600>s</span>&nbsp;E</font>&nbsp;g-g-<font color=C0C0C0>w</font><br>
+&nbsp;<font color=blue>\|</font>&nbsp; &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;<font color=C0C0C0>|</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+&nbsp;<font color=blue>-</font>[[<span class="hellblau">H</span>|Isla_Nublar]]<font color=C0C0C0>-H-p</font>&nbsp;g&nbsp;g&nbsp;g&nbsp;T <span class="hellblau">L</span>&nbsp;<font color=808080>s&nbsp;&nbsp;&nbsp;V</font><br>
+&nbsp;<font color=blue>/|</font>&nbsp; &nbsp;<font color=C0C0C0>|</font>&nbsp;|&nbsp;|&nbsp;|&nbsp; &nbsp;<font color=C0C0C0>|</font>&nbsp;<font color=808080>|&nbsp; &nbsp;|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp;<font color=C0C0C0>t&nbsp;t-w-b&nbsp; &nbsp;w-</font><font color=808080>Z-v-<span class="hellblau">K</span></font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>W-E</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|</font><br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>E</font><br>
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>|</font><br>
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>E</font>
+</span>
+
+<span class="legend">
+<span class="hellblau">B =</span> Über diesen Baum kann man über den Zaun klettern<br>
+<font color=C0C0C0>b =</font> An einem Bergrutsch<br>
+<span class="hellblau">E =</span> Hier auf nem Baum sind die Enkel von Hammond<br>
+<font color=808080>E =</font> Hochenergie-Halle (Stromversorgung für die Zäune)<br>
+<font color=00CC00>g =</font> Dinosauriergehege<br>
+<span class="hellblau">H =</span> Hafen (der Hafen ist die einzige Stelle wo man die [[<span class="hellblau">Isla Nublar</span>|Isla_Nublar]] betreten und wieder verlassen kann)<br>
+<span class="hellblau">K =</span> Kontrollraum (hier steht Molcolm, der Chaosforscher)<br>
+<span class="hellblau">L =</span> Liebestoller Triceratops<br>
+<font color=00CC00>l =</font> Lichtung (hier findet man Ellie Sattler)<br>
+<font color=C0C0C0>p =</font> Pfad<br>
+<font color=808080>s =</font> Steven, der Koch<br>
+<font color=CC6600>s =</font> Grosser Haufen Scheisse <br>
+<font color=00CC00>T =</font> Gehege des T-Rex<br>
+<font color=C0C0C0>t =</font> An einem (unpassierbaren) Tor<br>
+<font color=808080>V =</font> Versorgungstunnels (Labyrinth)<br>
+<font color=808080>v =</font> Vorraum zum Kontrollraum<br>
+<font color=808080>W =</font> Wachraum<br>
+<font color=C0C0C0>w =</font> Weg<br>
+<font color=808080>Z =</font> Besucherzentrum<br>
+<font color=red>In dem Gebiet hinter dem Zaun sind Raptoren, Diphlosauren und ein T-Rex unterwegs - also Vorsicht !<br> 
+</span>
