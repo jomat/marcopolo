@@ -3,7 +3,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp;[[<span class="hellblau">K</span>|Kanalisation_Knossos]]&#8592;L&#8594;<span class="orange">a</span>&#8592;L&#8594;<span class="gelb">r</span> L&#8594;L&#8594;<span class="rot">P</span>&#9559;<br>
 &nbsp;&#8595; &#8593; &#8595; &#8593; &#8593; &#8593; &#8593;&nbsp; &#9553;<br>
-&nbsp;L&#8594;L&#8594;L&#8592;L&#8592;L&#8592;L&#8592;L&#8592;[[<span class="hellblau">A</span>||Knossos]]&#9553;<br>
+&nbsp;L&#8594;L&#8594;L&#8592;L&#8592;L&#8592;L&#8592;L&#8592;[[<span class="hellblau">A</span>|Knossos]]&#9553;<br>
 &nbsp;&#8593; &#8593; &#8595; &#8593; &#8593; &#8595; <span class="orange">E</span> <span class="orange">H</span>&#9553;<br>
 &nbsp;<span class="orange">d</span>&#8592;L&#8594;[[<span class="hellblau">E</span>|Orkwald]]&#8594;L&#8594;L&#8592;<span class="orange">e</span>&#8592;L&#8592;L&#9553;<br>
 &nbsp;&#8595; &#8593; &#9474; &#8593; &#8593; &#8593; &#8593; &#8593;&#9553;<br>
@@ -20,14 +20,14 @@
 </span>
 
 <span class="legend">
-<span class="hellblau">A =</span> Ausgang des Labyrinthes (man kommt in Sokrates Küche in [[<span class="hellblau">Knossos</span>|Knossos]] raus)<br>
-<span class="orange">a,b,c,d,e,f,g,h =</span> Schlüssel A-H (aus Feld c führt ein Tunnel nach unten weiter in das Feld das o,o liegt)<br>
-<span class="orange">A,B,C,D,E,F,G,H =</span> Tür A-H<br>
-<span class="hellblau">E =</span> Eingang des Labyrinthes (hoch gehts in Mirakolos Höhle im [[<span class="hellblau">Orkwald</span>|Orkwald]]) <br>
+<span class="hellblau">A =</span> Ausgang des Labyrinthes (man kommt in Sokrates KÃ¼che in [[<span class="hellblau">Knossos</span>|Knossos]] raus)<br>
+<span class="orange">a,b,c,d,e,f,g,h =</span> SchlÃ¼ssel A-H (aus Feld c fÃ¼hrt ein Tunnel nach unten weiter in das Feld das o,o liegt)<br>
+<span class="orange">A,B,C,D,E,F,G,H =</span> TÃ¼r A-H<br>
+<span class="hellblau">E =</span> Eingang des Labyrinthes (hoch gehts in Mirakolos HÃ¶hle im [[<span class="hellblau">Orkwald</span>|Orkwald]]) <br>
 <span class="hellblau">K =</span> Hier kann man durch einen Riss in der Wand in die [[<span class="hellblau">Kanalisation</span>|Kanalisation_Knossos]] von Knossos klettern<br>
-<span class="gelb">N =</span> Versteckte Nische (man muss die Wand im Süden eintreten um reinzukommen)<br>
-<span class="rot">P =</span> Polykrates, der Zyklopenkönig (die Doppelline [&#9559;] deutet den Tunnel nach oben an der einen ins Feld am Ende der Linie bringt)<br>
-<span class="gelb">r =</span> Hier kommt man nur nach unten weiter - der Tunnel führt in das Feld das von hier aus w,w,w,s liegt<br>
-<span class="rot">Z =</span> Zyklopenhöhle (runter)<br>
-Was hier nicht eingezeichnet ist an Monstern (deren Stärke von friedlich bis sehr stark variiert) und Fallgruben ändert seine Position ab und zu.<br>
+<span class="gelb">N =</span> Versteckte Nische (man muss die Wand im SÃ¼den eintreten um reinzukommen)<br>
+<span class="rot">P =</span> Polykrates, der ZyklopenkÃ¶nig (die Doppelline [&#9559;] deutet den Tunnel nach oben an der einen ins Feld am Ende der Linie bringt)<br>
+<span class="gelb">r =</span> Hier kommt man nur nach unten weiter - der Tunnel fÃ¼hrt in das Feld das von hier aus w,w,w,s liegt<br>
+<span class="rot">Z =</span> ZyklopenhÃ¶hle (runter)<br>
+Was hier nicht eingezeichnet ist an Monstern (deren StÃ¤rke von friedlich bis sehr stark variiert) und Fallgruben Ã¤ndert seine Position ab und zu.<br>
 </span>
