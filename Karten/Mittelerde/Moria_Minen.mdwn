@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#808080">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Obere Ebene &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Untere Ebene<br> <br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; g-g-g &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>s</font> &nbsp; g<br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
@@ -17,25 +18,26 @@
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; &nbsp; g<br>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-g </TD>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-g
+</font>
 </span>
 
 <span class="legend">
-<font color=C0C0C0>a =</font> Abgrund (man kann drübersrpingen in das Zweite a-feld)<br>
-<font color=C0C0C0>b =</font> Brücke<br>
+<font color=C0C0C0>a =</font> Abgrund (man kann drÃ¼bersrpingen in das Zweite a-feld)<br>
+<font color=C0C0C0>b =</font> BrÃ¼cke<br>
 <span class="gelb">b =</span> Brunnen-Kammer (hier kommt man wieder hoch wenn man in Grotte g gelandet war)<br>
-<span class="gelb">f =</span> Fledermaus-Höhle<br>
-<span class="gelb">G =</span> Grabkammer des Zwergenkönigs<br>
-<span class="gelb">g =</span> kleine Grotte (durch den Weg im Südwesten kann man die Höhle nur betreten [reinfallen]- raus gehts nach Osten durch ne Spalte, dann nach Osten und hoch durch den Brunnenschacht)<br>
+<span class="gelb">f =</span> Fledermaus-HÃ¶hle<br>
+<span class="gelb">G =</span> Grabkammer des ZwergenkÃ¶nigs<br>
+<span class="gelb">g =</span> kleine Grotte (durch den Weg im SÃ¼dwesten kann man die HÃ¶hle nur betreten [reinfallen]- raus gehts nach Osten durch ne Spalte, dann nach Osten und hoch durch den Brunnenschacht)<br>
 <font color=808080>g =</font> Gang / Grotte<br>
-<font color=808080>h =</font> Halle / Höhle<br>
+<font color=808080>h =</font> Halle / HÃ¶hle<br>
 <font color=808080>k =</font> Kammer<br>
 <span class="hellblau">M =</span> [[<span class="hellblau">Moria</span>|Moria_Stadt]]<br>
-&nbsp; &nbsp; Untere Ebene: Von Westen muss man ne Wendeltreppe hoch, von Süden ist der Gang passend nach oben gelaufen dass man einfach reingehen kann<br>
+&nbsp; &nbsp; Untere Ebene: Von Westen muss man ne Wendeltreppe hoch, von SÃ¼den ist der Gang passend nach oben gelaufen dass man einfach reingehen kann<br>
 &nbsp; &nbsp; Obere Ebene: Man kann einfach nach so rein<br>
 <span class="gelb">M =</span> Bewachter (und geschlossener) Mineneingang<br>
 <font color=C0C0C0>n =</font> Schuh-Dankmal in einer Nische<br>
-<font color=C0C0C0>s =</font> Sackgasse (nach Norden traut man sich nicht zu gehen und die Tür nach Osten ist nur für Zwerge und absolut einbruchsicher - wobei fraglich ist ob es denn irgendwo nen Schlüssel gibt)<br>
+<font color=C0C0C0>s =</font> Sackgasse (nach Norden traut man sich nicht zu gehen und die TÃ¼r nach Osten ist nur fÃ¼r Zwerge und absolut einbruchsicher - wobei fraglich ist ob es denn irgendwo nen SchlÃ¼ssel gibt)<br>
 <span class="hellblau">T =</span> Tor der Minen von Moria <BR>
 &nbsp; &nbsp; Osttor zum [[<span class="hellblau">Schattenbachtal</span>|Schattenbachtal]]<br>
 &nbsp; &nbsp; Westtor (ein paar Stufen runter) zum [[<span class="hellblau">unheimlichen See</span>|See]] im Tal des Sirannon<br>
