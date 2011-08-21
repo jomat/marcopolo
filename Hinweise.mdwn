@@ -13,6 +13,9 @@ Ein anderer von mir häufig beobachteter Fehler sind kaputte Links, obwohl die Z
 
 Häufig ist das Meer weiss statt blau, das ist per Hand einfach behoben, einfach auf einer funktionierenden Seite spicken ;-)
 
+# TODOs
+Neben den oben genannten Farbissues und so weiter gibt's hier noch die Links ins Leere: [[brokenlinks]]
+
 # Wiki testen
 Um Formatierungen etc. zu testen gibt es die [[Sandbox]].
 
