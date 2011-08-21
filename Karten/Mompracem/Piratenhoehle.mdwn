@@ -1,0 +1,18 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">K</span>-g-[[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>e</font>|Mompracem]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp;  &nbsp; &nbsp;<span class="gelb">P</span><br>
+&nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp;g-g<br>
+&nbsp; &nbsp;|<br>
+&nbsp;[[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>e</font>|Mompracem]]-g
+</span>
+
+<span class="legend">
+<span class="gelb">e =</span> Eingang (druch je eine Falltür im sw und no gehts zurück nach [[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>Mompracem</font>|Mompracem]])<br>
+<font color=808080>g =</font> Gang<br>
+<span class="gelb">K =</span> Kalli, der Seemann<br>
+<span class="gelb">P =</span> Halle de Piratentreffs
+</font>
+</span>

@@ -1,0 +1,28 @@
+<span class="map">
+<font color="#FF6000">&nbsp;Unterdeck &nbsp;Schiffsdeck<br>
+<br>
+&nbsp; &nbsp; &nbsp; <font color=FFCC00>L</font><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>b</font><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; /|\<br>
+&nbsp; &nbsp; <font color=FFCC00>k</font>-g-<font color=FFCC00>m</font> &nbsp; &nbsp; &nbsp;s-s-<A TITLE="Mompracem" HREF="../Mompracem.html"><font color=00CCFF>S</font></A><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; \|/<br>
+&nbsp; &nbsp; <font color=FFCC00>M</font>-n-<font color=FFCC00>Z</font> &nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>h</font><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; <font color=FFCC00>K</font>
+</FONT>
+</font>
+</span>
+
+<span class="legend">
+<font color=FFCC00>b =</font> Bug mit Niedergang unter Deck<br>
+<font color=FF6600>g =</font> Gang unter Deck<br>
+<font color=FFCC00>h =</font> Heck mit Niedergang unter Deck<br>
+<font color=FFCC00>k =</font> Kombüse<br>
+<font color=FFCC00>M =</font> Messe<br>
+<font color=FFCC00>m =</font> Mannschaftsraum<br>
+<font color=FF6600>n =</font> Niedergang<br>
+<font color=00CCFF>S =</font> Diese Seite des Schiffes liegt am Steg in der Bucht von <A TITLE="Mompracem" HREF="../Mompracem.html"><font color=00CCFF>Mompracem</font></A> d.h. man kann hier vom Schiff runter<br>
+<font color=FF6600>s =</font> Schiffsdeck<br>
+<font color=FFCC00>Z =</font> Zelle<br>
+</span>
