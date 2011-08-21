@@ -1,0 +1,23 @@
+<span class="map">
+<font color=00CC00>&nbsp;\<br>
+&nbsp; [[<font color=00CC00>O</font>|../Drachenland]]<br>
+&nbsp; |</font><br>
+&nbsp; g<br>
+&nbsp; |<br>
+&nbsp; g<br>
+&nbsp; |<br>
+&nbsp; <span class="hellblau">L</span><br>
+&nbsp; |<br>
+&nbsp; [[<span class="violett">D</span>|../Kreta/Ephesos]]<br>
+<font color=00CC00>&nbsp; |<br>
+&nbsp;&nbsp;[[<font color=00CC00>O</font>|../Drachenland]]<br>
+&nbsp;&nbsp;|</font>
+
+</span>
+
+<span class="legend">
+<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Ephesos</span>|../Kreta/Ephesos]] (auf Phygria)<br>
+<span class="hellblau">L =</span> Gemischtwarenladen<br>
+<font color=C0C0C0>g =</font> In Gnazelschist<br>
+<font color=00CC00>O =</font> Hügelige Ebene von [[<span class="hellblau">Drachenland</span>|../Drachenland]]
+</span>

@@ -1,0 +1,26 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;<span class="gelb">W</span><br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="rot">F</span>-g-g-g<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; <span class="gelb">o</span><br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;g &nbsp; &nbsp; g<br>
+&nbsp; &nbsp;| &nbsp;&nbsp; /<br>
+&nbsp; &nbsp;g &nbsp; /<br>
+&nbsp; &nbsp;|&nbsp; /<br>
+&nbsp;[[<span class="hellblau">S</span>|U1]] g 
+/<br>
+&nbsp; \|/<br>
+&nbsp; &nbsp;[[<span class="hellblau">E</span>|../Drachenland]]
+
+</span>
+
+<span class="legend">
+<span class="hellblau">E =</span> Eingang der Wyvernhöhle (vom [[<span class="hellblau">Drachenland</span>|../Drachenland]] aus)<br>
+<font color=FF0000>F =</font> Feuerfalle<br>
+<font color=808080>g =</font> Gang (die Gänge nördlich vom Oger bzw. östlich der Feuerfalle sind mit Illusionen getarnt - einfach die Wand befühlen und durchgehen...)<br>
+<span class="gelb">o =</span> Wachoger<br>
+<span class="hellblau">S =</span> Spalte, durch die man in die [[<span class="hellblau">Unterwelt</span>|U1]] gelangt<br>
+<span class="gelb">W =</span> Wyverndrache<br>
+</span>

@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;[[<span class="hellblau">5</span>|U5]]<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;u<br>
+&nbsp; &nbsp; /<br>
+&nbsp; &nbsp;u u &nbsp; u<br>
+&nbsp; / /| &nbsp;/<br>
+&nbsp;u u u u-u<br>
+&nbsp;| | &nbsp;\ /<br>
+&nbsp;u u u u<br>
+&nbsp; \|/ \|<br>
+&nbsp; &nbsp;u &nbsp; u</TR>
+<span class="hellblau">5 =</span> Riss in der Decke (oben ist [[<span class="hellblau">Ebene 5</span>|U5]] - man braucht ein Seil zum hochklettern)<br>
+<font color=808080>u =</font> Höhle in der Unterwelt<br>
+<font color=red>Vorsicht - diese Höhlen wimmeln nur so vor Monstern! Bei jedem Schritt wird zufällig bestimmt ob Monster auf einen lauern - d.h. auch wenn man durch einen durchquerten 'sicheren' Tunnel zurückgeht kann man dort auf Gegner treffen...<br>
+Folgende Typen habe ich schon beobachtet (man kann sich die Viecher übrigens im Monster Manual des Rollenspiels D&D anschauen...):<br>
+Baby-Ankhegs, Berbalang, Bullywugs, Chimären, Cloaker, Doppelgänger, Drow, 
+Drider, faulende Hände, Ghoule, Gnolle, Goblins, Käferbären, Kobolde, 
+Echesenmenschen, Krieger, Krieger-Dämonen, Schatten, Tausendfüssler <br></font>
+<font color=00CCFF> Aber es gibt auch (einige wenige) friedliche Wesen... das sind die Snirvneblin (Gnome) und die Mykoniden (Pilzmenschen)<br>
+</span>

@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;u &nbsp; u<br>
+&nbsp; &nbsp; &nbsp;| &nbsp;/ \<br>
+&nbsp; &nbsp; &nbsp;u-u u u &nbsp; [[<span class="hellblau">6</span>|U6]]<br>
+&nbsp; &nbsp; / &nbsp; \|\ \ /<br>
+<FONT COLOR="#00CCFF">&nbsp;</FONT>[[<span class="hellblau">4</span>|U4]]-u &nbsp; &nbsp; u u-u<br>
+&nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;u-u-u u<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;u
+</span>
+
+<span class="legend">
+<span class="hellblau">4 =</span> Riss in der Decke (oben ist [[<span class="hellblau">Ebene 4</span>|U4]] - man braucht ein Seil zum hochklettern)<br>
+<span class="hellblau">6 =</span> Riss im Boden (unten ist [[<span class="hellblau">Ebene 6</span>|U6]] - ein Seil dabeihaben lohnt sich ...sonst muss man runterrutschen und schürft sich dabei ziemlich die Haut auf)<br>
+<font color=808080>u =</font> Höhle in der Unterwelt<br>
+<font color=red>Vorsicht - diese Höhlen wimmeln nur so vor Monstern! Bei jedem Schritt wird zufällig bestimmt ob Monster auf einen lauern - d.h. auch wenn man durch einen durchquerten 'sicheren' Tunnel zurückgeht kann man dort auf Gegner treffen...<br>
+Folgende Typen habe ich schon beobachtet (man kann sich die Viecher übrigens im Monster Manual des Rollenspiels D&D anschauen...):<br>
+Baby-Ankhegs, Berbalang, Bullywugs, Chimären, Cloaker, Doppelgänger, Drow, 
+Drider, faulende Hände, Ghoule, Gnolle, Goblins, Käferbären, Kobolde, 
+Echesenmenschen, Krieger, Krieger-Dämonen, Schatten, Tausendfüssler <br></font>
+<font color=00CCFF> Aber es gibt auch (einige wenige) friedliche Wesen... das sind die Snirvneblin (Gnome) und die Mykoniden (Pilzmenschen)<br>
+</span>

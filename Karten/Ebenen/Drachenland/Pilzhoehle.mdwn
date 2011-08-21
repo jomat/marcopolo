@@ -1,0 +1,21 @@
+<span class="map">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">H =</span> heiliger Stein der Mykoniden<br>
+<span class="gelb">K =</span> Das Haus des Königs<br>
+<span class="gelb">k =</span> Kindergarten<br>
+<span class="orange">k =</span> Pilzkoch<br>
+<span class="hellblau">L =</span> Gemischtwarenladen<br>
+<font color=339966>p =</font> In der Pilzhöhle<br>
+<span class="gelb">T =</span> Thronsaal des Mykonidenkönigs<br>
+<font color=808080>u =</font> Höhle in der [[<span class="hellblau">Unterwelt</span>|U4]]<br>
+<span class="gelb">W =</span> Wachstube<br>
+<span class="gelb">w =</span> Wächter vor den Toren Mykonias (schläfern einen ein und Stecken einen in die Zelle wenn man zweimal probiert an ihnen vorbeizukommen)<br>
+<span class="gelb">Z =</span> Zelle (man kann mit 'zwänge durch loch' in die Stadt entkommen)<br>
+<font color=red>Vorsicht - diese Höhlen wimmeln nur so vor Monstern! Bei jedem Schritt wird zufällig bestimmt ob Monster auf einen lauern - d.h. auch wenn man durch einen durchquerten 'sicheren' Tunnel zurückgeht kann man dort auf Gegner treffen...<br>
+Folgende Typen habe ich schon beobachtet (man kann sich die Viecher übrigens im Monster Manual des Rollenspiels D&D anschauen...):<br>
+Baby-Ankhegs, Berbalang, Bullywugs, Chimären, Cloaker, Doppelgänger, Drow, 
+Drider, faulende Hände, Ghoule, Gnolle, Goblins, Käferbären, Kobolde, 
+Echesenmenschen, Krieger, Krieger-Dämonen, Schatten, Tausendfüssler <br></font>
+<font color=00CCFF> Aber es gibt auch (einige wenige) friedliche Wesen... das sind die Snirvneblin (Gnome) und die Mykoniden (Pilzmenschen)<br>
+<center><font color=339966 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=339966>zurück ins Drachenland</font>|../Drachenland]])</font></center>
+</span>

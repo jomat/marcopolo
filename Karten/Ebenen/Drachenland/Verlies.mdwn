@@ -1,0 +1,20 @@
+<span class="map">
+&nbsp;&nbsp;&nbsp;V <span class="gelb">S</span> V&nbsp;&nbsp; F-F<br>
+&nbsp;&nbsp;&nbsp;| | |&nbsp;&nbsp; | |<br>
+&nbsp;&nbsp;&nbsp;g-g-g-<span class="gelb">W</span>-<span class="gelb">T</span>-F<br>
+&nbsp;| | | |<br>
+&nbsp;[[<font color=00CC00>b</font>|Ordensburg]]-<span class="gelb">G</span> 
+V V<br>
+&nbsp;|
+</span>
+
+<span class="legend">
+<font color=00CC00>b =</font> In diesem Feld des Burggrabens der [[<span class="hellblau">Ordensburg</span>|Ordensburg]] wächst ein kleiner Busch vor einer Geheimtür ins Verlies<br>
+<font color=C0C0C0>F =</font> Folterkammer<br>
+<span class="gelb">G =</span> Verlieszelle mit Geheimtür nach Westen<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="gelb">S =</span> In dieser Zelle liegt noch ein Skelett mit einem Dolch<br>
+<span class="gelb">T =</span> Hier in der Folterkammer sitzt die gruselige Riesenspinne Tekla<br>
+<font color=C0C0C0>V =</font> Verlieszelle<br>
+<span class="gelb">W =</span> Wachraum<br>
+</span>

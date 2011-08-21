@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp; &nbsp;s-s-s-s<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;s <span class="hellblau">$ L</span> s<br>
+&nbsp; &nbsp; \| | |&nbsp; <font color=808080>/</font><br>
+&nbsp; &nbsp;s-s-s-s<font color=808080>-[[<font color=808080>u</font>|U4]]</font><br>
+&nbsp; &nbsp; /| | |&nbsp; <font color=808080>\</font><br>
+&nbsp; &nbsp;s <span class="orange">K H</span> s<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;s-s-s-s 
+
+</span>
+
+<span class="legend">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="orange">H =</span> Handwerksladen<br>
+<span class="orange">K =</span> Kneipe Schürfersruh<br>
+<span class="hellblau">L =</span> Gemischtwarenladen<br>
+<font color=C0C0C0>s =</font> In der (zerstörten) Snirvneblin-Stadt<br>
+<font color=808080>u =</font> Höhle in der [[<span class="hellblau">Unterwelt</span>|U4]]<br>
+</span>

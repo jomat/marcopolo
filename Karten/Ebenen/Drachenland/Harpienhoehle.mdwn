@@ -1,0 +1,42 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">s</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">V</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">v</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;g-k<br>
+&nbsp; &nbsp; &nbsp;|<span class="gelb">S</span> \<br>
+&nbsp;<span class="gelb">G</span> &nbsp; k &nbsp; g<br>
+&nbsp; \ / &nbsp; /<br>
+&nbsp; &nbsp;k &nbsp; v<br>
+&nbsp; / \ &nbsp;|<br>
+&nbsp;<font color=C0C0C0>e</font> &nbsp; <font color=blue>S</font> E<br>
+&nbsp;<font color=C0C0C0>|</font> &nbsp; &nbsp; |<br>
+&nbsp;[[<span class="hellblau">p</span>|../Okeanos]]<font color=C0C0C0>&lt;&lt;&lt;b</font>-<span class="gelb">P z</span><br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>|</font> | |<br>
+&nbsp; &nbsp; &nbsp;<font color=C0C0C0>b</font>-T-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;n
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>b =</font> Balkon / Startrampe (beim runterklettern rutscht man bis zu der Platform)<br>
+<font color=808080>E =</font> Eingang zu Podarges Höhle (nach Norden ist ein verriegeltes Eisentor im Weg)<br>
+<font color=C0C0C0>e =</font> Höhleneingang<br>
+<span class="gelb">G =</span> Höhle mit großem Haufen Gerümpel<br>
+<font color=808080>g =</font> Gang<br>
+<font color=808080>k =</font> Gangkreuzung<br>
+<font color=808080>n =</font> Nische<br>
+<span class="gelb">P =</span> Die wahnsinnige Podarge (Harpie) [man landet durch das drehbare Dimensionstor aus dem [[<span class="hellblau">Drachenland</span>|../Drachenland]] in ihrem Käfig, aber der Schlüssel ist nicht schwierig zu finden...]<br>
+<font color=C0C0C0>p =</font> Steinerne Platform (von hier kann man runter [und auch wieder hoch] nach [[<span class="hellblau">Okeanos</span>|../Okeanos]] klettern)<br>
+<span class="gelb">S =</span> Schacht nach unten (erreichbar von sw) [wenn man runterklettert und dann springt landet man auf nem Felsen in nem unterirdischen Fluss - von da aus ins Wasser wird man dann in Okeanos den Wasserfall runtergespült - ob nun tot oder lebendig ist ne Frage der AP]<br>
+<span class="gelb">s =</span> Skelett & Inschrift an der Wand<br>
+<font color=blue>S =</font> unterirdischer See (man kann sogar drin tauchen)<br>
+<font color=808080>T =</font> Speisetafel<br>
+<span class="gelb">V =</span> verwinkelte Höhle (Vorsicht - hier ist ein großer Schwarm Killermäuse)<br>
+<span class="gelb">v =</span> Vorhöhle mit Kadavern und Loch im Boden (wenn man reinspringt landet man in Feld S - bei dem Schacht nach unten)<br>
+<font color=808080>v =</font> Vor einem Eisentor<br>
+<span class="gelb">z =</span> Eingestürzter Teil der Höhle & Nest eines aggresiven Adlers<br>
+</span>

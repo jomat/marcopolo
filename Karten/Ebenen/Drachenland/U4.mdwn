@@ -1,0 +1,53 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp;[[<span class="hellblau">P</span>|Pilzhoehle]]<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;u u<br>
+&nbsp; &nbsp; /|/ \<br>
+&nbsp; &nbsp;u u &nbsp; u-u-u &nbsp; &nbsp; u &nbsp; &nbsp; &nbsp; &nbsp;<FONT COLOR="#00CCFF">
+</FONT>[[<span class="hellblau">2</span>|U2]]<br>
+&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp; &nbsp;/&nbsp; &nbsp;\&nbsp; &nbsp;/ \&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
+&nbsp;u u u&nbsp;&nbsp; u&nbsp; &nbsp;&nbsp; u-u&nbsp; &nbsp;u u&nbsp; &nbsp;&nbsp; u-<span class="gelb">G</span><br>
+&nbsp;| | |\ &nbsp;| &nbsp; &nbsp; | &nbsp; &nbsp; | |\ &nbsp; /<br>
+&nbsp;u u u u-u-u &nbsp; u &nbsp; &nbsp; u-u u u-u-u<br>
+&nbsp; \ \| | &nbsp; &nbsp;\ / &nbsp; &nbsp; / &nbsp; / &nbsp;| |&nbsp; \<br>
+&nbsp;u-u u u &nbsp; &nbsp; u &nbsp; u-u &nbsp; u [[<span class="hellblau">P</span>|Pilzhoehle]]-u u &nbsp; u<br>
+&nbsp;| &nbsp; &nbsp;/ &nbsp; &nbsp; / \ / &nbsp;| &nbsp; | &nbsp; |\ \ &nbsp; \<br>
+&nbsp;u &nbsp; u &nbsp; &nbsp; u &nbsp; u &nbsp; u &nbsp; u &nbsp; u u u &nbsp; u<br>
+&nbsp;| &nbsp;/ &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;/ \ &nbsp;| &nbsp; &nbsp;\|/ \ /<br> 
+&nbsp;u u &nbsp; &nbsp; &nbsp; u u &nbsp; u &nbsp; u-u &nbsp; u-u &nbsp; u<br>
+&nbsp;| &nbsp;\ &nbsp; &nbsp; / \| &nbsp;/ &nbsp; &nbsp; &nbsp; \ &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp;u &nbsp; u-u-u &nbsp; u-u &nbsp; &nbsp; &nbsp; &nbsp; u-u &nbsp; &nbsp; [[<span class="hellblau">5</span>|U5]]<br>
+&nbsp; \ / \ &nbsp; \ / &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp;u &nbsp; u &nbsp; u &nbsp; u-u &nbsp; &nbsp; &nbsp; u<br>
+&nbsp; &nbsp;| &nbsp;/ \ / \ / &nbsp; \ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;u u &nbsp; u &nbsp; u &nbsp; &nbsp; u-u &nbsp; u-u<br>
+&nbsp; &nbsp;| &nbsp;\ /| &nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp; \ / &nbsp; \<br>
+&nbsp; &nbsp;u &nbsp; u u u &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; u &nbsp; &nbsp; u<br>
+&nbsp; &nbsp; \ / &nbsp;| &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp;u &nbsp; u &nbsp; u &nbsp;&nbsp; &nbsp;[[<span class="hellblau">S</span>|Gnomstadt]]-u &nbsp; &nbsp; u<br>
+&nbsp; &nbsp; &nbsp; \ / \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;u &nbsp; u-u &nbsp; &nbsp; &nbsp; u-u-u<br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; / &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;u &nbsp; &nbsp; &nbsp; u &nbsp; u &nbsp; &nbsp; u<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; / \ / \ &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;u-u-u &nbsp; u &nbsp; u-u<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp;| &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;u-u-u
+
+</span>
+
+<span class="legend">
+<span class="hellblau">2 =</span> Riss in der Decke (oben ist [[<span class="hellblau">Ebene 2</span>|U2]] - man braucht ein Seil zum hochklettern)<br>
+<span class="hellblau">5 =</span> Riss im Boden (unten ist [[<span class="hellblau">Ebene 5</span>|U5]] - ein Seil dabeihaben lohnt sich ...sonst muss man runterrutschen und schürft sich dabei ziemlich die Haut auf)<br>
+<span class="gelb">G =</span> Grabkammer (auf dem Obelisk ist eine Liste der Leute die in der Unterwelt ihr Leben gelassen haben)<br>
+<span class="hellblau">P =</span> Eingang in die [[<span class="hellblau">Pilzhöhle</span>|Pilzhoehle]]<br>
+<span class="hellblau">S =</span> Stadttor der [[<span class="hellblau">Gnom-Stadt</span>|Gnomstadt]]<br>
+<font color=808080>u =</font> Höhle in der Unterwelt<br>
+<font color=red>Vorsicht - diese Höhlen wimmeln nur so vor Monstern! Bei jedem Schritt wird zufällig bestimmt ob Monster auf einen lauern - d.h. auch wenn man durch einen durchquerten 'sicheren' Tunnel zurückgeht kann man dort auf Gegner treffen...<br>
+Folgende Typen habe ich schon beobachtet (man kann sich die Viecher übrigens im Monster Manual des Rollenspiels D&D anschauen...):<br>
+Baby-Ankhegs, Berbalang, Bullywugs, Chimären, Cloaker, Doppelgänger, Drow, 
+Drider, faulende Hände, Ghoule, Gnolle, Goblins, Käferbären, Kobolde, 
+Echesenmenschen, Krieger, Krieger-Dämonen, Schatten, Tausendfüssler <br></font>
+<font color=00CCFF> Aber es gibt auch (einige wenige) friedliche Wesen... das sind die Snirvneblin (Gnome) und die Mykoniden (Pilzmenschen)<br>
+<center><font color=808080 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=808080>zurück ins Drachenland</font>|../Drachenland]])</font></center>
+</span>
