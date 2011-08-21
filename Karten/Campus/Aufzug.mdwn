@@ -1,0 +1,19 @@
+<span class="map">
++-------------------------------------+----+<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Biologie - 9. Stock | &nbsp;[[<span class="hellblau">9</span>|NWZII_9]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mathematik - 8. Stock | &nbsp;[[<span class="hellblau">8</span>|NWZII_8]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mathematik - 7. Stock | &nbsp;[[<span class="hellblau">7</span>|NWZII_7]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6. Stock | &nbsp;[[<span class="hellblau">6</span>|NWZII_6]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5. Stock | &nbsp;[[<span class="hellblau">5</span>|NWZII_5]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4. Stock | &nbsp;[[<span class="hellblau">4</span>|NWZII_4]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3. Stock | &nbsp;[[<span class="hellblau">3</span>|NWZII_3]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Physik - 2. Stock | &nbsp;[[<span class="hellblau">2</span>|NWZII_2]] |<br>
+	| Physikalisches Praktikum - 1. Stock | &nbsp;[[<span class="hellblau">1</span>|NWZII_1]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ausgang, Pruefungsamt - EG | &nbsp;[[<span class="hellblau">E</span>|Campus]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.UG | [[<span class="hellblau">U1</span>|NWZII_U1]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.UG | [[<span class="hellblau">U2</span>|NWZII_U2]] |<br>
+	+-------------------------------------+----+
+</span>
+
+<span class="legend">
+</span>

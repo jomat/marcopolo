@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp;|<br>
+&nbsp;[[<span class="hellblau">W</span>|Campus]]<br>
+&nbsp;^<br>
+&nbsp;t-f-f<br>
+&nbsp;^<br>
+&nbsp;t<br>
+&nbsp;^ &nbsp; &nbsp; &nbsp;\|<br>
+&nbsp;t-f-g-w-[[<span class="hellblau">p</span>|Campus]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|\<br>
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>f =</font> Flur<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="hellblau">p =</span> Vorplatz des ÖZ (auf dem [[<span class="hellblau">Campus</span>|Campus]])<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="hellblau">W =</span> Eingang zum Wohnheim Allmandsring 8a (auf dem [[<span class="hellblau">Campus</span>|Campus]])<br>
+<font color=C0C0C0>w =</font> Weg<br>
+</span>

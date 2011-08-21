@@ -1,0 +1,32 @@
+<span class="map">
+&nbsp; Keller &nbsp; Erdgeschoss &nbsp; 1. Stock<br>
+&nbsp; &nbsp;g-g-g &nbsp; <span class="gelb">C</span>-<span class="gelb">S</span> &nbsp; <span class="gelb">K</span>-<span class="gelb">M</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">d</span><br>
+&nbsp; &nbsp;| &nbsp; | &nbsp; | | &nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;v-g &nbsp; t &nbsp; g-g-g-g-<span class="gelb">F</span>-[[<span class="hellblau">I</span>|Campus]]- &nbsp; g-g-t<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;<span class="gelb">P</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g-g <span class="gelb">s</span> | &nbsp; &nbsp; &nbsp;b<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">B D</span>-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bündelraum<br>
+<font color=C0C0C0>b =</font> Bibliothek<br>
+<span class="gelb">C =</span> Chef der Strahlenphysik<br>
+<span class="gelb">D =</span> Konsole des Dynamitrons<br>
+<span class="gelb">d =</span> Doktorand des Instituts<br>
+<span class="gelb">F =</span> Foyer (nach Osten gehts raus auf den Campus; man kann hier nach oben und unten gehen)<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="hellblau">I =</span> Vor der Tür des Intituts für Strahlenphysik (auf dem [[<span class="hellblau">Campus</span>|Campus]])<br>
+<span class="gelb">M =</span> Messraum<br>
+<span class="gelb">P =</span> Kühlwasser-Pumpen<br>
+<span class="gelb">S =</span> Sekretariat<br>
+<span class="gelb">s =</span> Raum mit den Sicherungen<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<font color=C0C0C0>v =</font> Vorzimmer des Pumpenraumes (im Schrank ist ein Gehörschutz)<br>
+</span>

@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+	&nbsp; &nbsp; &nbsp;f &nbsp; z-[[<span class="hellblau">R</span>|RUS]]-<br>
+	&nbsp; &nbsp; /v &nbsp;/ &nbsp;|<br>
+	&nbsp; &nbsp;[[<span class="hellblau">A</span>|Aufzug]] z-z<br>
+	&nbsp; &nbsp;| v<br>
+	&nbsp; &nbsp;[[<font color=00CC00>A</font>|Aufzug]] [[<span class="hellblau">Z</span>|Campus]]<br>
+	&nbsp; &nbsp;|<br>
+	&nbsp;<span class="gelb">A</span>-f
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> Blauer [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=00CC00>A =</font> Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<span class="gelb">A =</span> ATOM-Spiel<br>
+<font color=C0C0C0>C =</font> Computerraum<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="hellblau">R =</span> [[<span class="hellblau">Rechenzentrum</span>|RUS]]<br>
+<span class="gelb">T =</span> Treppenhaus<br>
+<span class="hellblau">Z =</span> Foyer des NWZII (auf dem [[<span class="hellblau">Campus</span>|Campus]])<br>
+<font color=C0C0C0>z =</font> Zwischengeschoss<br>
+</span>

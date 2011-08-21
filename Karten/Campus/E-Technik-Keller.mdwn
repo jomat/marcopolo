@@ -1,0 +1,21 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">F</span> &nbsp; h<br>
+&nbsp; &nbsp; &nbsp;/ \ /<br>
+&nbsp; &nbsp; <span class="gelb">F</span> &nbsp; <span class="gelb">F</span>><span class="gelb">I</span><br>
+&nbsp; &nbsp;/ \ /<br>
+&nbsp; [[<span class="hellblau">p</span>|Campus]] &nbsp; [[<span class="hellblau">F</span>|E-Technik]]<br>
+&nbsp;/ &nbsp; /|\<br>
+&nbsp; &nbsp; [[<span class="hellblau">H</span>|E-Technik]] [[<span class="hellblau">H</span>|E-Technik]] [[<span class="hellblau">H</span>|E-Technik]]<br>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">F =</span> Foyer (hier geht eine Treppe hoch ins Erdgeschoss des [[<span class="hellblau">E-Technikgebäudes</span>|E-Technik]])<br>
+<span class="gelb">F =</span> Foyer<br>
+<span class="hellblau">H =</span> Hörsaal (zweistöckig, geht im Erdgeschoss des [[<span class="hellblau">E-Technikgebäudes</span>|E-Technik]] weiter)<br>
+<font color=C0C0C0>h =</font> Hörsaal<br>
+<span class="gelb">I =</span> Irgendwo im Keller<br>
+<span class="hellblau">p =</span> Platz auf dem [[<span class="hellblau">Campus</span>|Campus]]<br>
+</span>

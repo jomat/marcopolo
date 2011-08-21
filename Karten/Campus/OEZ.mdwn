@@ -1,0 +1,48 @@
+<span class="map">
+&nbsp; &nbsp;k<br>
+&nbsp; &nbsp; \<br>
+&nbsp; &nbsp;k-<span class="gelb">D</span>-v<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|\ &nbsp; &nbsp; &nbsp; \|<br>
+&nbsp;k &nbsp; k p \ [[<span class="hellblau">F</span>|OEZ-Keller]]-[[<span class="hellblau">T</span>|OEZ-Dach]]-V-[[<span class="hellblau">p</span>|Campus]]-<br>
+&nbsp; \ / &nbsp; &nbsp; \| | | |\<br>
+&nbsp; &nbsp;<span class="gelb">H</span>-v-----v <span class="gelb">M C</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;/| |/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">c</span>-G-<span class="gelb">S</span>-[[<span class="hellblau">C</span>|OEZ-Dach]]-[[<span class="hellblau">t</span>|Campus]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp;.| .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | . <span class="gelb">K</span> &nbsp;.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp;% \ &nbsp;.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | g . a .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | &nbsp; . &nbsp; .<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t-n-G-<span class="gelb">r</span>-f-<span class="gelb">r</span>-[[<span class="hellblau">k</span>|OEZ-Keller]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/| &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">B</span> <span class="gelb">R</span>---<span class="gelb">R R</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>a =</font> Abstellkammer<br>
+<span class="gelb">B =</span> Büro<br>
+<span class="hellblau">C =</span> Cafeteria (hier gehts hoch ins [[<span class="hellblau">Obergeschoss</span>|OEZ-Dach]] - und runter in die südlicher gezeichneten Bereiche)<br>
+<span class="gelb">C =</span> Cafeteria<br>
+<span class="gelb">c =</span> Couchraum<br>
+<span class="gelb">D =</span> Damentoilette<br>
+<span class="hellblau">F =</span> Flur (hier geht eine Treppe in den [[<span class="hellblau">Keller</span>|OEZ-Keller]])<br>
+<font color=C0C0C0>k =</font> Flur<br>
+<font color=C0C0C0>G =</font> Galerie<br>
+<font color=C0C0C0>g =</font> Getränkelager<br>
+<span class="gelb">H =</span> Herrentoilette<br>
+<span class="gelb">K =</span> Küche<br>
+<font color=C0C0C0>k =</font> Toilettenkabine<br>
+<span class="hellblau">k =</span> Treppe runter in den [[<span class="hellblau">Keller</span>|OEZ-Keller]]<br>
+<span class="hellblau">p =</span> Platz auf dem [[<span class="hellblau">Campus</span>|Campus]]<br>
+<font color=C0C0C0>p =</font> Putzraum<br>
+<span class="gelb">R =</span> Gruppenraum<br>
+<span class="gelb">r =</span> Am unteren Ende einer Treppe/Rampe (die nach oben zu weiter nördlich gelegenen Feldern führt)<br>
+<span class="gelb">S =</span> Sitzecke<br>
+<span class="hellblau">T =</span> Treppenhaus (hier gehts hoch ins [[<span class="hellblau">Obergeschoss</span>|OEZ-Dach]])<br>
+<span class="hellblau">t =</span> Terrasse des OEZ (auf dem [[<span class="hellblau">Campus</span>|Campus]] - und hier ist auch die Aussentreppe hoch ins Obergeschoss oder in den auf der Karte südlich gelegenen Keller)<br>
+<font color=C0C0C0>t =</font> Westliche Terrasse<br>
+<font color=C0C0C0>V =</font> Vorraum des Ökumenischen Zentrums<br>
+<font color=C0C0C0>v =</font> Vorraum der Toiletten<br>
+</span>

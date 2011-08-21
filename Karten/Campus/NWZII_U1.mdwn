@@ -1,0 +1,10 @@
+<span class="map">
+&nbsp;K-[[<span class="hellblau">A</span>|Aufzug]]<br>
+	&nbsp;K-[[<font color=00CC00>A</font>|Aufzug]]
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> Blauer [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=00CC00>A =</font> Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=C0C0C0>K =</font> Keller<br>
+</span>

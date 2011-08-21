@@ -1,0 +1,24 @@
+<span class="map">
+&nbsp; &nbsp;[[<span class="hellblau">T</span>|OEZ]]<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;g-T---T<br>
+&nbsp; &nbsp;| |\ /|<br>
+&nbsp; &nbsp;g | X |<br>
+&nbsp; &nbsp;| |/ \|<br>
+&nbsp; &nbsp;g T---<span class="rot">T</span><br>
+&nbsp; &nbsp;| | &nbsp; |<br>
+&nbsp;<span class="gelb">B</span>-g [[<span class="hellblau">p</span>|Campus]] L-[[<span class="hellblau">T</span>|OEZ]]<br>
+&nbsp; &nbsp;| |<br>
+&nbsp; &nbsp;<span class="gelb">R</span><br>
+
+</span>
+
+<span class="legend">
+<span class="gelb">B =</span> Bar/Pelzchen-Lager<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<font color=C0C0C0>L =</font> Lagerraum<br>
+<span class="hellblau">p =</span> Garagenzufahrt auf dem [[<span class="hellblau">Campus</span>|Campus]]<br>
+<span class="gelb">R =</span> Gruppenraum<br>
+<span class="rot">T =</span> Tiefgarage (anscheinend wurden hier die Ausgänge richtung Norden und Nordwesten vertauscht)<br>
+<span class="hellblau">T =</span> Treppenhaus (hier gehts hoch ins Erdgeschoss des [[<span class="hellblau">ÖZ</span>|OEZ]])<br>
+</span>

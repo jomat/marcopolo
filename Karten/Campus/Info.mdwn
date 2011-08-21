@@ -1,0 +1,45 @@
+<span class="map">
+&nbsp;-[[<span class="hellblau">s</span>|Vaihingen]]-------------[[<span class="hellblau">s</span>|Vaihingen]]-<br>
+&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; <span class="rot">x</span> &nbsp; <span class="rot">x</span><br>
+&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; | <span class="gelb">S</span>-g-g-g-g---<span class="gelb">F</span>---g-g-g<br>
+&nbsp; | | &nbsp; &nbsp; &nbsp; | &nbsp; |&nbsp; &nbsp;| |<br>
+&nbsp; | | &nbsp; &nbsp; &nbsp; <span class="gelb">K</span> &nbsp; | &nbsp; |&nbsp;<span class="rot">x</span><br>
+&nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; | | &nbsp; g---H---g &nbsp; |<br>
+&nbsp; | | &nbsp;/&nbsp; &nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; r-g-<span class="gelb">M</span> &nbsp; &nbsp; | &nbsp; g-<span class="gelb">P</span> |<br>
+&nbsp; | | |&#9492;&#9472;&#9488;&nbsp; | &nbsp; | &nbsp; |<br>
+&nbsp; | | H &nbsp; H | &nbsp; t &nbsp; T-M<br>
+&nbsp; | | | &nbsp;/&nbsp; | &nbsp; | &nbsp; | |<br>
+&nbsp; | H g-g &nbsp; | &nbsp; | &nbsp; T M <span class="rot">x</span><br>
+&nbsp; | |/ &nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | | |<br>
+&nbsp; t-g &nbsp; &nbsp; <span class="gelb">D</span>-g <span class="gelb">V</span> | &nbsp; T M g<br>
+&nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; | | | &nbsp; |<span class="rot">/</span> &nbsp;|<br>
+&nbsp; <span class="gelb">I</span>-g-----g-g-g-g---g---g-g-<span class="rot">x</span><br>
+&nbsp; &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">v</span> &nbsp; &nbsp; <span class="gelb">n</span> &nbsp; &nbsp; g
+
+</span>
+
+<span class="legend">
+<font color=C0C0C0>g =</font> Gang/Flur/Sonstiges<br>
+<span class="gelb">D =</span> DEC-Pool<br>
+<span class="gelb">F =</span> Foyer<br>
+<font color=C0C0C0>H =</font> Hörsaal<br>
+<span class="gelb">I =</span> Fachschaft Informatik<br>
+<span class="gelb">K =</span> Kopierzimmer<br>
+<span class="gelb">M =</span> Museum<br>
+<font color=C0C0C0>M =</font> Maschinenraum<br>
+<span class="gelb">n =</span> Nische mit Fenster<br>
+<span class="gelb">P =</span> PC-Pool<br>
+<font color=C0C0C0>r =</font> Rampe<br>
+<span class="gelb">S =</span> Sitzgruppe<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Vaihingen</span>|Vaihingen]]<br>
+<font color=C0C0C0>T =</font> Terminalraum<br>
+<font color=C0C0C0>t =</font> Treppe<br>
+<span class="gelb">V =</span> Videolabor<br>
+<span class="gelb">v =</span> VMS-Pool<br>
+<span class="rot">x =</span> Unbeschriebene Gebiete (trifft auf alle Obergeschosse zu)<br>
+</span>

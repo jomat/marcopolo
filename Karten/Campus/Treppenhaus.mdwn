@@ -1,0 +1,15 @@
+<span class="map">
++-----------------------+----+<br>
+	| &nbsp; Biologie - 9. Stock | &nbsp;[[<span class="hellblau">9</span>|NWZII_9]] |<br>
+	| Mathematik - 8. Stock | &nbsp;[[<span class="hellblau">8</span>|NWZII_8]] |<br>
+	| Mathematik - 7. Stock | &nbsp;[[<span class="hellblau">7</span>|NWZII_7]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6. Stock | &nbsp;[[<span class="hellblau">6</span>|NWZII_6]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5. Stock | &nbsp;[[<span class="hellblau">5</span>|NWZII_5]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4. Stock | &nbsp;[[<span class="hellblau">4</span>|NWZII_4]] |<br>
+	| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3. Stock | &nbsp;[[<span class="hellblau">3</span>|NWZII_3]] |<br>
+	| &nbsp; &nbsp; Physik - 2. Stock | &nbsp;[[<span class="hellblau">2</span>|NWZII_2]] |<br>
+	+-----------------------+----+
+</span>
+
+<span class="legend">
+</span>

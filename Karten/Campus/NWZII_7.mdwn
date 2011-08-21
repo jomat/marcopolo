@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp;b.z-f-f-f-f-f-b<br>
+&nbsp;| &nbsp; |X| | | &nbsp; |<br>
+	&nbsp;b.z-f-[[<span class="hellblau">A</span>|Aufzug]] t f-[[<span class="gelb">T</span>|Treppenhaus]] b<br>
+	&nbsp;| &nbsp; |X| | | &nbsp; |<br>
+	&nbsp;b.z-f-f-f-f-f-b<br>
+	&nbsp;| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+	&nbsp;b.z-f-f-f-f-f-b<br>
+	&nbsp;| &nbsp; |X| | | &nbsp; |<br>
+	&nbsp;b.z-f-[[<font color=00CC00>A</font>|Aufzug]] t f-[[<span class="gelb">T</span>|Treppenhaus]] b<br>
+	&nbsp;| &nbsp; |X| | | &nbsp; |<br>
+	&nbsp;b.z-f-f-f-f-f-b
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> Blauer [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=00CC00>A =</font> Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=C0C0C0>b =</font> Balkon<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<font color=C0C0C0>t =</font> Toilette (von Norden Herrentoilette, von Süden Damentoilette)<br>
+<span class="gelb">T =</span> [[<span class="hellblau">Treppenhaus</span>|Treppenhaus]]<br>
+<font color=C0C0C0>z =</font> Zimmer (durch das Fenster kann man auf den Balkon klettern)<br>
+</span>

@@ -1,0 +1,26 @@
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h-h-<span class="gelb">T</span>-<span class="gelb">t</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">F</span>-h-h &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ \ &nbsp;| &nbsp;/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; \ | /<br>
+&nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; \|/<br>
+&nbsp;-[[<span class="hellblau">p</span>|Campus]]---[[<span class="hellblau">F</span>|E-Technik-Keller]] &nbsp; &nbsp; &nbsp; <span class="gelb">F</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; / \<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; / &nbsp; [[<span class="hellblau">p</span>|Campus]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ / &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">F</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">H</span>|E-Technik-Keller]] [[<span class="hellblau">H</span>|E-Technik-Keller]] [[<span class="hellblau">H</span>|E-Technik-Keller]]<br>
+&nbsp;
+</span>
+
+<span class="legend">
+<span class="hellblau">F =</span> Foyer (hier geht eine Treppe runter in den [[<span class="hellblau">Keller</span>|E-Technik-Keller]])<br>
+<span class="gelb">F =</span> Foyer<br>
+<span class="hellblau">H =</span> Hörsaal (zweistöckig, geht im [[<span class="hellblau">Keller</span>|E-Technik-Keller]] weiter)<br>
+<font color=C0C0C0>h =</font> Hörsaal<br>
+<span class="hellblau">p =</span> Platz auf dem [[<span class="hellblau">Campus</span>|Campus]]<br>
+<span class="gelb">T =</span> Vor dem Blauen Treppenhaus<br>
+<span class="gelb">t =</span> An einer Mauer direkt hinter der Tür<br>
+</span>

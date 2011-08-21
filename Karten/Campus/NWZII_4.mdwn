@@ -1,0 +1,65 @@
+<span class="map">
+&nbsp;b.z<br>
+&nbsp;|&nbsp; \<br>
+	&nbsp;| &nbsp; f-f-f---f-f-b<br>
+&nbsp;| &nbsp;/|X| | &nbsp; | &nbsp; |<br>
+	&nbsp;b.z |X| | &nbsp; | &nbsp; |<br>
+&nbsp;| &nbsp; |X| | &nbsp; | &nbsp; |<br>
+	&nbsp;b.z f-[[<span class="hellblau">A</span>|Aufzug]] t &nbsp; f-[[<span class="gelb">T</span>|Treppenhaus]]&nbsp;|<br>
+	&nbsp;| &nbsp;\|X| | &nbsp; | &nbsp; |<br>
+	&nbsp;| &nbsp; f-f-f---f-f-b<br>
+	&nbsp;| &nbsp;/| &nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+	&nbsp;b.z | &nbsp; &nbsp; &nbsp; L...b<br>
+	&nbsp;| &nbsp; | &nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp;b.z-f-S &nbsp; &nbsp; L-L.b<br>
+	&nbsp;| &nbsp; | | &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp;b.z-f-S &nbsp; L-L-L.b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;| &nbsp; f-f-f &nbsp; &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;b.z-f-L &nbsp; L &nbsp; &nbsp; |<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;b.z | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp;\| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;| &nbsp; f-L &nbsp; L &nbsp; &nbsp; |<br>
+&nbsp;| &nbsp;/| &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp;b.z f-f-f &nbsp; &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp;\ &nbsp; &nbsp;&nbsp; |<br>
+&nbsp;b.z | &nbsp; &nbsp; L &nbsp; &nbsp; |<br>
+&nbsp;| &nbsp;\| &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;| &nbsp; f-L &nbsp; | &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp;/| &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z | &nbsp; &nbsp; L.....b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-L &nbsp; L.....b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-L-L | &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-f-f-f-f---b<br>
+&nbsp;| &nbsp; |X| | | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-[[<font color=00CC00>A</font>|Aufzug]] t f-[[<span class="gelb">T</span>|Treppenhaus]] &nbsp; b<br>
+&nbsp;| &nbsp; |X| | | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-f-f-f-f---b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f &nbsp; &nbsp; L &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-S &nbsp; | &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp; | | &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp;b.z-f-S &nbsp; L.....b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;b.z-f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b<br>
+&nbsp;| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;b.z-f &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b
+</span>
+
+<span class="legend">
+<span class="hellblau">A =</span> Blauer [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=00CC00>A =</font> Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
+<font color=C0C0C0>b =</font> Balkon<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<font color=C0C0C0>L =</font> Labor<br>
+<font color=C0C0C0>S =</font> Seminarraum<br>
+<span class="gelb">T =</span> [[<span class="hellblau">Treppenhaus</span>|Treppenhaus]]<br>
+<font color=C0C0C0>t =</font> Toilette (von Norden Herrentoilette, von Süden Damentoilette)<br>
+<font color=C0C0C0>z =</font> Zimmer (durch das Fenster kann man auf den Balkon klettern)<br>
+</span>

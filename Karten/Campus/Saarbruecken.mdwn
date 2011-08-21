@@ -1,0 +1,15 @@
+<span class="map">
+&nbsp;<span class="hellblau">b</span>&gt;<span class="gelb">l</span>&gt;g<br>
+&nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<span class="orange">B</span><br>
+&nbsp; &nbsp; &nbsp;|\<br>
+&nbsp; &nbsp; &nbsp;v <span class="orange">b</span>
+</span>
+
+<span class="legend">
+<span class="orange">B =</span> Bahnhofshalle (hier steht ein Verkäufer mit Backwaren rum)<br>
+<span class="orange">b =</span> Buchhandlung<br>
+<span class="hellblau">b =</span> Bahnsteig (hier hält der Zug nach [[<span class="hellblau">Stuttgart</span>|Hauptbahnhof]]  [über [[<span class="hellblau">Mannheim</span>|Mannheim]]] und nach [[<span class="hellblau">Paris</span>|Paris]])<br>
+<span class="gelb">l =</span> Laufband (alternativ zu dem Laufband was einen recht langsam einige Felder nach unten schiebt kann man auch einfach direkt mit dem Ausgang 'Treppe' vom Bahnsteig ganz nach unten gehen)<br>
+<font color=C0C0C0>v =</font> Vorplatz des Bahnhofes<br>
+</span>

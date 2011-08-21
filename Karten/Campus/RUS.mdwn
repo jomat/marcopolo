@@ -1,0 +1,23 @@
+<span class="map">
+&nbsp; &nbsp; C-r-<span class="gelb">a</span><br>
+&nbsp; &nbsp; | | |<br>
+&nbsp; &nbsp; | g n<br>
+&nbsp; &nbsp; | |<br>
+&nbsp; &nbsp; <span class="gelb">B</span> g-g-[[<span class="hellblau">P</span>|Campus]]<br>
+&nbsp; | | |<br>
+&nbsp; [[<span class="hellblau">z</span>|NWZII_1]]-r-r<br>
+&nbsp;/ &nbsp;| &nbsp;\<br>
+&nbsp; &nbsp; <span class="gelb">T</span> &nbsp; C
+</span>
+
+<span class="legend">
+<span class="gelb">a =</span> Aufenthaltsraum<br>
+<span class="gelb">B =</span> Benutzerberatung<br>
+<font color=C0C0C0>C =</font> Computerraum<br>
+<font color=C0C0C0>g =</font> Gang<br>
+<font color=C0C0C0>n =</font> Nebenraum<br>
+<span class="hellblau">P =</span> Plattform mit Wendeltreppe runter zum [[<span class="hellblau">Campus</span>|Campus]]<br>
+<font color=C0C0C0>r =</font> Räume der Benutzerberatung/des RUS<br>
+<span class="gelb">T =</span> Uraltes Terminal (an dem man Unitopia von 1993 spielen kann)<br>
+<span class="hellblau">z =</span> [[<span class="hellblau">Zwischengeschoss</span>|NWZII_1]] des NWZII<br>
+</span>

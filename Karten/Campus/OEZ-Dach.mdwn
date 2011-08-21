@@ -1,0 +1,22 @@
+<span class="map">
+&nbsp;[[<span class="hellblau">T</span>|OEZ]]-t-----<span class="gelb">D</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;F &nbsp; &nbsp; &nbsp; <span class="gelb">D</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; <span class="gelb">D</span><br>
+&nbsp;| &nbsp; &nbsp; &nbsp; |<br>
+&nbsp;G &nbsp; &nbsp; &nbsp; t<br>
+&nbsp;| &nbsp; &nbsp; &nbsp; v<br>
+&nbsp;G-G-[[<span class="hellblau">C</span>|OEZ]]-F-[[<span class="hellblau">t</span>|Campus]]<br>
+
+</span>
+
+<span class="legend">
+<span class="hellblau">C =</span> Über dem Cafe des [[<span class="hellblau">ÖZ</span>|OEZ]] (hier gehts runter ins Erdgeschoss)<br>
+<span class="gelb">D =</span> Dachterasse<br>
+<font color=C0C0C0>F =</font> Flur<br>
+<font color=C0C0C0>G =</font> Galerie<br>
+<span class="hellblau">T =</span> Treppenhaus (runter ins Erdgeschoss des [[<span class="hellblau">ÖZ</span>|OEZ]])<br>
+<font color=C0C0C0>t =</font> Oberster Absatz der Aussentreppe (die Richtung [v] steht für eins nach unten auf den Mittelteil der Treppe)<br>
+<span class="hellblau">t =</span> Aussentreppe des ÖZ (runter zum [[<span class="hellblau">Campus</span>|Campus]])<br>
+</span>
