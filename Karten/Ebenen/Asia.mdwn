@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="003366">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r-r-r-r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|X|X|X|X|X|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r-r-O-W-O-W-r-r<br>
@@ -33,11 +33,11 @@
 <span class="legend">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="hellblau">B =</span> Vor einem babbaistischen [[<span class="hellblau">Kloster</span>|Asia/Kloster]] - nach Osten gehts rein...<br>
-<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Dörrstadt</span>|Doerrland/Doerrstadt]]<br>
-<span class="hellblau">F =</span> Weg nach [[<span class="hellblau">Foo-Ling-Yoo</span>|Asia/Foo-Ling-Yoo]] (hier steht ein großes Schild)<br>
-<span class="hellblau">M =</span> Am Fuss des Monolithen (hier ist auch der Eingang zu der kleinen Höhle wo man rauskommt wenn man vom [[<span class="hellblau">Jadepalast</span>|Jadepalast]] runterklettert)<br>
+<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">DÃ¶rrstadt</span>|Doerrland/Doerrstadt]]<br>
+<span class="hellblau">F =</span> Weg nach [[<span class="hellblau">Foo-Ling-Yoo</span>|Asia/Foo-Ling-Yoo]] (hier steht ein groÃŸes Schild)<br>
+<span class="hellblau">M =</span> Am Fuss des Monolithen (hier ist auch der Eingang zu der kleinen HÃ¶hle wo man rauskommt wenn man vom [[<span class="hellblau">Jadepalast</span>|Jadepalast]] runterklettert)<br>
 <font color=C0C0C0>m =</font> An der Aussenmauer des alten Tempels<br>
-<font color=00CC00>O =</font> Pfad durch eine hügelige Ebene<br>
+<font color=00CC00>O =</font> Pfad durch eine hÃ¼gelige Ebene<br>
 <span class="hellblau">R =</span> Rand des Monolithen (durch runterklettern gelangt man zu einem Haus, in dem ein Aufzug runter ins [[<span class="hellblau">Drachenland</span>|Drachenland]] ist)<br>
 <span class="hellblau">T =</span> Vor dem Eingangstor des [[<span class="hellblau">alten Tempels</span>|Asia/Tempel]]<BR>
 Der Rest von Asia ist leider nicht betretbar... (in dieser <font color=003366>Farbe</font> gekennzeichnet)
