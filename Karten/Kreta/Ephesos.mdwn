@@ -1,7 +1,7 @@
 <span class="map">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">G &nbsp; K H</span> <span class="hellblau">L</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | | |<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s-[[<font color=C0C0C0>k</font>|Kanalisation]]-[[<span class="violett">D</span>|Drachenland/Gnazelschist]]-s-[[<span class="hellblau">T</span>|Kreta]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-s-[[<font color=C0C0C0>k</font>|Kanalisation]]-[[<span class="violett">D</span>|Ebenen/Drachenland/Gnazelschist]]-s-[[<span class="hellblau">T</span>|Kreta]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; /&nbsp; | &nbsp; |<br>
 &nbsp; &nbsp;[[<span class="hellblau">M</span>|Mathegilde]] <span class="orange">S</span>-<span class="orange">J</span> [[<span class="gelb">F</span>|Kanalisation]]-g &nbsp; [[<span class="hellblau">B</span>|Bardengilde]]<br>
 &nbsp; &nbsp;<font color=00CC00>|</font> &nbsp; |<br>
@@ -15,22 +15,22 @@
 <span class="legend">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Bardengilde</span>|Bardengilde]]<br>
-<span class="orange">b =</span> Landeplatz f¸r den Ballon der nach [[<span class="hellblau">Annonay</span>|Gallien/Annonay]] in [[<span class="hellblau">Gallien</span>|Gallien]] fliegt<br>
-<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Gnazelschist</span>|Drachenland/Gnazelschist]] (im [[<span class="hellblau">Drachenland</span>|Drachenland]]) - es steht ¸brigens mitten auf dem Marktplatz...<br>
+<span class="orange">b =</span> Landeplatz f√ºr den Ballon der nach [[<span class="hellblau">Annonay</span>|Gallien/Annonay]] in [[<span class="hellblau">Gallien</span>|Gallien]] fliegt<br>
+<span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Gnazelschist</span>|Ebenen/Drachenland/Gnazelschist]] (im [[<span class="hellblau">Drachenland</span>|Ebenen/Drachenland]]) - es steht √ºbrigens mitten auf dem Marktplatz...<br>
 <span class="orange">E =</span> Einganz zu Esmeraldas Esoterikladen<br>
-<span class="gelb">F =</span> Ferenc, der Straﬂenr‰uber (hier hats auch nen Deckel runter zur [[<span class="hellblau">Kanalisation</span>|Kanalisation]])<br>
+<span class="gelb">F =</span> Ferenc, der Stra√üenr√§uber (hier hats auch nen Deckel runter zur [[<span class="hellblau">Kanalisation</span>|Kanalisation]])<br>
 <span class="orange">G =</span> Gyros Taverne<br>
 <font color=C0C0C0>g =</font> Finstere Gasse<br>
-<span class="orange">H =</span> Hassans Dˆnerladen<br>
+<span class="orange">H =</span> Hassans D√∂nerladen<br>
 <span class="orange">J =</span> Jussuf, der Dealer<br>
 <span class="orange">K =</span> Kaufdas Zelt<br>
-<font color=C0C0C0>k =</font> Hier ist ein Kanaldeckel auf der Straﬂe durch den man in die <A TITLE="Kanalisation" HREF="Kanalisation"><span class="hellblau">Kanalisation</span></A> kommt<br>
+<font color=C0C0C0>k =</font> Hier ist ein Kanaldeckel auf der Stra√üe durch den man in die <A TITLE="Kanalisation" HREF="Kanalisation"><span class="hellblau">Kanalisation</span></A> kommt<br>
 <span class="hellblau">L =</span> Laden<br>
 <span class="gelb">M =</span> [[<span class="hellblau">Gilde der Mathematiker</span>|Mathegilde]]<br>
 <span class="gelb">R =</span> Tempelruine<br>
 <span class="orange">S =</span> Schneider<br>
-<font color=C0C0C0>s =</font> Straﬂe<br>
-<span class="hellblau">T =</span> Stadttore (beide f¸hren nach [[<span class="hellblau">Phygria</span>|Kreta]])<br>
+<font color=C0C0C0>s =</font> Stra√üe<br>
+<span class="hellblau">T =</span> Stadttore (beide f√ºhren nach [[<span class="hellblau">Phygria</span>|Kreta]])<br>
 <font color=C0C0C0>t =</font> Tempelplatz<br>
 <font color=00CC00>v =</font> Vorgarten der Mathemathikergilde<br>
 </span>
