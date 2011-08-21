@@ -74,6 +74,9 @@ M-M-M-M-M-M-</font>K-K<font color=blue>-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <span class="hellblau">t =</span> [[<span class="hellblau">kleines Tal</span>|Maerchenland/Tal1]]<br>
 <span class="hellblau">v =</span> verfallenes [[<span class="hellblau">Schloss</span>|Maerchenland/Ruine]] (von Westen 'zwänge durch Blattwerk' um hinzukommen)<br>
 <span class="hellblau">W =</span> Woodold, der Holzfäller<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Legende:</span><br>
 <font color=808080>B =</font> Berge<br>
 <font color=339966>H =</font> Hügel<br>
