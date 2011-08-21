@@ -1,5 +1,7 @@
 #!/bin/sh
 sed -i 's|^ *||g' $1
+cat $1|awk '{if ($0=="</body>") ready=0; if (ready==1)print $0;if ($0=="<font color=C0C0C0 face=\"Courier New\" style=\"font-size: 8pt\">") ready=1;}' >$1.tmp
+mv $1.tmp $1
 cat $1|perl -pe 's|<font color=00CCFF>(.*?)</font>|<span class="hellblau">\1</span>|g' >$1.tmp
 mv $1.tmp $1
 cat $1|perl -pe 's|<font color=FFCC00>(.*?)</font>|<span class="gelb">\1</span>|g' >$1.tmp
@@ -16,3 +18,10 @@ cat $1.tmp >>$1
 echo '</span>' >>$1
 sed -i '/^$/d' $1
 rm $1.tmp
+sed -i 's|</FONT></TD>$||' $1
+sed -i 's|^</TR>$|</span>\n\n<span class="legend">|' $1
+sed -i '/^<\/TABLE>$/d' $i
+sed -i '/^<\/CENTER>$/d' $i
+sed -i '/^<\/DIV>$/d' $i
+sed -i '/^<br>$/d' $i
+sed -i '/^<font color=C0C0C0 face="Courier New" style="font-size: 8pt">$/d' $i

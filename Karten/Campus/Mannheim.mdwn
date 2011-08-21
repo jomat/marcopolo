@@ -1,0 +1,15 @@
+<span class="map">
+&nbsp;<span class="rot">|</span><br>
+&nbsp;E<br>
+&nbsp;|<br>
+&nbsp;<span class="hellblau">b</span>&gt;u<br>
+&nbsp; &nbsp;|<br>
+&nbsp;b&gt;u
+</span>
+
+<span class="legend">
+<span class="hellblau">b =</span> Bahnsteig 1 (hier hält der Zug nach [[<span class="hellblau">Stuttgart</span>|Hauptbahnhof]] und nach [[<span class="hellblau">Paris</span>|Paris]] [über [[<span class="hellblau">Saarbrücken</span>|Saarbruecken]]])<br>
+<font color=C0C0C0>b =</font> Bahnsteig<br>
+<font color=C0C0C0>E =</font> Eingangshalle des Mannheimer Bahnhofes<br>
+<font color=C0C0C0>u =</font> Unterführung<br>
+</span>
