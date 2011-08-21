@@ -1,4 +1,18 @@
 <span class="map">
+Ebene +1&nbsp; &nbsp; &nbsp; 
+Ebene 0&nbsp; &nbsp; &nbsp;Ebene -1<br>
+&nbsp;r g-g-r&nbsp; &nbsp; &nbsp;&nbsp;h-g-g h &nbsp; &nbsp; &nbsp;g-g-g-g<br>
+&nbsp;| | |&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
+&nbsp;g&nbsp;g&nbsp;g-g&nbsp; &nbsp; &nbsp; g-g g r&nbsp; &nbsp; &nbsp; g-g g-h<br>
+&nbsp;| | &nbsp; | &nbsp; &nbsp; &nbsp;| | | &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp;g-g g-g&nbsp; &nbsp; &nbsp; g g-g-r&nbsp; &nbsp; &nbsp; g g g h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | | |<br>
+&nbsp;g-g-r&nbsp; &nbsp; &nbsp; &nbsp; g-g h-r &nbsp; &nbsp; &nbsp;g-g-g h<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S</span>|Schneeweg]]
+</span>
+
+<span class="legend">
 <font color=FFFFFF>g =</font> Gang im Schnee (muss man erst mit &quot;grabe nach [Richtung]&quot; verbreitern - oder man hat ne Schaufel und buddelt ganz neue Gänge...)<br>
 <span class="hellblau">H =</span> Schneehase (der steckt in einer der Sackgassen im Bau - meistens da wo man zuletzt sucht)<br>
 <font color=FFFFFF>h =</font> Gang nach oben (verbreitern s.o.)<br>
