@@ -1,3 +1,5 @@
+<font color="red">Achtung: Wenn du zum ersten Mal hier bist, bitte die [[Hinweise]] lesen</font>
+
 # UNItopia Karten
 
 [UNItopia](https://UNItopia.de) ist ein deutschsprachiger MUD (Multi-User-Dungeon) an der Universität Stuttgart. Das heisst, dass sich in diese virtuellen Welt Mitspieler von der ganzen Welt aus einwählen können, um dort miteinander Abenteuer zu erleben, zu spielen oder auch einfach um sich zu unterhalten.
