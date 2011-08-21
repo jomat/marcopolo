@@ -2,59 +2,59 @@ Ebenenauswahl:
 [[N01]] [[N02]] [[N03]] [[N04]] [[N05]] [[N06]] [[N07]] [[N08]] [[N09]] [[N10]] [[N11]] [[N12]] [[N13]] [[N14]] [[N15]] [[N16]] [[N17]] [[N18]] [[N19]] [[N20]]
 
 <span class="map"><font color="blue">
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="gelb">K</span><br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| |<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="gelb">B</span>-<span class="gelb">S</span><br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X| \|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m <span class="orange">S</span> <span class="hellblau">o-o</span>-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X| <font color=C0C0C0>|</font> <span class="hellblau">|X|</span>X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m <font color=C0C0C0>s</font> <span class="hellblau">o-o</span>-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X| <font color=C0C0C0>|</font> <span class="hellblau">|span> \|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-<span class="hellblau">o-u <font color=C0C0C0>b</span> o L</font> m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X<span class="hellblau">|/ &nbsp;<font color=C0C0C0>|</span> &nbsp;\</font> /|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-<span class="hellblau">o <span class="gelb">G<font color=C0C0C0>-s</span> P</span> o</font>-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X<span class="hellblau">|\ &nbsp;<font color=C0C0C0>|</span> &nbsp;/|</font>X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-<span class="hellblau">o-o-o-o-o</span>-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<span class="hellblau">|X|X|</span>X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-S-s</span>-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<span class="hellblau">|X|X|</span>X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<span class="hellblau">s-s-s</span>-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
-&nbsp; &nbsp; |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
-&nbsp; &nbsp; m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<font color=FFCC00>K</font><br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X| |<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<font color=FFCC00>B</font>-<font color=FFCC00>S</font><br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|/ \|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m <font color=FF9900>S</font> <font color=00CCFF>o-o</font>-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X| <font color=C0C0C0>|</font> <font color=00CCFF>|X|</font>X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m <font color=C0C0C0>s</font> <font color=00CCFF>o-o</font>-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X| <font color=C0C0C0>|</font> <font color=00CCFF>|/</font> \|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-<font color=00CCFF>o-u <font color=C0C0C0>b</font> o L</font> m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X<font color=00CCFF>|/ &nbsp;<font color=C0C0C0>|</font> &nbsp;\</font> /|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-<font color=00CCFF>o <font color=FFCC00>G<font color=C0C0C0>-s</font> P</font> o</font>-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X<font color=00CCFF>|\ &nbsp;<font color=C0C0C0>|</font> &nbsp;/|</font>X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-<font color=00CCFF>o-o-o-o-o</font>-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<font color=00CCFF>s-s-s</font>-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CCFF>|X|X|</font>X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<font color=00CCFF>s-S-s</font>-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<font color=00CCFF>|X|X|</font>X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-<font color=00CCFF>s-s-s</font>-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
+|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
+m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 </font>
 </span>
 
 <span class="legend">
-<span class="gelb">B =</span> Büro von Nixerich<br>
+<span class="gelb">B =</span> BÃ¼ro von Nixerich<br>
 <font color=C0C0C0>b =</font> Von hier geht ein Gang in beide Richtungen (hoch und runter) weiter<br>
-<span class="gelb">K =</span> Koppel des Seepferdchengestüts<br>
+<span class="gelb">K =</span> Koppel des SeepferdchengestÃ¼ts<br>
 <font color=blue>m =</font> Meer<br>
 <span class="hellblau">o =</span> Unter der Stadt der Nixen (es geht nicht nach oben, weil da die Korallen der Stadt sind)<br>
 <span class="gelb">P =</span> Hier gehts nach Osten in den Palast<br>
 <span class="orange">S =</span> Schmied<br>
-<span class="gelb">S =</span> Stall des Seepferdchengestüts<br>
-<span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
-<span class="hellblau">s =</span> Am Rande einer warmen Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
-<font color=C0C0C0>s =</font> Straße / Durchgang<br>
+<span class="gelb">S =</span> Stall des SeepferdchengestÃ¼ts<br>
+<span class="hellblau">S =</span> Warme StrÃ¶mung (man kann die StrÃ¶mung betreten und sich an die OberflÃ¤che nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
+<span class="hellblau">s =</span> Am Rande einer warmen StrÃ¶mung (man kann die StrÃ¶mung betreten und sich an die OberflÃ¤che nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>
+<font color=C0C0C0>s =</font> StraÃŸe / Durchgang<br>
 <span class="hellblau">u =</span> Zwischen den Korallen der Stadt der Nixen (es geht nicht nach unten oder unten, weil da die Korallen der Stadt sind)<br>
 </span>
