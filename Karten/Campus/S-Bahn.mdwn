@@ -15,7 +15,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">s</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
-&nbsp;[[<span class="hellblau">a</span>|Campus]] [[<span class="hellblau">M</span>|Tadmor]]&nbsp; &nbsp; &nbsp; &nbsp;t [[<span class="hellblau">a</span>|Campus]]<br>
+&nbsp;[[<span class="hellblau">a</span>|Campus]] [[<span class="hellblau">M</span>|Vaniorh/Tadmor]]&nbsp; &nbsp; &nbsp; &nbsp;t [[<span class="hellblau">a</span>|Campus]]<br>
 &nbsp; \| &nbsp; &nbsp; &nbsp; |/<br>
 &nbsp; &nbsp;B &nbsp; &nbsp; &nbsp; B<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
