@@ -1,4 +1,4 @@
-<span class="map">
+<span class="map"><font color="#808080">
 &nbsp; &nbsp; &nbsp; <span class="rot">Ebene 0 &nbsp; &nbsp; &nbsp; Ebene -1</span><br>
 &nbsp; &nbsp; &nbsp;<span class="gelb">B</span>-<span class="gelb">b</span> &nbsp; <span class="gelb">o</span>-<span class="gelb">O</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
@@ -15,24 +15,25 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">F</span> &nbsp; <span class="gelb">A</span>
-
+</font>
 </span>
 
 <span class="legend">
 <span class="gelb">A =</span> Aufenthaltsraum<br>
-<font color=808080>a =</font> Abgrund (man kann runterspringen und schlägt dann 
+<font color=808080>a =</font> Abgrund (man kann runterspringen und schlÃ¤gt dann 
 in einem Gang weiter unten auf)<br>
 <span class="gelb">B =</span> Bibliothek<br>
 <span class="gelb">b =</span> Blutkristall-Statue<br>
 <span class="rot">D =</span> Feuerkreis: Ein- und Ausgang durch die Flammentore:<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Dörrland</span>|Doerrland/Barovia]] (Barovia)<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Gallien</span>|Gallien/Festung]] (in der alten Festung)<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Kreta</span>|Kreta/Orkwald]] (im Orkwald)<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Märchenland</span>|Maerchenland]] (im Brunnen der Großmutter)<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Nankea</span>|Nankea/Wurzelwald]] (beim Turm des Sauren Mannes)<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Veldergautland</span>|Veldergautland/Spalt]] (in einer Gletscherspalte)<br>
-&nbsp; &nbsp; – [[<span class="hellblau">Vulkanien</span>|Vulkanien]] (im südlichen Krater)<br>
-<span class="rot">F =</span> Großes Feuer<br>
+> * [[<span class="hellblau">DÃ¶rrland</span>|Doerrland/Barovia]] (Barovia)<br>
+> * [[<span class="hellblau">Gallien</span>|Gallien/Festung]] (in der alten Festung)<br>
+> * [[<span class="hellblau">Kreta</span>|Kreta/Orkwald]] (im Orkwald)<br>
+> * [[<span class="hellblau">MÃ¤rchenland</span>|Maerchenland]] (im Brunnen der GroÃŸmutter)<br>
+> * [[<span class="hellblau">Nankea</span>|Nankea/Wurzelwald]] (beim Turm des Sauren Mannes)<br>
+> * [[<span class="hellblau">Veldergautland</span>|Veldergautland/Spalt]] (in einer Gletscherspalte)<br>
+> * [[<span class="hellblau">Vulkanien</span>|Vulkanien]] (im sÃ¼dlichen Krater)<br>
+
+<span class="rot">F =</span> GroÃŸes Feuer<br>
 <font color=808080>g =</font> Gang<br>
 <font color=808080>h =</font> Hier gehts hoch zur Massagebank<br>
 <span class="orange">K =</span> Hier gehts runter in die Bar<br>
@@ -43,5 +44,5 @@ in einem Gang weiter unten auf)<br>
 <span class="gelb">O =</span> Opferaltar<br>
 <span class="gelb">o =</span> Vorraum mit Opferbecken<br>
 <span class="gelb">s =</span> Steinschrank mit Kutten<br>
-<span class="gelb">t =</span> [[<span class="hellblau">S-Bahn</span>|Campus/S-Bahn]]-Tunnel (man kann auf die Züge aufspringen und mitfahren - zurück gehts aber nicht)<br>
+<span class="gelb">t =</span> [[<span class="hellblau">S-Bahn</span>|Campus/S-Bahn]]-Tunnel (man kann auf die ZÃ¼ge aufspringen und mitfahren - zurÃ¼ck gehts aber nicht)<br>
 </span>
