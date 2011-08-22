@@ -22,9 +22,9 @@
 <font color=blue>B =</font> brunnen (man kann nicht reingehen wie in den von Tadmor, aber hier steht er und man kann aus allen Platz-Feldern draus trinken)<br>
 <span class="hellblau">e =</span> Ebene von Hanro, westlich des [[<span class="hellblau">Wurzelwaldes</span>|Wurzelwald]]<br>
 <span class="gelb">H =</span> Halle des Herrn von bruchberg<br>
-<font color=C0C0C0>k =</font> K¸che<br>
-<font color=C0C0C0>p =</font> groﬂer Platz<br>
-<span class="orange">s =</span> Sch‰nke<br>
+<font color=C0C0C0>k =</font> K√ºche<br>
+<font color=C0C0C0>p =</font> gro√üer Platz<br>
+<span class="orange">s =</span> Sch√§nke<br>
 <span class="gelb">T =</span> Burgtor<br>
 <font color=C0C0C0>v =</font> vor den Toren von Bruchberg<br>
 <span class="hellblau">W =</span> [[<span class="hellblau">Wurzelwald</span>|Wurzelwald]]<br>
