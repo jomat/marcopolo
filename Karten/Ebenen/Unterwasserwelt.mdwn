@@ -1,0 +1,1 @@
+[[!map pages="Karten/Ebenen/Unterwasserwelt/* and ! Karten/Ebenen/Unterwasserwelt/*/*"]]
