@@ -1,22 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta content="text/html; charset=ISO-8859-1"
- http-equiv="content-type">
-  <title>test</title>
-  <style type="text/css">
-h1 {
-color: #66ffff;
-text-decoration: underline;
-}
-  </style>
-</head>
-<body style="color: rgb(0, 0, 0);" alink="#ee0000"
- link="#0000ee" vlink="#551a8b">
-<p
- style="font-family: Courier New; background-color: white; text-align: left;"><span
- class="map">&nbsp;
-&nbsp; &nbsp; &nbsp;<font color="339966">\|/</font><br>
+<span class="map">
+&nbsp; &nbsp; &nbsp; &nbsp;<font color="339966">\|/</font><br>
 &nbsp; <span class="gelb">s S</span>&nbsp; <font
  color="339966">-<a
  href="https://marcopolo.0na.de/Karten/Gallien/"><font
@@ -51,9 +34,11 @@ text-decoration: underline;
 &nbsp; &nbsp; &nbsp; &nbsp;<font color="339966">-<a
  href="https://marcopolo.0na.de/Karten/Gallien/"><font
  color="339966">h</font></a>-</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp;<font color="339966">/|\</font></span></p>
-<p style="font-family: Courier New;"></p>
-<span style="font-family: Courier New;" class="legend">
+&nbsp; &nbsp; &nbsp; &nbsp;<font color="339966">/|\
+</font>
+</span>
+
+<span class="legend">
 <span class="gelb">A =</span> Anlieferungshalle<br>
 <span class="gelb">B =</span> Büro<br>
 <font color="C0C0C0">g =</font> Gasse<br>
@@ -73,5 +58,4 @@ gehts auch runter in nen Keller)<br>
 <span class="gelb">W =</span> Wohnhaus der Familie
 Montgolfier<br>
 <span class="gelb">w =</span> Wohnstube von Magdalena</span>
-</body>
-</html>
+</span>
