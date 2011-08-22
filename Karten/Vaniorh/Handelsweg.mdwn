@@ -1,5 +1,43 @@
 <span class="map">
-<font color=C0C0C0><br>
+<font color=C0C0C0>
+</span>
+<FONT COLOR="C0C0C0" FACE="Courier New" STYLE="font-size: 8pt">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=00CCFF>W</font>|../Vaniorh]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>w</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <font color=00CCFF>&nbsp; &nbsp;&nbsp; </font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>/ \</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>g &nbsp; s</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/ &nbsp; &nbsp; \</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=00CCFF>T</font>|Tadmor]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>d &nbsp; &nbsp; &nbsp; S</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <font color=00CC00>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w-p-p&nbsp; &nbsp;&nbsp; <font color=00CC00>d</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |&nbsp; &nbsp;&nbsp;<font color=00CC00>/</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>k</font> &nbsp; | <font color=FFCC00>S</font> <font color=blue>b-t-t</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=FFCC00>K</font>-v-w-w-p-<font color=008000>t-t-[[<font color=00CCFF>d</font>|alter_Handelsweg]]</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>w</font> &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|</font> &nbsp; &nbsp;\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W</font> &nbsp; &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|</font> &nbsp; &nbsp;&nbsp; \<br>
+&nbsp;<font color=FF9900>W</font> &nbsp; &nbsp; &nbsp; &nbsp; <font color=008000>W</font>&nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp;<font color=008000>|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font> &nbsp; &nbsp;&nbsp; &nbsp; \<br>
+&nbsp;<font color=008000>W-<font color=FFCC00>B</font>-W-<font color=FFCC00>h</font>-W-W-W-</font>[[<font color=00CCFF>H</font>|Cosiran]]&nbsp; &nbsp; &nbsp;w-<font color=FFCC00>R</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>| &nbsp; |</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;[[<font color=00CCFF>G</font>|Duesterwald]]<font color=008000>-W-W-W-W</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp;<font color=008000>| |</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<font color=FFCC00>F</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+<font color=008000>&nbsp; &nbsp; &nbsp;|</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;<font color=FFCC00>s</font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w-w-w-<font color=FFCC00>a</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<font color=00CCFF>w</font>|Terqa]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 
+|</FONT>
+</span>
+
+<span class="legend">
 <span class="gelb">a =</span> schwarzer Altar<br>
 <span class="gelb">B =</span> Blockhütte des Holzfällers<br>
 <font color=blue>b =</font> Bach<br>
