@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#C0C0C0">
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Borsippa_Ebene]] &nbsp; <span class="orange">M</span> <span class="orange">T</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; | |<br>
@@ -21,14 +22,14 @@
 &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">u</span>|Untergrund]]-s-[[<span class="hellblau">T</span>|Orkberge]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp;\<br>
 &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">I</span>|Iljana]]
-
+</font>
 </span>
 
 <span class="legend">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">A =</span> [[<span class="hellblau">Alchemistengilde</span>|Alchemistengilde]]<br>
-<span class="gelb">B =</span> Bürgermeisteramt<br>
-<span class="orange">B =</span> Bäcker<br>
+<span class="gelb">B =</span> BÃ¼rgermeisteramt<br>
+<span class="orange">B =</span> BÃ¤cker<br>
 <span class="orange">G =</span> Gaststube<br>
 <span class="gelb">G =</span> [[<span class="hellblau">Gertruds Haus</span>|Gertrud]]<br>
 <span class="gelb">h =</span> Hinterhof<br>
@@ -44,10 +45,10 @@
 <span class="gelb">S =</span> Singleclub<br>
 <span class="orange">S =</span> Schmiede<br>
 <span class="orange">s =</span> Schneider<br>
-<font color=C0C0C0>s =</font> Straße/Gasse<br>
+<font color=C0C0C0>s =</font> StraÃŸe/Gasse<br>
 <span class="hellblau">T =</span> Stadttor<br>
-&nbsp; &nbsp; Südlich: Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]] (und hier steht Muskel rum)<br>
-&nbsp; &nbsp; Nördlich: [[<span class="hellblau">Borsippa-Ebene</span>|Borsippa_Ebene]] (hier steht Joseph)<br>
+&nbsp; &nbsp; SÃ¼dlich: Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]] (und hier steht Muskel rum)<br>
+&nbsp; &nbsp; NÃ¶rdlich: [[<span class="hellblau">Borsippa-Ebene</span>|Borsippa_Ebene]] (hier steht Joseph)<br>
 <span class="orange">T =</span> Tulkas, der Trainer<br>
 <span class="hellblau">u =</span> hier kann man das Gitter im Boden aufsprengen und in den [[<span class="hellblau">Untergrund</span>|Untergrund]] von Borsippa runter<br>
 <span class="gelb">v =</span> verfallenes, altes Haus<br>
