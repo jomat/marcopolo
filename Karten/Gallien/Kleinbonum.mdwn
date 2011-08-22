@@ -1,6 +1,7 @@
 <span class="map">
 &nbsp;<font color=00CC00>\|/</font><br>
-&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]---</font><span class="gelb">E</span>-m<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]---</font><span class="gelb">E</span><span color="C0C0C0">
+<font color="C0C0C0">-m</font></span><br>
 &nbsp;<font color=00CC00>/|\</font>
 </span>
 
