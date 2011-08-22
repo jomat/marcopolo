@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#C0C0C0">
 &nbsp; &nbsp; &nbsp; &nbsp;<font color=339966>\|/</font><br>
 &nbsp; <span class="gelb">s S</span>&nbsp; <font color=339966>-[[<font color=339966>h</font>|Gallien]]-</font><br>
 &nbsp; &nbsp;\| &nbsp; |<br>
@@ -14,14 +15,14 @@
 &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<font color=339966>-[[<font color=339966>h</font>|Gallien]]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp;<font color=339966>/|\</font>
-
+</font>
 </span>
 
 <span class="legend">
 <span class="gelb">A =</span> Anlieferungshalle<br>
-<span class="gelb">B =</span> Büro<br>
+<span class="gelb">B =</span> BÃ¼ro<br>
 <font color=C0C0C0>g =</font> Gasse<br>
-<font color=339966>h =</font> Hügel im [[<span class="hellblau">Süden Galliens</span>|Gallien]]<br>
+<font color=339966>h =</font> HÃ¼gel im [[<span class="hellblau">SÃ¼den Galliens</span>|Gallien]]<br>
 <span class="gelb">K =</span> Kirche<br>
 <span class="orange">M =</span> Marktplatz &amp; Landeplatz des Ballons nach [[<span class="hellblau">Ephesos</span>|Kreta/Ephesos]]<br>
 <span class="gelb">m =</span> Magdalenas Haus (hier gehts auch runter in nen Keller)<br>
