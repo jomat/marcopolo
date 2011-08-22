@@ -6,7 +6,7 @@
 
 <span class="legend">
 <span class="gelb">E =</span> Eingangsbereich<br>
-<font color=C0C0C0>m =</font> Mitten im (zerstörten) Lager Kleinbonum - hier 
-gibts nur noch Trümmer und einen tollwütigen Hund<br>
+<font color=C0C0C0>m =</font> Mitten im (zerstÃ¶rten) Lager Kleinbonum - hier 
+gibts nur noch TrÃ¼mmer und einen tollwÃ¼tigen Hund<br>
 <font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
 </span>
