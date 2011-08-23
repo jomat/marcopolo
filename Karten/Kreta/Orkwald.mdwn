@@ -1,7 +1,7 @@
 <span class="map">
-<span color="008000">
+<font color="008000">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<span class="hellblau">r</span>|Kreta]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[<span class="hellblau">r</span>|Kreta]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=00CC00>H-H-<font color=blue>q</font>-H-H</font> &nbsp; &nbsp; W<br>
 &nbsp;<font color=00CC00>\|</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|X<font color=blue>|</font>X|/</font> &nbsp; &nbsp; &nbsp;|<br>
@@ -58,3 +58,4 @@ Bergziegen<br>
 Wiesel<br>
 Springmäuse<br>
 </span>
+</font>
