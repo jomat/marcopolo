@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#008000">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|/ &nbsp; &nbsp;&nbsp; &nbsp; <font color=blue>|</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; -[[<font color=008000>W</font>|Gallien]]- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<font color=008000>W</font>|Gallien]]-&nbsp; &nbsp;&nbsp; &nbsp; <font color=blue>-[[<font color=blue>h</font>|Gallien]]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
@@ -58,6 +59,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<font color=008000>W</font>|Gallien]]-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;     -[[<font color=008000>W</font>|Gallien]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\
+</font>
 </span>
 
 <span class="legend">
@@ -65,17 +67,17 @@
 <font color=blue>b =</font> Bach<br>
 <span class="gelb">C =</span> An der Ostseite der Schlucht kann man zu der Stelle hochklettern wo die Champignons wachsen<br>
 <span class="gelb">F =</span> Feuerstelle<br>
-<span class="orange">G =</span> Hütte von Glühfix, dem Glühweinverkäufer<br>
+<span class="orange">G =</span> HÃ¼tte von GlÃ¼hfix, dem GlÃ¼hweinverkÃ¤ufer<br>
 <span class="gelb">H =</span> Haus des Waldarbeiters Waldwegwienix<br>
-<font color=blue>h =</font> Halbinsel (man kommt von hier ins Meer vor [[<span class="hellblau">Gallien</span>|Gallien]], aber nicht zurück)<br>
+<font color=blue>h =</font> Halbinsel (man kommt von hier ins Meer vor [[<span class="hellblau">Gallien</span>|Gallien]], aber nicht zurÃ¼ck)<br>
 <font color=00CC00>L =</font> Lichtung<br>
-<span class="gelb">M =</span> Hier wurde Miraculix von den Römern überfallen<br>
-<span class="gelb">P =</span> Schöne kleine Lichtung, wo ein kranker Pilz steht<br>
+<span class="gelb">M =</span> Hier wurde Miraculix von den RÃ¶mern Ã¼berfallen<br>
+<span class="gelb">P =</span> SchÃ¶ne kleine Lichtung, wo ein kranker Pilz steht<br>
 <font color=008000>p =</font> Ein kleiner Pfad im Wald<br>
 <span class="hellblau">Q =</span> Quelle<br>
 <span class="hellblau">t =</span> Hier kann man die [[<span class="hellblau">Ruinen der Trabantenstadt</span>|Trabantenstadt]] betreten<br>
-<font color=008000>W =</font> Gallischer Wald (die äußeren Felder sind schon wieder normaler Wald in [[<span class="hellblau">Gallien</span>|Gallien]] (Keine Wege...)<br>
-<span class="gelb">W =</span> Kleine Lichtung auf der Würfelfix sitzt<br>
+<font color=008000>W =</font> Gallischer Wald (die Ã¤uÃŸeren Felder sind schon wieder normaler Wald in [[<span class="hellblau">Gallien</span>|Gallien]] (Keine Wege...)<br>
+<span class="gelb">W =</span> Kleine Lichtung auf der WÃ¼rfelfix sitzt<br>
 <span class="gelb">w =</span> Ein doch nicht ganz so netter Wichtel<br>
-<center><font color=00CC00>([[<font color=00CC00>zurück nach Gallien</font>|Gallien]])</font>
+<center><font color=00CC00>([[<font color=00CC00>zurÃ¼ck nach Gallien</font>|Gallien]])</font>
 </span>
