@@ -1,4 +1,5 @@
 <span class="map">
+<font color="00CC00">
 &nbsp;&nbsp;&nbsp;&nbsp; g<br>
 &nbsp;&nbsp;&nbsp; / \<br>
 &nbsp;&nbsp; / <span class="gelb">s</span> \<br>
@@ -9,13 +10,16 @@
 &nbsp;&nbsp;&nbsp; \ /<br>
 &nbsp;&nbsp;&nbsp;&nbsp; k
 </span>
+</font>
 
 <span class="legend">
+<font color="C0C0C0">
 <font color=00CC00>g =</font> Garten (im Westen kann man den Garten nach [[<span class="hellblau">Kreta</span>|Kreta]] verlassen<br>
-<span class="gelb">K =</span> Küche<br>
+<span class="gelb">K =</span> KÃ¼che<br>
 <span class="gelb">k =</span> Kinderzimmer<br>
-<font color=00CC00>k =</font> Kräutergarten<br>
+<font color=00CC00>k =</font> KrÃ¤utergarten<br>
 <span class="gelb">S =</span> Stube (vom Dach aus [erreichbar durch den Kamin] fliegt ein Storch zum [[<span class="hellblau">Koboldhaus</span>|Maerchenland/Koboldhaus]] in Koboldingen)<br>
 <span class="gelb">s =</span> Schlafzimmer<br>
 <font color=00CC00>w =</font> Wiese
 </span>
+</font>
