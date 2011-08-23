@@ -1,4 +1,5 @@
 <span class="map">
+<font color="00CC00">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w-+-w<br>
@@ -43,33 +44,36 @@
 &nbsp; &nbsp; | | | | &nbsp; | |<br>
 &nbsp; W-W-W-W W-W-W W-W
 </span>
+</font>
 
 <span class="legend">
-<span class="gelb">A =</span> König Artus &amp; Knappe Pettsy<br>
+<font color="C0C0C0">
+<span class="gelb">A =</span> KÃ¶nig Artus &amp; Knappe Pettsy<br>
 <span class="gelb">a =</span> Abort<br>
 <font color=C0C0C0>a =</font> Allee in Troja<br>
-<font color=CC6600>b =</font> Brücke des Todes<br>
+<font color=CC6600>b =</font> BrÃ¼cke des Todes<br>
 <span class="gelb">E =</span> Eingangshalle des Palastes (hier steht Hecotr rum)<br>
-<span class="gelb">G =</span> Hölzerner Kelch (Heiliger Gral) in Nebelfeld<br>
+<span class="gelb">G =</span> HÃ¶lzerner Kelch (Heiliger Gral) in Nebelfeld<br>
 <font color=808080>g =</font> Unterirdischer Gang<br>
 <font color=C0C0C0>g =</font> Gang<br>
-<span class="hellblau">H =</span> Kleine Hütte (durch den Schrank kommt man zurück zu den [[<span class="hellblau">Ruinen von Troja</span>|Troja]])<br>
+<span class="hellblau">H =</span> Kleine HÃ¼tte (durch den Schrank kommt man zurÃ¼ck zu den [[<span class="hellblau">Ruinen von Troja</span>|Troja]])<br>
 <span class="hellblau">h =</span> [[<span class="hellblau">kleines Haus</span>|Haus]]<br>
-<font color=C0C0C0>h =</font> An der Ostwand der Schlucht hats ein Hornissennest und einen Heebel für den Gang nach Osten<br>
-<span class="hellblau">K =</span> Killer-Karnickel und Höhleneingang<br>
+<font color=C0C0C0>h =</font> An der Ostwand der Schlucht hats ein Hornissennest und einen Heebel fÃ¼r den Gang nach Osten<br>
+<span class="hellblau">K =</span> Killer-Karnickel und HÃ¶hleneingang<br>
 <font color=808080>k =</font> Kobold-Kammer<br>
 <span class="gelb">L =</span> Lagerraum<br>
 <span class="gelb">m =</span> alter Mann<br>
 <span class="gelb">N =</span> Die Ritter des NIE<br>
 <font color=C0C0C0>p =</font> Marktplatz von Troja<br>
 <span class="gelb">R =</span> Roger, der Buschmann<br>
-<span class="gelb">S =</span> roter Salon (südlich) / blauer Salon (nördlich)<br>
+<span class="gelb">S =</span> roter Salon (sÃ¼dlich) / blauer Salon (nÃ¶rdlich)<br>
 <font color=C0C0C0>s =</font> Schlucht<br>
 <span class="hellblau">T =</span> Stadttor<br>
 <span class="hellblau">t =</span> Treppe zum [[<span class="hellblau">1. Stock des Palastes</span>|Palast]]<br>
 <font color=00CC00>v =</font> Vor/Hinter/Neben einem kleinen Haus<br>
 <font color=006600>W =</font> Wald<br>
 <font color=00CC00>w =</font> Wiese (irgendwo rennt da der kleine Pucki rum)<br>
-<span class="hellblau">z =</span> An einem Zaun, über den man ins Ziegengehege des [[<span class="hellblau">kleinen Hauses</span>|Haus]] klettern kann
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Phygria</font>|Kreta]])</font></center>
+<span class="hellblau">z =</span> An einem Zaun, Ã¼ber den man ins Ziegengehege des [[<span class="hellblau">kleinen Hauses</span>|Haus]] klettern kann
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurÃ¼ck nach Phygria</font>|Kreta]])</font></center>
 </span>
+</font>
