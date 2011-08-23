@@ -1,4 +1,5 @@
 <span class="map">
+<font color="blue">
 &nbsp; &nbsp; &nbsp; &nbsp; w---<span class="hellblau">W</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; m<br>
@@ -9,13 +10,16 @@
 &nbsp;/ \ / \<br>
 <span class="hellblau">S</span>---M---m</font></TD>
 </span>
+</font>
 
 <span class="legend">
-<font color=808080>F =</font> Felsformation (man kann in eine Höhle klettern um dort Luft zu schnappen)<br>
-<span class="hellblau">M =</span> Hier startet man wenn man aus der Höhle ins Wasser springt.<br>
-<font color=blue>m =</font> Meeresgrund (wenn man auftaucht landet man im Meer östlich von [[<span class="hellblau">Kreta</span>|Kreta]])<br>
+<font color="C0C0C0">
+<font color=808080>F =</font> Felsformation (man kann in eine HÃ¶hle klettern um dort Luft zu schnappen)<br>
+<span class="hellblau">M =</span> Hier startet man wenn man aus der HÃ¶hle ins Wasser springt.<br>
+<font color=blue>m =</font> Meeresgrund (wenn man auftaucht landet man im Meer Ã¶stlich von [[<span class="hellblau">Kreta</span>|Kreta]])<br>
 <span class="hellblau">S =</span> Schatztruhe<BR>
-<span class="hellblau">T =</span> Eingang zu Tritons Höhle<br>
+<span class="hellblau">T =</span> Eingang zu Tritons HÃ¶hle<br>
 <span class="hellblau">W =</span> Schiffswrack (hier kann man duch ein Bullauge hinein zur Riesenkrake Ursula schwimmen)<br>
 <font color=808080>w =</font> Schiffswrack
 </span>
+</font>
