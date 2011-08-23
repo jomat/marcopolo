@@ -1,22 +1,46 @@
 <span class="map">
-<font color=CC6600>A =</font> Altar (hier gehts hoch und runter) [Vorsicht! Nicht beten, solange der bˆse Geist Aarghz hier ist]<br>
-<font color=00CC00>a =</font> Ameisenb‰r & silberner Brustpanzer<br>
-<font color=CC6600>b =</font> Wurmg‰nge (hier gehts hoch und runter)<br>
-<font color=00CC00>e =</font> In den ƒsten der Eiche<br>
+<font color="CC6600">
+&nbsp;Wurmg√§nge &nbsp; <font color="00CC00">Baumkrone &nbsp; Altar &nbsp; obere Baumkrone</font><br>
+    <br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; <font color="00CC00">S<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; |</font><br>
+    &nbsp; &nbsp; g-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color="00CC00">a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e</font> <br>
+    &nbsp; &nbsp;/ &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp;<font color="00CC00">/<font color="CC6600">|</font>\</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+    &nbsp; g g-h g &nbsp; &nbsp; &nbsp;<font color="00CC00">e<font color="CC6600">-b-</font>e &nbsp; &nbsp; &nbsp; <font color="CC6600">A</font> &nbsp; &nbsp; &nbsp; &nbsp;S-e<font color="CC6600">-r-</font>e-S</font><br>
+    &nbsp; | | &nbsp; | &nbsp; &nbsp; &nbsp; <font color="00CC00">\<font color="CC6600">|</font>/</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
+    &nbsp; g g-g-g &nbsp; &nbsp; &nbsp; &nbsp;<font color="00CC00">r &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;e</font><br>
+    &nbsp; &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;<font color="00CC00">|</font><br>
+    &nbsp; &nbsp; g-<a title="Zur√ºck nach Kreta" href="../Kreta.html"><font color="CC6600">e</font></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color="00CC00">S</font></FONT>
+</span>
+</font>
+
+<span class="legend">
+<font color="C0C0C0">
+<font color=CC6600>A =</font> Altar (hier gehts hoch und runter) [Vorsicht! Nicht beten, solange der b√∂se Geist Aarghz hier ist]<br>
+<font color=00CC00>a =</font> Ameisenb√§r & silberner Brustpanzer<br>
+<font color=CC6600>b =</font> Wurmg√§nge (hier gehts hoch und runter)<br>
+<font color=00CC00>e =</font> In den √Ñsten der Eiche<br>
 <font color=CC6600>e =</font> Eingang &amp; Schacht runter zu den Wurzeln<br>
-<font color=CC6600>g =</font> Wurmg‰nge<br>
+<font color=CC6600>g =</font> Wurmg√§nge<br>
 <font color=CC6600>h =</font> Hier geht es hoch in die Baumkrone<br>
 <font color=00CC00>r =</font> Druidenrezept<br>
 <font color=CC6600>r =</font> Hier geht es runter zum Altar<br>
-<font color=00CC00>S =</font> In den ƒsten der Eiche (hier hats Schattend‰monen)<br>
+<font color=00CC00>S =</font> In den √Ñsten der Eiche (hier hats Schattend√§monen)<br>
 <span class="rot">Monster:</span><br>
-Aarghz, der bˆse Geist<br>
-Borkenk‰fer<br>
-Eichbockk‰fer<br>
+Aarghz, der b√∂se Geist<br>
+Borkenk√§fer<br>
+Eichbockk√§fer<br>
 Riesenlarven<br>
 Riesenraupen<br>
-Riesenl‰use<br>
-R¸sselk‰fer<br>
+Riesenl√§use<br>
+R√ºsselk√§fer<br>
 Sackmotten<br>
-Schattend‰monen<br>
+Schattend√§monen<br>
 </span>
+</font>
