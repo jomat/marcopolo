@@ -1,4 +1,5 @@
 <span class="map">
+<font color="C0C0C0">
 &nbsp;Erdgeschoss&nbsp; &nbsp;&nbsp;Untergeschoss<br>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gelb">M</span><br>
@@ -9,20 +10,23 @@
 &nbsp;&nbsp;| |&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 &nbsp; e-[[<span class="hellblau">E</span>|Kreta]]-w&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="gelb">L</span>
 </span>
+</font>
 
 <span class="legend">
-<span class="gelb">B =</span> Büro mit Tresor<br>
+<font color="C0C0C0">
+<span class="gelb">B =</span> BÃ¼ro mit Tresor<br>
 <span class="hellblau">E =</span> Eingangshalle (hier gehts wieder raus nach [[<span class="hellblau">Phygria</span>|Kreta]])<br>
 <font color=C0C0C0>e =</font> Esszimmer<br>
 <span class="rot">F =</span> Lagerfeuer mit einem Troll und Ork rundherum<br>
 <font color=C0C0C0>g =</font> unterirdischer Gang<br>
 <font color=C0C0C0>h =</font> hier gehts hoch<br>
-<font color=C0C0C0>k =</font> Küche<br>
-<span class="gelb">L =</span> hier ist ein süsses kleines (10 Felder) Labyrinth<br>
-<span class="gelb">M =</span> Müllhalde<br>
-<span class="gelb">R =</span> weißer Ritter (hier gehts auch runter)<br>
-<span class="gelb">T =</span> hier ist eine Tür nach Osten (Schlüssel ist im Tresor im Büro)<br>
+<font color=C0C0C0>k =</font> KÃ¼che<br>
+<span class="gelb">L =</span> hier ist ein sÃ¼sses kleines (10 Felder) Labyrinth<br>
+<span class="gelb">M =</span> MÃ¼llhalde<br>
+<span class="gelb">R =</span> weiÃŸer Ritter (hier gehts auch runter)<br>
+<span class="gelb">T =</span> hier ist eine TÃ¼r nach Osten (SchlÃ¼ssel ist im Tresor im BÃ¼ro)<br>
 <font color=C0C0C0>t =</font> Treppenhaus<br>
 <span class="gelb">W =</span> Hackbarts Wohnzimmer (runter gehts ins Schlafzimmer)<br>
 <font color=C0C0C0>w =</font> Warteraum<br>
 </span>
+</font>
