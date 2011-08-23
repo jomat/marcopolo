@@ -1,4 +1,5 @@
 <span class="map">
+<span color="008000">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<span class="hellblau">r</span>|Kreta]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
@@ -31,18 +32,18 @@
 </span>
 
 <span class="legend">
-<span class="hellblau">B =</span> Weg zur zerstörten Beschwörergilde<br>
+<span class="hellblau">B =</span> Weg zur zerstÃ¶rten BeschwÃ¶rergilde<br>
 <font color=blue>b = </font>kleiner Bach<br>
 <span class="hellblau">F =</span> Feuerstelle<br>
 <font color=00CC00>g =</font> verwilderter Garten<br>
-<font color=00CC00>H =</font> Hügel<br>
-<span class="hellblau">H =</span> Hier gehts runter in eine Höhle mit einem Flammentor in die [[<span class="hellblau">Beschwörergilde</span>|OdF]]<br>
-<span class="hellblau">h =</span> Lumberjacks Hütte<br>
-<span class="gelb">K =</span> Kornfeld (im östlichen Feld steht die kleine Trauerweide)<br>
-<span class="hellblau">M =</span> Mirakolos Höhle (von wo man Zauberstab holen ins [[<span class="hellblau">Labyrinth des Paion</span>|Lab]] geschickt wird)<br>
-<span class="hellblau">O =</span> Ork-Höhle<br>
+<font color=00CC00>H =</font> HÃ¼gel<br>
+<span class="hellblau">H =</span> Hier gehts runter in eine HÃ¶hle mit einem Flammentor in die [[<span class="hellblau">BeschwÃ¶rergilde</span>|OdF]]<br>
+<span class="hellblau">h =</span> Lumberjacks HÃ¼tte<br>
+<span class="gelb">K =</span> Kornfeld (im Ã¶stlichen Feld steht die kleine Trauerweide)<br>
+<span class="hellblau">M =</span> Mirakolos HÃ¶hle (von wo man Zauberstab holen ins [[<span class="hellblau">Labyrinth des Paion</span>|Lab]] geschickt wird)<br>
+<span class="hellblau">O =</span> Ork-HÃ¶hle<br>
 <font color=blue>q =</font> Quelle<br>
-<span class="hellblau">r =</span> Waldrand (zurück nach [[<span class="hellblau">Kreta</span>|Kreta]])<br>
+<span class="hellblau">r =</span> Waldrand (zurÃ¼ck nach [[<span class="hellblau">Kreta</span>|Kreta]])<br>
 <span class="hellblau">T =</span> Stadttor von [[<span class="hellblau">Knossos</span>|Knossos]]<br>
 <font color=009999>U =</font> Seeufer<br>
 <font color=808080>v =</font> Verfallenes Haus<br>
@@ -50,10 +51,10 @@
 <font color=00CC00>w =</font> Zugewucherter Weg<br>
 <span class="rot">Monster:</span><br>
 (sehr viele) Orks [hinter jedem zweiten Busch springen gleich mehrere hervor]<br>
-Wölfe <br>
-Wildsäue<br>
+WÃ¶lfe <br>
+WildsÃ¤ue<br>
 <span class="hellblau">Friedliche Bewohner:</span><br>
 Bergziegen<br>
 Wiesel<br>
-Springmäuse<br>
+SpringmÃ¤use<br>
 </span>
