@@ -1,4 +1,5 @@
 <span class="map">
+<font color="008000">
 &nbsp;<font color=blue>\|/</font><br>
 &nbsp; [[<font color=FFFF00>s</font>|Cyprus]]<font color=FFFF00>-</font><br>
 &nbsp; |<br>
@@ -20,11 +21,13 @@
 &nbsp; &nbsp; &nbsp; <font color=blue>|</font><br>
 </TD>
 </span>
+</font>
 
 <span class="legend">
+<font color="C0C0C0">
 <font color=008000>F =</font> Flammenbaum (man kann an ner Liane zum Huegel runterklettern, oder den Baum runter Richtung Steinstrand)<br>
 <font color=C0C0C0>f =</font> Felssims<br>
-<font color=00CC00>H =</font> Hügel<br>
+<font color=00CC00>H =</font> HÃ¼gel<br>
 <font color=C0C0C0>p =</font> Plateau<br>
 <font color=00CC00>S =</font> Schnabelfruchtbaum<br>
 <font color=FFFF00>s =</font> Sandstrand (auf [[<span class="hellblau">Cyprus</span>|Cyprus]])<br>
@@ -32,3 +35,4 @@
 <font color=blue>u =</font> Kueste vor einer Insel<br>
 <font color=008000>W =</font> Wald<br>
 </span>
+</font>
