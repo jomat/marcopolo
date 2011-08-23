@@ -1,4 +1,5 @@
 <span class="map">
+<font color="C0C0C0">
 &nbsp;Erdgeschoss&nbsp; &nbsp;Untergeschoss<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="gelb">&nbsp; I</span><br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; |<br>
@@ -8,14 +9,17 @@
 &nbsp;&nbsp; &nbsp; &nbsp; <font color=00CC00>|\</font>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <span class="gelb">&nbsp;K</span>
 </span>
+</font>
 
 <span class="legend">
-<font color=00CC00>D =</font> Dünenlandschaft an der Küste von [[<span class="hellblau">Kreta</span>|Kreta]]<br>
+<font color="C0C0C0">
+<font color=00CC00>D =</font> DÃ¼nenlandschaft an der KÃ¼ste von [[<span class="hellblau">Kreta</span>|Kreta]]<br>
 <span class="gelb">E =</span> Deianeiras Empfangshalle (hier gehts auch runter ins Untergeschoss)<br>
-<span class="gelb">G =</span> Gästezimmer (Geheimtür nach Norden...)<br>
+<span class="gelb">G =</span> GÃ¤stezimmer (GeheimtÃ¼r nach Norden...)<br>
 <span class="gelb">I =</span> Innenhof & Altar der Hera<br>
 <span class="gelb">J =</span> Jagdtzimmer<br>
-<span class="gelb">K =</span> Küche / Gesindezimmer<br>
+<span class="gelb">K =</span> KÃ¼che / Gesindezimmer<br>
 <span class="gelb">k =</span> Kinderzimmer<br>
-<font color=C0C0C0>t =</font> Torweg der Villa & 2 Wächter ['will zu deianeira' um reinzukommen]<br>
+<font color=C0C0C0>t =</font> Torweg der Villa & 2 WÃ¤chter ['will zu deianeira' um reinzukommen]<br>
 </span>
+</font>
