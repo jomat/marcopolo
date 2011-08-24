@@ -6,6 +6,8 @@
 .map {
   color:#ffffff;
   white-space:nowrap;
+  display: table;
+  margin:auto;
 }
 .legend { color:#c0c0c0; }
 /* ikiwiki style sheet */
