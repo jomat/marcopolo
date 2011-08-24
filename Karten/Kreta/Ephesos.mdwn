@@ -10,12 +10,11 @@
 &nbsp; &nbsp;<font color=00CC00>|</font> &nbsp; | |<br>
 -[[<span class="hellblau">T</span>|Kreta]]-[[<font color=C0C0C0>k</font>|Kanalisation]]-s-t-s-<span class="hellblau">$</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
-&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">R</span> <span class="orange">E</span></TD>
+&nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">R</span> <span class="orange">E</span>
 </span>
 </font>
 
 <span class="legend">
-<font color="C0C0C0">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Bardengilde</span>|Bardengilde]]<br>
 <span class="orange">b =</span> Landeplatz für den Ballon der nach [[<span class="hellblau">Annonay</span>|Gallien/Annonay]] in [[<span class="hellblau">Gallien</span>|Gallien]] fliegt<br>
@@ -37,4 +36,3 @@
 <font color=C0C0C0>t =</font> Tempelplatz<br>
 <font color=00CC00>v =</font> Vorgarten der Mathemathikergilde<br>
 </span>
-</font>
