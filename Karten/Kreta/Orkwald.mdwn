@@ -1,5 +1,5 @@
 <span class="map">
-<font color="008000">
+<font color="#008000">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\|/<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-[[<span class="hellblau">r</span>|Kreta]]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
@@ -28,7 +28,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; W<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">B</span>
-</TD>
 </span>
 
 <span class="legend">
@@ -49,13 +48,18 @@
 <font color=808080>v =</font> Verfallenes Haus<br>
 <font color=006000>W =</font> Wald<br>
 <font color=00CC00>w =</font> Zugewucherter Weg<br>
+</span>
+
+<span class="legend">
 <span class="rot">Monster:</span><br>
 (sehr viele) Orks [hinter jedem zweiten Busch springen gleich mehrere hervor]<br>
 Wölfe <br>
 Wildsäue<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Friedliche Bewohner:</span><br>
 Bergziegen<br>
 Wiesel<br>
 Springmäuse<br>
 </span>
-</font>
