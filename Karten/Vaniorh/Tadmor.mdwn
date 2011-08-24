@@ -121,5 +121,4 @@
 <span class="gelb">v =</span> Vor einem Stadttor (Treppe auf die [[<span class="hellblau">Stadtmauer</span>|Stadtmauer]])<br>
 <span class="gelb">W =</span> Stadtwache<br>
 <font color=00CC00>w =</font> Kuhweide<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<FONT face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Vaniorh</font>|Vaniorh]])</font></center>
 </span>
