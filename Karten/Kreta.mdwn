@@ -1,4 +1,5 @@
-<span class="map"><font color="blue">
+<span class="map">
+<font color="blue">
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-b-b-b-b-b-b-b-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X<br>
@@ -113,6 +114,9 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <span class="hellblau">W =</span> [[<span class="hellblau">Heracles Landhaus</span>|Kreta/Wohnsitz]]<br>
 <span class="hellblau">Z =</span> Zyklopen-Höhle<br>
 <span class="hellblau">z =</span> Zip-Rune <br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Landschaft:</span><br>
 <font color=C0C0C0>A =</font> Avalon<br>
 <font color=808080>B =</font> Berge<br>
@@ -132,6 +136,9 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <font color=blue>u =</font> Am Ufer<br>
 <font color=FFFF00>W =</font> Wüste<br>
 <font color=800000>µ =</font> Sumpf<br>
+</span>
+
+<span class="legend">
 <span class="rot">Monster:</span><br>
 Löwen<br>
 Panzerechsen<br>
@@ -143,6 +150,9 @@ Sumpfratten<br>
 Wildeber<br>
 Wölfe<br>
 Zyklopen<br>
+</span>
+
+<span class="legend">
 <span class="hellblau">Friedliche Bewohner:</span><br>
 Gorillas<br>
 Zentauren<br>
