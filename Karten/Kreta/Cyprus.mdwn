@@ -18,11 +18,9 @@
 </font>
 
 <span class="legend">
-<font color="C0C0C0">
 <font color=blue>b =</font> Bucht<br>
 <font color=C0C0C0>K =</font> Klippe (obendrauf ist ein schwarzer Turm, zu dem man hochklettern kann)<br>
 <font color=FFFF00>s =</font> Sandstrand<br>
 <font color=C0C0C0>s =</font> Steiniger Strand (hier kann man im Norden die Felswand hochklettern [danach ueber den Fels Richtung [[<span class="hellblau">Wald</span>|Cyprus_Wald]]] oder durch eine Spalte in eine [[<span class="hellblau">verlassene Mine</span>|Mine2]] kriechen)<br>
 <font color=blue>u =</font> Kueste vor einer Insel<br>
-</span>
 </font>
