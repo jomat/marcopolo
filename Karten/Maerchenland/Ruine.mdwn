@@ -7,7 +7,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="violett">A</span>|Ebenen/Amerindia/Gruft]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="violett">A =</span> Verstecktes Dimensionstor zur [[<span class="hellblau">Gruft</span>|Ebenen/Amerindia/Gruft]] der Pyramide in Amerindia ('rumpelstilzchen' sagen, danach einfach nach Westen gehen oder die Westwand betreten)<br>
 <font color=C0C0C0>k =</font> Turmkeller<br>
 <span class="gelb">S =</span> Raum in dem der Steinrucksack für Golems liegt (andere Spieler bekommen die Tür auch gar nicht auf und der Rucksack geht kaputt wenn ein Nicht-Golem ihn nehmen will)<br>

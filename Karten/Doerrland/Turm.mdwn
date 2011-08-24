@@ -10,7 +10,7 @@
 &nbsp; &nbsp;r---r
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Turmspitze mit einer gewaltigen Armbrust<br>
 <span class="gelb">G =</span> Grotte mit Maschinerie zum Drehen der Armbrust<br>
 <font color=C0C0C0>g =</font> Dunkler Gang<br>

@@ -17,7 +17,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">D =</span> gigantischer Höhlendrache (wenn man in seinem Blut badet kann man unbeschadet den Gang nach Norden entlang<br>
 <font color=808080>g =</font> unterirdische Grotte (die Wege die hier nicht eingezeichnet sind führen recht verwirrend im Kreis)<br>
 <span class="gelb">L =</span> Lesezimmer der Schlange<br>

@@ -105,7 +105,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="hellblau">Sehenswertes:</span><br>
 <span class="hellblau">B =</span> Büffelherde<br>

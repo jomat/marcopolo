@@ -10,7 +10,7 @@
 	&nbsp; &nbsp; &nbsp;<span class="gelb">W</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">A =</span> Andachtsraum (hier kann man die 1. Nische [Spieler] bzw. 2. Nische [Engel] betreten und auch wieder raus auf den [[<span class="hellblau">Friedhof</span>|Friedhof]] von Knossos)<br>
 <span class="gelb">E =</span> Eingang für Engel (durch die 2. Nische im Andachtsraum kommt man über dieses Feld)<br>
 <span class="gelb">G =</span> Grabkammer<br>

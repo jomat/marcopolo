@@ -5,7 +5,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">H =</span> Hinterzimmer<br>
 <span class="gelb">K =</span> Kinderzimmer (durch das Loch im Boden kann man auch in den [[<span class="hellblau">Keller</span>|Kanaele_alt]] klettern)<br>
 <span class="gelb">L =</span> Ausgebrannter Laden (hier ist auch das Loch im Boden, durch das man wieder in den [[<span class="hellblau">Keller</span>|Kanaele_alt]] klettern kann)<br>

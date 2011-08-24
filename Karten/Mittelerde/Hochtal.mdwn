@@ -5,7 +5,7 @@
 &nbsp; &nbsp; \
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">h =</span> hier kann man zu dem Hochtal hochklettern vom unheimlichen [[<span class="hellblau">See</span>|See]] aus<br>
 <font color=C0C0C0>T =</font> Hochtal<br>
 <font color=C0C0C0>T =</font> Kurz unter dem Hochtal<br>

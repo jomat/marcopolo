@@ -8,7 +8,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">f =</span> Der Gang endet hier in einer Sackgasse, aber durch eine Falltür am Boden kommt man in einen weiteren Kellerraum<br>
 <font color=808080>g =</font> Gang<br>
 <span class="gelb">k =</span> kleine Kammer (druch Drücken des Steines im Mosaik kommt man nach Norden)<br>

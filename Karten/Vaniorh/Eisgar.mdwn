@@ -5,7 +5,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">G =</span> Golgar, der Zwerg (in der Höhle des [[<span class="hellblau">Cosiran</span>|Cosiran]])<br>
 <font color=00CC00>g =</font> Garten<br>
 <span class="gelb">K =</span> Küche (der Weg nach Norden ist eine Einbahnstraße)<br>

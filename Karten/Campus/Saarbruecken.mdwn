@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp;v <span class="orange">b</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">B =</span> Bahnhofshalle (hier steht ein Verkäufer mit Backwaren rum)<br>
 <span class="orange">b =</span> Buchhandlung<br>
 <span class="hellblau">b =</span> Bahnsteig (hier hält der Zug nach [[<span class="hellblau">Stuttgart</span>|Hauptbahnhof]]  [über [[<span class="hellblau">Mannheim</span>|Mannheim]]] und nach [[<span class="hellblau">Paris</span>|Paris]])<br>

@@ -11,7 +11,7 @@
 &nbsp; &nbsp; &nbsp;|</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">F =</span> Froschkönig<br>
 <font color=blue>f =</font> kleiner Fluss (wer hieraus trinkt wird ein Mittelding zwischen Gnom und Wolf)<br>
 <font color=blue>g =</font> kleiner Bach (wer daraus trinkt wird Gnom)<br>

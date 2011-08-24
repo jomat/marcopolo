@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">G =</span> Grubenarena<br>
 <span class="hellblau">K =</span> Kellerraum (hoch gehts nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]])<br>
 <span class="gelb">K =</span> Küche<br>

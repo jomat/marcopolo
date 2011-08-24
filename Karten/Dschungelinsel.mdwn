@@ -17,7 +17,7 @@ M-M-M-M-M-M-M-M</p>
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="hellblau">H =</span> Hafen<BR>
 <font color=blue>M =</font> Meer<BR>

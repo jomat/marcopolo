@@ -14,7 +14,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=FFCC00>b =</font> Bug mit Niedergang unter Deck<br>
 <font color=FF6600>g =</font> Gang unter Deck<br>
 <font color=FFCC00>h =</font> Heck mit Niedergang unter Deck<br>

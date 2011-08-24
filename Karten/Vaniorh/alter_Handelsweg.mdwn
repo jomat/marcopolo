@@ -20,7 +20,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>s</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=008000>d =</font> Hier kann man durch einen Spalt zwischen den Dornenbüschen zur Lichtung gelangen<br>
 <span class="gelb">F =</span> Friedhof<br>
 <span class="gelb">g =</span> In diesem Feld des Waldes sitzt ein flauschiger (aber überhaupt nicht süßer) Gremlin der einem das Leben schwer macht)<br>

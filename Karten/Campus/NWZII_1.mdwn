@@ -10,7 +10,7 @@
 	&nbsp;<span class="gelb">A</span>-f
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">A =</span> Blauer [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
 <font color=00CC00>A =</font> Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
 <span class="gelb">A =</span> ATOM-Spiel<br>

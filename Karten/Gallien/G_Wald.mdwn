@@ -62,7 +62,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Erkletterbarer Baum (Aussichtsplatform & Mistel-Sammelstelle)<br>
 <font color=blue>b =</font> Bach<br>
 <span class="gelb">C =</span> An der Ostseite der Schlucht kann man zu der Stelle hochklettern wo die Champignons wachsen<br>

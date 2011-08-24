@@ -20,7 +20,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">A =</span> Akademie<br>
 <span class="orange">D =</span> Dschingis, der Schmied<br>

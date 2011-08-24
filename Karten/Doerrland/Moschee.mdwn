@@ -7,7 +7,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; v <span class="gelb">T &nbsp; &nbsp; &nbsp; &nbsp;T</span>---t
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">E =</span> Eingang, an dem Faruk aufpasst ob man sich auch gewaschen hat<br>
 <span class="gelb">G =</span> Gebetsraum<br>
 <font color=C0C0C0>g =</font> Gang<br>

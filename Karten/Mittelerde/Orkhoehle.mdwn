@@ -9,7 +9,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Altar (bewacht von einem Uruk-Hai)<br>
 <span class="hellblau">a =</span> Ausgang der Höhle [in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]](hier stehen 2 Orks)<br>
 <span class="gelb">g =</span> geheimer Ort (Rastplatz)<br>

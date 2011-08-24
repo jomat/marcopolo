@@ -9,7 +9,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>B =</font> Badezimmer<br>
 <span class="gelb">B =</span> Bierkeller<br>
 <span class="gelb">E =</span> Esszimmer<br>

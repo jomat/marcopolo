@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<font color=808080>\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Aufenthaltsraum der Eiskunstläufer<br>
 <span class="orange">E =</span> Eingang &amp; Kasse<br>
 <font color=FFFFFF>e =</font> Eisfläche<br>

@@ -28,7 +28,7 @@
 &nbsp; &nbsp;/|<font color=008000>\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CC00>A =</font> Acker<br>
 <span class="gelb">a =</span> Abstellkammer<br>
 <span class="orange">B =</span> Bienenstand<br>

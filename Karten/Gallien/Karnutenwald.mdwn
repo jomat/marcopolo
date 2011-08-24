@@ -14,7 +14,7 @@
 &nbsp; &nbsp; &nbsp; <font color=00CC00>/|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=008000>b =</font> Brombeerstrauch<br>
 <font color=808080>F =</font> Felsen (ein Feld hoch geht es nach Osten in die Höhle und 2 Felder hoch geht es nach Norden zum Steinkreis)<br>
 <font color=808080>h =</font> kleine Höhle<br>

@@ -26,7 +26,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>G =</font> riesige Meeresgrotte, in die man sogar mit Schiffen hineinfahren kann<br>
 <span class="hellblau">H =</span> Hafen Sehavre an der Nordküste von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
 <font color=808080>h =</font> Höhlensystem<br>

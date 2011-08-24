@@ -23,7 +23,7 @@ obere Ebene&nbsp;&nbsp; untere Ebene<BR>
 &nbsp;<span class="gelb">A</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Hütte der Orkfrau Aline<br>
 <span class="gelb">a =</span> Anhöhe (ein Feld hoch hat man eine tolle Aussicht)<br>
 <font color=C0C0C0>B =</font> In den Bergen (im Westlichen Feld kann man runterklettern [<])<br>

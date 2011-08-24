@@ -23,7 +23,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <font color=008000>F =</font> Flammenbaum (man kann an ner Liane zum Huegel runterklettern, oder den Baum runter Richtung Steinstrand)<br>
 <font color=C0C0C0>f =</font> Felssims<br>

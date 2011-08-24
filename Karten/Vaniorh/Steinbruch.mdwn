@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>P =</font> Plateau, von dem aus die Orks Lawinen auf den Weg durch die Berge auslösen (durch ein Loch gehts hier runter in die [[<span class="hellblau">Orkhöhlen</span>|Orkhoehlen]])<br>
 <font color=C0C0C0>p =</font> Bergpfad<br>
 <span class="hellblau">S =</span> Durch einen Spalt kann man hier zum Weg durch die [[<span class="hellblau">Orkberge</span>|Orkberge]] runterklettern<br>

@@ -8,7 +8,7 @@
 &nbsp;h-h-h
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="violett">D =</span> drehbares Dimensionstor (die aktuelle Kombination 
 zu finden ist nicht schwer... das Tor ist ein One-Way Trip in die [[<span class="hellblau">Harpienhöhle</span>|Harpienhoehle]])<br>
 <span class="hellblau">e =</span> Eingang der Höhle (vom [[<span class="hellblau">Drachenland</span>|Drachenland]] aus) und kleine Nische mit einem Hologramm<br>

@@ -21,7 +21,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>B =</font> Brunnen<br>
 <span class="gelb">E =</span> Eowyns Gemach<br>
 <font color=C0C0C0>H =</font> Halle von Meduseld<br>

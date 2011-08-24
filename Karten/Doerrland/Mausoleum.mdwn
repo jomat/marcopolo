@@ -10,7 +10,7 @@
 &nbsp; &nbsp;[[<span class="hellblau">E</span>|Barovia]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">E =</span> Eingangshalle des Mausoleums (hier kommt man auch wieder raus nach [[<span class="hellblau">Barovia</span>|Barovia]])<br>
 <font color=808080>h =</font> Halle<br>
 <span class="gelb">S =</span> Sarg (diagonal von den Feldern aussenrum zu erreichen)<br>

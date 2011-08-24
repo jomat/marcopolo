@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>g =</font> Gang<br>
 <span class="gelb">g =</span> Zwischen diesen beiden Feldern ist ein Eisengitter<br>
 <span class="gelb">T =</span> Tresorraum<br>

@@ -6,7 +6,7 @@
 &nbsp;<span class="gelb">I</span>-<span class="gelb">R</span>-<span class="gelb">W</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>E =</font> Eingang der Felsenfestung<br>
 <span class="gelb">I =</span> Innenhof (im markierten Feld ist eine Feuerstelle)<br>
 <font color=C0C0C0>p =</font> Felsplateau (runter gehts in die Carmargue im [[<span class="hellblau">südlichen Gallien</span>|Gallien]])<br>

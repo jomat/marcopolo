@@ -38,7 +38,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">A =</span> Alt Ware, der Schrotthändler<br>
 <span class="gelb">A =</span> Der grosse Aussichtsturm von Tadmor<br>

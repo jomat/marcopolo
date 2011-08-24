@@ -24,7 +24,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/|\
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Anlegestelle<br>
 <font color=808080>B =</font> Eingestürzte Brücke über die Schlucht im Westen<br>
 <span class="gelb">B =</span> Lebendige Buche, die einen nicht nach Westen durchlässt<br> 

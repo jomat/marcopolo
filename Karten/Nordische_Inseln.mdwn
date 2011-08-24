@@ -100,7 +100,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">A =</span> Anhöhe mit Laborzelt (hier ist einer der Landepunkte von Sleipnir)<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Burg</span>|Nordische_Inseln/Burg]] auf Vandras<br>
 <span class="hellblau">b =</span> Brummbeerensträucher<br>
@@ -128,7 +128,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <span class="hellblau">Z =</span> Zelt von Tschebyscheff dem Meterologen<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Legende:</span><br>
 <font color=808080>% =</font> [[<span class="hellblau">Labyrinth</span>|Nordische_Inseln/Labyrinth]] (von Westen aus), Vor einer Höhle (von Süden aus) [aus diesem Feld gehts dann nach Westen in die Höhle und man kann in ein Drachennest hochklettern]<br>
 <font color=808080>a =</font> Burgauffahrt<BR>
@@ -163,7 +163,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <font color=00CC00>z =</font> Grünes Zimmer<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=006600>Hexenwald (in der Mitte von Thule):</font> <br>
 <font color=006600>A =</font> Ahorn<br>
 <font color=006600>B =</font> Birke<br>

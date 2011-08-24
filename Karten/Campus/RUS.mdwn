@@ -10,7 +10,7 @@
 &nbsp; &nbsp; <span class="gelb">T</span> &nbsp; C
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">a =</span> Aufenthaltsraum<br>
 <span class="gelb">B =</span> Benutzerberatung<br>
 <font color=C0C0C0>C =</font> Computerraum<br>

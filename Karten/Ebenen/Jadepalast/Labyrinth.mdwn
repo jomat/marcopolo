@@ -22,7 +22,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-t-t
 </span>
 
-<span class="legend">
+<span class="legende">
 Zurück zu Marianus im [[<span class="hellblau">Keller</span>|Keller]] des Jadepalastes gelangt man wenn man die Schelle wieder absetzt<br>
 <font color=00CC66>B =</font> Großer Komposthaufen und ein lebender Baum mit Tentakeln<br>
 <font color=00CC66>b =</font> Baustellenschranke (lebend)<br>

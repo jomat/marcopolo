@@ -10,7 +10,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">K =</span> Kommandantenbüro<br>
 <span class="gelb">m =</span> Meditationsraum<br>
 <span class="orange">M =</span> Mensa<br>

@@ -17,7 +17,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">A =</span> Amati, der Instrumentenbauer<br>
 <span class="orange">C =</span> Bardencafe<br>
 <span class="gelb">D =</span> Hurmest, Meister der Drehleier<br>

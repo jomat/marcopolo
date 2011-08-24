@@ -6,7 +6,7 @@
 &nbsp;<font color=C0C0C0>S</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">H =</span> Oben auf dem Hügel von Bockland (runter gehts ins [[<span class="hellblau">Brandyschloss</span>|Brandyschloss]]; alternativ kann man den Pfad runterklettern und landet auf der Straße neben dem Hügel)<br>
 <span class="gelb">h =</span> Straße im [[<span class="hellblau">Bockland</span>|Bockland]] (man kann hoch auf den Hügel klettern)<br>
 <font color=C0C0C0>S =</font> Schornsteine und Schornsteinfeger<br>

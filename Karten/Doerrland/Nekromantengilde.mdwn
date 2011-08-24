@@ -16,7 +16,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;t
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Arbeitsräume<br>
 <span class="gelb">a =</span> Auftenthaltsräume (im Kamin [Betretbar] steckt das Skelett vom Weihnachtsmann)<br>
 <font color=808080>g =</font> Finsterer Gang<br>

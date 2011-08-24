@@ -13,7 +13,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Aufenthaltsraum<br>
 <span class="gelb">a =</span> Anmeldung<br>
 <span class="gelb">E =</span> große Eiche, aus deren Krone man über einen Ast 

@@ -9,7 +9,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Bithra, die Oberhexe<br>
 <span class="gelb">D =</span> Dachbodenkammer (mit Wahlurne und Schrank)<br>
 <span class="gelb">F =</span> Flur (mit einer Wächterin die Nichthexen nur nach Westen durchlässt wenn diese mit 'xy ist mein Gast und ist in unserem Haus gerne gesehen' von ner Hexe eingeladen wurden)<br>

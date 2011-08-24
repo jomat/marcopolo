@@ -19,7 +19,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|\
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=808080>g =</font> Gang<br>
 <span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>
 <span class="gelb">L =</span> Hier ist ein Loch an der Decke durch das man zum Friedhof hinter dem [[<span class="hellblau">Vampirschloss</span>|Vampirschloss]] gelangt (kletter über Erdklumpen]<br>

@@ -5,7 +5,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">D =</span> Hier kann man durch eine Öffnung raus nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]] klettern<br>
 <span class="gelb">G =</span> Glond, der Minjero (lässt einen nicht durch)<br>
 <span class="gelb">H =</span> Höhle (hier liegt ein Bardenlied und man kann Dörritkristalle aus der Wand ziehen)<br>

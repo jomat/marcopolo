@@ -27,7 +27,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font>|<font color=00CC00>\
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank (durch den Keller gehts ins [[<span class="hellblau">Rathaus</span>|Rathaus]])<br>
 <span class="orange">% =</span> Tabakladen (von Westen betretbar), Pfeifenschnitzer (von Osten betretbar)<br>
 <span class="gelb">a =</span> baufälliges Anwesen<br>

@@ -10,7 +10,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;u
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">4 =</span> Riss in der Decke (oben ist [[<span class="hellblau">Ebene 4</span>|U4]] - man braucht ein Seil zum hochklettern)<br>
 <span class="hellblau">6 =</span> Riss im Boden (unten ist [[<span class="hellblau">Ebene 6</span>|U6]] - ein Seil dabeihaben lohnt sich ...sonst muss man runterrutschen und schürft sich dabei ziemlich die Haut auf)<br>
 <font color=808080>u =</font> Höhle in der Unterwelt<br>

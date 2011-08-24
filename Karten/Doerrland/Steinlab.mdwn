@@ -20,7 +20,7 @@
 &nbsp; &nbsp; k--k--k--k--k--k--k--k--k--k
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">t1-t7 =</span> Tür 1 bis 7, die mit folgenden Schlüsseln zu öffnen sind:<br>
 <font color=3366FF>1 =</font> In einer Spalte in der Wand einen schwarzen Schlüssel<BR>
 <font color=3366FF>2 =</font> Hinter einem losen Stein liegt ein grauer Schlüssel<BR>

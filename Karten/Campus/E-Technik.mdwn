@@ -15,7 +15,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">F =</span> Foyer (hier geht eine Treppe runter in den [[<span class="hellblau">Keller</span>|E-Technik-Keller]])<br>
 <span class="gelb">F =</span> Foyer<br>
 <span class="hellblau">H =</span> Hörsaal (zweistöckig, geht im [[<span class="hellblau">Keller</span>|E-Technik-Keller]] weiter)<br>

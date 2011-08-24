@@ -15,5 +15,5 @@
 	+-------------------------------------+----+
 </span>
 
-<span class="legend">
+<span class="legende">
 </span>

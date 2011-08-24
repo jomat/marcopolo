@@ -46,7 +46,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>6 =</font> Römerstrasse 6 (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
 <font color=C0C0C0>i =</font> Wegweiser / Hinweisschild (Eurodisnix)<br>
 <font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>

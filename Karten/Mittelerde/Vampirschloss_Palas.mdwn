@@ -9,7 +9,7 @@
 &nbsp; /|\
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Ballsaal<br>
 <span class="gelb">b =</span> Bühne (Teil des Ballsaales, aber nur über die Garderobe betretbar)<br>
 <span class="gelb">g =</span> Garderobe<br>

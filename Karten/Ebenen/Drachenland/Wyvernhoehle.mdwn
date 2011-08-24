@@ -16,7 +16,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">E =</span> Eingang der Wyvernhöhle (vom [[<span class="hellblau">Drachenland</span>|Drachenland]] aus)<br>
 <font color=FF0000>F =</font> Feuerfalle<br>
 <font color=808080>g =</font> Gang (die Gänge nördlich vom Oger bzw. östlich der Feuerfalle sind mit Illusionen getarnt - einfach die Wand befühlen und durchgehen...)<br>

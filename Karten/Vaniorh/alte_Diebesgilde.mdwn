@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> ausgebrannte Bar<br>
 <span class="hellblau">E =</span> Eingangshalle (man kann durch ein Fenster nach [[<span class="hellblau">Tadmor</span>|Tadmor]] rausklettern; hier ist eine Treppe runter in den Keller)<br>
 <font color=C0C0C0>K =</font> Keller (hier ist eine Treppe hoch in die Eingangshalle)<br>

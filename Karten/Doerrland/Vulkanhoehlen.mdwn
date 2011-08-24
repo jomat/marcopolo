@@ -20,7 +20,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g [[<span class="gelb">K</span>|Doerrstadt]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=009999>f =</font> Gekühlte Lagerräume (jetzt voller Knochen - im Hinteren liegt ne Nachricht rum)<br>
 <font color=808080>g =</font> enger Gang<br>
 <span class="gelb">h =</span> Ruhmeshöhle des Arbeitenden Zwerges (hier steht ne Statue mit Goldzahn)<br>

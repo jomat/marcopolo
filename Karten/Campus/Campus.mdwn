@@ -53,7 +53,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">|</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">A =</span> Blauer/Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]] des NWZII<br>
 <span class="hellblau">a =</span> Platz mit Aufzug runter zur [[<span class="hellblau">S-Bahn</span>|S-Bahn]] (die Aufzugtür ist im Südosten/Südwesten im linken/rechten Feld)<br>

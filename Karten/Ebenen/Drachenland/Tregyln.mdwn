@@ -17,7 +17,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; k-r &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; T-w-w-w-T
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">A =</span> Arsenal (Lagerraum)<br>
 <font color=CC6600>B =</font> Zugbrücke<br>

@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>b =</font> Bahnsteig<br>
 <span class="hellblau">I =</span> [[<span class="hellblau">Informatikgebäude</span>|Info]]<br>
 <span class="hellblau">S =</span> Hier gehts hoch zur Haltestelle Vaihingen der [[<span class="hellblau">S-Bahn</span>|S-Bahn]]<br>

@@ -16,7 +16,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="violett">a =</span> Wenn man in diesem Raum nach Osten geht gelangt man in Raum <span class="gelb">A</span> im alten Dörrstadt<br>
 <font color=C0C0C0>g =</font> Gang<br>
 <span class="violett">n =</span> Wenn man in diesem Raum nach Westen geht gelangt man in Raum <span class="gelb">N</span> im neuen Dörrstadt<br>

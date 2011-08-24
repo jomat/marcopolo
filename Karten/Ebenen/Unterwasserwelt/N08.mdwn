@@ -44,7 +44,7 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>m =</font> Meer<br>
 <span class="hellblau">o =</span> Unter der Stadt der Nixen (es geht nicht nach oben, weil da die Korallen der Stadt sind)<br>
 <span class="hellblau">S =</span> Warme Strömung (man kann die Strömung betreten und sich an die Oberfläche nach [[<span class="hellblau">Okeanos</span>|Okeanos]] tragen lassen)<br>

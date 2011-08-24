@@ -17,7 +17,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">F</span>|Iljana]]-g-g-g
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">F =</span> Falltür hoch zu [[<span class="hellblau">Iljanas Haus</span>|Iljana]]<br>
 <span class="hellblau">k =</span> nach oben durch nen Kanaldeckel geht es nach [[<span class="hellblau">Borsippa</span>|Borsippa]], nach unten die Leiter runter tiefer in den Untergrund<br>
 <span class="gelb">k =</span> Kanaldeckel (verschlossen, unknackbar) und Leiter nach unten<br>

@@ -21,7 +21,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=777777>B =</font> Brücke<br>
 <font color=blue>E =</font> Evendimbrunnen<br>
 <font color=C0C0C0>F =</font> Friedhof<br>

@@ -219,7 +219,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-<font color=00CC00>K-K-<span class="
 </font>
 </p>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Sehenswertes:</span><br>
 <span class="hellblau">A =</span> Altar &amp; Höhle mit der Entstehungsgeschichte von Unitopia<br>
 <span class="hellblau">a =</span> höchster Gipfel der Alpen (von der Spitze aus fliegt der Adler Landroval nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>

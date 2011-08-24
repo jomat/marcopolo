@@ -30,7 +30,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">B</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">B =</span> Weg zur zerstörten Beschwörergilde<br>
 <font color=blue>b = </font>kleiner Bach<br>
 <span class="hellblau">F =</span> Feuerstelle<br>
@@ -50,14 +50,14 @@
 <font color=00CC00>w =</font> Zugewucherter Weg<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">Monster:</span><br>
 (sehr viele) Orks [hinter jedem zweiten Busch springen gleich mehrere hervor]<br>
 Wölfe <br>
 Wildsäue<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Friedliche Bewohner:</span><br>
 Bergziegen<br>
 Wiesel<br>

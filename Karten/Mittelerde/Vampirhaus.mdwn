@@ -7,7 +7,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Abstellkammer<br>
 <span class="gelb">B =</span> Badezimmer<br>
 <span class="gelb">D =</span> Dachboden<br>

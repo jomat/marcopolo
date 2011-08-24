@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; p
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Altar<br>
 <font color=C0C0C0>H =</font> Haupthalle des Tempels<br>
 <span class="gelb">O =</span> Opferschale<br>

@@ -14,7 +14,7 @@
 &nbsp; &nbsp; &nbsp;-[[<span class="gelb">g</span>|Huegelgraeber]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">F =</span> Felssteig in den [[<span class="hellblau">Hügelgräbern</span>|Huegelgraeber]]<br>
 <font color=808080>f =</font> Felssteig<br>
 <span class="gelb">G =</span> Gipfel des Grabhügels (nachdem man mit 'drücke stein in grab' eine Öffnung geschaffen hat kann man in das Grab nördlich schlüpfen)<br>

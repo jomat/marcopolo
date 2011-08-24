@@ -44,7 +44,7 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">b =</span> Eingang zum Wrack (unter einem Felsbrocken versteckt)<br>
 <span class="gelb">g =</span> Eingang zum Wrack (unter Seegras versteckt)<br>
 <font color=blue>m =</font> Meer<br>

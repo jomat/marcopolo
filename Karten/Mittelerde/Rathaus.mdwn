@@ -10,7 +10,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Keller der Bank von [[<span class="hellblau">Bree</span>|Bree]]<br>
 <span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]]<br>
 <span class="gelb">F =</span> Fundbüro<br>

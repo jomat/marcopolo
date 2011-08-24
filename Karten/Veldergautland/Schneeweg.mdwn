@@ -8,7 +8,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">h =</span> [[<span class="hellblau">Bau des Schneehasen</span>|Hasenbau]]<br>
 <span class="hellblau">S =</span> Schneemann<br>
 <font color=blue>s =</font> Eissee &amp; angelnder Schneetroll<br>

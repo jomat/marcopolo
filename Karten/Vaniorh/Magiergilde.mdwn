@@ -18,7 +18,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; M
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Aussichtsplattform<br>
 <span class="gelb">D =</span> Dreieckiger Raum (Eingang zur Bibliothek)<br>
 <span class="hellblau">E =</span> Eingangshalle (nach Süden geht es raus nach [[<span class="hellblau">Tadmor</span>|Tadmor]])<br>

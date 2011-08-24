@@ -7,7 +7,7 @@
 &nbsp; &nbsp; -[[<font  color=00CCFF>s</font>|Tadmor]]-
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Arbeitszimmer<br>
 <span class="gelb">B =</span> Bad<br>
 <span class="gelb">K =</span> Küche<br>

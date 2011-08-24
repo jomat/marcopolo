@@ -40,7 +40,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">V</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">F =</span> Friedhof (hier kommt man raus wenn man den Tunnel unter dem Schlossturm bis zum Ende geht und durch das Loch klettert)<br>
 <span class="gelb">G =</span> Gewölbe (im südlichen Gewölbe kommt man durch klopfen ins Schloss rein, beim nördlichen Gewölbe kann man das Schloss wieder verlassen)<br>
 <span class="orange">H =</span> [[<span class="hellblau">Herberge</span>|Vampirschloss_Herberge]] "Zum blutigen Knochen"<br>

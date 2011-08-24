@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp; <span class="gelb">K</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">f =</span> Flur<br>
 <span class="gelb">G =</span> Gertrud<br>
 <span class="gelb">g =</span> Gästezimmer<br>

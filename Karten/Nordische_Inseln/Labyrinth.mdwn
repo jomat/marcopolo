@@ -12,7 +12,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">I =</span> Kleiner Innenhof (man kommt rein indem man im Labyrinth südlich durch die Lücke klettert)<br>
 <font color=C0C0C0>l =</font> Labyrinth<br>
 <span class="gelb">m =</span> Hier kommt man vom Innenhof aus auf die Mauer hoch<br>

@@ -19,7 +19,7 @@ h-h h-h-h-h<br>
 [[<span class="hellblau">b</span>|Vulkanien]]-g
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">b =</span> kleine Bucht und Ruderboot mit dem man zurück nach [[<span class="hellblau">Vulkanien</span>|Vulkanien]] rudern kann<br>
 <font color=808080>g =</font> Gang voller giftiger Dämpfe<br>
 <font color=808080>h =</font> Höhle<br>

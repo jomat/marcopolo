@@ -6,7 +6,7 @@
 &nbsp; &nbsp; <span class="gelb">k</span>-n-b
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CC00>b =</font> Braunbären<br>
 <font color=00CC00>B =</font> Bänke und Blumenbeete<br>
 <font color=00CC00>g =</font> Gnome<br>

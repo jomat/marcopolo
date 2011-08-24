@@ -14,7 +14,7 @@
 &nbsp; &nbsp; &nbsp; |</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>f =</font> Flur<br>
 <span class="gelb">H =</span> Hühnerstall<br>
 <font color=00CC00>h =</font> Hof<br>

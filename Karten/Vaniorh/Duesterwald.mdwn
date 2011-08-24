@@ -45,7 +45,7 @@
 &nbsp;/|</td>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">B =</span> Alter Brunnen mit Leiter in den Schacht<br>
 <span class="hellblau">b =</span> Brücke [um da rüberzukommen muss Geschick über 70 sein]<br>
 <span class="hellblau">D =</span> verfallendes Denkmal<br>

@@ -14,7 +14,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Bardengilde</span>|Bardengilde]]<br>
 <span class="orange">b =</span> Landeplatz für den Ballon der nach [[<span class="hellblau">Annonay</span>|Gallien/Annonay]] in [[<span class="hellblau">Gallien</span>|Gallien]] fliegt<br>

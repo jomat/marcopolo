@@ -22,7 +22,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>a =</font> Abgrund (man kann drübersrpingen in das Zweite a-feld)<br>
 <font color=C0C0C0>b =</font> Brücke<br>
 <span class="gelb">b =</span> Brunnen-Kammer (hier kommt man wieder hoch wenn man in Grotte g gelandet war)<br>

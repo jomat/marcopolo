@@ -24,7 +24,7 @@
 &nbsp;&nbsp; <span class="gelb">R</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">F =</span> Falle (man hängt kopfüber am Baum bis man befreit wird) 
 [für erfahrenere Spieler werden noch ein paar mehr zufällig ausgelegt]<br>
 <span class="gelb">H =</span> Räuber Hotzenplotz<br>

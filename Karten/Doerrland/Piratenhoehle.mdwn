@@ -27,7 +27,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFF00>-[[<span class="hellblau">w</span>|Doerrland]]-</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Dreiköpfiger Affe<br>
 <span class="gelb">a =</span> Durchgang mit Algenmonster ('rein' geht auf meiner Karte nach Westen und 'raus' nach Osten)<br>
 <font color=808080>a =</font> Absatz (mit nem Seil kann man runterklettern)<br>

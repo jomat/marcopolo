@@ -9,7 +9,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">b =</span> Bahnsteig (hier hält der Zug nach [[<span class="hellblau">Stuttgart</span>|Hauptbahnhof]] [über [[<span class="hellblau">Saarbrücken</span>|Saarbruecken]] und [[<span class="hellblau">Mannheim</span>|Mannheim]]])<br>
 <font color=C0C0C0>g =</font> Gare l'Est<br>
 <span class="hellblau">m =</span> Rolltreppe runter ins [[<span class="hellblau">Labyrinth unter Paris</span>|Paris_Lab]]<br>

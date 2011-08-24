@@ -37,7 +37,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>B =</font> An der Zugbrücke/Im Burggraben (hier kann man runterklettern)<br>
 <font color=808080>b =</font> Berghang<br>
 <font color=blue>B =</font> Brunnen<br>

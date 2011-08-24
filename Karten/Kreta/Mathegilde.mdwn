@@ -24,7 +24,7 @@ h-g<br>
 p-p-p
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Achras, der Polyederforscher<br>
 <span class="gelb">a =</span> Aufenthaltsraum<br>
 <font color=C0C0C0>a =</font> Algebra / Analysis<br>

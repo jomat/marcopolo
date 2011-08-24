@@ -23,7 +23,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>g =</font> Gang/Flur/Sonstiges<br>
 <span class="gelb">D =</span> DEC-Pool<br>
 <span class="gelb">F =</span> Foyer<br>

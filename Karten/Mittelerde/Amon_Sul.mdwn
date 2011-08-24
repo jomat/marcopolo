@@ -17,7 +17,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank (Geldwechselstube)<br>
 <span class="hellblau">a =</span> Anfang des Aufstiegs (runter gehts wieder nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
 <span class="gelb">B =</span> Bergfried<br>

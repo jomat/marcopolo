@@ -30,7 +30,7 @@
 &nbsp;&#9492;&#9472;&#9472;&#9472;&#9472;w
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>g =</font> Gang (mit jeweils einer Tür im Norden und Süden)<br>
 <font color=C0C0C0>h =</font> In diesem Feld des Ganges geht es eine Treppe hoch (die Linie 
 nach Norden zeigt an wo die Treppe endet)<br>

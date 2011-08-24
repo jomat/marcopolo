@@ -46,7 +46,7 @@ k</font> &nbsp; <font color=00CC00>/</font><br>
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">F =</span> Feuerstelle<br>
 <span class="gelb">H =</span> Häuptlingszelt<br>
 <span class="gelb">K =</span> Katapult<br>

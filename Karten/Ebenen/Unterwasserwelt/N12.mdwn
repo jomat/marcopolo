@@ -44,7 +44,7 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>b =</font> Von hier geht ein Gang in beide Richtungen (hoch und runter) weiter<br>
 <font color=blue>m =</font> Meer<br>
 <span class="hellblau">n =</span> Auf der Stadt der Nixen (es geht nicht nach unten, weil da die Korallen der Stadt sind)<br>

@@ -7,7 +7,7 @@ Ebene 2&nbsp;&nbsp; Ebene 3<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">A =</span> Ariel S. Omo<br>
 <span class="orange">B =</span> Gastzelt zum Beduinen<br>
 <span class="gelb">D =</span> Dach des Turmes (man wird von den Teppichen zu, eigenen Schiff geflogen)<br>

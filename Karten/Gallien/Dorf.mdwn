@@ -26,7 +26,7 @@
 &nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00>/|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>B =</font> Brunnen<br>
 <font color=CC6600>E =</font> Eingang zum Gallischen Dorf (im Nordwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
 <span class="orange">G =</span> Gasthaus 'zur frischen Brise'<br>

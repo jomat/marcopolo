@@ -15,7 +15,7 @@
 &nbsp; &nbsp; &nbsp; <span class="gelb">M</span>     f-f-<span class="gelb">k</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Bibliothek<br>
 <font color=blue>B =</font> Brunnen<br>
 <span class="gelb">d =</span> Damenklo<br>

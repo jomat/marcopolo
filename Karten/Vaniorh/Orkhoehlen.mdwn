@@ -37,7 +37,7 @@
 </TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>b =</font> Irgendwo in den Orkbergen<br>
 <span class="hellblau">D =</span> Dämonenpforte (führt in ein Labyrinth)<br>
 <span class="gelb">d =</span> Domizil des Schamanen<br>

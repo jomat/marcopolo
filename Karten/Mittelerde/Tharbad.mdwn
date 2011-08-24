@@ -28,7 +28,7 @@
 &nbsp; &nbsp; &nbsp; F-F &nbsp; &nbsp; <span class="orange">H</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank/Handelskontor<br>
 <span class="orange">A =</span> Apotheker<br>
 <font color=blue>B =</font> Viereckiger Hof mit Brunnen<br>

@@ -39,7 +39,7 @@
 </font></TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Ameisenbau<br>
 <font color=00CC00>a =</font> Abhang<br>
 <font color=008000>B =</font> Ein sehr groﬂer Baum<br>

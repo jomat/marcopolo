@@ -33,7 +33,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">a =</span> Aufstieg die Schlucht hinauf nach [[<span class="hellblau">Dörrland</span>|Doerrland]]<br>
 <font color=C0C0C0>a =</font> Arena<br>

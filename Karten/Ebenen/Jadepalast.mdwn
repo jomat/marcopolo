@@ -20,7 +20,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <P><font color=C0C0C0 FACE="Courier New" STYLE="font-size: 8pt">
 <span class="hellblau">A =</span> Abstieg - mit 3 Seilen und etwas Mut kann man hier den Abstieg nach [[<span class="hellblau">Asia</span>|Asia]] wagen...<br>
 <font color=blue>B =</font> Schwimmbad (hier kommen die Wachen nicht rein und man regeneriert besser wenn man auf ner Liane schaukelt)<br>

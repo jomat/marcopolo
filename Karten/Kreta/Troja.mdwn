@@ -16,7 +16,7 @@ Obergeschoss<br>
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <font color=808080>g =</font> verfallener Gang<br>
 <font color=808080>h =</font> Schutthalde<br>

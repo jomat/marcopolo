@@ -12,7 +12,7 @@
 </TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=008000>g =</font> Grillplatz<br>
 <span class="gelb">L =</span> Pfadfinderlager<br>
 <font color=008000>l =</font> Naturlehrpfad<br>

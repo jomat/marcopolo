@@ -9,7 +9,7 @@
 &nbsp;[[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>e</font>|Mompracem]]-g
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">e =</span> Eingang (druch je eine Falltür im sw und no gehts zurück nach [[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>Mompracem</font>|Mompracem]])<br>
 <font color=808080>g =</font> Gang<br>
 <span class="gelb">K =</span> Kalli, der Seemann<br>

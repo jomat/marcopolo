@@ -9,7 +9,7 @@
 &nbsp; &nbsp;|
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>g =</font> Gang<br>
 <span class="hellblau">s =</span> Straﬂe in [[<span class="hellblau">Michelbinge</span>|Michelbinge]]<br>
 <span class="gelb">v =</span> Gef‰ngnisvorraum<br>

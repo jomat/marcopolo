@@ -10,7 +10,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=008000>a =</font > Allee<br>
 <span class="violett">D =</span> Südliche Pyramide & Dimensionstor in die Küche des [[<span class="hellblau">Jadepalastes</span>|Jadepalast]]<br>
 <span class="gelb">G =</span> Grabus, der Grabräuber<br>

@@ -201,7 +201,7 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Sehenswertes:</span><br>
 <span class="hellblau">A =</span> Hütte von Kapitän Ahab<br>
 <span class="hellblau">a =</span> Eingang ins [[<span class="hellblau">Tunnelsystem</span>|Doerrland/Tunnel]] (und Spinner, der Spinnerich)<br>
@@ -247,7 +247,7 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
 <span class="hellblau">z =</span> Stelle zusammengetretener Sand<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Legende:</span><br>
 Die normalen Kakteen (anschneiden -> Wasserquelle), Sträucher, Dornenbüsche (essbare Beeren), und Bäume (Äste als Prügel benutzbar) sind nicht an feste Orte gebunden und daher nicht in diese Karte eingetragen. Scheinbar werden sie immer wieder neu an andere Orte gesetzt.<br>
 <font color=C0C0C0>B =</font> Am Felsen der Druidenburg<br>
@@ -290,7 +290,7 @@ P<font color=C0C0C0> =</font> Rand der Ramoth-Pyramide<br>
 <font color=C0C0C0>w =</font> Aussenwand der Sphinx<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Friedliche NPCs:</span> Wüstenspringmäuse, Kamele, Hyänen, Panzertiere,Satyre, Gargylen<br>
 <span class="rot">Feindliche NPCs:</span> Ankhegs, Guhle, Löwen, Mantikore, Nachtheuler, Sandwürmer, Schlangen, Skorpione, Ziegen<br>
 </FONT>

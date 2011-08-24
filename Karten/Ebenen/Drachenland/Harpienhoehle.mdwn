@@ -21,7 +21,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>b =</font> Balkon / Startrampe (beim runterklettern rutscht man bis zu der Platform)<br>
 <font color=808080>E =</font> Eingang zu Podarges Höhle (nach Norden ist ein verriegeltes Eisentor im Weg)<br>
 <font color=C0C0C0>e =</font> Höhleneingang<br>

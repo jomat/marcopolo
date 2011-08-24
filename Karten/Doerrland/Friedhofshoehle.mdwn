@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Gruft der Bürger von Dörrstadt<br>
 <span class="gelb">D =</span> Gruft der Diebesgilde<br>
 <span class="gelb">d =</span> Kammer von Digger, dem Totengräber<br>

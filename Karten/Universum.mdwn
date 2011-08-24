@@ -11,7 +11,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
 <font color=FFCC00>W =</font> Weltraum (unendliche Weiten... aber man kann zu den eingezeichneten Zielen 'fliegen':<br>
 - [[<font color=00CCFF>Barovia</font>|Doerrland/Barovia]] (Nebelfelder)<br>

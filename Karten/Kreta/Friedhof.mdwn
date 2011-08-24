@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp;<font color=008000>B</font>-<span class="gelb">z</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Altarraum<br>
 <font color=008000>B =</font> großer Baum (man kann draufklettern)<br>
 <span class="gelb">C =</span> Grab des Chaosritters (Nachts kann man hier einen Grabräuber auf frischer Tat erwischen)<br>

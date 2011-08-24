@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Archiv<br>
 <span class="gelb">B =</span> Bürgermeisterbüro<br>
 <span class="hellblau">H =</span> Rathaushalle (nach Süden gehts raus nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]], oder die Treppe hoch in den Versammlungssaal)<br>

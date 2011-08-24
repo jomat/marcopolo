@@ -20,7 +20,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <font color=CC6600>A =</font> Altar (hier gehts hoch und runter) [Vorsicht! Nicht beten, solange der böse Geist Aarghz hier ist]<br>
 <font color=00CC00>a =</font> Ameisenbär & silberner Brustpanzer<br>

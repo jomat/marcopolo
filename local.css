@@ -4,12 +4,15 @@
 .violett { color:#9900CC; }
 .rot { color:red; }
 .karte {
-  color:#ffffff;
+  color:#ff00ff;
   white-space:nowrap;
   display: table;
   margin:auto;
 }
-.legend { color:#c0c0c0; }
+.karte a {
+  text-decoration: underline;
+}
+.legende { color:#c0c0c0; }
 /* ikiwiki style sheet */
 
 /* Note that instead of modifying this style sheet, you can instead edit

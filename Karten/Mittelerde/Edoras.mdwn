@@ -32,7 +32,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">A =</span> Abenteurerladen<br>
 <span class="orange">G =</span> Gürtelmacher<br>

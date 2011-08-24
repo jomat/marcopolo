@@ -223,7 +223,7 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<br>
 </font></span>
 
-<span class="legend">
+<span class="legende">
 <font color=FFFF00>B =</font> Boje<br>
 <span class="gelb">E =</span> Eingang zum Turm der Erzmagier<br>
 <span class="hellblau">H =</span> Am Hafen einer kleinen Insel<br>

@@ -13,7 +13,7 @@
 &nbsp;<span class="rot">/</span></font></TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">G =</span> Großes Gewölbe mit altem Altar<br>
 <span class="gelb">g =</span> Hier im Gang steht der Magierlehrling Gardrian<br>
 <font color=808080>g =</font> Finsterer Gang<br>

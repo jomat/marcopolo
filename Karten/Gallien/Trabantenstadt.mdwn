@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="violett">E =</span> [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]]<br>
 <font color=C0C0C0>g =</font> Gang<br>
 <span class="gelb">H =</span> Horexa, die alte Wahrsagerin<br>

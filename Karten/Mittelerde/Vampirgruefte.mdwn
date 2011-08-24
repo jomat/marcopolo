@@ -34,7 +34,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">H</span>|Grabhuegel]]-
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Hier liegt Aluera in ihrem Sarg<br>
 <span class="gelb">G =</span> Gruft mit leerem Sarg<br>
 <font color=808080>g =</font> Gang<br>

@@ -7,7 +7,7 @@
 &nbsp; [[<span class="hellblau">L</span>|Gallien/Kanalisation]]-l-l &nbsp; <span class="gelb">v</span>-l-l &nbsp; l-l-l
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">^ =</span> Rolltreppe nach oben<br>
 <span class="hellblau">L =</span> Hier kommt man raus wenn man in der [[<span class="hellblau">Kanalisation von Lutetia</span>|Gallien/Kanalisation]] durch das Loch schlüpft<br>
 <font color=C0C0C0>l =</font> Labyrinth<br>

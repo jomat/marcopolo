@@ -7,7 +7,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">e =</span> Esthn, der Troll<br>
 <span class="gelb">g =</span> Grd, der Troll<br>
 <font color=808080>g =</font> Dunkler Gang<br>

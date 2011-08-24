@@ -15,7 +15,7 @@ M-M-M-M-M-M-M
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">H =</span> Hafen<BR>
 <font color=blue>M = </font>Ägäisches Meer<BR>
 <font color=blue>m = </font>Meer vor einer Insel</FONT></P>

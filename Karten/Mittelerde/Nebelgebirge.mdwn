@@ -18,7 +18,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Abzweigung (Vorsicht, Drachenwildwechsel)<br>
 <span class="gelb">E =</span> kleine Erhebung (Aussichtspunkt)<br>
 <font color=C0C0C0>L =</font> hier bekommt man öfters mal ne Steine von oben ab<br>

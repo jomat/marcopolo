@@ -10,7 +10,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Höhle eines Sandbär<br>
 <font color=808080>g =</font> Finsterer Gang<br>
 <span class="gelb">R =</span> Hier liegt in einer Lavapfütze der EINE Ring (Vorsicht, ungesund !)<br>

@@ -15,7 +15,7 @@
 </font></TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">D =</span> Treppe hoch nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt]]<br>
 <font color=808080>g =</font> Gang<br>
 <font color=808080>k =</font> Spielraum mit frustriertem kartenspieler (aggressiv)<br>

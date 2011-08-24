@@ -12,7 +12,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Die 3 weisen Affen &amp; der Ogolbaum<br>
 <font color=00CC00>b =</font> Bananenstaude<br>
 <span class="hellblau">D =</span> Haltestation der Märchenland-[[<span class="hellblau">Gallien</span>|Gallien]]-Flugroute von Dumbo<br>

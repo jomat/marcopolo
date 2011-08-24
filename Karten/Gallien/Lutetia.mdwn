@@ -24,7 +24,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">S</span>|Wache]] &nbsp; <span class="orange">B</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">A =</span> Gildenhaus der Alchemisten (Zweitniederlassung)<br>
 <span class="orange">A =</span> Schänke "Zum fröhlichen Arverner"<br>

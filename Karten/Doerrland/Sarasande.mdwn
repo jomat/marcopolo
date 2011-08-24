@@ -22,7 +22,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">A =</span> Abduls Laden für magische Gegenstände<br>
 <span class="gelb">a =</span> Angina, die malariakranke Bettlerin<br>

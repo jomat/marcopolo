@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">H =</span> Handwerksladen<br>
 <span class="orange">K =</span> Kneipe Schürfersruh<br>

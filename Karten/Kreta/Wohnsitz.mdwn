@@ -11,7 +11,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <font color=00CC00>D =</font> Dünenlandschaft an der Küste von [[<span class="hellblau">Kreta</span>|Kreta]]<br>
 <span class="gelb">E =</span> Deianeiras Empfangshalle (hier gehts auch runter ins Untergeschoss)<br>

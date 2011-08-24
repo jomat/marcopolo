@@ -46,7 +46,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; /|X|\&#9492;&#9472;&#9496;|\</font></font></TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>4 =</font> Römerstrasse 4 (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
 <span class="hellblau">H =</span> Hafen (Sehavre)<br>
 <span class="hellblau">h =</span> Eingang zu den [[<span class="hellblau">Seherhöhlen</span>|Seherhoehlen]] (vom Hafen aus)<br>

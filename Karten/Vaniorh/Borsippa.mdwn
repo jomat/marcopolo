@@ -25,7 +25,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">A =</span> [[<span class="hellblau">Alchemistengilde</span>|Alchemistengilde]]<br>
 <span class="gelb">B =</span> Bürgermeisteramt<br>

@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>g =</font> Gang<br>
 <span class="gelb">H =</span> Helena<br>
 <span class="gelb">P =</span> König Priamos<br>

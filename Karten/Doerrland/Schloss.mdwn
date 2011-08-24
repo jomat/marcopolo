@@ -14,7 +14,7 @@
 &nbsp; &nbsp; h-h-<span class="gelb">g</span>.<span class="gelb">m</span>-h-h-h
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">G =</span> Altes Gebäude<br>
 <span class="gelb">g =</span> Um nach Osten zu kommen muss man hier das im Weg liegende Geröll erklimmen<br>
 <font color=008000>g =</font> Verwilderter Garten<br>

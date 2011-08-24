@@ -20,7 +20,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">N</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">a =</span> Hinter dem Wasserfall (nach Westen gehts zur Statue eines alten Mannes)<br>
 <font color=C0C0C0>a =</font> Felsenabsatz<br>
 <font color=blue>b =</font> Brandung<br>

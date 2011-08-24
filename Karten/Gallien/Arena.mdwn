@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=FF0000>A =</font> Kampfarena<br>
 <span class="gelb">g =</span> Gang in den Katakomben (wenn man den Stein an der Wand drückt rutscht man durch eine Falltür in die kleine Höhle nebenan)<br>
 <font color=C0C0C0>g =</font> Gang zur Arena (nach oben gehts auf die Tribüne)<br>

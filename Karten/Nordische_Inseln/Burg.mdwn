@@ -9,7 +9,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=808080>a =</font> Burgauffahrt (auf [[<span class="hellblau">Vandras</span>|Nordische_Inseln]])<br>
 <font color=00CC00>b =</font> Bei den Beerensträuchern (auf [[<span class="hellblau">Vandras</span>|Nordische_Inseln]] - man kann durchs Fenster runterklettern)<br>
 <span class="gelb">H =</span> Große Halle der Burg (der Weg nach Norden ist hinter nem Vorhang versteckt den man zur Seite schieben muss; hier gehts hoch ins Labor)<br>

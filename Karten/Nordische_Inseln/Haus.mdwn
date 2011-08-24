@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Fenris Arbeitszimmer<br>
 <span class="gelb">B =</span> Badezimmer<br>
 <font color=C0C0C0>F =</font> Flur (hier ist die Treppe nach unten)<br>

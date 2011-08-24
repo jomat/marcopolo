@@ -16,7 +16,7 @@
 &nbsp;/|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=008000>p =</font> Waldpfad <br>
 <span class="hellblau">S =</span> Der Heilige Stuhl<br>
 <font color=C0C0C0>w =</font> Weg im Süden von [[<span class="hellblau">Gallien</span>|Gallien]]

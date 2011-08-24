@@ -11,7 +11,7 @@
 &nbsp; &nbsp; &nbsp;/|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Baum mit dem Baumhaus von Meister Klechs und seiner Frau Marina<br>
 <font color=blue>f =</font> An einem kleinen Bach<br>
 <font color=808080>h =</font> Eingang zu einer kleinen [[<span class="hellblau">Höhle</span>|Urhoehle]]<br>

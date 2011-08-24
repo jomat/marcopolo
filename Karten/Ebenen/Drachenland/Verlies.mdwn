@@ -8,7 +8,7 @@ V V<br>
 &nbsp;|
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CC00>b =</font> In diesem Feld des Burggrabens der [[<span class="hellblau">Ordensburg</span>|Ordensburg]] wächst ein kleiner Busch vor einer Geheimtür ins Verlies<br>
 <font color=C0C0C0>F =</font> Folterkammer<br>
 <span class="gelb">G =</span> Verlieszelle mit Geheimtür nach Westen<br>

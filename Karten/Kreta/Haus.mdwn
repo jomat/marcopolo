@@ -9,7 +9,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>f =</font> Flur<br>
 <span class="gelb">K =</span> Küche (hier steht ne Werkezugkiste)<br>
 <font color=C0C0C0>S =</font> Spülküche<br>

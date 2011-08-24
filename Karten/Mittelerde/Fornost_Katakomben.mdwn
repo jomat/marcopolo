@@ -15,7 +15,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">G =</span> Grabkammer (hier gehts hoch nach [[<span class="hellblau">Fornost</span>|Fornost]] [2 Felder hoch])<br>
 <font color=C0C0C0>G =</font> Grabkammer<br>
 <font color=C0C0C0>g =</font> Dunkler Gang<br>

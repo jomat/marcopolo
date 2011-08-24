@@ -30,7 +30,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;/|X|\ &nbsp; /|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
 <font color=008000>W =</font> Wald<br>
 <font color=C0C0C0>w =</font> Weg (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>

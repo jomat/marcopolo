@@ -14,7 +14,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Halle der Mooraxt<br>
 <font color=B00000>H =</font> Halle (nach oben geht es zurück ins [[<span class="hellblau">Moor</span>|Moor]])<br>
 <font color=800000>g =</font> Gang (auch hier werden einem AP entzogen)<br>

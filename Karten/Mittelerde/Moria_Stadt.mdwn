@@ -16,7 +16,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">A =</span> Axtschmied<br>
 <span class="orange">B =</span> Backstube<br>
 <font color=808080>g =</font> Gang/Gasse<br>

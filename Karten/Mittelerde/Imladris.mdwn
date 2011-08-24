@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Bad<br>
 <font color=C0C0C0>E =</font> Eingangshalle<br>
 <span class="gelb">F =</span> Festhalle (hier gehts runter in die Küche)<br>

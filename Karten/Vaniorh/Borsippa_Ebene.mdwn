@@ -26,7 +26,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CC00>b =</font> Blumenwiese<br>
 <font color=993300>b =</font> kleine Brücke (von Osten und Westen geht man unter der Brücke durch... da steht man im Bach)<br>
 <font color=blue>b =</font> Bach<br>

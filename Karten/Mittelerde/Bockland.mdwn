@@ -22,7 +22,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;/|\
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">a =</span> Antonia, die Max & Moritz-Spielerin<br>
 <span class="gelb">B =</span> [[<span class="hellblau">Brandyschloss</span>|Brandyschloss]] (an der Westseite kann man durchs Fenster reinklettern)<br>

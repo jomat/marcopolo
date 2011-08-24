@@ -16,7 +16,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 4 = Römerstrasse 4 (im Nordwesten [[<span class="hellblau">Galliens</span>|Gallien]])<br>
 <font color=00CC00>O =</font> Grasland von [[<span class="hellblau">Gallien</span>|Gallien]]<br>
 <font color=008000>W =</font> Wald

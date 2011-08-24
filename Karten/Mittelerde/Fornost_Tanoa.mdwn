@@ -12,7 +12,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>F =</font> Friedhof<br>
 <font color=C0C0C0>f =</font> Gräber auf dem Friedhof<br>
 <font color=C0C0C0>G =</font> Platz der Gaukler<br>

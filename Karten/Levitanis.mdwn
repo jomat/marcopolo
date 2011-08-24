@@ -22,7 +22,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">F =</span> Fireddl<br>
 <span class="gelb">G =</span> Goldie<br>
 <span class="gelb">T =</span> Tiberian<br>

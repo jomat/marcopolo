@@ -44,7 +44,7 @@ m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m-m<br>
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>h =</font> Hier geht ein Gang nach oben weiter<br>
 <font color=blue>m =</font> Meer<br>
 <span class="hellblau">o =</span> Unter der Stadt der Nixen (es geht nicht nach oben, weil da die Korallen der Stadt sind)<br>

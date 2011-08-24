@@ -30,7 +30,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r-r-r-r-r-r-r-r</TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="hellblau">B =</span> Vor einem babbaistischen [[<span class="hellblau">Kloster</span>|Asia/Kloster]] - nach Osten gehts rein...<br>
 <span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Dörrstadt</span>|Doerrland/Doerrstadt]]<br>

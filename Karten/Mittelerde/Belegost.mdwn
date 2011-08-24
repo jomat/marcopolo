@@ -22,7 +22,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-[[<span class="hellblau">M</span>|Mittelerde]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">A =</span> Am Anfang von Belegost (hier liegt auch ein Buch über die Entstehung der Stadt)<br>
 <span class="orange">B =</span> Brauerei<br>

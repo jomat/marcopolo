@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">A</span>|Jadepalast]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Der Aufzug hier fährt hoch in die Küche des [[<span class="hellblau">Jadepalast</span>|Jadepalast]]<br>
 <font color=00CC66>g =</font> Gang<br>
 <span class="gelb">M =</span> Marianus Kammer (mit der Schelle von ihm kann man seinen Geist in [[<span class="hellblau">Arwoors Labyrinth</span>|Labyrinth]] schicken kann)<br>

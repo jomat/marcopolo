@@ -18,7 +18,7 @@
 &nbsp; &nbsp; /|X|X|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">B =</span> Gasthaus &quot;Zum Blutsauger&quot;<br>
 <span class="gelb">F =</span> Schmaler Felssteig (hier kann man weiter hoch auf den [[<span class="hellblau">Grabhügel</span>|Grabhuegel]] gehen)<br>
 <font color=808080>f =</font> Am Fuße eines Berges<br>

@@ -15,7 +15,7 @@
 &nbsp;/
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">A =</span> Anmeldebüro (Ticketverkauf)<br>
 <span class="rot">B =</span> Boxkampfarena<br>
 <span class="gelb">b =</span> Boxkampftribüne<br>

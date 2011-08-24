@@ -29,7 +29,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Ausgang der Höhle der Säulen (hier ist ein Podest auf das man das Glas stellen muss)<br>
 <font color=00CC00>B =</font> Bananenplantage<br>
 <font color=00CC00>b =</font> Blumenwiese<br>

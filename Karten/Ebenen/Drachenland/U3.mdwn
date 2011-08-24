@@ -21,7 +21,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">2 =</span> Riss in der Decke (oben ist [[<span class="hellblau">Ebene 2</span>|U2]] - man braucht ein Seil zum hochklettern)<br>
 <span class="hellblau">K =</span> Hier nach oben und durch ein Loch kommt man in den [[<span class="hellblau">Keller</span>|Doerrland/Keller]] des Ladens von Sarasande<br>
 <span class="gelb">S =</span> Spinnennest<br>

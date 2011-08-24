@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>f =</font> Flur<br>
 <font color=C0C0C0>g =</font> Gang<br>
 <span class="hellblau">p =</span> Vorplatz des ÖZ (auf dem [[<span class="hellblau">Campus</span>|Campus]])<br>

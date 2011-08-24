@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp; [[<span class="gelb">C</span>|Cirdans_Turm]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>B =</font> Brunnen<br>
 <span class="gelb">C =</span> [[<span class="hellblau">Cirdans Turm</span>|Cirdans_Turm]]<br>
 <span class="hellblau">H =</span> Anlegesteg (im Westen von [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>

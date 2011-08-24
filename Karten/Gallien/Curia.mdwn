@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Anwerbebüro der Legion (Tallius Messalla)<br>
 <span class="gelb">B =</span> Amt für brot und Spiele (Felix Circus)<br>
 <span class="gelb">D =</span> Amt für Denkmalwesen (Lapideus Gravis)<br>

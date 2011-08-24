@@ -21,7 +21,7 @@
 &nbsp; &nbsp; &nbsp; <font color=00CC00>/|\ /|X|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CC00>O =</font> Grasland in [[<span class="hellblau">Gallien</span>|Gallien]]<br>
 <font color=blue>S =</font> Seine (Fluss) (nördliches [[<span class="hellblau"> Gallien</span>|Gallien]])<br>
 <font color=008000>W =</font> Wald

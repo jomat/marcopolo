@@ -16,7 +16,7 @@
 &nbsp; &nbsp; &nbsp;W-W-W-W
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">A =</span> Anvar, ein Elbenkrieger<br>
 <span class="hellblau">B =</span> Baumhaus<br>
 <span class="hellblau">G =</span> Gärtnerei<br>

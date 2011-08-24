@@ -13,7 +13,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=FFFFFF>M =</font> Alter Marktplatz<br>
 <span class="gelb">R =</span> Rathaus<br>
 <span class="gelb">S =</span> alte Schmiede (man muss sich durch den Schnee buddeln um hinzukommen)<br>

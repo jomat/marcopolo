@@ -53,7 +53,7 @@ text-decoration: underline;
  color="339966">h</font></a>-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp;<font color="339966">/|\</font></span></p>
 <p style="font-family: Courier New;"></p>
-<span style="font-family: Courier New;" class="legend">
+<span style="font-family: Courier New;" class="legende">
 <span class="gelb">A =</span> Anlieferungshalle<br>
 <span class="gelb">B =</span> Büro<br>
 <font color="C0C0C0">g =</font> Gasse<br>

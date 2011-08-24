@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Archiv<br>
 <span class="hellblau">H =</span> Rathaushalle (nach Süden gehts raus ins [[<span class="hellblau">alte Dörrstadt</span>|Doerrstadt_alt]], oder die Treppe hoch in den Versammlungssaal)<br>
 <span class="violett">L =</span> Eingang zum dimensional gekrümmten [[<span class="hellblau">L-Space</span>|L-Space]]<br>

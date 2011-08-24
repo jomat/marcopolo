@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>v</font>|Tharbad]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">D =</span> Bedienstetenkammer<br>
 <span class="gelb">d =</span> Dachboden (durch das Fenster kann man runter zum Garten des Hauses [in [[<span class="hellblau">Tharbad</span>|Tharbad]]] klettern) <br>
 <span class="gelb">E =</span> Eingangshalle<br>

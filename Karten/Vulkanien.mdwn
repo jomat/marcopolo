@@ -43,7 +43,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">a =</span> Abstellkammer<br>
 <span class="gelb">B =</span> Landeplatz für den Ballon nach [[<span class="hellblau">Knossos</span>|Kreta/Knossos]]<br>
 <span class="gelb">b =</span> Büro mit einem verzweifelten Student<br>

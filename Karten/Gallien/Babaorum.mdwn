@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">C =</span> Claudius Brutus, Lagerkommandant<br>
 <span class="gelb">E =</span> Eingangsbereich (2 Legionäre stehen Wache und lassen einen nicht durch)<br>
 <font color=C0C0C0>e =</font> Exercierplatz<br>

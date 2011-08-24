@@ -5,7 +5,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">D =</span> Hier kann man durch eine Öffnung raus nach [[<span class="hellblau">Dörrstadt</span>|Doerrstadt_alt]] klettern<br>
 <span class="gelb">H =</span> Höhle (fault eine Zombieratte vor sich hin und man kann Dörritkristalle aus der Wand ziehen)<br>
 <font color=C0C0C0>s =</font> Luftschacht<br>

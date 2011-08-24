@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Bibliothek<br>
 <span class="orange">D =</span> Jackys Destille<br>
 <font color=C0C0C0>g =</font> Gewölbe<br>

@@ -18,7 +18,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">A =</span> Billige Absteige<br>
 <span class="gelb">D =</span> Dachboden<br>
 <font color=C0C0C0>d =</font> Durchgang<br>

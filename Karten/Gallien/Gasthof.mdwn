@@ -8,7 +8,7 @@
 &nbsp;<span class="gelb">K</span>-<span class="orange">G</span> <font color=00CC00>K</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>5 =</font> Römerstraße 5 ([[<span class="hellblau">Zentral-Gallien</span>|Gallien]])<br>
 <font color=blue>F =</font> Forellenteich<br>
 <span class="orange">G =</span> Gaststube<br>

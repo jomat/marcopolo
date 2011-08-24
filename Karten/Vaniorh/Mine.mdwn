@@ -18,7 +18,7 @@
 &nbsp; &nbsp;/
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">D =</span> Höhlendrache<br>
 <span class="rot">F =</span> Feuerkobold (hier geht auch der Tunnel nach oben)<br>
 <span class="gelb">G =</span> man kann hier einen Goldklumpen ausgraben (vorsicht bissig)<br>

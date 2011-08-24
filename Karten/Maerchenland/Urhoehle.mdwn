@@ -10,7 +10,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=808080>h =</font> Höhle<br>
 <span class="gelb">U =</span> Urmaterie-Fundstätte<br>
 <font color=008800>w =</font> Wald im [[<span class="hellblau">Schneewittchental</span>|Tal2]]<br>

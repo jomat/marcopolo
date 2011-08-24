@@ -14,7 +14,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Bündelraum<br>
 <font color=C0C0C0>b =</font> Bibliothek<br>
 <span class="gelb">C =</span> Chef der Strahlenphysik<br>

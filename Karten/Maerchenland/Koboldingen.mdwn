@@ -30,7 +30,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">B =</span> Blumenladen<br>
 <span class="orange">b =</span> Pralinerie &quot;Blümchen&quot;<br>

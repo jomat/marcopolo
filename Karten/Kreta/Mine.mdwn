@@ -12,7 +12,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <font color=808080>A =</font> an einem Abgrunde (man kann hier runterklettern [<])<br>
 <span class="gelb">a =</span> am Fuße eines Abgrundes (hier liegt ein Skelett mit nem Seil und man kann hochklettern [<])<br>

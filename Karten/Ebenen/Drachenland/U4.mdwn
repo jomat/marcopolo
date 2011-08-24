@@ -36,7 +36,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">2 =</span> Riss in der Decke (oben ist [[<span class="hellblau">Ebene 2</span>|U2]] - man braucht ein Seil zum hochklettern)<br>
 <span class="hellblau">5 =</span> Riss im Boden (unten ist [[<span class="hellblau">Ebene 5</span>|U5]] - ein Seil dabeihaben lohnt sich ...sonst muss man runterrutschen und schürft sich dabei ziemlich die Haut auf)<br>
 <span class="gelb">G =</span> Grabkammer (auf dem Obelisk ist eine Liste der Leute die in der Unterwelt ihr Leben gelassen haben)<br>

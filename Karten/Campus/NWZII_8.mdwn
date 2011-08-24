@@ -15,7 +15,7 @@
 	&nbsp;b.z-f-f-f-f-f-b
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">A =</span> Blauer [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
 <font color=00CC00>A =</font> Grüner [[<span class="hellblau">Aufzug</span>|Aufzug]]<br>
 <font color=C0C0C0>b =</font> Balkon<br>

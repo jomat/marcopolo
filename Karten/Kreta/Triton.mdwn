@@ -12,7 +12,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color=808080>F =</font> Felsformation (man kann in eine Höhle klettern um dort Luft zu schnappen)<br>
 <span class="hellblau">M =</span> Hier startet man wenn man aus der Höhle ins Wasser springt.<br>
 <font color=blue>m =</font> Meeresgrund (wenn man auftaucht landet man im Meer östlich von [[<span class="hellblau">Kreta</span>|Kreta]])<br>

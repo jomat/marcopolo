@@ -10,7 +10,7 @@
 &nbsp; &nbsp; &nbsp;v-g-[[<span class="hellblau">B</span>|Gebirge_S]]-f-f</TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">B =</span> abgestorbener Baum, über den man zur Hochebene im [[<span class="hellblau">südlichen Teil des Gebirges</span>|Gebirge_S]] hochklettern kann<br>
 <font color=00CC00>B =</font> auf einer Bergwiese ist hier Bruno, der liebe Grizzlybär (man kann hier auch in seine Höhle gehen)<br>
 <font color=C0C0C0>B =</font> Felsenbrücke<br>

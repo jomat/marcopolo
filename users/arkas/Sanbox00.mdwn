@@ -17,7 +17,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Anlieferungshalle<br>
 <span class="gelb">B =</span> Büro<br>
 <font color="C0C0C0">g =</font> Gasse<br>

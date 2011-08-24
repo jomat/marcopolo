@@ -6,7 +6,7 @@
 &nbsp;k-k-k
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">a =</span> Abstellkammer (Durch ein Loch in der Wand gelangt man in die [[<span class="hellblau">Unterwelt</span>|Ebenen/Drachenland/U3]])<br>
 <span class="gelb">g =</span> Durch drücken oder ziehen der öllampe in diesem Feld öffnet sich der Durchgang nach Osten<br>
 <span class="hellblau">l =</span> An der Decke dieses Raumes ist eine (verschlossene) Luke durch die man in den Hinterhof des Ladens von [[<span class="hellblau">Sarasande</span>|Sarasande]] gelangt<br>

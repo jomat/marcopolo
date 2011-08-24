@@ -20,7 +20,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>a =</font> Abstellkammer<br>
 <span class="gelb">B =</span> Büro<br>
 <span class="hellblau">C =</span> Cafeteria (hier gehts hoch ins [[<span class="hellblau">Obergeschoss</span>|OEZ-Dach]] - und runter in die südlicher gezeichneten Bereiche)<br>

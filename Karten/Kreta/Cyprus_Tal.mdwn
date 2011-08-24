@@ -17,7 +17,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <font color=008000>B =</font> Eiche (über einen Ast kann man zur Eiche rüberklettern)<br>
 <font color=008000>E =</font> Eiche (durch einen Spalt kommt man in den hohlen Baum, kann dann innen hoch und über einen Ast zur Birke rüberklettern)<br>

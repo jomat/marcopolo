@@ -7,7 +7,7 @@
 &nbsp; &nbsp; &nbsp; [[<font color=00CC00>v</font>|Gallien]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Arbeitsraum<br>
 <font color=C0C0C0>E =</font> Eingangshalle<br>
 <span class="gelb">M =</span> Mannschaftsquartier<br>

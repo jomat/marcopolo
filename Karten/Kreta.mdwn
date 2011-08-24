@@ -79,7 +79,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Sehenswertes:</span><br>
 <span class="hellblau">A =</span> [[<span class="hellblau">Höhlentempel</span>|Kreta/Mine]] (man muss die Treppe hochklettern um reinzukommen)<br>
 <span class="hellblau">B =</span> [[<span class="hellblau">Hackbarts Haus</span>|Kreta/Hackbart]]<br>
@@ -116,7 +116,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <span class="hellblau">z =</span> Zip-Rune <br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Landschaft:</span><br>
 <font color=C0C0C0>A =</font> Avalon<br>
 <font color=808080>B =</font> Berge<br>
@@ -138,7 +138,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-
 <font color=800000>µ =</font> Sumpf<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">Monster:</span><br>
 Löwen<br>
 Panzerechsen<br>
@@ -152,7 +152,7 @@ Wölfe<br>
 Zyklopen<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Friedliche Bewohner:</span><br>
 Gorillas<br>
 Zentauren<br>

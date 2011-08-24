@@ -19,7 +19,7 @@
 &nbsp; &nbsp; &nbsp;r-r r <span class="gelb">T</span> &nbsp; <span class="gelb">k</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">t</span> &nbsp; <span class="gelb">t</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">K =</span> Eingang (durch die Krypta in [[<span class="hellblau">Barovia</span>|Barovia]])<br>
 <span class="gelb">k =</span> Kammer mit leerem Sarg<br>
 <font color=808080>r =</font> Raum im Gruftlabyrinth<br>

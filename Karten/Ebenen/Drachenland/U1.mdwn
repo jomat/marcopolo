@@ -23,7 +23,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot"> Netterweise sind viele der Gangverbindungen inzwischen durch einen Zufallsgenerator variabel gestaltet - neue Karten machen hilft da dann leider auch nix mehr, aber immerhin sieht man mit dieser noch den groben Aufbau und wo was interessantes ist.</span></br>
 <span class="hellblau">2 =</span> Riss im Boden (unten ist [[<span class="hellblau">Ebene 2</span>|U2]] - ein Seil dabeihaben lohnt sich ...sonst muss man runterrutschen und schürft sich dabei ziemlich die Haut auf)<br>
 <span class="gelb">A =</span> Altar (inklusive blutigem Pentagramm und Opferdolch)<br>

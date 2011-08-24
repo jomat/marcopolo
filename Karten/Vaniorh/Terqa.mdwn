@@ -21,7 +21,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> (Ameisen-)Bank<br>
 <span class="gelb">A =</span> Acker<br>
 <span class="orange">B =</span> Bäckerei<br>

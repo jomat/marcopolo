@@ -6,7 +6,7 @@
 &nbsp; &nbsp;E
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=FFFFFF>E =</font> Eishöhle<br>
 <span class="rot">F =</span> Flammentor zur [[<span class="hellblau">Beschwörergilde</span>|OdF]]<br>
 <span class="hellblau">G =</span> Eingang in die Gletscherspalte (in [[<span class="hellblau">Veldergautland</span>|Veldergautland]])<br>

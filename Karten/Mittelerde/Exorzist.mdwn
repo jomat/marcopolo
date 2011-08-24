@@ -11,7 +11,7 @@
 &nbsp; &nbsp; &nbsp;[[<span class="gelb">E</span>|Mittelerde]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">E =</span> Eingangshalle ('kletter durch lücke' um raus nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]] zu kommen)<br>
 <font color=808080>F =</font> Felsenraum<br>
 <font color=808080>g =</font> Gang (man kann durch eine Spalte in der Ostwand klettern)<br>

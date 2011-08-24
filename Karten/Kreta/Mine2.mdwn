@@ -18,7 +18,7 @@
 &nbsp; &nbsp; &nbsp;L
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Die Kammer von Audrus, dem Alchemisten<br>
 <font color=C0C0C0>C =</font> Auf [[<span class="hellblau">Cyprus</span>|Cyprus]], an einer Felsspitze (man kann in eine Spalte rein nach drinnen kriechen)<br>
 <font color=808080>F =</font> Hier liegt ein groﬂer Felsblock (mit einem Hohlraum dahinter)<br>

@@ -10,7 +10,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Raum der Bank und Post<br>
 <span class="hellblau">C =</span> [[<span class="hellblau">Campus</span>|Campus]]<br>
 <span class="violett">E =</span> Eingangsbereich (hier steht auch ein Teleporter in die [[<span class="hellblau">S-Bahn</span>|S-Bahn]])<br>

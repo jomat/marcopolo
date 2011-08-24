@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">C =</span> Über dem Cafe des [[<span class="hellblau">ÖZ</span>|OEZ]] (hier gehts runter ins Erdgeschoss)<br>
 <span class="gelb">D =</span> Dachterasse<br>
 <font color=C0C0C0>F =</font> Flur<br>

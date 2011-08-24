@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp; -[[<font color=C0C0C0>s</font>|Lutetia]]-
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Bibiliothek (im Bau)<br>
 <span class="gelb">b =</span> Besenkammer<br>
 <span class="gelb">D =</span> Dekanat<br>

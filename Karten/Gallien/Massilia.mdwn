@@ -24,7 +24,7 @@
 &nbsp; &nbsp; &nbsp; /|X|\</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">G =</span> Griechisches Handelskontor<br>
 <span class="orange">g =</span> Gasthaus 'Zum Wildschwein in Weinsosse'<br>
 <span class="hellblau">H =</span> Hafen<br>

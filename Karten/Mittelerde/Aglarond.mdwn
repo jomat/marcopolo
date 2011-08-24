@@ -21,7 +21,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>e =</font> Eingestürzter Gang<br>
 <font color=C0C0C0>f =</font> Hier ist eine Falltür im Boden (runter zur Waffenkammer)<br>
 <span class="gelb">G =</span> Glasgarten von Kristallpflanzen<br>

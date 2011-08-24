@@ -106,7 +106,7 @@ M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-</font>K-K-K-K-K<font 
 M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=00CCFF>Sehenswertes:<br>
 A =</font> Forschungsstation<br>
 <span class="hellblau">a =</span> abgesperrter Bereich (nur von der Station erreichbar)<br>
@@ -125,7 +125,7 @@ A =</font> Forschungsstation<br>
 <span class="hellblau">w =</span> Vor der Hütte des Weihnachtsorks<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Legende:</span><br>
 <font color=FFFFFF>K =</font> Küste<br>
 <FONT COLOR=blue>M =</font> Meer (Veldermeer um genau zu sein)<br>
@@ -134,12 +134,12 @@ A =</font> Forschungsstation<br>
 <font color=FFFFFF>v =</font> Vor einem Felsmassiv<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">Monster:</span><br>
 Schneewürmer<br>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">Friedliche Bewohner</span><br>
 Eisbären<br>
 Flüffel<br>

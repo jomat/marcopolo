@@ -24,7 +24,7 @@
 &nbsp;.......
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>A =</font> Ausgang der Marmorhöhlen (hier ist ne Tür mit speziellem Schliessmechanismus)<br>
 <span class="gelb">B =</span> Bastelecke von Erad-Nair<br>
 <span class="gelb">b =</span> Boden des Schachtes (nach Süden gehts in ein Treppenhaus was einen wieder hoch zu Raum K führt)<br>

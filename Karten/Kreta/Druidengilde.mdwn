@@ -7,7 +7,7 @@
 &nbsp; &nbsp; <span class="gelb">I</span> &nbsp; <font color=00CC00>K-</font><span class="gelb">S</span> &nbsp; &nbsp;[[<span class="hellblau">K</span>|Kanalisation_Knossos]]<font color=CC6600>-g</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">C =</span> Cafe Teutates<br>
 <font color=008000>E =</font> Druideneiche (oben ist ein Baumhaus drauf)<br>
 <span class="gelb">E =</span> Eingangshalle<br>

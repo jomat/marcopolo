@@ -16,7 +16,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Arbeitszimmer<br>
 <span class="gelb">a =</span> Abstellkammer<br>
 <span class="gelb">d =</span> hier im Flur ist eine Falltür an der Decke hoch auf den Speicher... und von da kann man durch eine Luke aufs Dach<br>

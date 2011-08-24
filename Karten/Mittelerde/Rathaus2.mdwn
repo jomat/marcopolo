@@ -8,7 +8,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Arbeitszimmer<br>
 <span class="gelb">F =</span> Foyer<br>
 <span class="hellblau">s =</span> Straﬂe in [[<span class="hellblau">Michelbinge</span>|Michelbinge]]<br>

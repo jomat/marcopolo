@@ -20,7 +20,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 Viele der Pfade im alten Wald sind nur in eine Richtung zu benutzen. Da es aber leider keine diagonal laufenden Pfeile gibt konnte ich einige Einbahn-Wege nicht als solche einzeichnen. Man kann meist aber davon ausgehen dass die Wege zu Feldern zu denen die gerade Pfeile gehen auch nur in eine Richtung begehbar sind.<br>
 <font color=blue>f =</font> Fluss Baranduin in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
 <font color=008000>G =</font> Geist<br>

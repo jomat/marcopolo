@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">E =</span> Eingang<br>
 <span class="gelb">H =</span> Heustadel (nach Norden gehts nach [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>
 <font color=C0C0C0>h =</font> Hof (nach Westen, Süden und Osten gehts nach [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>

@@ -20,7 +20,7 @@
 &nbsp;
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=808080>(In Richtung der Pfeilspitze geht es nach unten [<] [>] [^] [v])</font><br>	
 <span class="gelb">C =</span> Statue von Cosiran<br>
 <span class="hellblau">D =</span> Eingang zu [[<span class="hellblau">Dorgals Labyrinth</span>|Lab_Dorgal]]<br>

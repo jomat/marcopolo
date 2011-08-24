@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">K =</span> Kammer mit schleimigen Klumpen<br>
 <span class="gelb">L =</span> Kokon mit einem Loch, durch dass man in die Arena im alten [[<span class="hellblau">Dörrstadt</span>|Doerrstadt_alt]] runterklettern kann<br>
 <span class="gelb">s =</span> Hier kann man hochklettern und gelangt in einen mit einem Pfropfen zugeschleimten Schacht<br>

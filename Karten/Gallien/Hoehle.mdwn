@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Am Rand eines Abgrundes (um vom südlichen in das nördliche Feld zu kommen muss man ein Brett über den Abgrund legen... im nördlichen Feld liegt eine Steintafel)<BR>
 <font color=808080>a =</font> Am Boden des Abgrundes<BR>
 <span class="gelb">b =</span> Hier liegt das Brett mit dem man über den Abgrund kommt<br>

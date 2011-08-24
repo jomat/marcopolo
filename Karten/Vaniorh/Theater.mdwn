@@ -19,7 +19,7 @@
 &nbsp; &nbsp; &nbsp; -[[<font  color=00CCFF>s</font>|Tadmor]]-
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Büro von Theaterdirektor Albert<br>
 <span class="orange">C =</span> Theatercafe<br>
 <span class="gelb">C =</span> Casimiros Zimmer<br>

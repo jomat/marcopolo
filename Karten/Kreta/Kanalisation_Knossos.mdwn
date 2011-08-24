@@ -29,7 +29,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Knossos" A HREF="Knossos.html"><font color=blue>h</font></A>-<A TITLE="Knossos" A HREF="Knossos.html"><font color=blue>h</font></A>-<A TITLE="Knossos" A HREF="Knossos.html"><font color=blue>h</font></A>-<A TITLE="Knossos" A HREF="Knossos.html"><font color=blue>h</font></A></FONT>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>B =</font> Brunnen<br>
 <span class="hellblau">D =</span> Durch ein Loch and der Wand kann man in den Keller der [[<span class="hellblau">Druidengilde</span>|Druidengilde]] klettern<br>
 <span class="gelb">F =</span> Fäulnismonster<br>

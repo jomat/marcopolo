@@ -11,7 +11,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">F =</span> Foyer (hier geht eine Treppe hoch ins Erdgeschoss des [[<span class="hellblau">E-Technikgebäudes</span>|E-Technik]])<br>
 <span class="gelb">F =</span> Foyer<br>
 <span class="hellblau">H =</span> Hörsaal (zweistöckig, geht im Erdgeschoss des [[<span class="hellblau">E-Technikgebäudes</span>|E-Technik]] weiter)<br>

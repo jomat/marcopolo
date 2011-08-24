@@ -42,7 +42,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">N</span>|Vulkan]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">B =</span> Taverne 'Blut der Reben'<br>
 <font color=blue>b =</font> kleiner Platz mit Brunnen<br>
 <span class="gelb">E =</span> Edward, der dunkle Paladin (hier ist auch ein Loch, durch das man in eine unterirdische Kammer kriechen kann)<br>

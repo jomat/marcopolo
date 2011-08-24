@@ -12,7 +12,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <span class="gelb">B =</span> Büro mit Tresor<br>
 <span class="hellblau">E =</span> Eingangshalle (hier gehts wieder raus nach [[<span class="hellblau">Phygria</span>|Kreta]])<br>

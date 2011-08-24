@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">G =</span> [[<span class="hellblau">Gefängnis</span>|Gefaengnis]]<br>
 <span class="orange">K =</span> Komissionsverkaufsladen<br>

@@ -10,7 +10,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">  Ä = </span>Ältestenrat von UNItopia<br>
 <span class="gelb">A = </span>Amtsstube mit Spenden-Apparat und dem fleissigen Denkerchen<br>
 <span class="hellblau">  B = </span>Schwarzes Brett<br>

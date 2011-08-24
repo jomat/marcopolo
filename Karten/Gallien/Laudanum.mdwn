@@ -10,7 +10,7 @@
 &nbsp; &nbsp; &nbsp; <span class="gelb">W</span>-w-w-w-<span class="gelb">W</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">C =</span> Quartier der Centurionen<br>
 <span class="gelb">E =</span> Eingangsbereich<br>
 <span class="gelb">K =</span> Küche<br>

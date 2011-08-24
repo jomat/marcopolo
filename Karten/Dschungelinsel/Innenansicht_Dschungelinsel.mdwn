@@ -63,7 +63,7 @@ r-<font color=00CC00>O-<font color=FF6600>w</font>-O-<font color=FF6600>w-w</fon
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">D =</span> Dorf [wohl auch im Bau...]<br>
 <font color=006600>d =</font> Dschungel (entweder man folgt dem Pfad oder man muss sich mit Lianen durch den Dschungel schwingen [schwinge nach xyz])<br>
 <font color=00CC00>e =</font> Hochebene<br>

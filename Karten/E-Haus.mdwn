@@ -11,7 +11,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=008000>Gallischer Wald</font>|Gallien/Trabantenstadt]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt"> 
 <span class="gelb">A =</span> Raum-Zeit Anomalie<br>
 <span class="gelb">E =</span> Eingangshalle (hier gehts auch runter in den Keller)<br>

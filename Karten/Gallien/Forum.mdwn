@@ -13,7 +13,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="orange">B =</span> Balbulus Galbas Verkaufsstand für Nahrung<br>
 <font color=C0C0C0>E =</font> Eingangshalle der Bibliothek<br>
 <font color=C0C0C0>f =</font> Irgendwo im Forum<br>

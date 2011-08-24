@@ -10,7 +10,7 @@
 &nbsp;<span class="gelb">h</span>-<span class="gelb">A</span>-f
 </span>
 
-<span class="legend">
+<span class="legende">
 <P><font color=C0C0C0 FACE="Courier New" STYLE="font-size: 8pt">
 <span class="gelb">A =</span> Allanon, der Druide<br>
 <font color=C0C0C0>A =</font> Aufenthaltsraum<br>

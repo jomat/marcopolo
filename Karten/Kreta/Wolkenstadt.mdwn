@@ -16,7 +16,7 @@
 &nbsp;&nbsp; <font color=00CC00>w-w-w-</font>p-p &nbsp; &nbsp; p-<span class="orange">M</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Amphitheater von Stratos<br>
 <span class="gelb">a =</span> Finstere Höhle mit Opferaltar<br>
 <span class="orange">B =</span> Bezalels Schnellrestaurant (für Golems)<br>

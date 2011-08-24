@@ -32,7 +32,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">a =</span> Aufzug hoch zur [[<span class="hellblau">Universität</span>|Campus]]<br>
 <font color=C0C0C0>a =</font> Abstellgleis<br>
 <font color=C0C0C0>B =</font> Bahnsteig Universität<br>

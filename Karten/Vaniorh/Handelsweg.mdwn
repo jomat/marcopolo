@@ -36,7 +36,7 @@
 </FONT>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">a =</span> schwarzer Altar<br>
 <span class="gelb">B =</span> Blockhütte des Holzfällers<br>
 <font color=blue>b =</font> Bach<br>

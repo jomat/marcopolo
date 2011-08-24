@@ -12,7 +12,7 @@ Ebene 0&nbsp; &nbsp; &nbsp;Ebene -1<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">S</span>|Schneeweg]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=FFFFFF>g =</font> Gang im Schnee (muss man erst mit &quot;grabe nach [Richtung]&quot; verbreitern - oder man hat ne Schaufel und buddelt ganz neue Gänge...)<br>
 <span class="hellblau">H =</span> Schneehase (der steckt in einer der Sackgassen im Bau - meistens da wo man zuletzt sucht)<br>
 <font color=FFFFFF>h =</font> Gang nach oben (verbreitern s.o.)<br>

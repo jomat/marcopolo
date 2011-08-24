@@ -7,7 +7,7 @@
 &nbsp; &nbsp; k&lt;<span class="orange">H</span>&lt;&#9472;&#9472;&#9496;
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> Schlafzimmer mit 3 Vampirbr‰uten auf einem groﬂen Bett<br>
 <span class="orange">H =</span> Herberge (es wird haupts‰chlich Blut verkauft)<br>
 <span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>

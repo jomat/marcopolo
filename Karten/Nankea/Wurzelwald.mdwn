@@ -43,7 +43,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">/</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <span class="rot">|</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">B =</span> [[<span class="hellblau">Waldbauernhof Grumbeldinger</span>|Bauernhof]]<br>
 <font color=008000>b =</font> hier kann man über einen umgestürzten Baumstamm ins anliegende b-Feld klettern<br>
 <font color=blue>b =</font> an einem Bach<br>

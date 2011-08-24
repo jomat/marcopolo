@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">C</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>B =</font> Bastion<br>
 <span class="gelb">C =</span> Cirdans Kammer<br>
 <span class="violett">E =</span> Eingangshalle (durch 'betrete Märchenbuch' gelangt man in eine Höhle von wo einen ein Maulwurf gegen Geld [abzugeben beim Kaninchen] auf den Marktplatz von [[<span class="hellblau">Koboldingen</span>|Maerchenland/Koboldingen]] bringt)<br>

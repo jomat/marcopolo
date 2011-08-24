@@ -26,7 +26,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m-m-m-m</TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">A =</span> (Nordtor) Argl, der grimmige Wächter (hier geht es auch wieder von der Mauer [[<span class="hellblau">runter</span>|Tadmor]])<br>
 <font color=00CC00>B =</font> Baum<br>
 <span class="gelb">D =</span> trauriger Druide<br>

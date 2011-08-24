@@ -15,7 +15,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">B =</span> Über diesen Baum kann man über den Zaun klettern<br>
 <font color=C0C0C0>b =</font> An einem Bergrutsch<br>
 <span class="hellblau">E =</span> Hier auf nem Baum sind die Enkel von Hammond<br>

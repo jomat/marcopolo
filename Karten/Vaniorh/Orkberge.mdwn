@@ -15,7 +15,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">B =</span> [[<span class="hellblau">Buchenwald</span>|Buchenwald]]<br>
 <font color=blue>F =</font> Furt durch einen Fluss<br>
 <span class="hellblau">L =</span> Hier gehen öferts Lawinen runter. Ein Feld runter (klettern) ist ein Felshang über den man noch weiter runter zum [[<span class="hellblau">Bach & Wasserfall</span>|Wasserfall]] kommt<br>

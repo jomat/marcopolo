@@ -9,7 +9,7 @@
 &nbsp; &nbsp;|
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">a =</span> Ärmliche Hobbithöhle<br>
 <span class="gelb">E =</span> Eingang der Höhle der Ham Gamdschies<br>
 <span class="gelb">K =</span> Küche von Ham Gamdschie<br>

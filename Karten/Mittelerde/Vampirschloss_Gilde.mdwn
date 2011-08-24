@@ -8,7 +8,7 @@
 &nbsp; &nbsp; &nbsp; <span class="gelb">G</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Aufenthaltsraum der Gildengötter<br>
 <span class="gelb">B =</span> Bibliothek<br>
 <span class="gelb">E =</span> Eingangshalle<br>

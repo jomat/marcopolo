@@ -20,7 +20,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Altar (das Seil runter gehts zur Kammer der Falken)<br>
 <span class="violett">D =</span> Dimensionstor zum unterirdischen [[<span class="hellblau">Tempel</span>|Tempel]]<br>
 <span class="gelb">F =</span> Kammer mit den Riesenfalken (die greifen an wenn man an dem Seil zum Altar [Ebene 2] hochklettern will)<BR>

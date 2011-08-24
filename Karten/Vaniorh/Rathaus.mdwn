@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|</font></TD>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Raum der Alchemistengilde<br>
 <span class="gelb">B =</span> Raum der Bardengilde<br>
 <span class="gelb">b =</span> Raum der Beschwörergilde<br>

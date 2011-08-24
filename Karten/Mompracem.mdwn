@@ -32,7 +32,7 @@ X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">B =</span> Baumhaus einer Hexe (au der Palme)<br>
 <font color=993300>b =</font> Strand, unter einer Hängebrücke (von Norden und Süden) / wacklige Hängebrücke (von Westen und Osten)<br>

@@ -14,7 +14,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="rot">A =</span> Acronos Hort<br>
 <span class="hellblau">D =</span> Am Fuﬂe des Drachenkopfes, beim [[<span class="hellblau">Wasserfall</span>|Wasserfall]]<br>
 <font color=C0C0C0>d =</font> Auf dem Weg zum Gipfel des Drachenkopfes<br>

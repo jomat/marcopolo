@@ -16,7 +16,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">T</span>|Turm]]
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">D =</span> Drachenskelett am Grund des Kraters<br>
 <font color=C0C0C0>g =</font> Geröllfeld<br>
 <span class="gelb">H =</span> Höhle in der Kraterwand<br>

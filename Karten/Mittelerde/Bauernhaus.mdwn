@@ -7,7 +7,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">E =</span> Eingang<br>
 <span class="gelb">K =</span> Küche<br>
 <font color=C0C0C0>p =</font> Pfad in (in [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>

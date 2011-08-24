@@ -18,7 +18,7 @@
 &nbsp; &nbsp;<span class="gelb">A</span>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Aussichtsfelsen (obendrauf hat man ne tolle Aussicht)<br>
 <span class="gelb">a =</span> Aussichtspunkt mit einer Bank<br>
 <font color=C0C0C0>a =</font> Abhang<br>

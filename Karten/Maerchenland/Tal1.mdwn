@@ -6,7 +6,7 @@
 &nbsp;<span class="gelb">r</span>-t-t
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">E =</span> Der Goldesel, Thomas der Hirte und ein Apfelbaum<br>
 <font color=C0C0C0>P =</font> Pfad durch das [[<span class="hellblau">Märchenland</span>|Maerchenland]]<br>
 <span class="gelb">r =</span> Rübenfeld<br>

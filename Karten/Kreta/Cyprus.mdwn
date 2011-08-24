@@ -16,7 +16,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color=blue>b =</font> Bucht<br>
 <font color=C0C0C0>K =</font> Klippe (obendrauf ist ein schwarzer Turm, zu dem man hochklettern kann)<br>
 <font color=FFFF00>s =</font> Sandstrand<br>

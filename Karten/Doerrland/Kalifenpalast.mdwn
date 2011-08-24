@@ -24,7 +24,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0>A =</font> Allee<br>
 <font color=blue>B =</font> Platz mit Springbrunnen<br>
 <span class="gelb">D =</span> Din Gior, der Wächter des Palastes<br>

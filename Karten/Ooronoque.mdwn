@@ -99,7 +99,7 @@
 </font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <font color=C0C0C0 face="Courier New" style="font-size: 8pt">
 <font color=008000>B =</font> Bananenstaude am Strand<br>
 <font color=0055FF>b =</font> Bach<br>

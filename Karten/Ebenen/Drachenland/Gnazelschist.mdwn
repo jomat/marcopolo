@@ -15,7 +15,7 @@
 
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="violett">D =</span> Dimensionstor nach [[<span class="hellblau">Ephesos</span>|Kreta/Ephesos]] (auf Phygria)<br>
 <span class="hellblau">L =</span> Gemischtwarenladen<br>
 <font color=C0C0C0>g =</font> In Gnazelschist<br>

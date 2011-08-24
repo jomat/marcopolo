@@ -46,7 +46,7 @@
 </span>
 </font>
 
-<span class="legend">
+<span class="legende">
 <font color="C0C0C0">
 <span class="gelb">A =</span> König Artus &amp; Knappe Pettsy<br>
 <span class="gelb">a =</span> Abort<br>

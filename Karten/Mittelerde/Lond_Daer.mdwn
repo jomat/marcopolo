@@ -32,7 +32,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \</font>
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="hellblau">b =</span> Anfang des Hafenbeckens (nach Südosten gehts in den Fluss Gwatlo im südlichen [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
 <font color=blue>b =</font> Hafenbecken (hier kann man tauchen und manche halbwegs interessante Sachen am Grund finden)<br>

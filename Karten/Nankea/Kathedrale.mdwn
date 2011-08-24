@@ -9,7 +9,7 @@
 &nbsp; &nbsp; &nbsp; /|
 </span>
 
-<span class="legend">
+<span class="legende">
 <span class="gelb">A =</span> Altar (hier gehts runter zu einer Krypta)<br>
 <span class="hellblau">g =</span> Gasse in [[<span class="hellblau">Nankea</span>|Nankea]]<br>
 <font color=C0C0C0>h =</font> Kirchhof<br>
