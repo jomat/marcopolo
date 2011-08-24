@@ -1,4 +1,5 @@
-<span class="karte"><font color="#C0C0C0">
+<span class="karte">
+<font color="#C0C0C0">
 &nbsp;&nbsp; &nbsp; &nbsp; <font color=00CC00>\|/</font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color=CC6600>-[[<font color=CC6600>E</font>|Gallien]]-</font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
@@ -24,6 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|<br>
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font color=CC6600>-[[<font color=CC6600>E</font>|Gallien]]-</font><br>
 &nbsp; &nbsp;&nbsp; &nbsp; <font color=00CC00>/|\</font>
+</font>
 </span>
 
 <span class="legende">
@@ -45,5 +47,4 @@
 <span class="orange">V =</span> Verleihnix<br>
 <span class="gelb">W =</span> Würfelfix Hütte<br>
 <font color=C0C0C0>z =</font> Zwischen den Palisadenwänden<br>
-<center><font color=00CC00>([[<font color=00CC00>zurück nach Gallien</font>|Gallien]])</font></center>
 </span>
