@@ -1,14 +1,16 @@
 <span class="map">
+<font color="#C0C0C0">
 &nbsp;&nbsp; <font color=00CC00>w-</font><span class="gelb">v</span><br>
 &nbsp;| <font color=00CC00>|</font>&nbsp;|<br>
 &nbsp;[[<font color=C0C0C0>s</font>|Koboldingen]]-<font color=00CC00>g-</font>[[<span class="gelb">w</span>|Kreta/Landhaus]]<br>
 &nbsp;|
+</font>
 </span>
 
 <span class="legend">
 <font color=00CC00>g =</font> Garten<br>
 <font color=00CC00>w =</font> Wiese<br>
-<font color=C0C0C0>s =</font> Blumenstraﬂe in [[<span class="hellblau">Koboldingen</span>|Koboldingen]]<br>
+<font color=C0C0C0>s =</font> Blumenstra√üe in [[<span class="hellblau">Koboldingen</span>|Koboldingen]]<br>
 <span class="gelb">v =</span> Veranda (hier hats auch ne Treppe runter in den Keller)<br>
 <span class="gelb">w =</span> Wohnzimmer der Kobolde & Treppe hoch zum Schlafzimmer (vom Dach aus [erreichbar durch den Kamin] fliegt ein Storch zu [[<span class="hellblau">Aeolos Landhaus</span>|Kreta/Landhaus]] auf Kreta)<br>
 </span>
