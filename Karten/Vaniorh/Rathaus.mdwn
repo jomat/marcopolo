@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;<span class="gelb">M S d V &nbsp; R r r</span><br>
 &nbsp; &nbsp;| | | | &nbsp; | | |<br>
 &nbsp;f-g-g-g-<span class="gelb">I</span>-g-<span class="gelb">F</span>-g-g<br>

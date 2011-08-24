@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; Erdgeschoss &nbsp;&nbsp;&nbsp;1.Untergeschoss&nbsp;&nbsp; 
 2.Untergeschoss<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;a-<span class="gelb">M</span> 

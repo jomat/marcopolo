@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; <font color=blue>&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;</font><BR>
 &nbsp; &nbsp; &nbsp; <font color=blue>&#9474;</font>&nbsp; W &nbsp;<font color=blue>&#9474;</font><br>
 &nbsp; &nbsp; &nbsp; <font color=blue>&#9474;</font>&nbsp; |<font color=blue>&nbsp; &#9474;</font><br>

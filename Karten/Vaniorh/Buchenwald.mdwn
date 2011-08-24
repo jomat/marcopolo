@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="hellblau">L</span>|Orkberge]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">w</span><br>

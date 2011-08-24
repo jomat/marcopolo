@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=blue>b =</font> kleiner Brunnen<br>
 <span class="gelb">D =</span> Dojo des Tempels<br>
 <font color=C0C0C0>k =</font> Kiesweg<br>

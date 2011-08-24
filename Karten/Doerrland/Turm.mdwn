@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; Turm &nbsp; &nbsp;Keller<br>
 	<br>
 &nbsp;<span class="gelb">A</span><br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; [[<span class="hellblau">W</span>|Edoras_Wall]] <span class="gelb">h</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| <span class="rot">|</span> | |<br>
 &nbsp; &nbsp; &nbsp; &nbsp;g g g g<br>

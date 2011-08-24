@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;-[[<span class="hellblau">s</span>|Vaihingen]]-------------[[<span class="hellblau">s</span>|Vaihingen]]-<br>
 &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; <span class="rot">x</span> &nbsp; <span class="rot">x</span><br>

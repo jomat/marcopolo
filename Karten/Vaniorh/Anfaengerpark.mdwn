@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<font color=00CC00>Anfängerpark</font> &nbsp;Untergrund<br>
 &nbsp; &nbsp; <span class="gelb">B</span><font color=00CC00>-<span class="gelb">t</span>-O</font><font color=008000>-W</font> &nbsp; &nbsp; <span class="gelb">T</span> r-r r<br>
 &nbsp; &nbsp; <font color=00CC00>|X<span class="gelb">|</span>X|</font><font color=008000>X|</font> &nbsp; &nbsp; |/ &nbsp;|/<br>

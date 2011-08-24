@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#FF6000">&nbsp;Unterdeck &nbsp;Schiffsdeck<br>
 <br>
 &nbsp; &nbsp; &nbsp; <font color=FFCC00>L</font><br>

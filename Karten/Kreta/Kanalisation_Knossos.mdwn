@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=996600>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<A TITLE="Kreta" A HREF="../Kreta.html"><font color=00CCFF>L</font></A><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.<br>

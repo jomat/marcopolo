@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;T-T-T-T&gt;t&gt;[[<span class="gelb">h</span>|See]]<br>
 &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp;T&gt;[[<span class="gelb">h</span>|See]]<br>

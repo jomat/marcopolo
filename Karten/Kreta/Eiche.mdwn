@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="CC6600">
 &nbsp;Wurmgänge &nbsp; <font color="00CC00">Baumkrone &nbsp; Altar &nbsp; obere Baumkrone</font><br>
     <br>

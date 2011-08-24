@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;Ebene -1 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Ebene 0 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Ebene 1&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Ebene  2<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>

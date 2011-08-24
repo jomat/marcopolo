@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">M</span>|Mine]]&nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>B</font>&nbsp; &nbsp; &nbsp;<font color=CC6600>m</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=808080>/</font> &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp;<font color=CC6600>|</font> <font color=blue>|/</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">G</span>|Gebirge_S]]&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b<font color=00CC00>-a</font><font color=blue>-b-</font><font color=CC6600>m</font><font color=FFFF00>-[[<font color=FFFF00>s</font>|Vaniorh]]</font><font color=blue>-</font><br>

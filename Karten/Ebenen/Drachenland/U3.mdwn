@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;u &nbsp; u u u &nbsp; u-u-u-u [[<span class="hellblau">K</span>|Doerrland/Keller]]<br>
 &nbsp; \ / \|&nbsp; \ /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |<br>
 &nbsp;u-u u-u u-u &nbsp; &nbsp; u-u u<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;w<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; <span class="rot">|</span><br>
 &nbsp;w-w-w-<font color=C0C0C0>w-w-p-w-w</font><br>

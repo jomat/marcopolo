@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g-g [[<span class="rot">F</span>|OdF]]<font color=808080>-h</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; \ &nbsp;^<br>
 &nbsp;[[<span class="hellblau">G</span>|Veldergautland]]&gt;g&gt;v&gt;g &nbsp; &nbsp; g&gt;g<br>

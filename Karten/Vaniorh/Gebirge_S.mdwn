@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp;H-[[<span class="hellblau">H</span>|Gebirge_N]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>v</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp;T<br>

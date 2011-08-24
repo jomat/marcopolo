@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;<span class="gelb">G</span><br>
 	&nbsp; &nbsp; &nbsp;|<br>
 	&nbsp;<span class="gelb">G</span>-v <span class="gelb">S E</span>-g<br>

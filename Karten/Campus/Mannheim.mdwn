@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="rot">|</span><br>
 &nbsp;E<br>
 &nbsp;|<br>

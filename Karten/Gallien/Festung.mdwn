@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;I-T-E-[[<font color=C0C0C0>p</font>|Gallien]]<br>
 &nbsp;| &nbsp; |<br>
 &nbsp;| [[<span class="gelb">S</span>|OdF]] |<br>

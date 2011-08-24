@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;g-g s-s<br>
 &nbsp; &nbsp; &nbsp; /&nbsp; | &nbsp;\<br>
 &nbsp;g &nbsp; g &nbsp; s &nbsp; <span class="gelb">s</span> &nbsp; s-s<br>

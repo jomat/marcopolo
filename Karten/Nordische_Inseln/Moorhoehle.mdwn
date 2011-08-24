@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=800000 face="Courier New" style="font-size: 8pt">
 <font color=B00000>[[<font color=B00000>H</font>|Moor]]-[[<font color=B00000>H</font>|Moor]]-[[<font color=B00000>H</font>|Moor]]</font><br>
 <font color=B00000>|X|X|</font><br>

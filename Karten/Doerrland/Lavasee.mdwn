@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="gelb">A =</span> Altar am Ufer des Lavasees<br>
 <span class="gelb">b =</span> Hier kann man aus der Lava rausklettern (und ist dann im [[<span class="hellblau">Bergwerk</span>|Kanaele]])<br>
 <span class="gelb">F =</span> Mitten in der Lava hier ist ein grosser Felsen mit ner Leiche drauf<br>

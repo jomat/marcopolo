@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<font color=C0C0C0>Erdgeschoss &nbsp; Dachgeschoss</font><br>
 &nbsp; &nbsp; &nbsp; w<br>
 &nbsp; &nbsp; &nbsp; |<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=996600>a =</font> Hier kommt man raus wenn man in den Katakomben der Arena nach Süden geht (zurück gehts nicht)<br>
 <font color=C0C0C0>C =</font> Keller der [[<span class="hellblau">Curia</span>|Curia]]<br>
 <font color=996600>k =</font> Abasserkanal<br>

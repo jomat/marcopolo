@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; Erdgeschoss &nbsp; Obergeschoss<br>
 &nbsp; &nbsp; &nbsp; &nbsp; v g-<span class="gelb">G</span> &nbsp; &nbsp; &nbsp;t---t<br>
 &nbsp; | &nbsp; &nbsp;/ &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>

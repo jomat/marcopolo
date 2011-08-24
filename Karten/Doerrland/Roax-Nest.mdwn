@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="gelb">K</span>-s-<span class="gelb">s</span>-[[<span class="gelb">L</span>|Doerrstadt_alt]]<br>
 &nbsp;|<br>
 &nbsp;s<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;s<br>
 &nbsp;| <font color=C0C0C0>|</font><br>
 &nbsp;[[<span class="gelb">H</span>|Brandyschloss]].[[<span class="gelb">h</span>|Bockland]]<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="gelb">Z</span>-f---f-<span class="gelb">K</span><br>
 &nbsp; &nbsp;| &nbsp; &nbsp;\|<br>
 &nbsp;<span class="gelb">z</span>-f &nbsp; &nbsp; <span class="gelb">S</span><br>

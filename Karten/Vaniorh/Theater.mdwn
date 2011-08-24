@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; Erdgeschoss &nbsp; &nbsp; 1. Stock<br>
 &nbsp; &nbsp; &nbsp; -[[<font  color=00CCFF>s</font>|Tadmor]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>

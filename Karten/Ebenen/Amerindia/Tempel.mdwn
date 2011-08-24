@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="gelb">A =</span> Altar<br>
 <span class="violett">D =</span> Dimensionstor zu einer [[<span class="hellblau">Gruft</span>|Gruft]] (von 
 einem Golem bewacht)<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>\<br>
 &nbsp; &nbsp; &nbsp;S</font>><font color=C0C0C0>d</font>>[[<span class="hellblau">D</span>|Wasserfall]]-<br>
 &nbsp; &nbsp; &nbsp;<font color=C0C0C0>|<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;&nbsp;&nbsp;&nbsp; Katakomben<br>
 &nbsp; Ebene 2&nbsp; Ebene 1&nbsp;&nbsp;&nbsp;Arena &nbsp;&nbsp;Tribüne<br>
 &nbsp;&nbsp;&nbsp;<span class="gelb">r r r r</span><br>

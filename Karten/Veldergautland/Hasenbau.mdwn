@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 Ebene +1&nbsp; &nbsp; &nbsp; 
 Ebene 0&nbsp; &nbsp; &nbsp;Ebene -1<br>
 &nbsp;r g-g-r&nbsp; &nbsp; &nbsp;&nbsp;h-g-g h &nbsp; &nbsp; &nbsp;g-g-g-g<br>

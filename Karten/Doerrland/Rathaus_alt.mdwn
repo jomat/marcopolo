@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;Erdgeschoss &nbsp; Obergeschoss<br>
 &nbsp;<br>
 &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="violett">L</span>|L-Space]]<br>

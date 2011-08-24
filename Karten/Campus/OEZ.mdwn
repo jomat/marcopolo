@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;k<br>
 &nbsp; &nbsp; \<br>
 &nbsp; &nbsp;k-<span class="gelb">D</span>-v<br>

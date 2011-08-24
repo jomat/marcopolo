@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<font color=blue>f-g</font> &nbsp; <span class="gelb">F</span><br>
 &nbsp;<font color=blue>|</font>/ &nbsp; &nbsp;|<br>
 &nbsp;<font color=blue>w</font> &nbsp; &nbsp; <font color=blue>t</font><br>

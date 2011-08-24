@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;W-W-W-W<br>
 &nbsp; &nbsp; &nbsp;| | | |<br>
 &nbsp; &nbsp;W-W-W-W-<span class="hellblau">B</span>-W<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="gelb">H =</span> heiliger Stein der Mykoniden<br>
 <span class="gelb">K =</span> Das Haus des Königs<br>

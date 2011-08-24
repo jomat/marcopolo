@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;<span class="gelb">m</span> &nbsp; [[<span class="gelb">K</span>|Club]]<br>
 &nbsp; &nbsp; &nbsp;| &nbsp; .<br>
 &nbsp; &nbsp; &nbsp;<span class="orange">m</span>-s-s<br>

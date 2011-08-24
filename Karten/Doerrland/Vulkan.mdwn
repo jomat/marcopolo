@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=008000>A =</font> Ahornbaum & Brunnen<br>
 <font color=FFFF00>a =</font> Auf einem Vulkan<br>
 <span class="hellblau">B =</span> In dieser Ruine ist das Tor nach [[<span class="hellblau">Barovia</span>|Barovia]] (durch den Nebel)<br>

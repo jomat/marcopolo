@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; g-g-g-r-g-g-g-g-g-r &nbsp; &nbsp; &nbsp;<span class="gelb">Dachgeschoss</span><br>
 &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>
 &nbsp; &nbsp; w&#9488; &nbsp; &nbsp; &nbsp;&#9474; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#9474;<br>

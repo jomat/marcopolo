@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="gelb">A =</span> Arasnia und Arasnias Haus<br>
 <font color=C0C0C0>b =</font> Bergpfad<br>
 <span class="orange">C =</span> Sehercafe<br>

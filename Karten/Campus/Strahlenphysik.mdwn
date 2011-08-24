@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; Keller &nbsp; Erdgeschoss &nbsp; 1. Stock<br>
 &nbsp; &nbsp;g-g-g &nbsp; <span class="gelb">C</span>-<span class="gelb">S</span> &nbsp; <span class="gelb">K</span>-<span class="gelb">M</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">d</span><br>
 &nbsp; &nbsp;| &nbsp; | &nbsp; | | &nbsp; | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;Keller &nbsp; Ergeschoss &nbsp; Dachboden<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>|</font><br>
 &nbsp; &nbsp; &nbsp;[[<font color=808080>S</font>|Hexentunnel]]<font color=808080>-</font>k &nbsp; &nbsp; <font color=00CC00>-[[<font color=00CC00>K</font>|Hexenwald]]-</font><span class="gelb">K</span> <span class="gelb">B</span><br>

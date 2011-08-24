@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C<br>
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| |<br>
 	&nbsp; &nbsp; &nbsp;f &nbsp; z-[[<span class="hellblau">R</span>|RUS]]-<br>

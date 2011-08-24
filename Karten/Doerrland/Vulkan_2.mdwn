@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">K</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.<br>
 &nbsp; &nbsp; &nbsp; R---R <span class="gelb">H</span>.<span class="gelb">D</span>-<span class="gelb">S</span><br>

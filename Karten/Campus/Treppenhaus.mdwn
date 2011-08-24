@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 +-----------------------+----+<br>
 	| &nbsp; Biologie - 9. Stock | &nbsp;[[<span class="hellblau">9</span>|NWZII_9]] |<br>
 	| Mathematik - 8. Stock | &nbsp;[[<span class="hellblau">8</span>|NWZII_8]] |<br>

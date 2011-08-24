@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=blue>d =</font> Unter der Wasseroberfläche des Dijala (in  [[<span class="hellblau">Tadmor</span>|Tadmor]])<br>
 <span class="gelb">K =</span> unterirdische Kaverne (hier liegt eine Magierrune)<br>
 <font color=blue>u =</font> Unterwasserhöhle<br>

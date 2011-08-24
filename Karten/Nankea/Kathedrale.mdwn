@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;<span class="gelb">t</span> h-h<br>
 &nbsp;| &nbsp; | |<br>
 &nbsp;[[<span class="hellblau">g</span>|Nankea]]-<span class="gelb">T</span>-k-k-<span class="gelb">A</span><br>

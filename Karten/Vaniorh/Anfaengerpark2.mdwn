@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<font color=C0C0C0>-</font>[[<font  color=00CCFF>K</font>|Tadmor]] r-g-w<br>
 &nbsp; &nbsp;<font color=C0C0C0>\</font>| | |<br>
 &nbsp; &nbsp; <font color=blue>s</font>-B-l<br>

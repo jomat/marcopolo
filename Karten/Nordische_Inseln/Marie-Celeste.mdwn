@@ -1,2 +1,2 @@
-<span class="map">
+<span class="karte">
 </span>

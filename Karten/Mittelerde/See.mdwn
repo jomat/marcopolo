@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;[[<span class="gelb">h</span>|Hochtal]]<br>
 &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp;t<br>

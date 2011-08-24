@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#FFFFFF">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[<span class="hellblau">h</span>|Hasenbau]]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |<br>

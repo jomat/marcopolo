@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="C0C0C0">
 &nbsp; &nbsp; \|<br>
 &nbsp; &nbsp; -[[<span class="hellblau">M</span>|Kreta]]<br>

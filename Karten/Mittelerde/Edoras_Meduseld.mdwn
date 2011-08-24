@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; \<br>
 &nbsp; &nbsp; -[[<span class="hellblau">s</span>|Edoras]]<br>
 &nbsp; &nbsp; &nbsp;|\<br>

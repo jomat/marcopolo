@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="gelb">a =</span> Gitter zur Arena in [[<span class="hellblau">Doerrstadt</span>|Doerrstadt]]<br>
 <span class="gelb">b =</span> Eingang des alten Bergwerks in [[<span class="hellblau">Doerrstadt</span>|Doerrstadt]]<br>
 <font color=808080>g =</font> kleiner Gang<br>

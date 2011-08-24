@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">N</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp;[[<span class="hellblau">K</span>|Kanalisation_Knossos]]&#8592;L&#8594;<span class="orange">a</span>&#8592;L&#8594;<span class="gelb">r</span> L&#8594;L&#8594;<span class="rot">P</span>&#9559;<br>

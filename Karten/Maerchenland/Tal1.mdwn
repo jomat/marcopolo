@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="gelb">E</span>-t-t<br>
 &nbsp;|X|X|&nbsp; <font color=339966>\|</font><font color=C0C0C0>/</font><br>
 &nbsp;t-t-t-t<font color=C0C0C0>-</font>[[<font color=C0C0C0>P</font>|Maerchenland]]<font color=339966>-</font><br>

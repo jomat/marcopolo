@@ -15,7 +15,7 @@ text-decoration: underline;
  link="#0000ee" vlink="#551a8b">
 <p
  style="font-family: Courier New; background-color: white; text-align: left;"><span
- class="map">&nbsp;
+ class="karte">&nbsp;
 &nbsp; &nbsp; &nbsp;<font color="339966">\|/</font><br>
 &nbsp; <span class="gelb">s S</span>&nbsp; <font
  color="339966">-<a

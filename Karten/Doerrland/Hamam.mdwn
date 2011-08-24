@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="gelb">D</span>-<font color=FFFFFF>F</font><br>
 &nbsp;| | <span class="rot">|</span> &nbsp; |<br>
 &nbsp;<font color=blue>S</font>-<font color=00CC00>I</font>-<span class="gelb">U</span>-<span class="gelb">E</span>-[[<span class="hellblau">s</span>|Doerrstadt]]<br>

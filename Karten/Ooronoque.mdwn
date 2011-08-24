@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=blue>
 		M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M-M<br>
 		|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>

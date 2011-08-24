@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=CC6600>B =</font> Vor der Brücke über den Burggraben <br>
 <span class="hellblau">D =</span> Dornröschenschloss<br>
 <font color=339966>H =</font> Hügel<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;L<br>
 &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;L &nbsp; &nbsp; M<br>

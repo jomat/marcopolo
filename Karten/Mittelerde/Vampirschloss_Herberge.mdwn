@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;\|/<br>
 &nbsp;-[[<span class="gelb">I</span>|Vampirschloss]]-<br>
 &nbsp;/|\<br>

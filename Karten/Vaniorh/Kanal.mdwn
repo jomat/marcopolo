@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;&nbsp; &nbsp;k<br>
 &nbsp;\ / &#9492;&#9472;&#9472;&#9472;&#9488;<br>
 &nbsp; [[<span class="hellblau">d</span>|Tadmor]] &nbsp; &nbsp; &nbsp; k<br>

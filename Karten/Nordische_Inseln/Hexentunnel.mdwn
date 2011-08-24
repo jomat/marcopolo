@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;S-[[<span class="hellblau">k</span>|Hexenhaus]]<br>
 &nbsp; &nbsp; / &nbsp;|<br>
 &nbsp; &nbsp;S<br>

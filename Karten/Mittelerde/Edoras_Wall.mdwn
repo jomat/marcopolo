@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;w-w-w-[[<span class="hellblau">W</span>|Edoras]]-w-w-w<br>
 &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp;w &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; w<br>

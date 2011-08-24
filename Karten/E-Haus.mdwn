@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;Erdgeschoss &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Keller<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">s</span>-<span class="gelb">S</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>

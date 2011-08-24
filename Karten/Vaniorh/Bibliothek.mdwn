@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;p-p-p-p-<span class="gelb">n</span><br>
 &nbsp;| &nbsp; <font color=C0C0C0>|</font> &nbsp; |<br>
 &nbsp;p &nbsp; <font color=C0C0C0>g</font> <span class="orange">R</span> p<br>

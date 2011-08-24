@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;[[<span class="hellblau">T</span>|OEZ]]-t-----<span class="gelb">D</span><br>
 &nbsp;| &nbsp; &nbsp; &nbsp; |<br>
 &nbsp;F &nbsp; &nbsp; &nbsp; <span class="gelb">D</span><br>

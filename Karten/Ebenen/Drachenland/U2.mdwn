@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;&nbsp; &nbsp; &nbsp; u-u &nbsp; &nbsp; u-u<br>
 &nbsp;&nbsp; &nbsp; &nbsp;/ / \ &nbsp; / &nbsp; \<br>
 &nbsp;&nbsp;&nbsp;[[<span class="hellblau">1</span>|U1]]-u&nbsp;u-u&nbsp;u-u&nbsp; &nbsp; &nbsp;u-u<br>

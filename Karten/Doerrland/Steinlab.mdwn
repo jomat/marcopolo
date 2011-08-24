@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=3366FF>6</font>&nbsp;&nbsp;k--k--k--k&nbsp;&nbsp;<span class="gelb">H</span>--k<span class="gelb">t7</span>k--k--k<br>
 &nbsp;&nbsp;&nbsp; <span class="gelb">t5</span>&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 &nbsp;&nbsp;&nbsp; <font color=3366FF>1</font>&nbsp; k--k--k&nbsp;&nbsp;k--k--k--k--k&nbsp; k<br>

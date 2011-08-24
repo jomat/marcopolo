@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 obere Ebene&nbsp;&nbsp; untere Ebene<BR>
 <BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=808080>v</font><br>

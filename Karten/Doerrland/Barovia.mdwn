@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=808080>z</font>-[[<span class="hellblau">S</span>|Schloss]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>W-W-W-W-W-W-W-W-W-</font>p<font color=008000>-W-W</font><br>

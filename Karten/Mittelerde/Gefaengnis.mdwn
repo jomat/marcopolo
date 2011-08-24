@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;Z &nbsp; Z<br>
 &nbsp; \ /<br>
 &nbsp; &nbsp;g<br>

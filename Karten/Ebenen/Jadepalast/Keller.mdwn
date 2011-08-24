@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;[[<span class="gelb">S</span>|Jadepalast]] [[<span class="gelb">M</span>|Labyrinth]]<br>
 &nbsp;| |<br>
 &nbsp;g-g-s<br>

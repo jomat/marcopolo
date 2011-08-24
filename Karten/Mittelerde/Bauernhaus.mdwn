@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; <span class="gelb">K</span><br>
 &nbsp; | &nbsp; |<br>
 &nbsp;-[[<font color=C0C0C0>p</font>|Hobbingen]]---<span class="gelb">E</span><br>

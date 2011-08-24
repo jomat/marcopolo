@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="hellblau">$ =</span> Bank<br>
 <span class="orange">A =</span> Antje, die Fischhändlerin<br>
 <font color=blue>B =</font> (fast) ausgetrockneter brunnen [reinklettern...]<br>

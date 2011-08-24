@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<font color=00CC00>-[[<font color=00CC00>v</font>|altes_Troja]]</font>-----f<br>
 &nbsp; &nbsp;<font color=00CC00>\</font>&nbsp;&nbsp; &nbsp;|<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t-<span class="gelb">K</span><br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;u &nbsp; u<br>
 &nbsp; &nbsp; &nbsp;| &nbsp;/ \<br>
 &nbsp; &nbsp; &nbsp;u-u u u &nbsp; [[<span class="hellblau">6</span>|U6]]<br>

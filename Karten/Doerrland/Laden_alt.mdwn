@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;[[<span class="gelb">L</span>|Kanaele_alt]]<br>
 &nbsp;|<br>
 &nbsp;<span class="gelb">H</span>-[[<span class="gelb">K</span>|Kanaele_alt]]<br>

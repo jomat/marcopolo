@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;[[<span class="hellblau">e</span>|Drachenland]]<br>
 &nbsp; &nbsp;|<br>
 &nbsp;h-h-h<br>

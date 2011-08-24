@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; <font color=C0C0C0>Oberer Teil &nbsp; Unterer Teil</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; g<&#9472;&#9472;&#9472;&#9472;&#9488; <font color=blue>W>w-h</font>-h-<span class="gelb">X</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &#9474; <font color=blue>|</font><br>

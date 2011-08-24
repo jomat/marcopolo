@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="008000">
 &nbsp;<font color=blue>\|/</font><br>
 &nbsp; [[<font color=FFFF00>s</font>|Cyprus]]<font color=FFFF00>-</font><br>

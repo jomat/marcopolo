@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; [[<span class="gelb">G</span>|Gefaengnis]] <span class="gelb">M</span> <span class="hellblau">L $</span><br>
 &nbsp;<font color=00CC00>\</font>|/ &nbsp;| |<font color=00CC00>/</font><br>
 &nbsp;-[[<font color=C0C0C0>s</font>|Mittelerde]]---s-[[<font color=C0C0C0>s</font>|Mittelerde]]<font color=008000>-</font><br>

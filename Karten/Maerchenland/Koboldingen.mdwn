@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=C0C0C0>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="hellblau"> \|/</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Maerchenland]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<font color=00CC00>O</font>|Maerchenland]]<br>

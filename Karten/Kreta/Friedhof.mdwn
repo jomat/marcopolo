@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;<span class="gelb">C G</span><br>
 &nbsp;<font color=C0C0C0>|</font> &nbsp; | |<br>
 &nbsp;[[<span class="hellblau">s</span>|Knossos]]-[[<span class="hellblau">G</span>|Gruft]]-v-<span class="gelb">A</span>-<span class="gelb">S</span><br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; <span class="gelb">K</span>-[[<span class="hellblau">E</span>|Doerrland]]-<span class="gelb">d</span><br>
 &nbsp; v |<br>
 &nbsp; <span class="rot">L</span> h-<span class="gelb">H</span><br>

@@ -1,4 +1,4 @@
-<span class="map"><font color="003366">
+<span class="karte"><font color="003366">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;r-r-r-r <font color=008000>W-W-W-W</font> r-#-r-r-r-r-r-r-r-r-r-r-r<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp; &nbsp; &nbsp;<font color=008000>|X|X|X|</font>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;\|\<br>

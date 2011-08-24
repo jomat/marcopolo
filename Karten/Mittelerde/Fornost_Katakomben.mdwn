@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;[[<span class="hellblau">G</span>|Fornost]]<br>
 &nbsp; &nbsp; \<br>
 &nbsp; &nbsp;<span class="gelb">S</span> G<br>

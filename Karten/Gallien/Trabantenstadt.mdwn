@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;[[<span class="violett">E</span>|E-Haus]]<br>
 &nbsp; &nbsp;|<br>
 &nbsp;<span class="gelb">H</span>-g-[[<span class="gelb">K</span>|G_Wald]]<br>

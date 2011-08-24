@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; h-h-<span class="gelb">g</span>.<span class="gelb">m</span>-h-h-h<br>
 &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; h &nbsp; &nbsp; &nbsp; &nbsp;<span class="rot">-</span>h-h<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="violett">Neues Dörrstadt &nbsp; Altes Dörrstadt</span><br>
 &nbsp; &nbsp; &nbsp; <span class="violett">a</span>-<span class="gelb">N</span>-g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-<span class="gelb">A</span>-<span class="violett">n</span><br>
 &nbsp; &nbsp; &nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>

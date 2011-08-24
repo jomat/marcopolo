@@ -1,4 +1,4 @@
-<span class="map"><font color="blue">
+<span class="karte"><font color="blue">
 M-M-M-m-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-m-m-M-M-M-M-M-M-M-M-m-m-m-m-m-m-m-m-m-m-M-M-M-M-M-M-M-M-M-M-M-M<br>
 |X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|<br>
 M-M-M-I-I-<font color=00CC00>K-</font><font color=808080>k-k-k-k-k-k</font>-I-I-I-I-<font color=808080>k-k-k-k-k</font>-I-I-<font color=808080>k-k-k</font>-I-I-m-m-M-M-M-M-M-M-M-M-m-m-<font color=00CC00>K-K-K-K-K</font>-m-m-m-m-m-m-m-M-M-M-M-M-M-M-M<br>

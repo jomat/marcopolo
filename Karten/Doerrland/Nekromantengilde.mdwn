@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f-[[<span class="gelb">T</span>|Vulkanhoehlen]]-[[<span class="gelb">k</span>|Vulkanhoehlen]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g &nbsp; &nbsp; <span class="gelb">R</span><br>

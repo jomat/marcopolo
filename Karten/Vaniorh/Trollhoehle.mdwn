@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;g-<span class="gelb">e</span>-g<br>
 &nbsp;|\ &nbsp;|<br>
 &nbsp;<span class="gelb">y T g</span>-g-[[<span class="hellblau">T</span>|Cosiran]]-<br>

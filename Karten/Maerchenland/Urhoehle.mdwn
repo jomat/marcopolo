@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp;<font color=008000>|<br>
 &nbsp; &nbsp; -</font>[[<font color=008000>w</font>|Tal2]]<br>
 &nbsp; &nbsp; &nbsp;|<br>

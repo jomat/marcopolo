@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#C0C0C0">
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Borsippa_Ebene]] &nbsp; <span class="orange">M</span> <span class="orange">T</span><br>

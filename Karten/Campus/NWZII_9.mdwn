@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;b.z-f-f-f-f-f-b<br>
 &nbsp;| &nbsp; |X| | | &nbsp; |<br>
 	&nbsp;b.z-f-[[<span class="hellblau">A</span>|Aufzug]] t f-[[<span class="gelb">T</span>|Treppenhaus]] |<br>

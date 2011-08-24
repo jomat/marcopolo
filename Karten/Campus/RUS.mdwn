@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; C-r-<span class="gelb">a</span><br>
 &nbsp; &nbsp; | | |<br>
 &nbsp; &nbsp; | g n<br>

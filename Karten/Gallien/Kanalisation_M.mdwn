@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=996600>k =</font> Abasserkanal<br>
 <span class="hellblau">M =</span> Hier ist ein Gullideckel durch den man hoch nach [[<span class="hellblau">Massilia</span>|Massilia]] kommt<br>
 </span>

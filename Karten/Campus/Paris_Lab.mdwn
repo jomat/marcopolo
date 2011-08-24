@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;Ebene1 &nbsp;Ebene2 &nbsp;Ebene3&nbsp; Metro<br>
 &nbsp;&nbsp;l-l-<span class="gelb">^</span> &nbsp; l-l-<span class="gelb">^</span> &nbsp; l-l-<span class="gelb">^</span>&nbsp; &nbsp;[[<span class="hellblau">P</span>|Paris]]-[[<span class="hellblau">P</span>|Paris]]<br>
 &nbsp; | | | &nbsp; | | | &nbsp; | | | &nbsp; | &#8593;<br>

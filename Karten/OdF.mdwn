@@ -1,4 +1,4 @@
-<span class="map"><font color="#808080">
+<span class="karte"><font color="#808080">
 &nbsp; &nbsp; &nbsp; <span class="rot">Ebene 0 &nbsp; &nbsp; &nbsp; Ebene -1</span><br>
 &nbsp; &nbsp; &nbsp;<span class="gelb">B</span>-<span class="gelb">b</span> &nbsp; <span class="gelb">o</span>-<span class="gelb">O</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>

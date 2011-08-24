@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;z-<span class="gelb">g</span><br>
 &nbsp;|<br>
 &nbsp;z<font color=FFFFFF>-e-</font>g-<span class="gelb">A</span><br>

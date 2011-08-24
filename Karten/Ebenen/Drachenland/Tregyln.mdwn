@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp;Erdgeschoss &nbsp; &nbsp; &nbsp; &nbsp; Burgzinnen<br>
 <font color=00CC00>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">|</span>/</font><br>

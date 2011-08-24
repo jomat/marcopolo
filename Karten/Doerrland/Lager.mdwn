@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="gelb">T =</span> Talkessel mit Feuerstelle<br>
 <font color=FFFF00>s =</font> Schlucht<br>
 <font color=blue>s =</font> Felsspalt mit Quelle<br>

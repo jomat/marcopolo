@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">S</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=blue>B</font>.<span class="gelb">a</span>.g<font color=blue>.T</font><br>

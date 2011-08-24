@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;[[<span class="hellblau">L</span>|Tempel]]<br>
 &nbsp;| <span class="rot">|</span><br>
 &nbsp;<span class="gelb">G</span>-a<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; |<br>
 &nbsp;-[[<span class="hellblau">T</span>|Borsippa]] &nbsp; &nbsp; &nbsp; [[<span class="hellblau">W</span>|Wasserfall]]-w<br>
 &nbsp; &nbsp;\ &nbsp; &nbsp; / &nbsp; \<br>

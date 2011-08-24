@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <span class="violett">A =</span> Archiv (h,s,o geht es von diesem Feld in [[<span class="hellblau">Erad-Nairs Haus</span>|E-Haus]] - die nicht eingezeichnetetn Wege führen immer im Kreis)<br>
 <span class="gelb">a =</span> Ausstellung<br>
 <span class="gelb">e =</span> Erica die Hausfrau (auf dem Marktplatz von [[<span class="hellblau">Phexcaer</span>|Phexcaer]]<br>

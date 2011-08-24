@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;&nbsp; &nbsp; &nbsp; u &nbsp; &nbsp; u-u<br>
 &nbsp;&nbsp; &nbsp; &nbsp;/| &nbsp; &nbsp; | |<br>
 &nbsp;&nbsp; &nbsp; u u u&nbsp; &nbsp;u u<br>

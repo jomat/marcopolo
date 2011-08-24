@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">h</span>|S-Bahn]]<font color=808080>-t-</font>b-[[<span class="hellblau">g</span>|Cannstatt]]-a<br>

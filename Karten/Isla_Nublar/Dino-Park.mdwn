@@ -1,4 +1,4 @@
-<span class="map"><font color="#00CC00">
+<span class="karte"><font color="#00CC00">
 &nbsp;&nbsp; &nbsp; &nbsp;U&nbsp; &nbsp; &nbsp;<span class="hellblau">l</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp; &nbsp;|<br>
 &nbsp;&nbsp; &nbsp; &nbsp;<span class="hellblau">B&nbsp;<font color=CC6600>s</span>&nbsp;E</font>&nbsp;g-g-<font color=C0C0C0>w</font><br>

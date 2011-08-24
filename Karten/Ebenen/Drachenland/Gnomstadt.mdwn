@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;s-s-s-s<br>
 &nbsp; &nbsp;| &nbsp; &nbsp; |<br>
 &nbsp; &nbsp;s <span class="hellblau">$ L</span> s<br>

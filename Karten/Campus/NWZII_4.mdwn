@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;b.z<br>
 &nbsp;|&nbsp; \<br>
 	&nbsp;| &nbsp; f-f-f---f-f-b<br>

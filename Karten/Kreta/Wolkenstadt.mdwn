@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-<span class="orange">e</span>-p&nbsp; &nbsp;<span class="orange">B</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ /<br>
 &nbsp; &nbsp; &nbsp;g-<span class="gelb">G</span> &nbsp; &nbsp; s-s-[[<span class="gelb">E</span>|Stratos-Arkaden]]<br>

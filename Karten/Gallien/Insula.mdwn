@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; <font color=808080>Untergrund</font> &nbsp; Erdgeschoss &nbsp; &nbsp;1. Stock &nbsp; 2. Stock &nbsp; Dachboden<br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<font color=C0C0C0>s</font>|Lutetia]]-<br>

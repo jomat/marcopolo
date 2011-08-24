@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; [[<span class="hellblau">q</span>|Nebelgebirge]]<br>
 &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|<br>
 &nbsp; &nbsp; &nbsp; s<br>

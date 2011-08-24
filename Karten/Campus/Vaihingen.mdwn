@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;b&gt;u-[[<span class="hellblau">S</span>|S-Bahn]]-s<br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp;s-s-s-s-<span class="orange">T</span>-s<br>

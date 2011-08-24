@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; <span class="gelb">S</span><br>
 &nbsp;<font color=00CC00>\</font>|<font color=00CC00>/</font> &nbsp;|<br>
 &nbsp;<font color=00CC00>-</font>[[<font color=C0C0C0>S</font>|Mittelerde]]<font color=00CC00>-</font> &nbsp;<font color=blue>B</font><br>

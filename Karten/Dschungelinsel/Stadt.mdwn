@@ -1,4 +1,4 @@
-<span class="map"><font color="#006666">
+<span class="karte"><font color="#006666">
 &nbsp;l l l l l<br>
 &nbsp; \|\|/|/<br>
 &nbsp;l-<font color=C0C0C0>p-p-p</font>-l<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;<font color=C0C0C0>|<br>
 &nbsp; &nbsp;[[<span class="hellblau">s</span>|Bree]]-<br>
 &nbsp; &nbsp;|\<br>

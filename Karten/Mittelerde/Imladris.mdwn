@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=00CC00>&nbsp; Keller &nbsp; Erdgeschoss &nbsp; 1. Stock &nbsp; 2. Stock</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">H G G</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | | |<br>

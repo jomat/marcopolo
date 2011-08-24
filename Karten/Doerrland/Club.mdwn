@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp;k<br>
 &nbsp; &nbsp;|<br>
 &nbsp;[[<span class="hellblau">K</span>|Doerrstadt]]-<span class="gelb">T</span>&gt;<span class="rot">G</span><br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; w-m <span class="gelb">L</span>---<span class="gelb">K</span> [[<span class="gelb">M</span>|Gallien]]<br>
 &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; | |<br>
 &nbsp; &nbsp; &nbsp; <span class="gelb">W</span> m-e---w-w<br>

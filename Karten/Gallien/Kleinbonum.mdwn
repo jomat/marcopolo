@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#C0C0C0">
 &nbsp;<font color=00CC00>\|/</font><br>
 &nbsp;<font color=00CC00>-[[<font color=00CC00>O</font>|Gallien]]---</font><span class="gelb">E</span>-m<br>

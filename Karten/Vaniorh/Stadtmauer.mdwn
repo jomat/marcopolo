@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;m-m-m<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / &nbsp; &nbsp; \<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;m-<span class="gelb">s</span>-m-[[<span class="hellblau">g</span>|Drachenhoehle]]-[[<span class="hellblau">A</span>|Tadmor]]-t-<span class="gelb">H</span>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;m<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#00CC00">
 &nbsp; &nbsp;[[<font color=C0C0C0>s</font>|Koboldingen]]<br>
 &nbsp; &nbsp;<font color=C0C0C0>|<br>

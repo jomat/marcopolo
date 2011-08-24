@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color=996600>g =</font> Durch die Kanaldeckel kann man wieder hoch nach [[<span class="hellblau">Ephesos</span>|Ephesos]]<br>
 <font color=996600>k =</font> Hier treibt sich der Kanaligator rum<br>
 <font color=996600>r =</font> Hier liegt ne Magier-Rune rum<br>

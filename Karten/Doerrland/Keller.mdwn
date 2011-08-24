@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;k-k-k<br>
 &nbsp;|&nbsp;&nbsp;&nbsp;|<br>
 &nbsp;<span class="gelb">g</span>-[[<span class="hellblau">a</span>|Ebenen/Drachenland/U3]] k-[[<span class="hellblau">l</span>|Sarasande]]<br>

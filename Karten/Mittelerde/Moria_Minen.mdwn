@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#808080">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Obere Ebene &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Untere Ebene<br> <br>
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; g-g-g &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>s</font> &nbsp; g<br>

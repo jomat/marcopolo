@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="C0C0C0">
 &nbsp;Erdgeschoss&nbsp; &nbsp;&nbsp;Untergeschoss<br>
 <BR>

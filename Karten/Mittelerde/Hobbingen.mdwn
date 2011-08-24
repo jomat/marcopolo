@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; | &nbsp;/<br>
 &nbsp; &nbsp; &nbsp; [[<font color=00CC00>w</font>|Mittelerde]] [[<font color=00CC00>w</font>|Mittelerde]] <font color=C0C0C0>p-</font><span class="orange">L</span><br>
 &nbsp; &nbsp; &nbsp;/| |<font color=C0C0C0>/</font> &nbsp;|\<br>

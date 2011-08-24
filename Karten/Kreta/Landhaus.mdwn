@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="00CC00">
 &nbsp;&nbsp;&nbsp;&nbsp; g<br>
 &nbsp;&nbsp;&nbsp; / \<br>

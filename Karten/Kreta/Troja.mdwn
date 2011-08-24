@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="808080">
 &nbsp;&nbsp; Ruinen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
 Obergeschoss<br>

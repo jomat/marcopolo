@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; Ebene -1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ebene -2<br>
 &nbsp; &nbsp; &nbsp;r r-r-r r &nbsp; &nbsp; &nbsp; r r r-r-r &nbsp; <span class="gelb">T</span>-r-r<br>
 &nbsp; &nbsp; &nbsp; \| &nbsp;\ &nbsp;| &nbsp; &nbsp; &nbsp; |/&nbsp; | &nbsp; | &nbsp; &nbsp;&nbsp; /<br>

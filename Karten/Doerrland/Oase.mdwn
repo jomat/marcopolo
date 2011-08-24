@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;g---g---g---g-<span class="gelb">W</span><br>
 &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp;g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">N</span><br>

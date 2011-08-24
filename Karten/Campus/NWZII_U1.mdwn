@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;K-[[<span class="hellblau">A</span>|Aufzug]]<br>
 	&nbsp;K-[[<font color=00CC00>A</font>|Aufzug]]
 </span>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">K</span>-g-[[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>e</font>|Mompracem]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>

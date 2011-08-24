@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="gelb">A</span><br>
 &nbsp; \<br>
 &nbsp; &nbsp;<span class="gelb">T</span><br>

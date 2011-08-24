@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="#C0C0C0">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="gelb">M</span>|Stadtmauer_Knossos]]-g &nbsp; &nbsp; [[<span class="hellblau">T</span>|Kreta]] &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="gelb">M</span>|Stadtmauer_Knossos]]<br>

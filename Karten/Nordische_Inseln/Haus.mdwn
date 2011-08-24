@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp; 1. Stock &nbsp; Erdgeschoss<br>
 &nbsp; &nbsp; &nbsp; <span class="gelb">k</span> &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">A</span><br>
 &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp;\|/<br>

@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 <font color="blue">
 &nbsp;u-u-u-u-u-u---u<br>
 &nbsp;|\|X|X|X|X| X |<br>

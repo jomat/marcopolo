@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;\<font color=CC6600>|</font>/<br>
 &nbsp;-<font color=CC6600>[[<font color=CC6600>p</font>|Vaniorh]]-</font><br>
 &nbsp;/|\<br>

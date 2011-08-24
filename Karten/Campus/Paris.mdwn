@@ -1,4 +1,4 @@
-<span class="map">
+<span class="karte">
 &nbsp;<span class="hellblau">b</span> b<br>
 &nbsp;| |<br>
 &nbsp;[[<span class="hellblau">m</span>|Paris_Lab]]-[[<span class="hellblau">m</span>|Paris_Lab]]<br>
