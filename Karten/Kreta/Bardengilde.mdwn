@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#C0C0C0">
 &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; -[[<span class="hellblau">M</span>|Ephesos]]-<br>
 &nbsp; &nbsp; &nbsp;|<br>
@@ -13,7 +14,7 @@
 &nbsp; &nbsp;<span class="gelb">D</span>-g-<span class="gelb">T</span><br>
 &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;<span class="gelb">K</span>-g-<span class="gelb">m</span>
-
+</font>
 </span>
 
 <span class="legend">
@@ -30,7 +31,7 @@
 <span class="gelb">K =</span> Schara, Meisterin des Klaviers<br>
 <span class="hellblau">M =</span> Marktplatz von [[<span class="hellblau">Ephesos</span>|Ephesos]]<br>
 <span class="gelb">m =</span> Musizierzimmer<br>
-<span class="gelb">S =</span> Sekret‰r des Gildenmeisters<br>
+<span class="gelb">S =</span> Sekret√§r des Gildenmeisters<br>
 <span class="gelb">s =</span> Gesangshalle<br>
 <span class="gelb">T =</span> Stavros, Meister der Trommel<br>
 </span>
