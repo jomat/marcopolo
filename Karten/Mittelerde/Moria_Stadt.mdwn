@@ -1,4 +1,5 @@
 <span class="map">
+<font color="#808080">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">J</span> &nbsp; &nbsp; &nbsp; <span class="orange">Z</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g---g<br>
@@ -12,6 +13,7 @@
 &nbsp; <span class="orange">A</span>-g-<span class="orange">R</span> &nbsp; [[<span class="hellblau">g</span>|Moria_Minen]]<br>
 &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; <span class="orange">S</span>
+</font>
 </span>
 
 <span class="legend">
@@ -19,16 +21,16 @@
 <span class="orange">B =</span> Backstube<br>
 <font color=808080>g =</font> Gang/Gasse<br>
 <span class="hellblau">g =</span> abfallender Gang runter zu den [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
-<span class="hellblau">h =</span> große Halle in den [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
+<span class="hellblau">h =</span> groÃŸe Halle in den [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
 <font color=808080>h =</font> Hauptstollen<br>
 <span class="orange">J =</span> Juwelier<br>
 <span class="hellblau">L =</span> Laden<br>
 <span class="orange">l =</span> Tlutaschs Laden<br>
 <font color=808080>M =</font> Marktplatz<br>
-<span class="orange">P =</span> Parfümerie<br>
+<span class="orange">P =</span> ParfÃ¼merie<br>
 <span class="gelb">p =</span> Aussichtsplatform<br>
 <span class="gelb">R =</span> Rathaus<br>
-<span class="orange">R =</span> Rüstungsmacher<br>
+<span class="orange">R =</span> RÃ¼stungsmacher<br>
 <span class="orange">S =</span> Schmiede<br>
 <span class="hellblau">W =</span> Wendeltreppe runter in die [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
 <span class="orange">Z =</span> Gasthaus &quot;Schwarzer Zwerg&quot;
