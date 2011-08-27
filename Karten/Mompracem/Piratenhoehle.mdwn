@@ -1,4 +1,5 @@
 <span class="karte">
+<font color="C0C0C0">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">K</span>-g-[[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>e</font>|Mompracem]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
@@ -8,9 +9,10 @@
 &nbsp; &nbsp;|<br>
 &nbsp;[[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>e</font>|Mompracem]]-g
 </span>
+</font>
 
 <span class="legende">
-<span class="gelb">e =</span> Eingang (druch je eine Falltür im sw und no gehts zurück nach [[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>Mompracem</font>|Mompracem]])<br>
+<span class="gelb">e =</span> Eingang (druch je eine FalltÃ¼r im sw und no gehts zurÃ¼ck nach [[<FONT face="Courier New" style="font-Size: 8pt" color=00CCFF>Mompracem</font>|Mompracem]])<br>
 <font color=808080>g =</font> Gang<br>
 <span class="gelb">K =</span> Kalli, der Seemann<br>
 <span class="gelb">P =</span> Halle de Piratentreffs
