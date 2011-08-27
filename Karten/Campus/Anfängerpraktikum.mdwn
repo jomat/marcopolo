@@ -1,4 +1,5 @@
 <span class="karte">
+<font color="C0C0C0">
 &nbsp;t-<span class="gelb">R</span>-<span class="gelb">S</span>-<span class="gelb">B</span>-<span class="gelb">F</span><br>
 &nbsp;| &nbsp; &nbsp; &nbsp; &#9492;&#9488;<br>
 &nbsp;t-<span class="gelb">G</span>-<span class="gelb">M</span>-<span class="gelb">N</span>-t&#9474;<br>
@@ -9,6 +10,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp;
 </span>
+</font>
 
 <span class="legende">
 <span class="gelb">B =</span> Raum der Bank und Post<br>
@@ -22,8 +24,8 @@
 <span class="gelb">k =</span> Raum des Kampfes<br>
 <span class="gelb">M =</span> Raum der Magie<br>
 <span class="gelb">N =</span> Raum der Nahrung<br>
-<span class="gelb">R =</span> Raum der Rätsel<br>
-<span class="gelb">r =</span> Raum der Rüstungen und Kleidung<br>
+<span class="gelb">R =</span> Raum der RÃ¤tsel<br>
+<span class="gelb">r =</span> Raum der RÃ¼stungen und Kleidung<br>
 <span class="gelb">S =</span> Raum der Spiele<br>
 <span class="gelb">s =</span> Raum der Selbsterkenntnis<br>
 <font color=C0C0C0>t =</font> Treppe<br>
