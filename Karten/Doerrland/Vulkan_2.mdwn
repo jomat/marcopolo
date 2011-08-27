@@ -1,4 +1,5 @@
 <span class="karte">
+<font color="C0C0C0">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">K</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.<br>
 &nbsp; &nbsp; &nbsp; R---R <span class="gelb">H</span>.<span class="gelb">D</span>-<span class="gelb">S</span><br>
@@ -15,16 +16,17 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">T</span>|Turm]]
 </span>
+</font>
 
 <span class="legende">
 <span class="gelb">D =</span> Drachenskelett am Grund des Kraters<br>
-<font color=C0C0C0>g =</font> Geröllfeld<br>
-<span class="gelb">H =</span> Höhle in der Kraterwand<br>
+<font color=C0C0C0>g =</font> GerÃ¶llfeld<br>
+<span class="gelb">H =</span> HÃ¶hle in der Kraterwand<br>
 <span class="gelb">K =</span> Im Kopf eines Drachenskelettes<br>
-<span class="hellblau">k =</span> Rand des nordwestlichen Vulkans in [[<span class="hellblau">Dörrland</span>|Doerrland]]<br>
+<span class="hellblau">k =</span> Rand des nordwestlichen Vulkans in [[<span class="hellblau">DÃ¶rrland</span>|Doerrland]]<br>
 <span class="gelb">L =</span> Hier ist ein Loch in der Wand durch das man in einen Schacht runterklettern kann<br>
 <font color=C0C0C0>R =</font> Rand des Vulkankraters<br>
 <span class="gelb">S =</span> Sumpfloch am Grund des Kraters<br>
-<span class="hellblau">s =</span> Vertikaler Schacht (man kann in eine Spalte runterklettern und gelangt in eine tiefer gelegene Vulkanhöhle [[<span class="hellblau">Vulkanhöhle</span>|Vulkanhoehle]])<br>
+<span class="hellblau">s =</span> Vertikaler Schacht (man kann in eine Spalte runterklettern und gelangt in eine tiefer gelegene VulkanhÃ¶hle [[<span class="hellblau">VulkanhÃ¶hle</span>|Vulkanhoehle]])<br>
 <span class="hellblau">T =</span> Alter [[<span class="hellblau">Wachturm</span>|Turm]] (man muss sich den Weg von Norden her freisprengen)<br>
 </span>
