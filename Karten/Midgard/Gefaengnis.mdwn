@@ -1,0 +1,17 @@
+<span class="karte">
+&nbsp;Z &nbsp; Z<br>
+&nbsp; \ /<br>
+&nbsp; &nbsp;g<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">v</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; -[[<span class="hellblau">s</span>|Michelbinge]]-<br>
+&nbsp; &nbsp;|
+</span>
+
+<span class="legende">
+<font color=C0C0C0>g =</font> Gang<br>
+<span class="hellblau">s =</span> Straﬂe in [[<span class="hellblau">Michelbinge</span>|Michelbinge]]<br>
+<span class="gelb">v =</span> Gef‰ngnisvorraum<br>
+<font color=C0C0C0>Z =</font> Zelle<br>
+</span>

@@ -1,0 +1,42 @@
+<span class="karte">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>-[[<font color=C0C0C0>S</font>|Mittelerde]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>|</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">$</span> <font color=C0C0C0>w</font><br>
+&nbsp;<font color=008000>\</font><font color=blue>|</font> &nbsp; &nbsp; <font color=C0C0C0>|/|</font><br>
+&nbsp;<font color=008000>-</font>[[<font color=blue>f</font>|Mittelerde]]-w <span class="orange">G</span> <font color=blue>B</font> <font color=C0C0C0>w</font><br>
+&nbsp;<font color=008000>/</font><font color=blue>|</font> | <font color=C0C0C0>|/| |</font><br>
+&nbsp; &nbsp; w <span class="gelb">a</span><font color=C0C0C0> w</font> [[<span class="gelb">h</span>|Huegel]]<br>
+&nbsp;<font color=008000>\</font><font color=blue>|</font> |<font color=C0C0C0>/| | |</font><br>
+&nbsp;<font color=008000>-</font>[[<font color=blue>f</font>|Mittelerde]]-w <span class="hellblau">L</span>&nbsp;<font color=C0C0C0>| <span class="gelb">P</span>-[[<span class="rot">R</span>|Krickloch]]-</font><br>
+&nbsp;<font color=008000>X</font><font color=blue>|</font> | &nbsp; <font color=C0C0C0>| |</font><br>
+&nbsp;<font color=008000>-</font>[[<font color=blue>f</font>|Mittelerde]]-F-w.[[<span class="gelb">B</span>|Brandyschloss]]<font color=C0C0C0>-w</font><br>
+&nbsp;<font color=blue>/|</font> | &nbsp;\ <font color=C0C0C0>/</font><br>
+&nbsp; &nbsp; <span class="gelb">M</span> &nbsp; w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;<font color=blue>\|</font> |<br>
+&nbsp; &nbsp; &nbsp;-[[<font color=blue>f</font>|Mittelerde]]-e<br>
+&nbsp; &nbsp; &nbsp;/|<font color=blue>\</font>|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;-[[<font color=blue>f</font>|Mittelerde]]<font color=blue>-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;/|\
+</span>
+
+<span class="legende">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="gelb">a =</span> Antonia, die Max & Moritz-Spielerin<br>
+<span class="gelb">B =</span> [[<span class="hellblau">Brandyschloss</span>|Brandyschloss]] (an der Westseite kann man durchs Fenster reinklettern)<br>
+<font color=blue>B =</font> Dorfplatz mit Baum und Brunnen<br>
+<font color=00CC00>e =</font> Ende der zugewachsenen Straße<br>
+<span class="gelb">F =</span> Fährstation<br>
+<font color=blue>f =</font> Fluss Baranduin in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<span class="orange">G =</span> Gasthaus<br>
+<span class="gelb">h =</span> Hier kann man auf den [[<span class="hellblau">Hügel</span>|Huegel]] in dem das Brandyschloss ist draufklettern<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="gelb">M =</span> Hütte von Marmadas Brandybock<br>
+<span class="gelb">P =</span> Postbote von Bockland<br>
+<span class="rot">R =</span> Schwarzer Reiter auf dem Weg nach [[<span class="hellblau">Krickloch</span>|Krickloch]]<br>
+<font color=C0C0C0>S =</font> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>w =</font> Weg / Straße<br>
+<font color=00CC00>w =</font> Wiese / Trampelpfad<br>
+</span>

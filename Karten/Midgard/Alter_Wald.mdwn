@@ -1,0 +1,37 @@
+<span class="karte">
+<font color="#008000">
+&nbsp; &nbsp;<font color=00CC00>\|X|X|X|/</font><br>
+&nbsp; &nbsp;<font color=C0C0C0>-[[<font color=C0C0C0>S</font>|Mittelerde]]-[[<font color=C0C0C0>S</font>|Mittelerde]]-[[<font color=C0C0C0>S</font>|Mittelerde]]-[[<font color=C0C0C0>S</font>|Mittelerde]]-</font><br>
+&nbsp;&nbsp;&nbsp; &nbsp;\|X|/<br>
+&nbsp; &nbsp; &nbsp;&nbsp;W-W &nbsp; <span class="gelb">H</span><br>
+&nbsp;&nbsp;&nbsp; &nbsp;/|X&#8595;\ &nbsp;|<br>
+&nbsp;&nbsp;&nbsp; W-W-w-W W<br>
+&nbsp; <font color=00CC00>|</font> |\&#8595;/|X&#8595; |<br>
+&nbsp;<font color=00CC00>-[[<font color=00CC00>s</font>|Krickloch]]-</font>W&#8594;<font color=00CC00>L</font>&#8592;<span class="gelb">S</span>&#8592;W&#8592;G<br>
+&nbsp; <font color=00CC00>|</font> |/&#8593;\| | |<br>
+&nbsp;&nbsp;&nbsp; W-W W&#8592;G&#8592;W<br>
+&nbsp; <font color=00CC00>|</font> |\ /&#8593;\ &nbsp;|<br>
+&nbsp; [[<font color=00CC00>s</font>|Krickloch]]<font color=00CC00>-</font>W W <span class="rot">W</span>&#8592;W&#8592;<span class="gelb">T</span><br>
+&nbsp;&nbsp;&nbsp; &nbsp;/&#8595;/|X X|<br>
+&nbsp;&nbsp;&nbsp; W-W&#8594;W W&#8592;W<br>
+&nbsp; &nbsp;/|&nbsp;&nbsp; |&nbsp;&nbsp; |<br>
+&nbsp;<font color=blue>-[[<font color=blue>f</font>|Mittelerde]]-[[<font color=blue>f</font>|Mittelerde]]<font color=00CC00>- -[[<font color=00CC00>O</font>|Mittelerde]]- -[[<font color=00CC00>O</font>|Mittelerde]]<br>
+&nbsp;/|X<font color=blue>|</font>\ /|\ /|\
+</font>
+</span>
+
+<span class="legende">
+Viele der Pfade im alten Wald sind nur in eine Richtung zu benutzen. Da es aber leider keine diagonal laufenden Pfeile gibt konnte ich einige Einbahn-Wege nicht als solche einzeichnen. Man kann meist aber davon ausgehen dass die Wege zu Feldern zu denen die gerade Pfeile gehen auch nur in eine Richtung begehbar sind.<br>
+<font color=blue>f =</font> Fluss Baranduin in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=008000>G =</font> Geist<br>
+<span class="gelb">H =</span> Haus von Tom Bombadil<br>
+<font color=00CC00>L =</font> Lichtung (man kommt von hier aus nur nach Südosten weg)<br>
+<font color=00CC00>O =</font> [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>S =</font> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<span class="gelb">S =</span> Hohler Baumstumpf (mit Rune drin)<br>
+<font color=00CC00>s =</font> Senke zwischen dem Alten Wald und [[<span class="hellblau">Krickloch</span>|Krickloch]]<br>
+<span class="gelb">T =</span> Tom Bombadil<br>
+<font color=008000>W =</font> Wald<br>
+<font color=008000>w =</font> Wolf<br>
+<span class="rot">W =</span> Weidenmann (greift an und lässt einen nicht nach Südosten weitergehen)<br>
+</span>

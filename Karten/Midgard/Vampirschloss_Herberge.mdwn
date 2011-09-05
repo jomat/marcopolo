@@ -1,0 +1,17 @@
+<span class="karte">
+&nbsp;\|/<br>
+&nbsp;-[[<span class="gelb">I</span>|Vampirschloss]]-<br>
+&nbsp;/|\<br>
+&nbsp; &nbsp; \ <span class="gelb">K B</span>-t-<span class="gelb">Z</span><br>
+&nbsp; &nbsp; &nbsp;\| &nbsp; v<br>
+&nbsp; &nbsp; k&lt;<span class="orange">H</span>&lt;&#9472;&#9472;&#9496;
+</span>
+
+<span class="legende">
+<span class="gelb">B =</span> Schlafzimmer mit 3 Vampirbräuten auf einem großen Bett<br>
+<span class="orange">H =</span> Herberge (es wird hauptsächlich Blut verkauft)<br>
+<span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>
+<span class="gelb">K =</span> Küche<br>
+<font color=808080>k =</font> Keller<br>
+<span class="gelb">Z =</span> Kleines Zimmer<br>
+</span>

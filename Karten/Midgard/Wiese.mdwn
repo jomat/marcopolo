@@ -1,0 +1,21 @@
+<span class="karte">
+&nbsp; &nbsp;<font color=C0C0C0>|<br>
+&nbsp; &nbsp;[[<span class="hellblau">s</span>|Bree]]-<br>
+&nbsp; &nbsp;|\<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;|</font><br>
+&nbsp;w-w-w-w<br>
+&nbsp;| &nbsp; &nbsp; |<br>
+&nbsp;w-w w-w<br>
+&nbsp; &nbsp;| |<br>
+&nbsp;w-w-w w<br>
+&nbsp;| &nbsp; | |<br>
+&nbsp;w-<span class="gelb">M</span>-w-w
+
+</span>
+
+<span class="legende">
+<span class="gelb">M =</span> Maulwurfshügel<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Bree</span>|Bree]]<br>
+<font color=00CC00>w =</font> Blumenwiese<br>
+</span>

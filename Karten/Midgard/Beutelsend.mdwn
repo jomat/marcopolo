@@ -1,0 +1,25 @@
+<span class="karte">
+&nbsp;<span class="gelb">w</span>-----<span class="gelb">B</span>-----------k<br>
+&nbsp;. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .<br>
+&nbsp;. <span class="gelb">K</span>-<span class="gelb">V</span>---<span class="gelb">k</span>-<span class="gelb">k</span>-<font color=blue>B</font> &nbsp; <span class="gelb">V</span> t<br>
+&nbsp;. | &nbsp;\ / &nbsp;| |\ / &nbsp;| &nbsp; |/<br>
+&nbsp;t-f---f---f-f-f---f-<span class="gelb">W</span>-[[<font color=C0C0C0>v</font>|Hobbingen]]<font color=00CC00>-</font><br>
+&nbsp; / \ &nbsp;| &nbsp; | | | &nbsp; | &nbsp; |<br>
+&nbsp;<span class="gelb">E</span> &nbsp; <font color=blue>B</font> <span class="gelb">S</span>---<span class="gelb">S</span>-<span class="gelb">S</span> <span class="gelb">E</span>---<span class="gelb">K</span>
+
+</span>
+
+<span class="legende">
+<font color=blue>B =</font> Badezimmer<br>
+<span class="gelb">B =</span> Bierkeller<br>
+<span class="gelb">E =</span> Esszimmer<br>
+<font color=C0C0C0>f =</font> Flur<br>
+<span class="gelb">K =</span> Küche<br>
+<span class="gelb">k =</span> Kleiderkammer<br>
+<font color=C0C0C0>k =</font> Keller<br>
+<span class="gelb">S =</span> Schlafzimmer<br>
+<font color=C0C0C0>t =</font> Treppenhaus (entlang der gepunkteten Linie gehts runter in den Keller)<br>
+<font color=C0C0C0>v =</font> Vor dem Eingang von Beutelsend (in [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>
+<span class="gelb">W =</span> Wohnzimmer (hier steht Bilbo)<br>
+<span class="gelb">w =</span> Weinkeller<br>
+</span>

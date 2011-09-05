@@ -1,0 +1,18 @@
+<span class="karte">
+&nbsp; &nbsp; <span class="orange">K</span> <span class="hellblau">L</span><br>
+&nbsp;<font color=blue>\</font> &nbsp;| | <font color=00CC00>|</font>/<br>
+&nbsp;<font color=blue>-</font>[[<span class="hellblau">H</span>|Mittelerde]]-<font color=blue>B</font>-<span class="gelb">N</span>-[[<span class="hellblau">T</span>|Mittelerde]]<font color=00CC00>-</font><br>
+&nbsp;<font color=blue>/</font> &nbsp; &nbsp;| <font color=00CC00>|\</font><br>
+&nbsp; &nbsp; &nbsp; [[<span class="gelb">C</span>|Cirdans_Turm]]
+</span>
+
+<span class="legende">
+<font color=blue>B =</font> Brunnen<br>
+<span class="gelb">C =</span> [[<span class="hellblau">Cirdans Turm</span>|Cirdans_Turm]]<br>
+<span class="hellblau">H =</span> Anlegesteg (im Westen von [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="orange">K =</span> Hafenkneipe<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="gelb">N =</span> Mallorn-Baum mit Adler-Landeplatz obendrauf (man 
+kann hochklettern)<br>
+<span class="hellblau">T =</span> Vor den Toren der Grauen Anfurten (in [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+</span>

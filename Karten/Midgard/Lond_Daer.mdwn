@@ -1,0 +1,47 @@
+<span class="karte">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">T</span>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;v-k-v<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|\<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s <span class="orange">K</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;s-s-s &nbsp; v &nbsp; &nbsp; v<br>
+&nbsp; &nbsp; &nbsp;| &nbsp; | &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp;s &nbsp; s-s-s-s-s-s-[[<span class="hellblau">F</span>|Mittelerde]]-<br>
+&nbsp; &nbsp; &nbsp;| &nbsp; |<br>
+&nbsp;s-s-s &nbsp; s<br>
+&nbsp; &nbsp;| &nbsp; &nbsp; |<br>
+&nbsp; &nbsp;s &nbsp; <span class="hellblau">$</span>-s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;h-<span class="hellblau">H</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| v<br>
+&nbsp; &nbsp; &nbsp; &nbsp;h&gt;<font color=blue>b-b-b-b</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;| <font color=blue>|X|X|X|\</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp;h&gt;<font color=blue>b-b-b-b-b<br>
+&nbsp; &nbsp; &nbsp; &nbsp; /|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;b-b-b-b-b-b<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|X|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;b-b-b-b-b-b<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \|X|X|X|X|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b-b-b-b-[[<span class="hellblau">F</span>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \</font>
+</span>
+
+<span class="legende">
+<span class="hellblau">$ =</span> Bank<br>
+<span class="hellblau">b =</span> Anfang des Hafenbeckens (nach Südosten gehts in den Fluss Gwatlo im südlichen [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=blue>b =</font> Hafenbecken (hier kann man tauchen und manche halbwegs interessante Sachen am Grund finden)<br>
+<span class="hellblau">F =</span> Fährkai (nach Osten gehts in den Fluss Gwatlo im südlichen [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="hellblau">H =</span> Hafen (hier steht die Kurstafel)<br>
+<font color=C0C0C0>h =</font> Hafen<br>
+<span class="orange">K =</span> Konditorei<br>
+<font color=C0C0C0>k =</font> Hier auf der Kreuzung ist ein Kanaldeckel im Boden eingelassen... von der Kanalisation gibts allerdings auch erst ein Feld<br>
+<font color=C0C0C0>s =</font> Straße<br>
+<span class="hellblau">T =</span> Nordtor, durch das man nach Norden ins südliche [[<span class="hellblau">Mittelerde</span>|Mittelerde]] kommt<br>
+<font color=C0C0C0>v =</font> arme und reiche Stadtviertel (nicht weiter ausgebaut)<br>
+</span>

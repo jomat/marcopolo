@@ -1,0 +1,30 @@
+<span class="karte">
+&nbsp;&nbsp;&nbsp;[[<span class="hellblau">K</span>|Fornost]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+&nbsp;&nbsp;&nbsp;[[<span class="hellblau">f</span>|Diebeslabyrinth]]&nbsp;G<br>
+&nbsp;&nbsp;&nbsp;|/<br>
+&nbsp;&nbsp;&nbsp;<font color="FFCC00">D</font><br>
+&nbsp;&nbsp;&nbsp;|\<br>
+&nbsp;k-k&nbsp;<font color="FFCC00">Z</font>.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;.<br>
+&nbsp;&nbsp;&nbsp;<font color="FFCC00">W</font>...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">R</span>|Fornost]]<br>
+
+</span>
+
+<span class="legende">
+<font color="FFCC00">D =</font> Diebeswerkstatt<br>
+<font color="00CCFF">f =</font> Raum mit Falltüre (hier geht es runter ins [[<span class="hellblau">Diebeslabyrinth</span>|Diebeslabyrinth]]<br>
+<font color="00CCFF">G =</font> Grabkammer (hier gehts hoch nach [[<span class="hellblau">Magny</span>|Fornost]] [2 Felder hoch])<br>
+<font color="C0C0C0">G =</font> Grabkammer<br>
+<font color="C0C0C0">g =</font> Dunkler Gang<br>
+<font color="C0C0C0">k =</font> Katakomben<br>
+<font color="00CCFF">R =</font> Kellerraum (hoch gehts zum Räuberversteck im geheimen Hinterzimmer des Gasthauses von [[<span class="hellblau">Magny</span>|Fornost]])<br>
+<font color="FFCC00">W =</font> Alte Waffenkammer<br>
+<font color="FFCC00">Z =</font> Kerkerzelle (Vorsicht, die Tür fällt von alleine zu - aber man kann durch ein Loch in der Wand rauskriechen und kommt dann in die alte Waffenkammer)<br>
+</span>

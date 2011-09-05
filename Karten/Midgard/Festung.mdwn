@@ -1,0 +1,31 @@
+<span class="karte">
+<font color="C0C0C0">
+Erdgeschoss&nbsp;&nbsp;1.&nbsp;Stock&nbsp;&nbsp;2.&nbsp;Stock<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">t</font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F-r&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">N</font>-f-r&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">T</font>&nbsp;<font color="FFCC00">T</font>-r<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">H</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;r-<font color="FFCC00">S</font>-r&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">t</font>&nbsp;<font color="FFCC00">T</font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;w<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Z<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;w-w<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">M</span>|Fornost]]<br>
+</span>
+</font>
+
+<span class="legende">
+<font color="C0C0C0">f =</font> Flur (hier gehts hoch und runter)<br>
+<font color="C0C0C0">F =</font> Foyer (hier kommt man hoch in den Flur)<br>
+<font color="FFCC00">H =</font> Festungshof<br>
+<font color="00CCFF">M =</font> Hier geht es zurück nach [[<span class="hellblau">Magny</span>|Fornost]]<br>
+<font color="FFCC00">N =</font> Nische (Man kann hier hoch ins Turmzimmer)<br>
+<font color="FFCC00">S =</font> Ballsaal<br>
+<font color="FFCC00">T =</font> Turmzimmer<br>
+<font color="FFCC00">t =</font> Terrasse<br>
+<font color="C0C0C0">w =</font> Weg<br>
+<font color="C0C0C0">Z =</font> Zugbrücke<br>

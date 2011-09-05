@@ -1,0 +1,29 @@
+<span class="karte">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="gelb">L</span>|Vampirschloss]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /<br>
+&nbsp; &nbsp;g-g-g &nbsp; &nbsp; &nbsp; &nbsp; g<br>
+&nbsp; / &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;/<br>
+&nbsp;g &nbsp; &nbsp; g &nbsp; &nbsp; &nbsp; g<br>
+&nbsp;. &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;/<br>
+&nbsp;<span class="gelb">v</span> &nbsp; &nbsp; g-g-g-g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;t&lt;t&lt;t&lt;t&lt;t&lt;t&lt;t&lt;t&lt;t&lt;t&lt;<span class="gelb">S</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|/<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -[[<span class="gelb">I</span>|Vampirschloss]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /|\
+</span>
+
+<span class="legende">
+<font color=808080>g =</font> Gang<br>
+<span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>
+<span class="gelb">L =</span> Hier ist ein Loch an der Decke durch das man zum Friedhof hinter dem [[<span class="hellblau">Vampirschloss</span>|Vampirschloss]] gelangt (kletter über Erdklumpen]<br>
+<span class="gelb">S =</span> Spitze des Turmes<br>
+<font color=808080>t =</font> Treppe<br>
+<span class="gelb">v =</span> Verlies<br>
+</span>

@@ -1,0 +1,27 @@
+<span class="karte">
+&nbsp; &nbsp; &nbsp;W-W-W-W<br>
+&nbsp; &nbsp; &nbsp;| | | |<br>
+&nbsp; &nbsp;W-W-W-W-<span class="hellblau">B</span>-W<br>
+&nbsp; &nbsp;| | | | | |<br>
+&nbsp;W-W-W-W-W-W-W-<span class="hellblau">B</span><br>
+&nbsp;| | | | | | | |<br>
+&nbsp;W-W-W-W-<span class="hellblau">B</span>-W-<span class="hellblau">T</span>-W<br>
+&nbsp;| | | | | | | |<br>
+&nbsp;W-W-W-<span class="hellblau">S</span>-W-W-<span class="hellblau">B</span>-W<br>
+&nbsp;| | | | | | | |<br>
+&nbsp;W-W-W-W-W-<span class="hellblau">A</span>-W-<span class="hellblau">G</span><br>
+&nbsp; &nbsp;| | | | | |<br>
+&nbsp; &nbsp;W-W-W-W-W-[[<span class="hellblau">N</span>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp;| | | |<br>
+&nbsp; &nbsp; &nbsp;W-W-W-W
+</span>
+
+<span class="legende">
+<span class="hellblau">A =</span> Anvar, ein Elbenkrieger<br>
+<span class="hellblau">B =</span> Baumhaus<br>
+<span class="hellblau">G =</span> Gärtnerei<br>
+<span class="hellblau">N =</span> Hier gehts hoch zum Palast von Namib (und man kann Elengor kontakten damit er einen zurück ins östliche [[<span class="hellblau">Mittelerde</span>|Mittelerde]] bringt)<br>
+<span class="hellblau">S =</span> Spielwiese und Kindergarten<br>
+<span class="hellblau">T =</span> Teich<br>
+<font color=008000>W =</font> Wald
+</span>

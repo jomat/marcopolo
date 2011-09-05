@@ -1,0 +1,37 @@
+<span class="karte">
+<font color="#808080">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="orange">J</span> &nbsp; &nbsp; &nbsp; <span class="orange">Z</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g---g<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/ \ &nbsp; \<br>
+&nbsp;[[<span class="hellblau">h</span>|Moria_Minen]] &nbsp;<span class="hellblau">P</span> &nbsp; <span class="hellblau">$</span> g <span class="gelb">R</span> <span class="orange">P l</span>-g<br>
+&nbsp; \ | &nbsp; | |/ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp;-h-h-h-M---h-<span class="hellblau">L</span> g<br>
+&nbsp; &nbsp; &nbsp; | &nbsp; |\ &nbsp; \ / \<br>
+&nbsp; &nbsp; &nbsp; g [[<span class="hellblau">W</span>|Moria_Minen]]-k <span class="gelb">p</span> &nbsp; g &nbsp; <span class="orange">B</span><br>
+&nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp;|<br>
+&nbsp; <span class="orange">A</span>-g-<span class="orange">R</span> &nbsp; [[<span class="hellblau">g</span>|Moria_Minen]]<br>
+&nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="orange">S</span>
+</font>
+</span>
+
+<span class="legende">
+<span class="orange">A =</span> Axtschmied<br>
+<span class="orange">B =</span> Backstube<br>
+<font color=808080>g =</font> Gang/Gasse<br>
+<span class="hellblau">g =</span> abfallender Gang runter zu den [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
+<span class="hellblau">h =</span> große Halle in den [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
+<font color=808080>h =</font> Hauptstollen<br>
+<span class="orange">J =</span> Juwelier<br>
+<span class="hellblau">L =</span> Laden<br>
+<span class="orange">l =</span> Tlutaschs Laden<br>
+<font color=808080>M =</font> Marktplatz<br>
+<span class="orange">P =</span> Parfümerie<br>
+<span class="gelb">p =</span> Aussichtsplatform<br>
+<span class="gelb">R =</span> Rathaus<br>
+<span class="orange">R =</span> Rüstungsmacher<br>
+<span class="orange">S =</span> Schmiede<br>
+<span class="hellblau">W =</span> Wendeltreppe runter in die [[<span class="hellblau">Minen von Moria</span>|Moria_Minen]]<br>
+<span class="orange">Z =</span> Gasthaus &quot;Schwarzer Zwerg&quot;
+</span>

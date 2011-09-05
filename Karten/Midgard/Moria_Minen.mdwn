@@ -1,0 +1,47 @@
+<span class="karte">
+<font color="#808080">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Obere Ebene &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Untere Ebene<br> <br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; g-g-g &nbsp; &nbsp; &nbsp; &nbsp; <font color=C0C0C0>s</font> &nbsp; g<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; / \ &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp;/ &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+&nbsp;-[[<span class="hellblau">T</span>|See]] &nbsp; g-g &nbsp; <span class="gelb">t</span>-g &nbsp; g-h &nbsp; &nbsp; <span class="gelb">b</span> g &nbsp; &nbsp; g-<span class="gelb">G</span>-<font color=C0C0C0>t</font> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <font color=C0C0C0>t</font> <br>
+&nbsp;&nbsp; \&nbsp; | &nbsp;\ &nbsp;| &nbsp;\ &nbsp; &nbsp;|\ &nbsp; &nbsp;|/ &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\<br>
+&nbsp;&nbsp; &nbsp;g-<font color=C0C0C0>n</font> &nbsp; g-g&nbsp; &nbsp;<span class="gelb">g</span> &nbsp; g-g-g-g-g-<span class="gelb">f</span>&nbsp; &nbsp;g &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">M</span>&nbsp; &nbsp;&nbsp; g<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;g-<font color=C0C0C0>a a</font> &nbsp; &nbsp; &nbsp; &nbsp; g-g-h-h-h &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp;|<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|X|X| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; h-h-h &nbsp; &nbsp; &nbsp; &nbsp; h-h-[[<span class="hellblau">T</span>|Schattenbachtal]]-<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;h-h-h &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; | | | &nbsp; &nbsp; &nbsp; &nbsp; | |<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; h-h-h<font color=C0C0C0>-b-</font>h-g-g-h-h<br>
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">M</span>|Moria_Stadt]] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| | |<br>
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-h-h-h<br>
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/&nbsp; |<br>
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; g-[[<span class="hellblau">M</span>|Moria_Stadt]]<br>
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ &nbsp; /<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; g-g
+</font>
+</span>
+
+<span class="legende">
+<font color=C0C0C0>a =</font> Abgrund (man kann drübersrpingen in das Zweite a-feld)<br>
+<font color=C0C0C0>b =</font> Brücke<br>
+<span class="gelb">b =</span> Brunnen-Kammer (hier kommt man wieder hoch wenn man in Grotte g gelandet war)<br>
+<span class="gelb">f =</span> Fledermaus-Höhle<br>
+<span class="gelb">G =</span> Grabkammer des Zwergenkönigs<br>
+<span class="gelb">g =</span> kleine Grotte (durch den Weg im Südwesten kann man die Höhle nur betreten [reinfallen]- raus gehts nach Osten durch ne Spalte, dann nach Osten und hoch durch den Brunnenschacht)<br>
+<font color=808080>g =</font> Gang / Grotte<br>
+<font color=808080>h =</font> Halle / Höhle<br>
+<font color=808080>k =</font> Kammer<br>
+<span class="hellblau">M =</span> [[<span class="hellblau">Moria</span>|Moria_Stadt]]<br>
+&nbsp; &nbsp; Untere Ebene: Von Westen muss man ne Wendeltreppe hoch, von Süden ist der Gang passend nach oben gelaufen dass man einfach reingehen kann<br>
+&nbsp; &nbsp; Obere Ebene: Man kann einfach nach so rein<br>
+<span class="gelb">M =</span> Bewachter (und geschlossener) Mineneingang<br>
+<font color=C0C0C0>n =</font> Schuh-Dankmal in einer Nische<br>
+<font color=C0C0C0>s =</font> Sackgasse (nach Norden traut man sich nicht zu gehen und die Tür nach Osten ist nur für Zwerge und absolut einbruchsicher - wobei fraglich ist ob es denn irgendwo nen Schlüssel gibt)<br>
+<span class="hellblau">T =</span> Tor der Minen von Moria <BR>
+&nbsp; &nbsp; Osttor zum [[<span class="hellblau">Schattenbachtal</span>|Schattenbachtal]]<br>
+&nbsp; &nbsp; Westtor (ein paar Stufen runter) zum [[<span class="hellblau">unheimlichen See</span>|See]] im Tal des Sirannon<br>
+<span class="gelb">t =</span> Hier kann man ne Treppe weit untergehen und kommt irgendwann zur Spitze \\(?) eines Turms<br>
+<font color=C0C0C0>t =</font> Treppe (hier gelangt man von der unteren zur oberen Ebene und umgekehrt)<br>
+&nbsp;
+</span>

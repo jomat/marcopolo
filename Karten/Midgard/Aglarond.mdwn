@@ -1,0 +1,41 @@
+<span class="karte">
+&nbsp; <span class="gelb">G</span> &nbsp; <span class="gelb">S</span><br>
+&nbsp; | &nbsp; |<br>
+&nbsp; w.<font color=blue>W</font>-<span class="gelb">Z</span>-<span class="gelb">V</span><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; g g<br>                
+&nbsp; &nbsp; &nbsp;\|<br>
+&nbsp; &nbsp; &nbsp; g<br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; <span class="gelb">n</span>-g-<span class="gelb">z</span> <font color=C0C0C0>f</font>><span class="gelb">w</span><br>
+&nbsp; &nbsp; &nbsp; | &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; g-g-g<br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; g-g-<font color=C0C0C0>e</font><br>
+&nbsp; &nbsp;/ &nbsp;.<br>
+&nbsp; <span class="gelb">r</span> <font color=C0C0C0>h</font>-<font color=C0C0C0>s</font>-<font color=C0C0C0>h</font><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; [[<span class="hellblau">M</span>|Mittelerde]]<br>
+&nbsp;
+</span>
+
+<span class="legende">
+<font color=C0C0C0>e =</font> Eingestürzter Gang<br>
+<font color=C0C0C0>f =</font> Hier ist eine Falltür im Boden (runter zur Waffenkammer)<br>
+<span class="gelb">G =</span> Glasgarten von Kristallpflanzen<br>
+<font color=808080>g =</font> Gang<br>
+<font color=C0C0C0>h =</font> Tropfsteinhöhle<br>
+<span class="hellblau">M =</span> Eingang der Höhlen (nach oben gehts zurück nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="gelb">n =</span> Nische mit Gerümpel<br>
+<span class="gelb">r =</span> Alter Rastplatz<br>
+<span class="gelb">S =</span> Schlafraum der Zwerge<br>
+<font color=C0C0C0>s =</font> Hier ist ein Spalt an der Wand durch den man sich nach Norden quetschen kann<br>
+<span class="gelb">V =</span> Vorratshöhle<br>
+<font color=blue>W =</font> Wasserfall und Höhlensee (man kann in das Loch klettern wo das Wasser rauskommt)<br>
+<font color=808080>w =</font> Gang hinter/über dem Wasserfall (man kann durch das Loch wieder runterklettern)<br>
+<span class="gelb">w =</span> Alte Waffenkammer (an der Decke ist ne Falltür durch die man wieder hoch zu Feld f kommt)<br>
+<span class="gelb">Z =</span> Wohnhalle der Zwerge (Gimli, Kendra, Xarnor, Dorain und Dis)<br>
+<span class="gelb">z =</span> Alter Hundezwinger<br>
+</span>

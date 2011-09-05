@@ -1,0 +1,18 @@
+<span class="karte">
+&nbsp; &nbsp; &nbsp; <span class="gelb">A</span><br>
+&nbsp; &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; k-<span class="gelb">B</span><br>
+&nbsp;\|/&nbsp; v<br>
+&nbsp;-[[<span class="gelb">I</span>|Vampirschloss]]---<span class="gelb">E</span><br>
+&nbsp;/|\&nbsp; v<br>
+&nbsp; &nbsp; &nbsp; <span class="gelb">G</span>
+</span>
+
+<span class="legende">
+<span class="gelb">A =</span> Aufenthaltsraum der Gildengötter<br>
+<span class="gelb">B =</span> Bibliothek<br>
+<span class="gelb">E =</span> Eingangshalle<br>
+<span class="gelb">G =</span> Gruft<br>
+<font color=808080>k =</font> Korridor<br>
+<span class="gelb">I =</span> Innenhof des [[<span class="hellblau">Vampirschlosses</span>|Vampirschloss]]<br>
+</span>

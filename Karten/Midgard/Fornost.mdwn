@@ -1,0 +1,53 @@
+<span class="karte">
+<font color="C0C0C0">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">T</span>|Mittelerde]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">H</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">V</font>&nbsp;h-<font color="FFCC00">h</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|/<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">G</span>|Fornost_Katakomben]] <font color="FFCC00">G</font>---f&nbsp;&nbsp;&nbsp;w<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;/<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;<font color="blue">E</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;w-w<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;[[<span class="hellblau">F</span>|Festung]]&nbsp;&nbsp;&nbsp;<font color="00CCFF">$</font>&nbsp;<font color="FFCC00">B</font>-<font color="FF9900">L</font><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;/&nbsp;/&nbsp;\<br>
+    &nbsp;-[[<span class="hellblau">T</span>|Mittelerde]]-S-S-M-M-S&nbsp;&nbsp;&nbsp;w-w-w<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|X|&nbsp;&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M-M-<font color="00CCFF">P</font>&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FF9900">V</font>&nbsp;<font color="00CC00">G</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FF9900">/</font>&nbsp;<font color="FF9900">/</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;<font color="FF9900">O</font>&nbsp;S<font color="777777">-B</font>-v-<font color="FF9900">B-B</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;/ \<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="00CC00">P</font> S-S-<font color="FF9900">S</font>-<font color="FF9900">T</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">R</span>|Fornost_Katakomben]]-<font color="FF9900">G</font>-[[<span class="hellblau">T</span>|Mittelerde]]-W<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
+</span>
+</font>
+
+<span class="legende">
+<font color="FFCC00">B =</font> Bauernhof<br>
+<font color="FF9900">B =</font> Brauerei<br>
+<font color="777777">B =</font> Brücke<br>
+<font color="blue">E =</font> Evendimbrunnen<br>
+<font color="C0C0C0">F =</font> Friedhof<br>
+<font color="00CCFF">F =</font> Hier geht es zur [[<span class="hellblau">Festung</span>|Festung]]<br>
+<font color="FF9900">G =</font> Gasthaus<br>
+<font color="FFCC00">G =</font> Platz der Gaukler (hier gehts auch nach Westen ins Zelt einer Wahrsagerin)<br>
+<font color="00CCFF">G =</font> Hier gehts runter in eine Grabkammer in den [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] Magnys (2 Felder runter...)<br>
+<font color="00CC00">G =</font> Biergarten (Entweder man geht durch die Brauerei oder man zwängt sich durch die Büsche im Nordwesten)<br>
+<font color="C0C0C0">h =</font> Hügel<br>
+<font color="FFCC00">h =</font> Höhle<br>
+<font color="FFCC00">H =</font> Hobbithaus<br>
+<font color="FF9900">L =</font> Hofladen<br>
+<font color="FF9900">O =</font> Calduin, der Obsthändler<br>
+<font color="00CC00">P =</font> Ehemaliger Park (jetzt Gemüsegarten)<br>
+<font color="00CCFF">P =</font> Post<br>
+<font color="00CCFF">R =</font> Räuberverseck im Hinterzimmer des Gasthauses (hier gehts auch runter in die Tunnels und [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]])<br>
+<font color="FF9900">S =</font> Schuhgeschäft<br>
+<font color="C0C0C0">S =</font> Straße<br>
+<font color="FF9900">T =</font> Platz vor dem Möbelhaus Tanoa (nach Norden gehts rein)<br>
+<font color="00CCFF">T =</font> Stadttor (hier gehts wieder raus nach [[<span class="hellblau">Midgard</span>|Mittelerde]], am Westtor ist zudem noch ein Gitter runter in die [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] unter der Stadt)<br>
+<font color="FFCC00">V =</font> Vorgarten (hier sitzt der kleine Tommy)<br>
+<font color="FF9900">V =</font> Verkaufsraum<br>
+<font color="C0C0C0">W =</font> Wachstube<br>
+</span>

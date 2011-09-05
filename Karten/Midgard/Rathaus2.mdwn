@@ -1,0 +1,16 @@
+<span class="karte">
+&nbsp; &nbsp;|<br>
+&nbsp; -[[<span class="hellblau">s</span>|Michelbinge]]-<br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">F</span>-<span class="gelb">A</span><br>
+&nbsp; &nbsp;|<br>
+&nbsp; &nbsp;<span class="gelb">V</span>
+
+</span>
+
+<span class="legende">
+<span class="gelb">A =</span> Arbeitszimmer<br>
+<span class="gelb">F =</span> Foyer<br>
+<span class="hellblau">s =</span> Straße in [[<span class="hellblau">Michelbinge</span>|Michelbinge]]<br>
+<span class="gelb">V =</span> Versammlungsraum (auf dem Tisch liegt ein Notenplatt für Barden)<br>
+</span>

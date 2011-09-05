@@ -1,0 +1,59 @@
+<span class="karte">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">F</span><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;w-w-w<br>
+&nbsp; &nbsp; &nbsp; / &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;w &nbsp; &nbsp; w..<br>
+&nbsp; &nbsp; / &nbsp; &nbsp; &nbsp; &nbsp;.<br>
+&nbsp; &nbsp;w &nbsp; &nbsp; [[<span class="gelb">P</span>|Vampirschloss_Palas]] [[<span class="gelb">T</span>|Vampirschloss_Turm]] <span class="gelb">G</span><br>
+&nbsp; / &nbsp; &nbsp; &nbsp; \|/<br>
+&nbsp;w &nbsp; &nbsp; &nbsp; <span class="gelb">s</span>-<span class="gelb">I</span>-[[<span class="hellblau">V</span>|Vampirschloss_Gilde]]<br>
+&nbsp; \ &nbsp; &nbsp; &nbsp; /|\<br>
+&nbsp; &nbsp;\ &nbsp; &nbsp; [[<span class="gelb">S</span>|Vampirschloss_Katakomben]] <span class="gelb">G</span> [[<span class="orange">H</span>|Vampirschloss_Herberge]]<br>
+&nbsp; &nbsp; \ &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp;\ &nbsp; &nbsp; |<br>
+&nbsp; &nbsp; &nbsp; \ &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp;\&nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; \ &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\ |<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">M</span>|Huegelgraeber]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;w<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;S<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;H-P-H<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">V</span>
+</span>
+
+<span class="legende">
+<span class="gelb">F =</span> Friedhof (hier kommt man raus wenn man den Tunnel unter dem Schlossturm bis zum Ende geht und durch das Loch klettert)<br>
+<span class="gelb">G =</span> Gewölbe (im südlichen Gewölbe kommt man durch klopfen ins Schloss rein, beim nördlichen Gewölbe kann man das Schloss wieder verlassen)<br>
+<span class="orange">H =</span> [[<span class="hellblau">Herberge</span>|Vampirschloss_Herberge]] "Zum blutigen Knochen"<br>
+<font color=808080>H =</font> Haus<br>
+<span class="hellblau">M =</span> Aufgebrachter Mob (nach unten gehts zu den [[<span class="hellblau">Hügelgräbern</span>|Huegelgraeber]])<br>
+<span class="gelb">P =</span> [[<span class="hellblau">Palas</span>|Vampirschloss_Palas]]<br>
+<font color=808080>P =</font> Dorfplatz<br>
+<span class="gelb">S =</span> Eingang zum Schloss (hier gehts zu den [[<span class="hellblau">Katakomben</span>|Vampirschloss_Katakomben]], wo man den Vampiren beitreten kann 
+- und nebenbei auch noch nach oben, zu einem Schlafzimmer)<br>
+<span class="gelb">s =</span> Stall<br>
+<font color=808080>s =</font> Schlucht (über die man nur als Vampir drüberkommt)<br>
+<span class="gelb">T =</span> [[<span class="hellblau">Turm</span>|Vampirschloss_Turm]]<br>
+<span class="hellblau">V =</span> [[<span class="hellblau">Vampirgilde</span>|Vampirschloss_Gilde]]<br>
+<span class="gelb">V =</span> Haus von Van Helsing<br>
+<font color=808080>w =</font> Weg<br>
+</span>
