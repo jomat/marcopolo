@@ -21,13 +21,13 @@ Auf dieser Seite will ich nun die Karten die ich auf meinen Reisen durch Magyra 
 <area shape="rect" coords="569, 481, 665, 535" href="Karten/Vulkanien" alt="Vulkanien">
 <area shape="rect" coords="457, 534, 571, 575" href="Karten/Isla_Nublar" alt="Isla Nublar">
 <area shape="rect" coords="499, 691, 598, 802" href="Karten/Ebenen" alt="Die Ebenen">
-<area shape="rect" coords="413, 869, 547, 968" href="Karten/Mittelerde" alt="Mittelerde">
+<area shape="rect" coords="413, 869, 547, 968" href="Karten/Midgard" alt="Midgard">
 <area shape="rect" coords="386, 830, 491, 869" href="Karten/Mompracem" alt="Mompracem">
 <area shape="rect" coords="312, 882, 397, 955" href="Karten/Nankea" alt="Nankea">
 <area shape="rect" coords="207, 725, 302, 785" href="Karten/Ooronoque" alt="OoronoqueNankea">
 </map>
 <p><img src="Weltkarte.gif" width="700" height="1100" border="0" alt="Weltkarte" usemap="#Weltkarte"></p>
-[[Karten/Veldergautland]] [[Karten/Nordische_Inseln]] [[Karten/Gallien]] [[Karten/Doerrland]] [[Karten/Maerchenland]] [[Karten/Vaniorh]] [[Karten/Kreta]] [[Karten/Dschungelinsel]] [[Karten/Vulkanien]] [[Karten/Isla_Nublar]] [[Karten/Ebenen]] [[Karten/Mittelerde]] [[Karten/Mompracem]] [[Karten/Nankea]] [[Karten/Ooronoque]]
+[[Karten/Veldergautland]] [[Karten/Nordische_Inseln]] [[Karten/Gallien]] [[Karten/Doerrland]] [[Karten/Maerchenland]] [[Karten/Vaniorh]] [[Karten/Kreta]] [[Karten/Dschungelinsel]] [[Karten/Vulkanien]] [[Karten/Isla_Nublar]] [[Karten/Ebenen]] [[Karten/Midgard]] (früher [[Karten/Mittelerde]]) [[Karten/Mompracem]] [[Karten/Nankea]] [[Karten/Ooronoque]]
 </center>
 
 Obwohl ich mich bemühe, meine Karten so genau und aktuell wie möglich zu halten kann es immer mal passieren dass ein Gott mal wieder Eingriffe in die Realität tätigt oder dass ich mich einfach mal irgendwo verschreibe - ich bitte also um Verständnis für eventuelle Ungenauigkeiten. 
