@@ -1,6 +1,6 @@
 <span class="karte">
 &nbsp; &nbsp; <font color=339966>\</font><br>
-&nbsp; &nbsp; -[[<span class="hellblau">S</span>|Mittelerde]]<br>
+&nbsp; &nbsp; -[[<span class="hellblau">S</span>|Midgard]]<br>
 &nbsp; &nbsp; <font color=339966>/|</font>\<br>
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-p &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [[<span class="hellblau">s</span>|Schattenbachtal]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp;\ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <font color=FFFFFF>/</font><br>
@@ -26,7 +26,7 @@
 <font color=FFFFFF>p =</font> Verschneiter Pfad<br>
 <span class="gelb">r =</span> Raubtierhöhle<br>
 <font color=FFFFFF>S =</font> In einem Schneesturm<br>
-<font color=C0C0C0>S =</font> Straße an der Westseite des Nebelgebirges in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<font color=C0C0C0>S =</font> Straße an der Westseite des Nebelgebirges in [[<span class="hellblau">Midgard</span>|Midgard]]<br>
 <span class="hellblau">s =</span> Am Rande einer Schlucht (Abstieg ins [[<span class="hellblau">Schattenbachtal</span>|Schattenbachtal]])<br>
 <font color=C0C0C0>t =</font> Trampelpfad um eine Hausruine<br>
 <font color=FFFFFF>v =</font> Vor einer Schneewehe (weiter gehts indem man in den Spalt in der Wehe kriecht)<br>

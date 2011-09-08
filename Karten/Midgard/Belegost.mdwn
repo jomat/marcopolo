@@ -19,7 +19,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="orange">s</span>-s &nbsp; s<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \ /<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-[[<span class="hellblau">M</span>|Mittelerde]]
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">A</span>-[[<span class="hellblau">M</span>|Midgard]]
 </span>
 
 <span class="legende">
@@ -32,7 +32,7 @@
 <font color=808080>g =</font> Gasse<br>
 <span class="orange">K =</span> Kneipe<br>
 <span class="hellblau">L =</span> Laden<br>
-<span class="hellblau">M =</span> Hier steht Moddin an der Treppe hoch nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<span class="hellblau">M =</span> Hier steht Moddin an der Treppe hoch nach [[<span class="hellblau">Midgard</span>|Midgard]]<br>
 <font color=808080>m =</font> Marktplatz<br>
 <span class="orange">S =</span> Schmied<br>
 <span class="orange">s =</span> Schneider<br>

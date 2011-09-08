@@ -4,12 +4,12 @@
 &nbsp; &nbsp;/|\<br>
 &nbsp; &nbsp; | \<br>
 &nbsp; &nbsp; | &nbsp;\<br>
-&nbsp; <span class="gelb">w</span>-<span class="gelb">M</span>-<span class="gelb">O</span>-[[<font color=C0C0C0>h</font>|Mittelerde]]
+&nbsp; <span class="gelb">w</span>-<span class="gelb">M</span>-<span class="gelb">O</span>-[[<font color=C0C0C0>h</font>|Midgard]]
 
 </span>
 
 <span class="legende">
-<font color=C0C0C0>h =</font> Hof der Mühle (man kann über den Zaun klettern - nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<font color=C0C0C0>h =</font> Hof der Mühle (man kann über den Zaun klettern - nach [[<span class="hellblau">Midgard</span>|Midgard]])<br>
 <span class="gelb">M =</span> Mühlrad<br>
 <span class="gelb">o =</span> Ostteil der Mühle (hoch gehts unters Dach<br>
 <font color=C0C0C0>p =</font> Pfad in (in [[<span class="hellblau">Hobbingen</span>|Hobbingen]])<br>

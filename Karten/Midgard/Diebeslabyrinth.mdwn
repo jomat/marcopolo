@@ -22,7 +22,7 @@ g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g&nbsp;&nbsp;&nbsp;g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 &nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;\<br>
 g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g&nbsp;&nbsp;&nbsp;g<br>
 &nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;|\<br>
-&nbsp;&nbsp;g-g-g-g-g-g-g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g-[[<span class="hellblau">S</span>|Mittelerde]]<br>
+&nbsp;&nbsp;g-g-g-g-g-g-g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g-[[<span class="hellblau">S</span>|Midgard]]<br>
 </span>
 </font>
 
@@ -30,4 +30,4 @@ g&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 <span class="legende">
 <font color="C0C0C0">g =</font> Gang<br>
 <font color="00CCFF">K =</font> Hier geht es wieder hoch in die [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] unter Magny<br>
-<font color="00CCFF">S =</font> Schatzkammer (wenn man hier durch den Ausgang geht kommt man nördlich von [[<span class="hellblau">Ambring</span>|Mittelerde]] raus)
+<font color="00CCFF">S =</font> Schatzkammer (wenn man hier durch den Ausgang geht kommt man nördlich von [[<span class="hellblau">Ambring</span>|Midgard]] raus)

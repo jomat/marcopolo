@@ -17,7 +17,7 @@
 &nbsp; &nbsp;/ &nbsp;.<br>
 &nbsp; <span class="gelb">r</span> <font color=C0C0C0>h</font>-<font color=C0C0C0>s</font>-<font color=C0C0C0>h</font><br>
 &nbsp; &nbsp; &nbsp; |<br>
-&nbsp; &nbsp; &nbsp; [[<span class="hellblau">M</span>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp; [[<span class="hellblau">M</span>|Midgard]]<br>
 &nbsp;
 </span>
 
@@ -27,7 +27,7 @@
 <span class="gelb">G =</span> Glasgarten von Kristallpflanzen<br>
 <font color=808080>g =</font> Gang<br>
 <font color=C0C0C0>h =</font> Tropfsteinhöhle<br>
-<span class="hellblau">M =</span> Eingang der Höhlen (nach oben gehts zurück nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="hellblau">M =</span> Eingang der Höhlen (nach oben gehts zurück nach [[<span class="hellblau">Midgard</span>|Midgard]])<br>
 <span class="gelb">n =</span> Nische mit Gerümpel<br>
 <span class="gelb">r =</span> Alter Rastplatz<br>
 <span class="gelb">S =</span> Schlafraum der Zwerge<br>

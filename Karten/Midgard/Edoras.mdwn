@@ -27,7 +27,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|/<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Mittelerde]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[[<span class="hellblau">S</span>|Midgard]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \<br>
 
 </span>
@@ -47,7 +47,7 @@
 <span class="orange">R =</span> Rüstungsschmied<br>
 <span class="orange">r =</span> Rrufio, der Geldwechsler<br>
 <span class="orange">S =</span> Sattler<br>
-<span class="hellblau">S =</span> Strasse in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<span class="hellblau">S =</span> Strasse in [[<span class="hellblau">Midgard</span>|Midgard]]<br>
 <font color=C0C0C0>s =</font> Strasse<br>
 <span class="hellblau">T =</span> Stadttor (mit Treppe hoch auf den [[<span class="hellblau">Stadtwall</span>|Edoras_Wall]])<br>
 <span class="orange">W =</span> Waffenschmied<br>

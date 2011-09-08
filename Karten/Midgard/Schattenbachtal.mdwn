@@ -11,12 +11,12 @@
 &nbsp; &nbsp; &nbsp; |\<br>
 &nbsp;<font color=808080>-</font>[[<span class="hellblau">T</span>|Moria_Minen]]<font color=C0C0C0>-v-v</font>-<span class="hellblau">S</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; |<font color=blue>\<br>
-&nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">Q</span>-[[<font color=blue>f</font>|Mittelerde]]<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="hellblau">Q</span>-[[<font color=blue>f</font>|Midgard]]<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\</font>
 </span>
 
 <span class="legende">
-<font color=blue>f =</font> Silberlauf (Fluss im Osten [[<span class="hellblau">Mittelerdes</span>|Mittelerde]])<br>
+<font color=blue>f =</font> Silberlauf (Fluss im Osten [[<span class="hellblau">Midgards</span>|Midgard]])<br>
 <span class="hellblau">Q =</span> Quelle des Silberlauf (hier steht auch der Ellcrys)<br>
 <span class="hellblau">q =</span> Quelle des Schattenbach (und Aufstiegsmöglichkeit für Bergsteiger über das [[<span class="hellblau">Nebelgebirge</span>|Nebelgebirge]])<br>
 <span class="hellblau">S =</span> Spiegelsee<br>

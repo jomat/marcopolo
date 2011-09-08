@@ -1,7 +1,7 @@
 <span class="karte">
 <font color="C0C0C0">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">T</span>|Mittelerde]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">H</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">T</span>|Midgard]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">H</font><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FFCC00">V</font>&nbsp;h-<font color="FFCC00">h</font><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|/<br>
@@ -11,7 +11,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;[[<span class="hellblau">F</span>|Festung]]&nbsp;&nbsp;&nbsp;<font color="00CCFF">$</font>&nbsp;<font color="FFCC00">B</font>-<font color="FF9900">L</font><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;/&nbsp;/&nbsp;\<br>
-    &nbsp;-[[<span class="hellblau">T</span>|Mittelerde]]-S-S-M-M-S&nbsp;&nbsp;&nbsp;w-w-w<br>
+    &nbsp;-[[<span class="hellblau">T</span>|Midgard]]-S-S-M-M-S&nbsp;&nbsp;&nbsp;w-w-w<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|X|&nbsp;&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M-M-<font color="00CCFF">P</font>&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FF9900">V</font>&nbsp;<font color="00CC00">G</font><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="FF9900">/</font>&nbsp;<font color="FF9900">/</font><br>
@@ -19,7 +19,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;/ \<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="00CC00">P</font> S-S-<font color="FF9900">S</font>-<font color="FF9900">T</font><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">R</span>|Fornost_Katakomben]]-<font color="FF9900">G</font>-[[<span class="hellblau">T</span>|Mittelerde]]-W<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;[[<span class="hellblau">R</span>|Fornost_Katakomben]]-<font color="FF9900">G</font>-[[<span class="hellblau">T</span>|Midgard]]-W<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
 </span>
 </font>
@@ -46,7 +46,7 @@
 <font color="FF9900">S =</font> Schuhgeschäft<br>
 <font color="C0C0C0">S =</font> Straße<br>
 <font color="FF9900">T =</font> Platz vor dem Möbelhaus Tanoa (nach Norden gehts rein)<br>
-<font color="00CCFF">T =</font> Stadttor (hier gehts wieder raus nach [[<span class="hellblau">Midgard</span>|Mittelerde]], am Westtor ist zudem noch ein Gitter runter in die [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] unter der Stadt)<br>
+<font color="00CCFF">T =</font> Stadttor (hier gehts wieder raus nach [[<span class="hellblau">Midgard</span>|Midgard]], am Westtor ist zudem noch ein Gitter runter in die [[<span class="hellblau">Katakomben</span>|Fornost_Katakomben]] unter der Stadt)<br>
 <font color="FFCC00">V =</font> Vorgarten (hier sitzt der kleine Tommy)<br>
 <font color="FF9900">V =</font> Verkaufsraum<br>
 <font color="C0C0C0">W =</font> Wachstube<br>

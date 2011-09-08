@@ -3,11 +3,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/| &nbsp; &nbsp; <font color=00CC00>|/</font><br>
-&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">a</span> s s-s-<span class="gelb">T</span>-[[<span class="hellblau">S</span>|Mittelerde]]-<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">a</span> s s-s-<span class="gelb">T</span>-[[<span class="hellblau">S</span>|Midgard]]-<br>
 &nbsp; &nbsp; &nbsp; &nbsp; |/ &nbsp;| &nbsp; &nbsp; <font color=00CC00>|\</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; s &nbsp; s-<span class="orange">P</span><br>
 &nbsp;<font color=00CC00>\</font>|<font color=00CC00>/</font> &nbsp; &nbsp;| &nbsp; |<br>
-&nbsp;-[[<span class="hellblau">S</span>|Mittelerde]]-<span class="gelb">T</span>-s-<font color=blue>B</font>-<span class="orange">s</span>-s<br>
+&nbsp;-[[<span class="hellblau">S</span>|Midgard]]-<span class="gelb">T</span>-s-<font color=blue>B</font>-<span class="orange">s</span>-s<br>
 &nbsp;<font color=00CC00>/ \</font> &nbsp; &nbsp;|\ &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; s-[[<span class="hellblau">$</span>|Rathaus]] | <span class="orange">G</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; | |<br>
@@ -23,7 +23,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="gelb">N</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>\</font>|<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>-[[<span class="hellblau">S</span>|Mittelerde]]-</font><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>-[[<span class="hellblau">S</span>|Midgard]]-</font><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=00CC00>/</font>|<font color=00CC00>\
 </span>
 
@@ -46,11 +46,11 @@
 <span class="gelb">R =</span> [[<span class="hellblau">Rathaus</span>|Rathaus]]<br>
 <span class="orange">s =</span> Scherenschleifer<br>
 <span class="gelb">S =</span> Stall<br>
-<span class="hellblau">S =</span> Straße in [[<span class="hellblau">Mittelerde</span>|Mittelerde]]<br>
+<span class="hellblau">S =</span> Straße in [[<span class="hellblau">Midgard</span>|Midgard]]<br>
 <font color=C0C0C0>s =</font> Straße<br>
 <span class="gelb">T =</span> Stadttor<br>
 <font color=00CC00>v =</font> Vorgarten (mit Wachhund)<br>
 <span class="gelb">W =</span> Waage<br>
 <font color=00CC00>w =</font> [[<span class="hellblau">Wildblumenwiese</span>|Wiese]]<br>
-<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Mittelerde</font>|Mittelerde]])</font></center>
+<center><font color=00CC00 face="Courier New" style="font-Size: 8pt">([[<font face="Courier New" style="font-Size: 8pt" color=00CC00>zurück nach Midgard</font>|Midgard]])</font></center>
 </span>

@@ -1,13 +1,13 @@
 <span class="karte">
 &nbsp; &nbsp; &nbsp; &nbsp;<span class="gelb">g</span><br>
 &nbsp; &nbsp; &nbsp; &nbsp;|<br>
-&nbsp;[[<span class="hellblau">a</span>|Mittelerde]] &nbsp; &nbsp; s-<span class="rot">S</span><br>
+&nbsp;[[<span class="hellblau">a</span>|Midgard]] &nbsp; &nbsp; s-<span class="rot">S</span><br>
 &nbsp; \ &nbsp; / &nbsp; \<br>
 &nbsp; &nbsp;w <span class="gelb">T</span> &nbsp; &nbsp; <font color=00CC00>t</font>-<span class="orange">V</span><br>
 &nbsp; &nbsp;^/ &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp;g <span class="orange">S</span> <span class="gelb">B</span>-<span class="gelb">S</span> s-<span class="gelb">V</span><br>
 &nbsp; &nbsp; &nbsp;| | &nbsp; &nbsp;\<br>
-&nbsp; &nbsp;[[<span class="hellblau">g</span>|Mittelerde]]-<span class="gelb">f</span>-<font color=blue>b</font>-<span class="gelb">K</span> &nbsp; s<br>
+&nbsp; &nbsp;[[<span class="hellblau">g</span>|Midgard]]-<span class="gelb">f</span>-<font color=blue>b</font>-<span class="gelb">K</span> &nbsp; s<br>
 &nbsp; &nbsp; &nbsp;| | &nbsp; &nbsp;/ \<br>
 &nbsp; &nbsp; &nbsp;<span class="gelb">T</span> <span class="orange">s</span> <span class="hellblau">$</span> m &nbsp; <span class="gelb">E</span><br>
 &nbsp; &nbsp; &nbsp; \ &nbsp;|/<br>
@@ -19,12 +19,12 @@
 
 <span class="legende">
 <span class="hellblau">$ =</span> Bank (Geldwechselstube)<br>
-<span class="hellblau">a =</span> Anfang des Aufstiegs (runter gehts wieder nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="hellblau">a =</span> Anfang des Aufstiegs (runter gehts wieder nach [[<span class="hellblau">Midgard</span>|Midgard]])<br>
 <span class="gelb">B =</span> Bergfried<br>
 <font color=blue>b =</font> Innenhof mit Brunnen<br>
 <span class="gelb">E =</span> Der Turm "Elessars Wacht" mit (momentan geschlossenem) Museum drin<br>
 <span class="gelb">f =</span> Innenhof mit Feuerstelle<br>
-<span class="hellblau">a =</span> Gefängnisturm (mit Geheimgang nach [[<span class="hellblau">Mittelerde</span>|Mittelerde]])<br>
+<span class="hellblau">a =</span> Gefängnisturm (mit Geheimgang nach [[<span class="hellblau">Midgard</span>|Midgard]])<br>
 <span class="gelb">g =</span> Gebirgswacht<br>
 <font color=C0C0C0>g =</font> Gipfel der Wetterspitze (runter [^] gehts auf den Weg zum Gipfel)<br>
 <span class="gelb">K =</span> Kapelle<br>
