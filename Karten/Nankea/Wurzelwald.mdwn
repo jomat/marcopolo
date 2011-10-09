@@ -1,4 +1,5 @@
 <span class="karte">
+<font color="#008000">
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>b-p<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;s-i<br>
@@ -41,24 +42,25 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">/</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <font color=C0C0C0>|</font> &nbsp;&nbsp; \ / &nbsp; &nbsp; \ &nbsp; / &nbsp; &nbsp; <font color=blue>\</font> &nbsp; /<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<font color=C0C0C0>K</font> &nbsp; &nbsp; W &nbsp; &nbsp; &nbsp; W-W &nbsp; &nbsp; &nbsp; <font color=blue>b</font>-W<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span class="rot">/</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <span class="rot">|</span>
+</font>
 </span>
 
 <span class="legende">
 <span class="gelb">B =</span> [[<span class="hellblau">Waldbauernhof Grumbeldinger</span>|Bauernhof]]<br>
-<font color=008000>b =</font> hier kann man über einen umgestürzten Baumstamm ins anliegende b-Feld klettern<br>
+<font color=008000>b =</font> hier kann man Ã¼ber einen umgestÃ¼rzten Baumstamm ins anliegende b-Feld klettern<br>
 <font color=blue>b =</font> an einem Bach<br>
-<font color=CC6600>b =</font> Brücke<br>
-<span class="gelb">D =</span> Waldhütte eines alten Drachenjägers<br>
+<font color=CC6600>b =</font> BrÃ¼cke<br>
+<span class="gelb">D =</span> WaldhÃ¼tte eines alten DrachenjÃ¤gers<br>
 <font color=00CC00>E =</font> Ebene von Senilengard<br>
 <font color=00CC00>e =</font> Ebene von Hanro<br>
-<span class="gelb">F =</span> Förster Findglorel<br>
+<span class="gelb">F =</span> FÃ¶rster Findglorel<br>
 <span class="gelb">f =</span> Forsthaus<br>
-<span class="gelb">G =</span> Hügelgrab<br>
+<span class="gelb">G =</span> HÃ¼gelgrab<br>
 <span class="gelb">g =</span> zwei unfreundliche Gnome<br>
-<span class="gelb">H =</span> Orkhöhle<br>
+<span class="gelb">H =</span> OrkhÃ¶hle<br>
 <font color=C0C0C0>i =</font> Innenhof (man kann hier auch in den Brunnen klettern, von wo aus man nach Westen in den Stollen kommt)<br>
 <font color=C0C0C0>K =</font> Kammer<br>
-<span class="gelb">k =</span> von Osten und Westen läuft man hier unten in der Kluft entlang, von Norden und Südosten kommend steht man oben an der Kluft<br>
+<span class="gelb">k =</span> von Osten und Westen lÃ¤uft man hier unten in der Kluft entlang, von Norden und SÃ¼dosten kommend steht man oben an der Kluft<br>
 <span class="gelb">L =</span> hier steckt das Lilarcor in einem Stein<br>
 <font color=blue>N =</font> Nymphenquell (kleiner See)<br>
 <font color=blue>n =</font> Ufer der Nurta (Fluss)<br>
@@ -66,20 +68,20 @@
 <font color=C0C0C0>p =</font> Palas<br>
 <span class="rot">R =</span> Riesenwechsel (hier wird man plattgetreten !)<br>
 <span class="gelb">R =</span> Feenring<br>
-<span class="gelb">S =</span> Zerstörter Turm von Senilengard (drinnen ist ein Flammentor zur [[<span class="hellblau">Beschwörergilde</span>|OdF]])<br>
+<span class="gelb">S =</span> ZerstÃ¶rter Turm von Senilengard (drinnen ist ein Flammentor zur [[<span class="hellblau">BeschwÃ¶rergilde</span>|OdF]])<br>
 <span class="gelb">s =</span> Sandbank<br>
 <font color=C0C0C0>s =</font> Stollen<br>
 <span class="hellblau">T =</span> Stadttor<br>
-&nbsp; &nbsp; östlich: [[<span class="hellblau">Nankea</span>|Nankea]]<br>
+&nbsp; &nbsp; Ã¶stlich: [[<span class="hellblau">Nankea</span>|Nankea]]<br>
 &nbsp; &nbsp; westlich: [[<span class="hellblau">Bruchberg</span>|Bruchberg]]<br>
-<span class="gelb">T =</span> Turmruine (man kann über die Mauer reinklettern - drin ist Gyubojk der Wurzelgnom)<br>
+<span class="gelb">T =</span> Turmruine (man kann Ã¼ber die Mauer reinklettern - drin ist Gyubojk der Wurzelgnom)<br>
 <span class="gelb">t =</span> kleine Lichtung, Feuerstelle und ein Troll<br>
-<font color=blue>t =</font> kleiner Tümpel<br>
+<font color=blue>t =</font> kleiner TÃ¼mpel<br>
 <font color=C0C0C0>t =</font> Torturm<br>
 <font color=C0C0C0>v =</font> Vor dem Tor der Elbenfestund Bruchberg<br>
 <font color=008000>W =</font> Wald<br>
 <font color=blue>W =</font> Marka-Wasserfall<br>
 <span class="orange">W =</span> Wirtshaus 'Zum klammen Helm'<br>
 <span class="gelb">W =</span> Erdwichtel<br>
-<span class="gelb">w =</span> Wurzelmännchen<br>
+<span class="gelb">w =</span> WurzelmÃ¤nnchen<br>
 </span>
