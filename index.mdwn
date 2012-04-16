@@ -1,4 +1,4 @@
-<font color="red">Achtung: Wenn du zum ersten Mal hier bist, bitte die [[Hinweise]] lesen</font>
+<font color="red">Achtung: Wenn du zum ersten Mal hier bist, bitte die [[Hinweise]] lesen.</font>
 
 # UNItopia Karten
 
